@@ -15,9 +15,7 @@
       <span>農產報價 Pro</span>
     </div>
   </div>
-
   <div class="topbar-date" id="topbar-date">--/--</div>
-
   <div class="topbar-right">
     <div class="font-ctrl">
       <button class="font-btn" onclick="fontSizeDecrease()" aria-label="縮小字體">A−</button>
@@ -52,6 +50,13 @@
 <div id="main-screen" style="display:none">
 
   <div class="watchlist-tabs" id="watch-tabs"></div>
+
+  <!-- 資料更新時間列 -->
+  <div class="data-update-bar">
+    <div class="data-update-dot" id="update-dot"></div>
+    <span id="data-updated-at">資料載入中…</span>
+  </div>
+
   <div class="loading-bar"><div class="loading-fill" id="loading-fill"></div></div>
 
   <div class="filter-bar">
@@ -105,17 +110,14 @@
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
-          <div class="card-title">價格趨勢 <span class="card-title-sub">含季節比較</span></div>
+          <div class="card-title">價格趨勢 <span class="card-title-sub">農業部實際資料</span></div>
           <div class="chart-toolbar">
             <div class="tab-group" id="w-range-tg">
               <button class="tb"        onclick="wSetRange(7,this)">週</button>
               <button class="tb active" onclick="wSetRange(30,this)">月</button>
               <button class="tb"        onclick="wSetRange(90,this)">季</button>
-              <button class="tb"        onclick="wSetRange(365,this)">年</button>
             </div>
             <div class="tab-group">
-              <button class="tb" onclick="wToggleLayer('lastYear',this)">去年同期</button>
-              <button class="tb" onclick="wToggleLayer('band',this)">歷史價格帶</button>
               <button class="tb" onclick="wToggleLayer('ma',this)">MA均線</button>
               <button class="tb" onclick="wToggleLayer('vol',this)">交易量</button>
             </div>
@@ -139,13 +141,8 @@
           </div>
           <div class="market-list" id="w-mkt-section"></div>
         </div>
-
-        <!-- 即時新聞 -->
         <div class="card">
-          <div class="card-title" id="w-news-ct">
-            相關新聞
-            <span class="card-title-sub">農傳媒 · 農糧署</span>
-          </div>
+          <div class="card-title" id="w-news-ct">相關新聞 <span class="card-title-sub">農傳媒 · 農糧署</span></div>
           <div id="w-news-list"></div>
         </div>
       </div>

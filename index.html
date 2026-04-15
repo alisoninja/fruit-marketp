@@ -15,9 +15,7 @@
       <span>農產報價 Pro</span>
     </div>
   </div>
-
   <div class="topbar-date" id="topbar-date">--/--</div>
-
   <div class="topbar-right">
     <div class="font-ctrl">
       <button class="font-btn" onclick="fontSizeDecrease()" aria-label="縮小字體">A−</button>
@@ -31,6 +29,13 @@
   </div>
 </header>
 
+<!-- 資料更新時間列 -->
+<div class="data-update-bar">
+  <div class="data-update-dot" id="update-dot"></div>
+  <span id="data-updated-at">資料載入中…</span>
+</div>
+
+<!-- 篩選 + 單位切換列 -->
 <div class="filter-bar">
   <div class="cat-pills">
     <button class="cpill active" id="tab-fruit" onclick="switchMainCat('fruit')">水果</button>
@@ -59,10 +64,7 @@
   </div>
 
   <div class="card" style="margin-bottom:12px">
-    <div class="card-title">
-      全台成交總量
-      <span class="card-title-sub" id="total-summary-sub">今日</span>
-    </div>
+    <div class="card-title">全台成交總量 <span class="card-title-sub" id="total-summary-sub">今日</span></div>
     <div class="summary-row" id="total-summary-row"></div>
   </div>
 
@@ -78,14 +80,10 @@
   </div>
 
   <div class="card" style="margin-bottom:12px">
-    <div class="card-title" id="grid-title">
-      水果總覽
-      <span class="card-title-sub">點擊商品查看詳情</span>
-    </div>
+    <div class="card-title" id="grid-title">水果總覽 <span class="card-title-sub">點擊商品查看詳情</span></div>
     <div class="overview-grid" id="overview-grid"></div>
   </div>
 
-  <!-- 詳情區 -->
   <div id="detail-section" style="display:none">
 
     <div class="card" style="margin-bottom:12px">
@@ -121,17 +119,14 @@
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
-          <div class="card-title">價格趨勢 <span class="card-title-sub">含季節比較</span></div>
+          <div class="card-title">價格趨勢 <span class="card-title-sub">農業部實際資料</span></div>
           <div class="chart-toolbar">
             <div class="tab-group" id="range-tg">
               <button class="tb"        onclick="setRange(7,this)">週</button>
               <button class="tb active" onclick="setRange(30,this)">月</button>
               <button class="tb"        onclick="setRange(90,this)">季</button>
-              <button class="tb"        onclick="setRange(365,this)">年</button>
             </div>
             <div class="tab-group">
-              <button class="tb" onclick="toggleLayer('lastYear',this)">去年同期</button>
-              <button class="tb" onclick="toggleLayer('band',this)">歷史價格帶</button>
               <button class="tb" onclick="toggleLayer('ma',this)">MA均線</button>
               <button class="tb" onclick="toggleLayer('vol',this)">交易量</button>
             </div>
@@ -155,19 +150,14 @@
           </div>
           <div class="market-list" id="mkt-section"></div>
         </div>
-
-        <!-- 即時新聞 -->
         <div class="card">
-          <div class="card-title" id="news-ct">
-            相關新聞
-            <span class="card-title-sub">農傳媒 · 農糧署</span>
-          </div>
+          <div class="card-title" id="news-ct">相關新聞 <span class="card-title-sub">農傳媒 · 農糧署</span></div>
           <div id="news-list"></div>
         </div>
       </div>
     </div>
 
-  </div><!-- /detail-section -->
+  </div>
 </div>
 
 <footer class="footer">

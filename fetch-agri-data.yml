@@ -1,16 +1,26 @@
 # .github/workflows/fetch-agri-data.yml
 #
-# 每天台灣時間早上 6:00 自動執行，
-# 抓農業部 API → 更新 data/latest.json → commit 回 repo。
+# 更新時間（台灣時間 TST = UTC+8）：
+#   21:00 TST = 13:00 UTC
+#   24:00 TST = 16:00 UTC
+#   06:00 TST = 22:00 UTC（前一天）
+#   08:00 TST = 00:00 UTC
+#   10:00 TST = 02:00 UTC
+#   12:00 TST = 04:00 UTC
+#   15:00 TST = 07:00 UTC
 
 name: 每日農產品行情更新
 
 on:
   schedule:
-    # UTC 22:00 = 台灣時間 06:00（UTC+8）
-    - cron: '0 22 * * *'
+    - cron: '0 13 * * *'   # 21:00 TST
+    - cron: '0 16 * * *'   # 24:00 TST（隔天 00:00）
+    - cron: '0 22 * * *'   # 06:00 TST
+    - cron: '0 0  * * *'   # 08:00 TST
+    - cron: '0 2  * * *'   # 10:00 TST
+    - cron: '0 4  * * *'   # 12:00 TST
+    - cron: '0 7  * * *'   # 15:00 TST
 
-  # 允許手動觸發（在 GitHub Actions 頁面點 Run workflow）
   workflow_dispatch:
 
 jobs:
@@ -39,6 +49,5 @@ jobs:
       - name: Commit 並 Push 更新後的 JSON
         run: |
           git add data/latest.json
-          # 如果有變更才 commit（避免無資料更新時出錯）
-          git diff --staged --quiet || git commit -m "chore: 每日農產品行情更新 $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "chore: 農產品行情更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
