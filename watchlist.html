@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>我的關注 — 農產行情專業版</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="logo">
+    <div class="logo-sq"><div class="logo-sq-i"></div></div>
+    農產行情專業版
+  </div>
+  <nav class="topbar-nav">
+    <a href="index.html"     class="nav-link">行情總覽</a>
+    <a href="watchlist.html" class="nav-link active">我的關注</a>
+    <a href="contact.html"   class="nav-link">聯絡我們</a>
+  </nav>
+  <div class="topbar-right">
+    <span class="pill" id="clock-pill">--:--:--</span>
+    <span class="pill live" id="date-pill">載入中</span>
+  </div>
+</header>
+
+<!-- === 初始設定畫面（第一次進來） === -->
+<div id="setup-screen">
+  <div class="watchlist-setup">
+    <h2>建立你的關注清單</h2>
+    <p>選擇你想追蹤的水果或蔬菜，可以多選。之後可以隨時修改。</p>
+
+    <div class="pick-section">
+      <div class="pick-section-title">水果</div>
+      <div class="pick-grid" id="pick-fruit"></div>
+    </div>
+
+    <div class="pick-section">
+      <div class="pick-section-title">蔬菜</div>
+      <div class="pick-grid" id="pick-vege"></div>
+    </div>
+
+    <button class="setup-confirm-btn" id="confirm-btn" disabled onclick="confirmSetup()">
+      確認，開始追蹤
+    </button>
+  </div>
+</div>
+
+<!-- === 主畫面（已設定） === -->
+<div id="main-screen" style="display:none">
+
+  <!-- 關注品項 tabs -->
+  <div class="watchlist-tabs" id="watch-tabs"></div>
+
+  <div class="loading-bar"><div class="loading-fill" id="loading-fill"></div></div>
+
+  <!-- 單位切換 -->
+  <div class="filter-bar">
+    <div class="unit-switcher" style="margin-left:0;width:100%">
+      <span class="filter-label">價格：</span>
+      <div class="seg">
+        <button class="seg-btn active" onclick="setPriceUnit('kg',this)">元/公斤</button>
+        <button class="seg-btn"        onclick="setPriceUnit('jin',this)">元/台斤</button>
+      </div>
+      <span class="filter-label" style="margin-left:6px">成交量：</span>
+      <div class="seg">
+        <button class="seg-btn active blue" onclick="setVolUnit('jin',this)">台斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('kg',this)">公斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('ton',this)">公噸</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-content">
+
+    <!-- 摘要卡 -->
+    <div class="card" style="margin-bottom:12px">
+      <div class="card-title" style="margin-bottom:6px">
+        <span id="w-crop-title">—</span>
+        <span class="card-title-sub" id="w-crop-sub"></span>
+      </div>
+      <div class="price-type-tabs">
+        <button class="ptt active auction" id="w-ptab-a" onclick="wSetPriceType('auction')">拍賣價 <span class="badge badge-auction">批發市場</span></button>
+        <button class="ptt wholesale"      id="w-ptab-w" onclick="wSetPriceType('wholesale')">行口價 <span class="badge badge-wholesale">行口盤商</span></button>
+      </div>
+      <div class="ptype-note" id="w-ptype-note"></div>
+      <div class="summary-row" id="w-sum-row"></div>
+    </div>
+
+    <!-- 同品種比較表 -->
+    <div class="card" style="margin-bottom:12px">
+      <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="w-var-sub"></span></div>
+      <div style="overflow-x:auto">
+        <table class="variety-table">
+          <thead><tr>
+            <th>品種名稱</th><th>類型</th>
+            <th class="r" id="w-th-avg">均價</th>
+            <th class="r">漲跌</th>
+            <th class="r hide-mobile" id="w-th-hi">上價</th>
+            <th class="r hide-mobile" id="w-th-lo">下價</th>
+            <th class="r" id="w-th-vol">成交量</th>
+          </tr></thead>
+          <tbody id="w-var-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 趨勢圖 + 市場比較 -->
+    <div class="main-layout" style="margin-bottom:12px">
+      <div class="col-left">
+        <div class="card">
+          <div class="card-title">價格趨勢 <span class="card-title-sub">含季節比較</span></div>
+          <div class="chart-toolbar">
+            <div class="tab-group" id="w-range-tg">
+              <button class="tb"        onclick="wSetRange(7,this)">週</button>
+              <button class="tb active" onclick="wSetRange(30,this)">月</button>
+              <button class="tb"        onclick="wSetRange(90,this)">季</button>
+              <button class="tb"        onclick="wSetRange(365,this)">年</button>
+            </div>
+            <div class="tab-group">
+              <button class="tb" onclick="wToggleLayer('lastYear',this)">去年同期</button>
+              <button class="tb" onclick="wToggleLayer('band',this)">歷史價格帶</button>
+              <button class="tb" onclick="wToggleLayer('ma',this)">MA均線</button>
+              <button class="tb" onclick="wToggleLayer('vol',this)">交易量</button>
+            </div>
+          </div>
+          <div class="legend-row" id="w-trend-legend"></div>
+          <div style="position:relative;width:100%;height:200px">
+            <canvas id="w-trendC" role="img" aria-label="價格趨勢圖">趨勢圖</canvas>
+          </div>
+          <div id="w-vol-wrap" style="position:relative;width:100%;height:52px;margin-top:4px;display:none">
+            <canvas id="w-volC" role="img" aria-label="交易量">交易量</canvas>
+          </div>
+          <div class="season-note" id="w-season-note"></div>
+        </div>
+      </div>
+      <div class="col-right">
+        <div class="card">
+          <div class="card-title">全台市場成交比較 <span class="card-title-sub" id="w-mkt-sub"></span></div>
+          <div class="price-type-tabs" style="margin-bottom:8px">
+            <button class="ptt active auction" id="w-mptab-a" onclick="wSetMktType('auction')">拍賣市場</button>
+            <button class="ptt wholesale"      id="w-mptab-w" onclick="wSetMktType('wholesale')">行口市場</button>
+          </div>
+          <div class="market-list" id="w-mkt-section"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-title" id="w-news-ct">相關新聞</div>
+          <div id="w-news-list"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div><!-- /main-screen -->
+
+<!-- Bottom Nav -->
+<nav class="bottom-nav">
+  <div class="bottom-nav-inner">
+    <a href="index.html"     class="bnav-item"><div class="bnav-icon">📊</div>行情總覽</a>
+    <a href="watchlist.html" class="bnav-item active"><div class="bnav-icon">⭐</div>我的關注</a>
+    <a href="contact.html"   class="bnav-item"><div class="bnav-icon">✉</div>聯絡我們</a>
+  </div>
+</nav>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="js/data.js"></script>
+<script src="js/units.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/watchlist.js"></script>
+</body>
+</html>
