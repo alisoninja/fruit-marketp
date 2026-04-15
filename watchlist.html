@@ -24,56 +24,50 @@
   </div>
 </header>
 
-<!-- === 初始設定畫面（第一次進來） === -->
+<!-- 字體大小列 -->
+<div class="font-size-bar" id="font-size-bar"></div>
+
+<!-- 初始設定畫面 -->
 <div id="setup-screen">
   <div class="watchlist-setup">
     <h2>建立你的關注清單</h2>
     <p>選擇你想追蹤的水果或蔬菜，可以多選。之後可以隨時修改。</p>
-
     <div class="pick-section">
       <div class="pick-section-title">水果</div>
       <div class="pick-grid" id="pick-fruit"></div>
     </div>
-
     <div class="pick-section">
       <div class="pick-section-title">蔬菜</div>
       <div class="pick-grid" id="pick-vege"></div>
     </div>
-
-    <button class="setup-confirm-btn" id="confirm-btn" disabled onclick="confirmSetup()">
-      確認，開始追蹤
-    </button>
+    <button class="setup-confirm-btn" id="confirm-btn" disabled onclick="confirmSetup()">確認，開始追蹤</button>
   </div>
 </div>
 
-<!-- === 主畫面（已設定） === -->
+<!-- 主畫面 -->
 <div id="main-screen" style="display:none">
 
-  <!-- 關注品項 tabs -->
   <div class="watchlist-tabs" id="watch-tabs"></div>
-
   <div class="loading-bar"><div class="loading-fill" id="loading-fill"></div></div>
 
-  <!-- 單位切換 -->
   <div class="filter-bar">
     <div class="unit-switcher" style="margin-left:0;width:100%">
       <span class="filter-label">價格：</span>
       <div class="seg">
-        <button class="seg-btn active" onclick="setPriceUnit('kg',this)">元/公斤</button>
-        <button class="seg-btn"        onclick="setPriceUnit('jin',this)">元/台斤</button>
+        <button class="seg-btn active" id="w-pu-kg"  onclick="setPriceUnit('kg',this)">元/公斤</button>
+        <button class="seg-btn"        id="w-pu-jin" onclick="setPriceUnit('jin',this)">元/台斤</button>
       </div>
       <span class="filter-label" style="margin-left:6px">成交量：</span>
       <div class="seg">
-        <button class="seg-btn active blue" onclick="setVolUnit('jin',this)">台斤</button>
-        <button class="seg-btn"             onclick="setVolUnit('kg',this)">公斤</button>
-        <button class="seg-btn"             onclick="setVolUnit('ton',this)">公噸</button>
+        <button class="seg-btn active blue" id="w-vu-jin" onclick="setVolUnit('jin',this)">台斤</button>
+        <button class="seg-btn"             id="w-vu-kg"  onclick="setVolUnit('kg',this)">公斤</button>
+        <button class="seg-btn"             id="w-vu-ton" onclick="setVolUnit('ton',this)">公噸</button>
       </div>
     </div>
   </div>
 
   <div class="page-content">
 
-    <!-- 摘要卡 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="w-crop-title">—</span>
@@ -87,7 +81,6 @@
       <div class="summary-row" id="w-sum-row"></div>
     </div>
 
-    <!-- 同品種比較表 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="w-var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -105,7 +98,6 @@
       </div>
     </div>
 
-    <!-- 趨勢圖 + 市場比較 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -143,7 +135,6 @@
           </div>
           <div class="market-list" id="w-mkt-section"></div>
         </div>
-
         <div class="card">
           <div class="card-title" id="w-news-ct">相關新聞</div>
           <div id="w-news-list"></div>
@@ -152,9 +143,8 @@
     </div>
 
   </div>
-</div><!-- /main-screen -->
+</div>
 
-<!-- Bottom Nav -->
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
     <a href="index.html"     class="bnav-item"><div class="bnav-icon">📊</div>行情總覽</a>

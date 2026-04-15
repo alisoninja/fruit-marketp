@@ -14,15 +14,18 @@
     農產行情專業版
   </div>
   <nav class="topbar-nav">
-    <a href="index.html"   class="nav-link active">行情總覽</a>
+    <a href="index.html"     class="nav-link active">行情總覽</a>
     <a href="watchlist.html" class="nav-link">我的關注</a>
-    <a href="contact.html" class="nav-link">聯絡我們</a>
+    <a href="contact.html"   class="nav-link">聯絡我們</a>
   </nav>
   <div class="topbar-right">
     <span class="pill" id="clock-pill">--:--:--</span>
     <span class="pill live" id="date-pill">載入中</span>
   </div>
 </header>
+
+<!-- 字體大小列 -->
+<div class="font-size-bar" id="font-size-bar"></div>
 
 <!-- 分類 + 單位切換列 -->
 <div class="filter-bar">
@@ -48,12 +51,10 @@
 
 <div class="page-content">
 
-  <!-- 子類選擇列（水果品項） -->
   <div style="margin-bottom:12px">
     <div class="cat-pills" id="sub-pills" style="flex-wrap:wrap;gap:5px"></div>
   </div>
 
-  <!-- 全台成交總量摘要 -->
   <div class="card" style="margin-bottom:12px" id="total-summary-card">
     <div class="card-title">
       全台成交總量
@@ -62,7 +63,6 @@
     <div class="summary-row" id="total-summary-row"></div>
   </div>
 
-  <!-- 價格排行 -->
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:12px">
     <div class="card">
       <div class="card-title">漲幅排行 <span class="card-title-sub">今日漲最多</span></div>
@@ -74,7 +74,6 @@
     </div>
   </div>
 
-  <!-- 商品卡片網格 -->
   <div class="card" style="margin-bottom:12px">
     <div class="card-title" id="grid-title">
       水果總覽
@@ -83,10 +82,9 @@
     <div class="overview-grid" id="overview-grid"></div>
   </div>
 
-  <!-- 詳情區（選了單一商品才顯示） -->
+  <!-- 詳情區 -->
   <div id="detail-section" style="display:none">
 
-    <!-- 拍賣/行口 + 摘要 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="det-title">—</span>
@@ -100,7 +98,6 @@
       <div class="summary-row" id="det-sum-row"></div>
     </div>
 
-    <!-- 同品種全規格比較 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -118,7 +115,6 @@
       </div>
     </div>
 
-    <!-- 主圖 + 市場比較 2欄 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -159,11 +155,9 @@
       </div>
     </div>
 
-  </div><!-- /detail-section -->
+  </div>
+</div>
 
-</div><!-- /page-content -->
-
-<!-- Bottom Nav（手機） -->
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
     <a href="index.html"     class="bnav-item active"><div class="bnav-icon">📊</div>行情總覽</a>

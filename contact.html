@@ -2,55 +2,46 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>聯絡我們 — 農產行情 Pro</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>聯絡我們 — 農產行情專業版</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<!-- ===== Topbar ===== -->
 <header class="topbar">
-  <a href="index.html" class="logo">
+  <div class="logo">
     <div class="logo-sq"><div class="logo-sq-i"></div></div>
-    農產行情 Pro
-  </a>
-
+    農產行情專業版
+  </div>
   <nav class="topbar-nav">
-    <a href="index.html" class="nav-link">行情總覽</a>
-    <a href="contact.html" class="nav-link active">聯絡我們</a>
+    <a href="index.html"     class="nav-link">行情總覽</a>
+    <a href="watchlist.html" class="nav-link">我的關注</a>
+    <a href="contact.html"   class="nav-link active">聯絡我們</a>
   </nav>
-
   <div class="topbar-right">
     <span class="pill live" id="date-pill">載入中</span>
-    <span class="pill">農業部開放資料</span>
   </div>
 </header>
 
-<!-- ===== Hero ===== -->
 <div class="contact-hero">
   <h1>聯絡我們</h1>
   <p>有任何功能建議、資料問題或合作邀約，歡迎透過以下方式與我們聯繫，我們會盡快回覆。</p>
 </div>
 
-<!-- ===== Main Content ===== -->
 <div class="contact-layout">
 
-  <!-- 左側：意見箱 -->
   <div>
     <div class="card">
       <div class="card-title">意見箱</div>
-
       <form id="contact-form">
         <div class="form-group">
           <label class="form-label">姓名</label>
           <input class="form-input" type="text" id="field-name" placeholder="你的姓名" required>
         </div>
-
         <div class="form-group">
           <label class="form-label">電子信箱</label>
           <input class="form-input" type="email" id="field-email" placeholder="example@mail.com" required>
         </div>
-
         <div class="form-group">
           <label class="form-label">意見類別</label>
           <select class="form-select" id="field-category">
@@ -62,100 +53,69 @@
             <option value="other">其他</option>
           </select>
         </div>
-
         <div class="form-group">
           <label class="form-label">內容</label>
           <textarea class="form-textarea" id="field-message" placeholder="請詳細描述你的問題或建議…" required></textarea>
         </div>
-
         <button type="submit" class="form-submit">送出意見</button>
-
-        <div class="success-msg" id="success-msg">
-          感謝你的回饋！我們已收到你的留言，將盡快與你聯繫。
-        </div>
+        <div class="success-msg" id="success-msg">感謝你的回饋！我們已收到你的留言，將盡快與你聯繫。</div>
       </form>
     </div>
   </div>
 
-  <!-- 右側：聯絡資訊 + Produced by -->
   <div>
     <div class="contact-info-card">
       <h3>聯絡方式</h3>
-
       <div class="contact-row">
         <div class="contact-icon">✉</div>
-        <div>
-          <div style="font-weight:500;margin-bottom:2px">電子信箱</div>
-          <div>mifruitw@gmail.com</div>
-        </div>
+        <div><div style="font-weight:500;margin-bottom:2px">電子信箱</div><div>contact@fruit-market.tw</div></div>
       </div>
-
       <div class="contact-row">
         <div class="contact-icon">💬</div>
-        <div>
-          <div style="font-weight:500;margin-bottom:2px">官網</div>
-          <div>https://mifruitw.com/</div>
-        </div>
+        <div><div style="font-weight:500;margin-bottom:2px">LINE 官方帳號</div><div>@fruit-market（搜尋加入好友）</div></div>
       </div>
-
       <div class="contact-row">
         <div class="contact-icon">⏰</div>
-        <div>
-          <div style="font-weight:500;margin-bottom:2px">回覆時間</div>
-          <div>週一至週五 09:00–18:00<br>假日來信將於下個工作日處理</div>
-        </div>
-      </div>
-
-      <div class="contact-row">
-        <div class="contact-icon">📋</div>
-        <div>
-          <div style="font-weight:500;margin-bottom:2px">資料問題通報</div>
-          <div>如發現報價有誤，請於意見箱選擇「資料問題」並附上作物名稱與市場，我們將優先處理。</div>
-        </div>
+        <div><div style="font-weight:500;margin-bottom:2px">回覆時間</div><div>週一至週五 09:00–18:00<br>假日來信將於下個工作日處理</div></div>
       </div>
     </div>
 
     <div class="produced-by">
       <h3>關於本站</h3>
-
-      <div class="produced-row">
-        <span class="produced-val">農產行情 Pro</span>
-      </div>
-      <div class="produced-row">
-        <span class="produced-key">Produced by</span>
-        <span class="produced-val">密菓子</span>
-      </div>
-      <div class="produced-row">
-        <span class="produced-key">版本</span>
-        <span class="produced-val" id="version-val">v1.0.1</span>
-      </div>
-      <div class="produced-row">
-        <span class="produced-key">最後更新</span>
-        <span class="produced-val" id="last-updated">2025-04-15</span>
-      </div>
-
-
-      <div style="margin-top:14px;padding-top:12px;border-top:0.5px solid var(--border);font-size:11px;color:var(--text-tertiary);line-height:1.7">
-        本站資料僅供參考，實際交易請以各批發市場公告為準。<br>
-        農業部開放資料授權：政府資料開放授權條款第 1 版。
+      <div class="produced-row"><span class="produced-key">網站名稱</span><span class="produced-val">農產行情專業版</span></div>
+      <div class="produced-row"><span class="produced-key">Produced by</span><span class="produced-val">你的名字 / 團隊名稱</span></div>
+      <div class="produced-row"><span class="produced-key">資料來源</span><span class="produced-val">農業部開放資料平台</span></div>
+      <div class="produced-row"><span class="produced-key">版本</span><span class="produced-val">v1.0.0</span></div>
+      <div class="produced-row"><span class="produced-key">最後更新</span><span class="produced-val">2025-04-15</span></div>
+      <div class="produced-row"><span class="produced-key">授權</span><span class="produced-val">MIT License</span></div>
+      <div style="margin-top:12px;padding-top:10px;border-top:0.5px solid var(--border);font-size:11px;color:var(--text-tertiary);line-height:1.7">
+        本站資料僅供參考，實際交易請以各批發市場公告為準。
       </div>
     </div>
   </div>
 
 </div>
 
-<!-- ===== Footer ===== -->
 <footer class="footer">
-  © 2026 農產行情專業版 · 資料來源：農業部農業開放資料平台 · 
+  © 2025 農產行情專業版 · 資料來源：農業部農業開放資料平台 ·
   <a href="index.html" style="color:var(--green-mid)">回到行情總覽</a>
 </footer>
+
+<!-- Bottom Nav（手機）— 所有頁面都要有 -->
+<nav class="bottom-nav">
+  <div class="bottom-nav-inner">
+    <a href="index.html"     class="bnav-item"><div class="bnav-icon">📊</div>行情總覽</a>
+    <a href="watchlist.html" class="bnav-item"><div class="bnav-icon">⭐</div>我的關注</a>
+    <a href="contact.html"   class="bnav-item active"><div class="bnav-icon">✉</div>聯絡我們</a>
+  </div>
+</nav>
 
 <script>
   function tick() {
     const now = new Date();
-    const y = now.getFullYear() - 1911;
-    const mo = String(now.getMonth() + 1).padStart(2, '0');
-    const d = String(now.getDate()).padStart(2, '0');
+    const y  = now.getFullYear() - 1911;
+    const mo = String(now.getMonth()+1).padStart(2,'0');
+    const d  = String(now.getDate()).padStart(2,'0');
     document.getElementById('date-pill').textContent = `民國 ${y}.${mo}.${d}`;
   }
   tick();
@@ -164,20 +124,8 @@
     e.preventDefault();
     const name    = document.getElementById('field-name').value.trim();
     const email   = document.getElementById('field-email').value.trim();
-    const cat     = document.getElementById('field-category').value;
     const message = document.getElementById('field-message').value.trim();
-
     if (!name || !email || !message) return;
-
-    /* 
-      TODO: 這裡替換成你的後端 API 或 Formspree endpoint
-      例如使用 Formspree（免費表單服務）：
-      1. 前往 https://formspree.io 建立帳號
-      2. 建立一個 form，取得 endpoint URL（格式如 https://formspree.io/f/xxxxxxxx）
-      3. 把下面的 fetch URL 換成你的 endpoint
-    */
-    console.log('送出：', { name, email, cat, message });
-
     document.getElementById('contact-form').style.opacity = '0.5';
     setTimeout(() => {
       document.getElementById('contact-form').style.opacity = '1';
@@ -188,6 +136,5 @@
     }, 600);
   });
 </script>
-
 </body>
 </html>
