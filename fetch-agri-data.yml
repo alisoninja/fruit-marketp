@@ -1,0 +1,44 @@
+# .github/workflows/fetch-agri-data.yml
+#
+# 每天台灣時間早上 6:00 自動執行，
+# 抓農業部 API → 更新 data/latest.json → commit 回 repo。
+
+name: 每日農產品行情更新
+
+on:
+  schedule:
+    # UTC 22:00 = 台灣時間 06:00（UTC+8）
+    - cron: '0 22 * * *'
+
+  # 允許手動觸發（在 GitHub Actions 頁面點 Run workflow）
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 取出程式碼
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 設定 Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: 執行資料抓取腳本
+        run: node scripts/fetch-data.js
+
+      - name: 設定 Git 使用者
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit 並 Push 更新後的 JSON
+        run: |
+          git add data/latest.json
+          # 如果有變更才 commit（避免無資料更新時出錯）
+          git diff --staged --quiet || git commit -m "chore: 每日農產品行情更新 $(date +'%Y-%m-%d')"
+          git push
