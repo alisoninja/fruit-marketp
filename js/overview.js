@@ -1,22 +1,21 @@
 /* overview.js — 行情總覽頁邏輯 */
 
 let ovState = {
-  mainCat:   'fruit',   // 'fruit' | 'vege'
-  selectedCrop: null,   // null = 全覽，string = 單一作物
-  priceType: 'auction',
-  mktType:   'auction',
-  varIdx:    0,
-  range:     30,
-  layers:    { lastYear:false, band:false, ma:false, vol:false },
+  mainCat:     'fruit',
+  selectedCrop: null,
+  priceType:   'auction',
+  mktType:     'auction',
+  varIdx:      0,
+  range:       30,
+  layers:      { lastYear:false, band:false, ma:false, vol:false },
 };
 
 function rng(s){ const x=Math.sin(s+1)*10000; return x-Math.floor(x); }
 
-/* ===== 種類切換 ===== */
 function switchMainCat(cat) {
-  ovState.mainCat     = cat;
+  ovState.mainCat      = cat;
   ovState.selectedCrop = null;
-  ovState.varIdx      = 0;
+  ovState.varIdx       = 0;
   document.getElementById('tab-fruit').classList.toggle('active', cat === 'fruit');
   document.getElementById('tab-vege').classList.toggle('active',  cat === 'vege');
   buildSubPills();
@@ -24,7 +23,6 @@ function switchMainCat(cat) {
   document.getElementById('detail-section').style.display = 'none';
 }
 
-/* ===== 子類品項 pills ===== */
 function buildSubPills() {
   const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   document.getElementById('sub-pills').innerHTML =
@@ -34,10 +32,8 @@ function buildSubPills() {
     ).join('');
 }
 
-/* ===== 選擇單一作物 ===== */
 function selectCrop(key) {
   if (ovState.selectedCrop === key) {
-    /* 再點一次取消選擇 */
     ovState.selectedCrop = null;
     ovState.varIdx = 0;
   } else {
@@ -50,13 +46,13 @@ function selectCrop(key) {
   if (ovState.selectedCrop) {
     det.style.display = 'block';
     renderDetail();
+    fetchNews(ovState.selectedCrop, 'news-list');
     det.scrollIntoView({ behavior:'smooth', block:'start' });
   } else {
     det.style.display = 'none';
   }
 }
 
-/* ===== 總量摘要 ===== */
 function renderTotalSummary() {
   const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   const label = ovState.selectedCrop || (ovState.mainCat === 'fruit' ? '所有水果' : '所有蔬菜');
@@ -64,12 +60,8 @@ function renderTotalSummary() {
 
   const targetKeys = ovState.selectedCrop ? [ovState.selectedCrop] : keys;
   const totalVolA  = targetKeys.reduce((s, k) => s + getCropTotalVolA(k), 0);
-  const avgPriceA  = targetKeys.length === 1
-    ? getCropAvgA(targetKeys[0])
-    : targetKeys.reduce((s, k) => s + getCropAvgA(k), 0) / targetKeys.length;
-  const prevPriceA = targetKeys.length === 1
-    ? getCropPrevA(targetKeys[0])
-    : targetKeys.reduce((s, k) => s + getCropPrevA(k), 0) / targetKeys.length;
+  const avgPriceA  = targetKeys.reduce((s, k) => s + getCropAvgA(k), 0) / targetKeys.length;
+  const prevPriceA = targetKeys.reduce((s, k) => s + getCropPrevA(k), 0) / targetKeys.length;
 
   const chg = Units.formatChange(avgPriceA, prevPriceA);
   const { val:vv, unit:vu } = Units.convVol(totalVolA);
@@ -96,9 +88,8 @@ function renderTotalSummary() {
   `;
 }
 
-/* ===== 漲跌排行 ===== */
 function renderRankings() {
-  const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
+  const keys  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   const items = keys.map(k => {
     const avg  = getCropAvgA(k);
     const prev = getCropPrevA(k);
@@ -108,26 +99,23 @@ function renderRankings() {
 
   const sorted = [...items].sort((a, b) => b.pct - a.pct);
   const pl     = Units.priceLabel();
-
   const noClass = ['gold','silver','bronze'];
 
-  const renderList = (list) => list.slice(0, 5).map((item, i) => {
-    const chg = Units.formatChange(item.avg, item.avg / (1 + item.pct / 100));
-    return `<div class="rank-item">
+  const renderList = (list) => list.slice(0, 5).map((item, i) => `
+    <div class="rank-item">
       <span class="rank-no ${noClass[i] || ''}">${i + 1}</span>
       <span class="rank-name">${item.key}</span>
-      <span class="rank-price">${Units.convPrice(item.avg)}<span style="font-size:10px;color:var(--text-tertiary);margin-left:2px">${pl}</span></span>
+      <span class="rank-price">${Units.convPrice(item.avg)}<span style="font-size:0.71rem;color:var(--text-tertiary);margin-left:2px">${pl}</span></span>
       <span class="rank-chg ${item.pct > 0 ? 'color-up' : item.pct < 0 ? 'color-down' : 'color-flat'}">
         ${item.pct > 0 ? '▲' : item.pct < 0 ? '▼' : '—'} ${Math.abs(item.pct).toFixed(1)}%
       </span>
-    </div>`;
-  }).join('');
+    </div>
+  `).join('');
 
   document.getElementById('rank-up').innerHTML   = renderList(sorted);
   document.getElementById('rank-down').innerHTML = renderList([...sorted].reverse());
 }
 
-/* ===== 商品卡片網格 ===== */
 function renderGrid() {
   const catLabel = ovState.mainCat === 'fruit' ? '水果' : '蔬菜';
   document.getElementById('grid-title').innerHTML =
@@ -156,14 +144,13 @@ function renderGrid() {
   }).join('');
 }
 
-/* ===== renderOverview ===== */
 function renderOverview() {
   renderTotalSummary();
   renderRankings();
   renderGrid();
 }
 
-/* ===== 詳情區 ===== */
+/* ===== 詳情 ===== */
 function setPriceType(t) {
   ovState.priceType = t;
   document.getElementById('ptab-a').className = 'ptt ' + (t === 'auction' ? 'active auction' : 'auction');
@@ -213,9 +200,7 @@ function renderDetail() {
   const pl     = Units.priceLabel();
   const chg    = Units.formatChange(avgKg, prevKg);
   const { val:vv, unit:vu } = Units.convVol(volKg);
-  const badge  = isA
-    ? '<span class="badge badge-auction">拍賣</span>'
-    : '<span class="badge badge-wholesale">行口</span>';
+  const badge  = isA ? '<span class="badge badge-auction">拍賣</span>' : '<span class="badge badge-wholesale">行口</span>';
 
   document.getElementById('det-title').innerHTML = ovState.selectedCrop + ' ' + badge;
   document.getElementById('det-sub').textContent  = v.code + ' · ' + pl;
@@ -228,8 +213,7 @@ function renderDetail() {
     <div class="metric"><div class="metric-label">預估零售</div><div class="metric-value">${Units.convPrice(avgKg*3)}<span class="metric-unit">${pl}</span></div><div class="metric-sub" style="color:var(--text-tertiary)">×3 倍估算</div></div>
   `;
 
-  /* 品種比較表 */
-  document.getElementById('var-sub').textContent = ovState.selectedCrop + ' 所有品種（' + pl + '）';
+  document.getElementById('var-sub').textContent  = ovState.selectedCrop + ' 所有品種（' + pl + '）';
   document.getElementById('th-avg').textContent = '均價(' + pl + ')';
   document.getElementById('th-hi').textContent  = '上價(' + pl + ')';
   document.getElementById('th-lo').textContent  = '下價(' + pl + ')';
@@ -323,7 +307,6 @@ function renderMarkets() {
   }).join('');
 }
 
-/* ===== 單位切換 ===== */
 function setPriceUnit(u, el) {
   Units.setPriceUnit(u);
   document.querySelectorAll('#price-unit-seg .seg-btn').forEach(b => b.classList.remove('active'));
@@ -340,26 +323,10 @@ function setVolUnit(u, el) {
   if (ovState.selectedCrop) renderDetail();
 }
 
-/* ===== 時鐘 ===== */
-function updateClock() {
-  const n  = new Date();
-  const h  = String(n.getHours()).padStart(2,'0');
-  const m  = String(n.getMinutes()).padStart(2,'0');
-  const s  = String(n.getSeconds()).padStart(2,'0');
-  const y  = n.getFullYear() - 1911;
-  const mo = String(n.getMonth()+1).padStart(2,'0');
-  const d  = String(n.getDate()).padStart(2,'0');
-  document.getElementById('clock-pill').textContent = `${h}:${m}:${s}`;
-  document.getElementById('date-pill').textContent  = `民國 ${y}.${mo}.${d}`;
-}
-
-/* ===== 初始化 ===== */
 document.addEventListener('DOMContentLoaded', () => {
   setPriceType('auction');
   buildSubPills();
   renderOverview();
-  setInterval(updateClock, 1000);
-  updateClock();
   setTimeout(() => {
     const f = document.getElementById('loading-fill');
     if (f) f.classList.remove('active');

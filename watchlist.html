@@ -3,29 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>我的關注 — 農產行情專業版</title>
+  <title>我的關注 — 農產報價 Pro</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <header class="topbar">
-  <div class="logo">
-    <div class="logo-sq"><div class="logo-sq-i"></div></div>
-    農產行情專業版
+  <div class="topbar-left">
+    <div class="logo">
+      <div class="logo-sq"><div class="logo-sq-i"></div></div>
+      <span>農產報價 Pro</span>
+    </div>
   </div>
-  <nav class="topbar-nav">
-    <a href="index.html"     class="nav-link">行情總覽</a>
-    <a href="watchlist.html" class="nav-link active">我的關注</a>
-    <a href="contact.html"   class="nav-link">聯絡我們</a>
-  </nav>
+
+  <div class="topbar-date" id="topbar-date">--/--</div>
+
   <div class="topbar-right">
-    <span class="pill" id="clock-pill">--:--:--</span>
-    <span class="pill live" id="date-pill">載入中</span>
+    <div class="font-ctrl">
+      <button class="font-btn" onclick="fontSizeDecrease()" aria-label="縮小字體">A−</button>
+      <button class="font-btn" onclick="fontSizeIncrease()" aria-label="放大字體">A+</button>
+    </div>
+    <nav class="topbar-nav">
+      <a href="index.html"     class="nav-link">行情總覽</a>
+      <a href="watchlist.html" class="nav-link active">我的關注</a>
+      <a href="contact.html"   class="nav-link">聯絡我們</a>
+    </nav>
   </div>
 </header>
-
-<!-- 字體大小列 -->
-<div class="font-size-bar" id="font-size-bar"></div>
 
 <!-- 初始設定畫面 -->
 <div id="setup-screen">
@@ -54,14 +58,14 @@
     <div class="unit-switcher" style="margin-left:0;width:100%">
       <span class="filter-label">價格：</span>
       <div class="seg">
-        <button class="seg-btn active" id="w-pu-kg"  onclick="setPriceUnit('kg',this)">元/公斤</button>
-        <button class="seg-btn"        id="w-pu-jin" onclick="setPriceUnit('jin',this)">元/台斤</button>
+        <button class="seg-btn active" onclick="setPriceUnit('kg',this)">元/公斤</button>
+        <button class="seg-btn"        onclick="setPriceUnit('jin',this)">元/台斤</button>
       </div>
       <span class="filter-label" style="margin-left:6px">成交量：</span>
       <div class="seg">
-        <button class="seg-btn active blue" id="w-vu-jin" onclick="setVolUnit('jin',this)">台斤</button>
-        <button class="seg-btn"             id="w-vu-kg"  onclick="setVolUnit('kg',this)">公斤</button>
-        <button class="seg-btn"             id="w-vu-ton" onclick="setVolUnit('ton',this)">公噸</button>
+        <button class="seg-btn active blue" onclick="setVolUnit('jin',this)">台斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('kg',this)">公斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('ton',this)">公噸</button>
       </div>
     </div>
   </div>
@@ -135,8 +139,13 @@
           </div>
           <div class="market-list" id="w-mkt-section"></div>
         </div>
+
+        <!-- 即時新聞 -->
         <div class="card">
-          <div class="card-title" id="w-news-ct">相關新聞</div>
+          <div class="card-title" id="w-news-ct">
+            相關新聞
+            <span class="card-title-sub">農傳媒 · 農糧署</span>
+          </div>
           <div id="w-news-list"></div>
         </div>
       </div>
@@ -144,6 +153,10 @@
 
   </div>
 </div>
+
+<footer class="footer">
+  Produced by 密菓子 · 農產報價 Pro v1.0.0 · 資料來源：農業部開放資料平台
+</footer>
 
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
@@ -157,6 +170,7 @@
 <script src="js/data.js"></script>
 <script src="js/units.js"></script>
 <script src="js/charts.js"></script>
+<script src="js/news.js"></script>
 <script src="js/watchlist.js"></script>
 </body>
 </html>

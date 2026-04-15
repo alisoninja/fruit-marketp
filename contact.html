@@ -3,23 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>聯絡我們 — 農產行情專業版</title>
+  <title>聯絡我們 — 農產報價 Pro</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <header class="topbar">
-  <div class="logo">
-    <div class="logo-sq"><div class="logo-sq-i"></div></div>
-    農產行情專業版
+  <div class="topbar-left">
+    <div class="logo">
+      <div class="logo-sq"><div class="logo-sq-i"></div></div>
+      <span>農產報價 Pro</span>
+    </div>
   </div>
-  <nav class="topbar-nav">
-    <a href="index.html"     class="nav-link">行情總覽</a>
-    <a href="watchlist.html" class="nav-link">我的關注</a>
-    <a href="contact.html"   class="nav-link active">聯絡我們</a>
-  </nav>
+
+  <div class="topbar-date" id="topbar-date">--/--</div>
+
   <div class="topbar-right">
-    <span class="pill live" id="date-pill">載入中</span>
+    <div class="font-ctrl">
+      <button class="font-btn" onclick="fontSizeDecrease()" aria-label="縮小字體">A−</button>
+      <button class="font-btn" onclick="fontSizeIncrease()" aria-label="放大字體">A+</button>
+    </div>
+    <nav class="topbar-nav">
+      <a href="index.html"     class="nav-link">行情總覽</a>
+      <a href="watchlist.html" class="nav-link">我的關注</a>
+      <a href="contact.html"   class="nav-link active">聯絡我們</a>
+    </nav>
   </div>
 </header>
 
@@ -30,6 +38,7 @@
 
 <div class="contact-layout">
 
+  <!-- 左側：意見箱 -->
   <div>
     <div class="card">
       <div class="card-title">意見箱</div>
@@ -63,33 +72,34 @@
     </div>
   </div>
 
+  <!-- 右側：聯絡方式 -->
   <div>
     <div class="contact-info-card">
       <h3>聯絡方式</h3>
+
       <div class="contact-row">
         <div class="contact-icon">✉</div>
-        <div><div style="font-weight:500;margin-bottom:2px">電子信箱</div><div>contact@fruit-market.tw</div></div>
+        <div>
+          <div style="font-weight:500;margin-bottom:3px">電子信箱</div>
+          <a href="mailto:mifruitw@gmail.com" style="color:var(--blue-text)">mifruitw@gmail.com</a>
+        </div>
       </div>
+
       <div class="contact-row">
-        <div class="contact-icon">💬</div>
-        <div><div style="font-weight:500;margin-bottom:2px">LINE 官方帳號</div><div>@fruit-market（搜尋加入好友）</div></div>
+        <div class="contact-icon">🌐</div>
+        <div>
+          <div style="font-weight:500;margin-bottom:3px">官方網站</div>
+          <a href="https://mifruitw.com/" target="_blank" rel="noopener"
+            style="color:var(--blue-text)">mifruitw.com</a>
+        </div>
       </div>
+
       <div class="contact-row">
         <div class="contact-icon">⏰</div>
-        <div><div style="font-weight:500;margin-bottom:2px">回覆時間</div><div>週一至週五 09:00–18:00<br>假日來信將於下個工作日處理</div></div>
-      </div>
-    </div>
-
-    <div class="produced-by">
-      <h3>關於本站</h3>
-      <div class="produced-row"><span class="produced-key">網站名稱</span><span class="produced-val">農產行情專業版</span></div>
-      <div class="produced-row"><span class="produced-key">Produced by</span><span class="produced-val">你的名字 / 團隊名稱</span></div>
-      <div class="produced-row"><span class="produced-key">資料來源</span><span class="produced-val">農業部開放資料平台</span></div>
-      <div class="produced-row"><span class="produced-key">版本</span><span class="produced-val">v1.0.0</span></div>
-      <div class="produced-row"><span class="produced-key">最後更新</span><span class="produced-val">2025-04-15</span></div>
-      <div class="produced-row"><span class="produced-key">授權</span><span class="produced-val">MIT License</span></div>
-      <div style="margin-top:12px;padding-top:10px;border-top:0.5px solid var(--border);font-size:11px;color:var(--text-tertiary);line-height:1.7">
-        本站資料僅供參考，實際交易請以各批發市場公告為準。
+        <div>
+          <div style="font-weight:500;margin-bottom:3px">回覆時間</div>
+          <div>週一至週五 09:00–18:00<br>假日來信將於下個工作日處理</div>
+        </div>
       </div>
     </div>
   </div>
@@ -97,11 +107,10 @@
 </div>
 
 <footer class="footer">
-  © 2025 農產行情專業版 · 資料來源：農業部農業開放資料平台 ·
-  <a href="index.html" style="color:var(--green-mid)">回到行情總覽</a>
+  Produced by 密菓子 · 農產報價 Pro v1.0.0 · 資料來源：農業部開放資料平台
 </footer>
 
-<!-- Bottom Nav（手機）— 所有頁面都要有 -->
+<!-- Bottom Nav -->
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
     <a href="index.html"     class="bnav-item"><div class="bnav-icon">📊</div>行情總覽</a>
@@ -110,26 +119,18 @@
   </div>
 </nav>
 
+<script src="js/units.js"></script>
 <script>
-  function tick() {
-    const now = new Date();
-    const y  = now.getFullYear() - 1911;
-    const mo = String(now.getMonth()+1).padStart(2,'0');
-    const d  = String(now.getDate()).padStart(2,'0');
-    document.getElementById('date-pill').textContent = `民國 ${y}.${mo}.${d}`;
-  }
-  tick();
-
   document.getElementById('contact-form').addEventListener('submit', function(e) {
     e.preventDefault();
     const name    = document.getElementById('field-name').value.trim();
     const email   = document.getElementById('field-email').value.trim();
     const message = document.getElementById('field-message').value.trim();
     if (!name || !email || !message) return;
-    document.getElementById('contact-form').style.opacity = '0.5';
+    this.style.opacity = '0.5';
     setTimeout(() => {
-      document.getElementById('contact-form').style.opacity = '1';
-      document.getElementById('contact-form').reset();
+      this.style.opacity = '1';
+      this.reset();
       const msg = document.getElementById('success-msg');
       msg.style.display = 'block';
       setTimeout(() => msg.style.display = 'none', 5000);

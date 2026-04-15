@@ -1,4 +1,4 @@
-/* watchlist.js — 我的關注頁邏輯（localStorage） */
+/* watchlist.js — 我的關注頁邏輯 */
 
 const LS_KEY = 'agri_watchlist_v1';
 
@@ -14,27 +14,22 @@ let wState = {
 
 function rng(s){ const x=Math.sin(s+1)*10000; return x-Math.floor(x); }
 
-/* ===== localStorage ===== */
 function loadSaved() {
-  try {
-    const raw = localStorage.getItem(LS_KEY);
-    return raw ? JSON.parse(raw) : [];
-  } catch(e) { return []; }
+  try { return JSON.parse(localStorage.getItem(LS_KEY) || '[]'); }
+  catch(e) { return []; }
 }
 
 function saveCrops(list) {
   localStorage.setItem(LS_KEY, JSON.stringify(list));
 }
 
-/* ===== Setup screen ===== */
 function buildPickGrids() {
   const fruits = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'fruit');
   const veges  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'vege');
 
   const render = (keys) => keys.map(k => `
     <div class="pick-item" id="pick-${k}" onclick="togglePick('${k}')">
-      ${k}
-      <span class="pick-check" id="pick-check-${k}"></span>
+      ${k}<span class="pick-check" id="pick-check-${k}"></span>
     </div>
   `).join('');
 
@@ -66,7 +61,6 @@ function confirmSetup() {
   showMainScreen();
 }
 
-/* ===== Main screen ===== */
 function showMainScreen() {
   document.getElementById('setup-screen').style.display = 'none';
   document.getElementById('main-screen').style.display  = 'block';
@@ -79,7 +73,6 @@ function buildWatchTabs() {
     `<button class="watch-tab ${k === wState.activeCrop ? 'active' : ''}"
       onclick="wSelectCrop('${k}')">${k}</button>`
   ).join('');
-
   document.getElementById('watch-tabs').innerHTML =
     tabs + `<button class="watch-edit-btn" onclick="showSetup()">編輯清單</button>`;
 }
@@ -89,14 +82,13 @@ function wSelectCrop(key) {
   wState.varIdx     = 0;
   buildWatchTabs();
   wRenderAll();
+  /* 載入即時新聞 */
+  fetchNews(key, 'w-news-list');
 }
 
-/* 回到設定畫面 */
 function showSetup() {
   document.getElementById('main-screen').style.display  = 'none';
   document.getElementById('setup-screen').style.display = 'block';
-
-  /* 保持已選狀態 */
   wState.savedCrops.forEach(k => {
     const el    = document.getElementById('pick-' + k);
     const check = document.getElementById('pick-check-' + k);
@@ -107,7 +99,6 @@ function showSetup() {
   document.getElementById('confirm-btn').textContent = '更新我的清單';
 }
 
-/* ===== Price type ===== */
 function wSetPriceType(t) {
   wState.priceType = t;
   document.getElementById('w-ptab-a').className = 'ptt ' + (t === 'auction' ? 'active auction' : 'auction');
@@ -144,13 +135,11 @@ function wSelectVar(i) {
   wRenderAll();
 }
 
-/* ===== Render ===== */
 function wRenderAll() {
   wRenderSummary();
   wRenderVarieties();
   wRenderTrend();
   wRenderMarkets();
-  wRenderNews();
 }
 
 function wRenderSummary() {
@@ -166,9 +155,7 @@ function wRenderSummary() {
   const pl     = Units.priceLabel();
   const chg    = Units.formatChange(avgKg, prevKg);
   const { val:vv, unit:vu } = Units.convVol(volKg);
-  const badge  = isA
-    ? '<span class="badge badge-auction">拍賣</span>'
-    : '<span class="badge badge-wholesale">行口</span>';
+  const badge  = isA ? '<span class="badge badge-auction">拍賣</span>' : '<span class="badge badge-wholesale">行口</span>';
 
   document.getElementById('w-crop-title').innerHTML = wState.activeCrop + ' ' + badge;
   document.getElementById('w-crop-sub').textContent  = v.code + ' · ' + pl;
@@ -279,33 +266,8 @@ function wRenderMarkets() {
   }).join('');
 }
 
-function wRenderNews() {
-  if (!wState.activeCrop) return;
-  const crop = CROP_DATA[wState.activeCrop];
-  document.getElementById('w-news-ct').innerHTML =
-    `相關新聞 <span class="card-title-sub">${wState.activeCrop} 最新動態</span>`;
-  document.getElementById('w-news-list').innerHTML = crop.news.map(n => `
-    <div class="news-item">
-      <span class="news-tag ${n.tag}">${n.label}</span>
-      <div class="news-title">${n.title}</div>
-      <div class="news-meta">${n.src} · ${n.time}</div>
-    </div>
-  `).join('');
-}
-
-/* ===== 單位切換 ===== */
 function setPriceUnit(u, el) {
   Units.setPriceUnit(u);
-  document.querySelectorAll('.seg-btn').forEach(b => {
-    if (b.textContent.includes('公斤') || b.textContent.includes('台斤')) {
-      const t = b.textContent.trim();
-      if ((u === 'kg' && t === '元/公斤') || (u === 'jin' && t === '元/台斤')) {
-        b.classList.add('active');
-      } else if (t === '元/公斤' || t === '元/台斤') {
-        b.classList.remove('active');
-      }
-    }
-  });
   el.parentElement.querySelectorAll('.seg-btn').forEach(b => b.classList.remove('active'));
   el.classList.add('active');
   wRenderAll();
@@ -318,30 +280,14 @@ function setVolUnit(u, el) {
   wRenderAll();
 }
 
-/* ===== 時鐘 ===== */
-function updateClock() {
-  const n  = new Date();
-  const h  = String(n.getHours()).padStart(2,'0');
-  const m  = String(n.getMinutes()).padStart(2,'0');
-  const s  = String(n.getSeconds()).padStart(2,'0');
-  const y  = n.getFullYear() - 1911;
-  const mo = String(n.getMonth()+1).padStart(2,'0');
-  const d  = String(n.getDate()).padStart(2,'0');
-  document.getElementById('clock-pill').textContent = `${h}:${m}:${s}`;
-  document.getElementById('date-pill').textContent  = `民國 ${y}.${mo}.${d}`;
-}
-
-/* ===== 初始化 ===== */
 document.addEventListener('DOMContentLoaded', () => {
-  setInterval(updateClock, 1000);
-  updateClock();
   buildPickGrids();
-
   const saved = loadSaved();
   if (saved.length > 0) {
     wState.savedCrops = saved;
     wState.activeCrop = saved[0];
     wSetPriceType('auction');
     showMainScreen();
+    fetchNews(wState.activeCrop, 'w-news-list');
   }
 });
