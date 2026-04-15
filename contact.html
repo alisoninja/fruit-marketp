@@ -9,13 +9,10 @@
 <body>
 
 <header class="topbar">
-  <div class="topbar-left">
-    <div class="logo">
-      <div class="logo-sq"><div class="logo-sq-i"></div></div>
-      <span>農產報價 Pro</span>
-    </div>
+  <div class="logo">
+    <div class="logo-sq"><div class="logo-sq-i"></div></div>
+    農產報價 Pro
   </div>
-  <div class="topbar-date" id="topbar-date">--/--</div>
   <div class="topbar-right">
     <div class="font-ctrl">
       <button class="font-btn" onclick="fontSizeDecrease()" aria-label="縮小字體">A−</button>
@@ -99,16 +96,46 @@
 
 </div>
 
-<!-- footer 有 CSS 處理手機版間距，不會被 bottom nav 擋到 -->
 <footer class="footer">
   Produced by 密菓子 · 農產報價 Pro v1.0.0 · 資料來源：農業部開放資料平台
 </footer>
 
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
-    <a href="index.html"     class="bnav-item"><div class="bnav-icon">📊</div>行情總覽</a>
-    <a href="watchlist.html" class="bnav-item"><div class="bnav-icon">⭐</div>我的關注</a>
-    <a href="contact.html"   class="bnav-item active"><div class="bnav-icon">✉</div>聯絡我們</a>
+
+    <a href="index.html" class="bnav-item" aria-label="行情總覽">
+      <div class="bnav-icon">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <rect x="3" y="12" width="4" height="9" rx="1" fill="currentColor" stroke="none"/>
+          <rect x="10" y="7" width="4" height="14" rx="1" fill="currentColor" stroke="none"/>
+          <rect x="17" y="3" width="4" height="18" rx="1" fill="currentColor" stroke="none"/>
+        </svg>
+      </div>
+      <span class="bnav-label">行情總覽</span>
+    </a>
+
+    <a href="watchlist.html" class="bnav-item" aria-label="我的關注">
+      <div class="bnav-icon">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"
+            fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <span class="bnav-label">我的關注</span>
+    </a>
+
+    <a href="contact.html" class="bnav-item active" aria-label="聯絡我們">
+      <div class="bnav-icon">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <rect x="2" y="4" width="20" height="16" rx="2"
+            fill="none" stroke="currentColor" stroke-width="1.8"/>
+          <polyline points="2,4 12,13 22,4"
+            fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <span class="bnav-label">聯絡我們</span>
+    </a>
+
   </div>
 </nav>
 

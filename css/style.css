@@ -30,6 +30,9 @@
   --font: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
   --topbar-h: 52px;
   --bottomnav-h: 56px;
+  /* bottom nav icon 顏色 */
+  --bnav-inactive: #B4B2A9;
+  --bnav-active:   #3B6D11;
 }
 
 html { font-size: 14px; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
@@ -49,7 +52,10 @@ a { color: inherit; text-decoration: none; }
 button { font-family: var(--font); cursor: pointer; border: none; background: transparent; }
 input, select, textarea { font-family: var(--font); }
 
-/* ===== Topbar ===== */
+/* ===== Topbar =====
+   簡化為兩欄：左側 Logo，右側 A−/A+ + 桌面導覽
+   日期欄位完全移除
+*/
 .topbar {
   background: var(--bg-card);
   border-bottom: 0.5px solid var(--border);
@@ -57,13 +63,13 @@ input, select, textarea { font-family: var(--font); }
   height: var(--topbar-h);
   display: flex;
   align-items: center;
+  justify-content: space-between;
   position: sticky;
   top: 0;
   z-index: 200;
   width: 100%;
+  gap: 12px;
 }
-
-.topbar-left { display: flex; align-items: center; flex: 1; }
 
 .logo {
   display: flex; align-items: center; gap: 8px;
@@ -84,34 +90,20 @@ input, select, textarea { font-family: var(--font); }
   transform: rotate(45deg);
 }
 
-/* 日期：絕對定位置中，只顯示 MM/DD */
-.topbar-date {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 0.86rem;
-  font-weight: 500;
-  color: var(--text-secondary);
-  font-variant-numeric: tabular-nums;
-  white-space: nowrap;
-  pointer-events: none;
-}
-
 .topbar-right {
-  display: flex; align-items: center;
-  gap: 10px; flex: 1; justify-content: flex-end;
+  display: flex; align-items: center; gap: 10px;
 }
 
-/* A- A+ */
+/* A− A+ */
 .font-ctrl {
-  display: flex; align-items: center; gap: 2px;
+  display: flex; align-items: center;
   border: 0.5px solid var(--border-strong);
   border-radius: var(--radius-sm); overflow: hidden; flex-shrink: 0;
 }
 
 .font-btn {
   font-size: 12px; font-weight: 600;
-  padding: 4px 10px; cursor: pointer;
+  padding: 5px 11px; cursor: pointer;
   color: var(--text-secondary); background: transparent;
   border: none; border-right: 0.5px solid var(--border);
   transition: all 0.12s; white-space: nowrap; line-height: 1.3;
@@ -131,7 +123,7 @@ input, select, textarea { font-family: var(--font); }
 .nav-link:hover  { background: var(--bg-surface); color: var(--text-primary); }
 .nav-link.active { background: var(--green-bg); color: var(--green-dark); font-weight: 500; }
 
-/* ===== Bottom Nav ===== */
+/* ===== Bottom Nav — SVG icons ===== */
 .bottom-nav {
   display: none;
   position: fixed;
@@ -148,12 +140,36 @@ input, select, textarea { font-family: var(--font); }
 .bnav-item {
   flex: 1; display: flex; flex-direction: column;
   align-items: center; justify-content: center;
-  gap: 3px; font-size: 0.78rem; color: var(--text-tertiary);
-  cursor: pointer; transition: color 0.15s;
+  gap: 4px; cursor: pointer;
   padding: 6px 0; text-decoration: none;
+  color: var(--bnav-inactive);
+  transition: color 0.15s;
 }
-.bnav-item.active { color: var(--green-mid); }
-.bnav-icon { font-size: 1.28rem; line-height: 1; }
+
+.bnav-item.active { color: var(--bnav-active); }
+
+/* SVG icon — 繼承父層 currentColor */
+.bnav-icon {
+  width: 22px; height: 22px;
+  display: flex; align-items: center; justify-content: center;
+}
+
+.bnav-icon svg {
+  width: 22px; height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transition: stroke 0.15s;
+}
+
+.bnav-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  transition: color 0.15s;
+}
 
 /* ===== Pills ===== */
 .pill {
@@ -192,31 +208,18 @@ input, select, textarea { font-family: var(--font); }
   background: var(--bg-surface);
   border-bottom: 0.5px solid var(--border);
   padding: 5px 16px;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.75rem;
-  color: var(--text-tertiary);
-  flex-wrap: wrap;
+  display: flex; align-items: center; gap: 6px;
+  font-size: 0.75rem; color: var(--text-tertiary); flex-wrap: wrap;
 }
 
 .data-update-dot {
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--green-mid);
-  flex-shrink: 0;
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--green-mid); flex-shrink: 0;
   animation: pulse 2s ease-in-out infinite;
 }
+.data-update-dot.stale { background: var(--text-tertiary); animation: none; }
 
-.data-update-dot.stale {
-  background: var(--text-tertiary);
-  animation: none;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50%       { opacity: 0.4; }
-}
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
 
 .seg {
   display: flex; border: 0.5px solid var(--border);
@@ -258,7 +261,6 @@ input, select, textarea { font-family: var(--font); }
 .page-content {
   max-width: 1400px; margin: 0 auto;
   padding: 12px 16px;
-  /* 桌面不需要額外 bottom padding（無 bottom nav） */
 }
 
 /* ===== Cards ===== */
@@ -273,7 +275,6 @@ input, select, textarea { font-family: var(--font); }
   display: flex; align-items: center; justify-content: space-between;
   flex-wrap: wrap; gap: 4px;
 }
-
 .card-title-sub { font-size: 0.71rem; font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--text-tertiary); }
 
 .ptype-note {
@@ -324,7 +325,7 @@ input, select, textarea { font-family: var(--font); }
 .crop-card-vol   { font-size: 0.71rem; color: var(--text-tertiary); margin-top: 4px; font-variant-numeric: tabular-nums; }
 
 /* ===== Ranking ===== */
-.rank-list { display: flex; flex-direction: column; gap: 0; }
+.rank-list { display: flex; flex-direction: column; }
 
 .rank-item {
   display: flex; align-items: center;
@@ -501,7 +502,6 @@ input, select, textarea { font-family: var(--font); }
 
 .contact-info-card { background: var(--bg-card); border-radius: var(--radius-lg); border: 0.5px solid var(--border); padding: 16px; margin-bottom: 12px; }
 .contact-info-card h3 { font-size: 1rem; font-weight: 600; margin-bottom: 12px; }
-
 .contact-row { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px; font-size: 0.93rem; color: var(--text-secondary); }
 .contact-row:last-child { margin-bottom: 0; }
 .contact-icon { width: 28px; height: 28px; border-radius: 7px; background: var(--green-bg); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1rem; }
@@ -510,14 +510,9 @@ input, select, textarea { font-family: var(--font); }
 
 /* ===== Footer ===== */
 .footer {
-  background: var(--bg-card);
-  border-top: 0.5px solid var(--border);
-  padding: 14px 16px;
-  text-align: center;
-  font-size: 0.79rem;
-  color: var(--text-tertiary);
-  margin-top: 20px;
-  /* 手機版 footer 要在 bottom nav 上方 */
+  background: var(--bg-card); border-top: 0.5px solid var(--border);
+  padding: 14px 16px; text-align: center;
+  font-size: 0.79rem; color: var(--text-tertiary); margin-top: 20px;
   padding-bottom: calc(14px + env(safe-area-inset-bottom));
 }
 
@@ -533,17 +528,14 @@ input, select, textarea { font-family: var(--font); }
 
   .topbar-nav { display: none; }
   .bottom-nav { display: block; }
-  .topbar { padding: 0 12px; }
-  /* 手機上隱藏 logo 文字，留圖示空間給日期置中 */
-  .logo span { display: none; }
+  .topbar { padding: 0 14px; }
 
   .filter-bar { padding: 7px 12px; gap: 6px; }
   .data-update-bar { padding: 5px 12px; }
   .unit-switcher { margin-left: 0; width: 100%; }
 
-  /* 手機版 page-content 底部留出 bottom nav 高度，避免被遮擋 */
   .page-content {
-    padding: 10px 10px;
+    padding: 10px;
     padding-bottom: calc(16px + var(--bottomnav-h) + env(safe-area-inset-bottom));
   }
 
@@ -558,7 +550,6 @@ input, select, textarea { font-family: var(--font); }
   .contact-hero h1 { font-size: 1.43rem; }
   .contact-layout { grid-template-columns: 1fr; padding: 12px; gap: 12px; }
 
-  /* 手機版 footer 也要留 bottom nav 空間 */
   .footer {
     padding-bottom: calc(14px + var(--bottomnav-h) + env(safe-area-inset-bottom));
   }
