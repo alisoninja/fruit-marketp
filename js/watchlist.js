@@ -1,9 +1,9 @@
-/* watchlist.js — 我的關注頁，品項以大類分組 */
+/* watchlist.js — 我的關注頁 */
 
 const LS_KEY = 'agri_watchlist_v1';
 
 let wState = {
-  savedCrops: [],   /* 大類名稱清單，例如 ['鳳梨','高麗菜'] */
+  savedCrops: [],
   activeCrop: null,
   activeVar:  0,
   priceType:  'auction',
@@ -17,7 +17,6 @@ const W_DEFAULT = 10;
 function loadSaved() { try { return JSON.parse(localStorage.getItem(LS_KEY)||'[]'); } catch { return []; } }
 function saveCrops(list) { localStorage.setItem(LS_KEY, JSON.stringify(list)); }
 
-/* ── 建立選擇清單 ── */
 function buildPickGrids() {
   const fruits = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'fruit');
   const veges  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'vege');
@@ -26,20 +25,17 @@ function buildPickGrids() {
     const el = document.getElementById(containerId);
     if (!el) return;
     if (!keys.length) { el.innerHTML = `<span style="font-size:0.86rem;color:var(--text-tertiary)">資料載入中…</span>`; return; }
-
     const showAll   = el.dataset.showAll === 'true';
     const display   = showAll ? keys : keys.slice(0, W_DEFAULT);
     const remaining = keys.length - W_DEFAULT;
-
     const itemsHtml = display.map(k => {
-      const checked = wState.savedCrops.includes(k);
+      const checked  = wState.savedCrops.includes(k);
       const varCount = CROP_DATA[k]?.varieties?.length || 0;
       return `<div class="pick-item ${checked?'checked':''}" id="pick-${k}" onclick="togglePick('${k}')">
         <span>${k}${varCount>1?`<span style="font-size:0.64rem;opacity:0.7;margin-left:3px">${varCount}品種</span>`:''}</span>
         <span class="pick-check" id="pick-check-${k}">${checked?'✓':''}</span>
       </div>`;
     }).join('');
-
     let moreHtml = '';
     if (!showAll && remaining > 0) {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
@@ -48,10 +44,8 @@ function buildPickGrids() {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
         <button onclick="togglePickShowAll('${containerId}')" style="font-size:0.82rem;padding:5px 16px;border:0.5px solid var(--border-strong);border-radius:20px;color:var(--text-tertiary);background:var(--bg-card);cursor:pointer">收起</button></div>`;
     }
-
     el.innerHTML = itemsHtml + moreHtml;
   };
-
   renderSection(fruits, 'pick-fruit');
   renderSection(veges,  'pick-vege');
 }
@@ -89,7 +83,11 @@ function showMainScreen() {
   document.getElementById('setup-screen').style.display = 'none';
   document.getElementById('main-screen').style.display  = 'block';
   buildWatchTabs();
-  if (wState.activeCrop) { wRenderAll(); fetchNews(wState.activeCrop, 'w-news-list'); }
+  if (wState.activeCrop) {
+    wRenderAll();
+    wRenderSubPicker();
+    fetchNews(wState.activeCrop, 'w-news-list', 'w-news-card');
+  }
 }
 
 function buildWatchTabs() {
@@ -106,10 +104,9 @@ function wSelectCrop(key) {
   buildWatchTabs();
   wRenderAll();
   wRenderSubPicker();
-  fetchNews(key, 'w-news-list');
+  fetchNews(key, 'w-news-list', 'w-news-card');
 }
 
-/* 子品種選擇器 */
 function wRenderSubPicker() {
   const el = document.getElementById('w-sub-variety-picker');
   if (!el) return;
@@ -121,11 +118,7 @@ function wRenderSubPicker() {
   ).join('');
 }
 
-function wSelectVar(i) {
-  wState.activeVar = i;
-  wRenderSubPicker();
-  wRenderAll();
-}
+function wSelectVar(i) { wState.activeVar=i; wRenderSubPicker(); wRenderAll(); }
 
 function showSetup() {
   document.getElementById('main-screen').style.display  = 'none';
@@ -135,7 +128,6 @@ function showSetup() {
   document.getElementById('confirm-btn').textContent = '更新我的清單';
 }
 
-/* ── 價格/市場類型 ── */
 function wSetPriceType(t) {
   wState.priceType = t;
   document.getElementById('w-ptab-a').className='ptt '+(t==='auction'?'active auction':'auction');
@@ -167,11 +159,8 @@ function wToggleLayer(k,el) {
   wRenderTrend();
 }
 
-function wSelectVar(i) { wState.activeVar=i; wRenderSubPicker(); wRenderAll(); }
-
 function wRenderAll() { wRenderSummary(); wRenderVarieties(); wRenderTrend(); wRenderMarkets(); }
 
-/* ── 安全工具 ── */
 function wP(v) { if(v===null||v===undefined||isNaN(parseFloat(v))) return NA; return Units.convPrice(parseFloat(v)); }
 function wV(v) { if(v===null||v===undefined||isNaN(parseFloat(v))) return {val:NA,unit:''}; return Units.convVol(parseFloat(v)); }
 function wC(c,p) { if(c===null||p===null||isNaN(parseFloat(c))||isNaN(parseFloat(p))) return {text:NA,cls:'color-flat',arrow:''}; return Units.formatChange(parseFloat(c),parseFloat(p)); }
@@ -190,7 +179,7 @@ function wRenderSummary() {
   const rd=avgKg!==null?wP(avgKg*3):NA;
   const badge=isA?'<span class="badge badge-auction">拍賣</span>':'<span class="badge badge-wholesale">行口</span>';
   document.getElementById('w-crop-title').innerHTML=v.name+' '+badge;
-  document.getElementById('w-crop-sub').textContent=v.code+' · '+pl;
+  document.getElementById('w-crop-sub').textContent=(v.code||'')+' · '+pl;
   document.getElementById('w-sum-row').innerHTML=`
     <div class="metric"><div class="metric-label">今日均價</div><div class="metric-value">${ad}<span class="metric-unit">${ad!==NA?pl:''}</span></div><div class="metric-sub ${chg.cls}">${chg.arrow} ${chg.text}</div></div>
     <div class="metric"><div class="metric-label">上價</div><div class="metric-value color-up">${hd}<span class="metric-unit">${hd!==NA?pl:''}</span></div></div>
@@ -295,21 +284,15 @@ function setVolUnit(u,el) {
   wRenderAll();
 }
 
-/* ── 初始化 ── */
 document.addEventListener('DOMContentLoaded', () => {
   const saved = loadSaved();
   if (saved.length > 0) { wState.savedCrops = saved; wState.activeCrop = saved[0]; }
-
   window.DATA_READY.then(() => {
-    /* 過濾掉新資料中不存在的舊選項 */
     wState.savedCrops = wState.savedCrops.filter(k => CROP_DATA[k]);
-
     if (wState.savedCrops.length > 0) {
       wState.activeCrop = CROP_DATA[wState.activeCrop] ? wState.activeCrop : wState.savedCrops[0];
       wSetPriceType('auction');
       showMainScreen();
-      wRenderSubPicker();
-      fetchNews(wState.activeCrop, 'w-news-list');
     } else {
       buildPickGrids();
       document.getElementById('setup-screen').style.display = 'block';

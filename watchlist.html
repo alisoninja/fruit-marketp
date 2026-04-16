@@ -26,7 +26,6 @@
   </div>
 </header>
 
-<!-- 初始設定畫面 -->
 <div id="setup-screen" style="display:none">
   <div class="watchlist-setup">
     <h2>建立你的關注清單</h2>
@@ -43,7 +42,6 @@
   </div>
 </div>
 
-<!-- 主畫面 -->
 <div id="main-screen" style="display:none">
 
   <div class="watchlist-tabs" id="watch-tabs"></div>
@@ -73,13 +71,11 @@
 
   <div class="page-content">
 
-    <!-- 子品種選擇器 -->
-    <div style="margin-bottom:10px" id="w-sub-picker-wrap">
+    <div style="margin-bottom:10px">
       <div style="font-size:0.79rem;color:var(--text-secondary);margin-bottom:5px;font-weight:500">選擇品種：</div>
       <div id="w-sub-variety-picker" class="cat-pills" style="flex-wrap:wrap;gap:5px;display:none"></div>
     </div>
 
-    <!-- 摘要卡 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="w-crop-title">—</span>
@@ -93,7 +89,6 @@
       <div class="summary-row" id="w-sum-row"></div>
     </div>
 
-    <!-- 同品種比較表 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="w-var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -111,7 +106,6 @@
       </div>
     </div>
 
-    <!-- 趨勢 + 市場 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -146,10 +140,13 @@
           </div>
           <div class="market-list" id="w-mkt-section"></div>
         </div>
-        <div class="card">
+
+        <!-- 新聞卡片：預設隱藏，有新聞才顯示 -->
+        <div class="card" id="w-news-card" style="display:none">
           <div class="card-title" id="w-news-ct">相關新聞 <span class="card-title-sub">農傳媒 · 農糧署</span></div>
           <div id="w-news-list"></div>
         </div>
+
       </div>
     </div>
 

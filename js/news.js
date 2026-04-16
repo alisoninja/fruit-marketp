@@ -1,132 +1,109 @@
-/* news.js — 農業新聞模組
- *
- * 優先從 data/news.json 讀取（由 GitHub Actions 每日預先抓好）。
- * 若找不到該作物的快取，才即時呼叫 Claude API 搜尋。
- * 每則新聞點擊後在新分頁開啟原文連結。
+/* news.js
+ * 新聞模組：
+ * - 優先讀 data/news.json（由 GitHub Actions 預先抓好）
+ * - 若無資料或 API 餘額不足，隱藏新聞卡片
+ * - 有新聞才顯示，點擊標題開新分頁
  */
 
-/* 快取（session 內避免重複呼叫） */
 const _newsCache = {};
-let   _newsJson  = null;   /* data/news.json 的內容 */
+let   _newsJson  = null;
 
-/* ── 從 data/news.json 讀取預先抓好的新聞 ── */
 async function loadNewsJson() {
   if (_newsJson !== null) return _newsJson;
   try {
-    const res  = await fetch('data/news.json?t=' + Date.now());
+    const res = await fetch('data/news.json?t=' + Date.now());
     if (!res.ok) throw new Error('HTTP ' + res.status);
     _newsJson = await res.json();
-    return _newsJson;
   } catch {
     _newsJson = { news: {} };
-    return _newsJson;
   }
+  return _newsJson;
 }
 
 /**
- * 取得指定作物的新聞並渲染到容器
- * @param {string} cropName    作物名稱，例如「鳳梨」
- * @param {string} containerId 容器元素 ID
+ * 取得新聞並渲染。若無新聞則隱藏包覆的卡片。
+ * @param {string} cropName     作物名稱
+ * @param {string} containerId  新聞列表的容器 id（例如 'news-list'）
+ * @param {string} cardId       包覆整個新聞卡片的容器 id（例如 'news-card'）
+ *                              若有內容則顯示，無內容則隱藏整張卡片
  */
-async function fetchNews(cropName, containerId) {
+async function fetchNews(cropName, containerId, cardId) {
   const container = document.getElementById(containerId);
+  const card      = cardId ? document.getElementById(cardId) : null;
   if (!container) return;
 
-  /* 顯示 loading */
-  container.innerHTML = `
-    <div class="news-loading">
-      <div class="news-spinner"></div>
-      搜尋「${cropName}」最新農業新聞…
-    </div>`;
+  /* 先隱藏卡片，等確認有資料再顯示 */
+  if (card) card.style.display = 'none';
 
-  /* 有 session 快取就直接渲染 */
+  /* session 快取 */
   if (_newsCache[cropName]) {
-    renderNews(_newsCache[cropName], container, cropName);
+    if (_newsCache[cropName].length > 0) {
+      if (card) card.style.display = '';
+      renderNews(_newsCache[cropName], container);
+    }
     return;
   }
 
-  /* 先嘗試從 data/news.json 讀取 */
+  /* 讀 data/news.json */
   const stored = await loadNewsJson();
-  if (stored.news && stored.news[cropName] && stored.news[cropName].length > 0) {
-    _newsCache[cropName] = stored.news[cropName];
-    renderNews(stored.news[cropName], container, cropName);
+  const saved  = stored?.news?.[cropName];
+
+  if (saved && saved.length > 0) {
+    _newsCache[cropName] = saved;
+    if (card) card.style.display = '';
+    renderNews(saved, container);
     return;
   }
 
-  /* news.json 裡沒有該作物，改用即時 Claude API */
+  /* news.json 無此作物，嘗試即時 Claude API */
   try {
-    const prompt = `你是台灣農業新聞搜尋助手。
-使用 web_search 搜尋：
-1. "台灣 ${cropName} 批發 價格 2025"
-2. "台灣 ${cropName} 農業 新聞 2025"
-
-整理出最多 4 則真實存在的新聞，每則包含：
-- title: 新聞標題（來自真實搜尋結果，不可自行創作）
-- url: 原文連結（必須是真實的 https:// 網址）
-- source: 來源名稱
-- date: 發布日期（YYYY-MM-DD）或 null
-- tag: price / weather / policy / market 之一
-
-只回傳 JSON 陣列，不要任何其他文字：
-[{"title":"...","url":"https://...","source":"...","date":"2025-04-15","tag":"price"}]`;
-
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-6',
         max_tokens: 1500,
         system: '只回傳 JSON 陣列，不回傳任何其他文字。',
-        messages: [{ role: 'user', content: prompt }],
+        messages: [{
+          role: 'user',
+          content: `用 web_search 搜尋「台灣 ${cropName} 農業 批發 2025」，找最多4則真實新聞。
+只回傳 JSON：[{"title":"...","url":"https://...","source":"...","date":"2025-04-15","tag":"price"}]
+tag 只能是 price/weather/policy/market。url 必須是真實 https:// 網址。`,
+        }],
         tools: [{ type: 'web_search_20250305', name: 'web_search' }],
       }),
     });
 
     if (!res.ok) throw new Error('API HTTP ' + res.status);
-    const data  = await res.json();
-    const text  = (data.content || []).filter(b => b.type === 'text').map(b => b.text).join('');
-    const match = text.match(/\[[\s\S]*?\]/);
+    const data     = await res.json();
+    const text     = (data.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
+    const match    = text.match(/\[[\s\S]*?\]/);
     if (!match) throw new Error('no JSON');
-
     const articles = JSON.parse(match[0]).filter(a => a?.title && a?.url?.startsWith('http'));
     if (!articles.length) throw new Error('empty');
 
     _newsCache[cropName] = articles;
-    renderNews(articles, container, cropName);
+    if (card) card.style.display = '';
+    renderNews(articles, container);
 
-  } catch (err) {
-    console.warn('[news]', cropName, err.message);
-    container.innerHTML = `
-      <div class="news-error">
-        目前無法取得「${cropName}」的即時新聞。<br>
-        請前往
-        <a href="https://www.agriharvest.tw/" target="_blank" rel="noopener" style="color:var(--blue-text)">農傳媒</a> 或
-        <a href="https://www.afa.gov.tw/cht/index.php?code=list&ids=307" target="_blank" rel="noopener" style="color:var(--blue-text)">農糧署新聞</a>
-        查看最新資訊。
-      </div>`;
+  } catch {
+    /* API 無餘額或失敗 → 卡片保持隱藏 */
+    _newsCache[cropName] = [];
   }
 }
 
-/* ── 渲染新聞列表 ── */
+/* ── 渲染 ── */
 const TAG_LABEL = { price:'報價', weather:'天氣', policy:'政策', market:'市場' };
 const TAG_CLASS = { price:'tag-price', weather:'tag-weather', policy:'tag-policy', market:'tag-market' };
 
-function renderNews(articles, container, cropName) {
-  if (!articles?.length) {
-    container.innerHTML = `<div class="news-error">暫無「${cropName}」相關新聞</div>`;
-    return;
-  }
-
+function renderNews(articles, container) {
   container.innerHTML = articles.map(a => {
-    const tag      = a.tag || 'market';
-    const tagLabel = TAG_LABEL[tag] || '新聞';
-    const tagCls   = TAG_CLASS[tag] || 'tag-market';
-    const dateStr  = a.date ? formatDate(a.date) : '';
-    const meta     = [a.source, dateStr].filter(Boolean).map(esc).join(' · ');
-
+    const tag  = a.tag || 'market';
+    const date = a.date ? formatDate(a.date) : '';
+    const meta = [a.source, date].filter(Boolean).map(esc).join(' · ');
     return `<div class="news-item">
       <a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">
-        <span class="news-tag ${tagCls}">${tagLabel}</span>
+        <span class="news-tag ${TAG_CLASS[tag]||'tag-market'}">${TAG_LABEL[tag]||'新聞'}</span>
         <div class="news-title">${esc(a.title)}</div>
         <div class="news-meta">${meta}<span class="news-source-badge">外部連結↗</span></div>
       </a>
@@ -134,13 +111,9 @@ function renderNews(articles, container, cropName) {
   }).join('');
 }
 
-function formatDate(str) {
-  try {
-    const d = new Date(str);
-    return `${d.getMonth()+1}/${d.getDate()}`;
-  } catch { return str; }
+function formatDate(s) {
+  try { const d=new Date(s); return `${d.getMonth()+1}/${d.getDate()}`; } catch { return s; }
 }
-
 function esc(s) {
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }

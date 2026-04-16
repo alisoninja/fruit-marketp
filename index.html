@@ -26,23 +26,17 @@
   </div>
 </header>
 
-<!-- 資料更新時間列 -->
 <div class="data-update-bar">
   <div class="data-update-dot" id="update-dot"></div>
   <span id="data-updated-at">資料載入中…</span>
 </div>
 
-<!-- ===== 篩選列：水果/蔬菜 + 搜尋 + 品項 pills + 單位切換 ===== -->
 <div class="filter-bar" style="flex-direction:column;align-items:stretch;gap:8px;padding:10px 16px">
-
-  <!-- 第一行：水果/蔬菜切換 + 搜尋框 -->
   <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
     <div class="cat-pills">
       <button class="cpill active" id="tab-fruit" onclick="switchMainCat('fruit')">水果</button>
       <button class="cpill"        id="tab-vege"  onclick="switchMainCat('vege')">蔬菜</button>
     </div>
-
-    <!-- 搜尋框 -->
     <div style="position:relative;flex:1;min-width:120px;max-width:220px">
       <input id="ov-search" type="text" placeholder="搜尋品項…"
         oninput="onOvSearch(this.value)"
@@ -54,8 +48,6 @@
         <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
       </svg>
     </div>
-
-    <!-- 單位切換（推到右側）-->
     <div class="unit-switcher" style="margin-left:auto">
       <span class="filter-label">價格：</span>
       <div class="seg" id="price-unit-seg">
@@ -70,24 +62,19 @@
       </div>
     </div>
   </div>
-
-  <!-- 第二行：品項 pills（動態渲染）-->
   <div id="crop-filter-area" class="cat-pills" style="flex-wrap:wrap;gap:5px;min-height:28px">
     <span style="font-size:0.82rem;color:var(--text-tertiary)">資料載入中…</span>
   </div>
-
 </div>
 <div class="loading-bar"><div class="loading-fill active" id="loading-fill"></div></div>
 
 <div class="page-content">
 
-  <!-- 摘要 -->
   <div class="card" style="margin-bottom:12px">
     <div class="card-title">全台成交總量 <span class="card-title-sub" id="total-summary-sub">今日</span></div>
     <div class="summary-row" id="total-summary-row"></div>
   </div>
 
-  <!-- 漲跌排行 -->
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:12px">
     <div class="card">
       <div class="card-title">漲幅排行 <span class="card-title-sub">今日漲最多</span></div>
@@ -99,24 +86,18 @@
     </div>
   </div>
 
-  <!-- 大類商品卡片網格 -->
   <div class="card" style="margin-bottom:12px">
-    <div class="card-title" id="grid-title">
-      水果總覽 <span class="card-title-sub">點擊品項查看詳情</span>
-    </div>
+    <div class="card-title" id="grid-title">水果總覽 <span class="card-title-sub">點擊品項查看詳情</span></div>
     <div class="overview-grid" id="overview-grid"></div>
   </div>
 
-  <!-- 詳情區（選了大類才顯示）-->
   <div id="detail-section" style="display:none">
 
-    <!-- 子品種選擇器 -->
     <div style="margin-bottom:10px">
       <div style="font-size:0.79rem;color:var(--text-secondary);margin-bottom:5px;font-weight:500">選擇品種：</div>
       <div id="sub-variety-picker" class="cat-pills" style="flex-wrap:wrap;gap:5px;display:none"></div>
     </div>
 
-    <!-- 摘要卡 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="det-title">—</span>
@@ -130,7 +111,6 @@
       <div class="summary-row" id="det-sum-row"></div>
     </div>
 
-    <!-- 同品種全規格比較表 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -148,7 +128,6 @@
       </div>
     </div>
 
-    <!-- 趨勢 + 市場 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -183,14 +162,17 @@
           </div>
           <div class="market-list" id="mkt-section"></div>
         </div>
-        <div class="card">
+
+        <!-- 新聞卡片：預設隱藏，有新聞才顯示 -->
+        <div class="card" id="news-card" style="display:none">
           <div class="card-title" id="news-ct">相關新聞 <span class="card-title-sub">農傳媒 · 農糧署</span></div>
           <div id="news-list"></div>
         </div>
+
       </div>
     </div>
 
-  </div><!-- /detail-section -->
+  </div>
 </div>
 
 <footer class="footer">

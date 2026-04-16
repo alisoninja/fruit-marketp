@@ -1,16 +1,9 @@
-/* overview.js — 行情總覽頁
- *
- * 篩選列：水果/蔬菜 分類切換 + 搜尋框 + 查看更多
- *   → 都在頂部 filter-bar 內
- *
- * 品項大類：CROP_DATA 的 key 已是大類（鳳梨、芒果…）
- *   點擊大類卡片 → 展開子品種選擇 → 顯示詳情
- */
+/* overview.js — 行情總覽頁 */
 
 let ovState = {
   mainCat:       'fruit',
-  selectedBase:  null,   /* 選中的大類，例如「鳳梨」 */
-  selectedVar:   0,      /* 選中的子品種 index */
+  selectedBase:  null,
+  selectedVar:   0,
   priceType:     'auction',
   mktType:       'auction',
   range:         30,
@@ -21,7 +14,6 @@ let ovState = {
 
 const ITEMS_DEFAULT = 10;
 
-/* ── 工具 ── */
 function safeP(val) {
   if (val===null||val===undefined||isNaN(parseFloat(val))) return NA;
   return Units.convPrice(parseFloat(val));
@@ -43,19 +35,16 @@ function guessRegion(n) {
 }
 function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
-/* ── 取過濾後的大類清單 ── */
 function getFilteredKeys() {
   const q    = ovState.searchQuery.trim().toLowerCase();
   const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   if (!q) return keys;
-  /* 搜尋大類名稱或子品種名稱 */
   return keys.filter(k => {
     if (k.toLowerCase().includes(q)) return true;
     return CROP_DATA[k].varieties.some(v => v.name.toLowerCase().includes(q));
   });
 }
 
-/* ── 種類切換（水果/蔬菜）── */
 function switchMainCat(cat) {
   ovState.mainCat      = cat;
   ovState.selectedBase = null;
@@ -71,7 +60,6 @@ function switchMainCat(cat) {
   document.getElementById('detail-section').style.display = 'none';
 }
 
-/* ── 搜尋 ── */
 function onOvSearch(val) {
   ovState.searchQuery = val;
   ovState.showAll     = val.trim().length > 0;
@@ -83,27 +71,23 @@ function toggleShowAll() {
   renderFilterBar();
 }
 
-/* ── 渲染篩選列中的品項 pills + 查看更多 ── */
 function renderFilterBar() {
   const container = document.getElementById('crop-filter-area');
   if (!container) return;
-
   const allKeys     = getFilteredKeys();
   const hasSearch   = ovState.searchQuery.trim().length > 0;
   const showAll     = ovState.showAll || hasSearch;
   const displayKeys = showAll ? allKeys : allKeys.slice(0, ITEMS_DEFAULT);
   const remaining   = allKeys.length - ITEMS_DEFAULT;
 
-  let pillsHtml = displayKeys.map(k => {
-    const isActive = k === ovState.selectedBase;
-    return `<button class="cpill ${isActive?'active':''}" onclick="selectBase('${esc(k)}')">${esc(k)}</button>`;
-  }).join('');
+  let pillsHtml = displayKeys.map(k =>
+    `<button class="cpill ${k===ovState.selectedBase?'active':''}" onclick="selectBase('${esc(k)}')">${esc(k)}</button>`
+  ).join('');
 
   let moreHtml = '';
   if (!hasSearch) {
     if (!showAll && remaining > 0) {
-      moreHtml = `<button onclick="toggleShowAll()" class="cpill" style="color:var(--blue-text);border-color:var(--blue-border)">
-        查看更多 +${remaining}</button>`;
+      moreHtml = `<button onclick="toggleShowAll()" class="cpill" style="color:var(--blue-text);border-color:var(--blue-border)">查看更多 +${remaining}</button>`;
     } else if (showAll && allKeys.length > ITEMS_DEFAULT) {
       moreHtml = `<button onclick="toggleShowAll()" class="cpill" style="color:var(--text-tertiary)">收起</button>`;
     }
@@ -116,10 +100,8 @@ function renderFilterBar() {
   container.innerHTML = pillsHtml + moreHtml;
 }
 
-/* ── 選擇大類 ── */
 function selectBase(key) {
   if (ovState.selectedBase === key) {
-    /* 再點一次取消選擇 */
     ovState.selectedBase = null;
     ovState.selectedVar  = 0;
     renderFilterBar();
@@ -131,34 +113,23 @@ function selectBase(key) {
   ovState.selectedVar  = 0;
   renderFilterBar();
   renderOverview();
-
   const crop = CROP_DATA[key];
   if (!crop) return;
-
-  /* 若有多個子品種，先顯示子品種選擇列 */
   renderSubVarietyPicker(crop);
-
   document.getElementById('detail-section').style.display = 'block';
   renderDetail();
-  fetchNews(key, 'news-list');
+  /* 新聞卡片 id = 'news-card'，無新聞時自動隱藏 */
+  fetchNews(key, 'news-list', 'news-card');
   document.getElementById('detail-section').scrollIntoView({ behavior:'smooth', block:'start' });
 }
 
-/* ── 子品種選擇器（顯示在詳情區頂部）── */
 function renderSubVarietyPicker(crop) {
   const el = document.getElementById('sub-variety-picker');
   if (!el) return;
-
-  if (!crop || crop.varieties.length <= 1) {
-    el.style.display = 'none';
-    return;
-  }
-
+  if (!crop || crop.varieties.length <= 1) { el.style.display='none'; return; }
   el.style.display = 'flex';
-  el.innerHTML = crop.varieties.map((v, i) => `
-    <button class="cpill ${i===ovState.selectedVar?'active':''}" onclick="selectSubVariety(${i})">
-      ${esc(v.subName)}
-    </button>`
+  el.innerHTML = crop.varieties.map((v,i) =>
+    `<button class="cpill ${i===ovState.selectedVar?'active':''}" onclick="selectSubVariety(${i})">${esc(v.subName)}</button>`
   ).join('');
 }
 
@@ -169,23 +140,18 @@ function selectSubVariety(i) {
   renderDetail();
 }
 
-/* ── 總量摘要 ── */
 function renderTotalSummary() {
   const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   const label = ovState.selectedBase || (ovState.mainCat==='fruit'?'所有水果':'所有蔬菜');
   document.getElementById('total-summary-sub').textContent = `今日 · ${label}`;
   const targetKeys = ovState.selectedBase ? [ovState.selectedBase] : keys;
-
   if (!targetKeys.length) {
-    document.getElementById('total-summary-row').innerHTML =
-      `<div style="font-size:0.86rem;color:var(--text-tertiary);padding:8px 0">等待資料更新…</div>`;
+    document.getElementById('total-summary-row').innerHTML = `<div style="font-size:0.86rem;color:var(--text-tertiary);padding:8px 0">等待資料更新…</div>`;
     return;
   }
-
   const validAvgs = targetKeys.map(k=>getCropAvgA(k)).filter(v=>v!==null);
   const validPrev = targetKeys.map(k=>getCropPrevA(k)).filter(v=>v!==null);
   const validVols = targetKeys.map(k=>getCropTotalVolA(k)).filter(v=>v!==null);
-
   const avgA     = validAvgs.length ? +(validAvgs.reduce((a,b)=>a+b,0)/validAvgs.length).toFixed(1) : null;
   const prevA    = validPrev.length ? +(validPrev.reduce((a,b)=>a+b,0)/validPrev.length).toFixed(1) : null;
   const totalVol = validVols.length ? validVols.reduce((a,b)=>a+b,0) : null;
@@ -194,7 +160,6 @@ function renderTotalSummary() {
   const {val:vv,unit:vu} = safeV(totalVol);
   const ad   = safeP(avgA);
   const rd   = avgA!==null ? safeP(avgA*3) : NA;
-
   document.getElementById('total-summary-row').innerHTML = `
     <div class="metric"><div class="metric-label">均價（拍賣）</div>
       <div class="metric-value">${ad}<span class="metric-unit">${ad!==NA?pl:''}</span></div>
@@ -208,7 +173,6 @@ function renderTotalSummary() {
   `;
 }
 
-/* ── 漲跌排行 ── */
 function renderRankings() {
   const keys  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   const items = keys.map(k => {
@@ -222,8 +186,7 @@ function renderRankings() {
   const nc  = ['gold','silver','bronze'];
   const mk  = (list) => list.slice(0,5).map((item,i) => {
     const pd = safeP(item.avg);
-    const cd = item.pct!==null
-      ? `${item.pct>0?'▲':item.pct<0?'▼':'—'} ${Math.abs(item.pct).toFixed(1)}%` : NA;
+    const cd = item.pct!==null ? `${item.pct>0?'▲':item.pct<0?'▼':'—'} ${Math.abs(item.pct).toFixed(1)}%` : NA;
     const cc = item.pct===null?'color-flat':item.pct>0?'color-up':item.pct<0?'color-down':'color-flat';
     return `<div class="rank-item">
       <span class="rank-no ${nc[i]||''}">${i+1}</span>
@@ -236,12 +199,10 @@ function renderRankings() {
   document.getElementById('rank-down').innerHTML = mk([...sorted].reverse());
 }
 
-/* ── 商品卡片（大類）── */
 function renderGrid() {
   const catLabel = ovState.mainCat==='fruit'?'水果':'蔬菜';
   document.getElementById('grid-title').innerHTML =
     `${catLabel}總覽 <span class="card-title-sub">點擊品項查看詳情</span>`;
-
   const allKeys     = getFilteredKeys();
   const hasSearch   = ovState.searchQuery.trim().length > 0;
   const showAll     = ovState.showAll || hasSearch;
@@ -252,18 +213,18 @@ function renderGrid() {
   if (!allKeys.length) {
     document.getElementById('overview-grid').innerHTML =
       `<div style="font-size:0.86rem;color:var(--text-tertiary);padding:12px 0">
-        ${hasSearch ? `找不到「${esc(ovState.searchQuery)}」` : '資料尚未更新，等待每日自動更新（每日早上 6:00）'}
+        ${hasSearch ? `找不到「${esc(ovState.searchQuery)}」` : '資料尚未更新，等待每日自動更新。'}
       </div>`;
     return;
   }
 
   const cardsHtml = displayKeys.map(key => {
-    const avg = getCropAvgA(key), prev = getCropPrevA(key), vol = getCropTotalVolA(key);
-    const chg = safeC(avg, prev);
-    const {val:vv,unit:vu} = safeV(vol);
-    const pd  = safeP(avg);
-    const sel = key===ovState.selectedBase ? 'selected' : '';
-    const varCount = CROP_DATA[key]?.varieties?.length || 0;
+    const avg=getCropAvgA(key), prev=getCropPrevA(key), vol=getCropTotalVolA(key);
+    const chg=safeC(avg,prev);
+    const {val:vv,unit:vu}=safeV(vol);
+    const pd=safeP(avg);
+    const sel=key===ovState.selectedBase?'selected':'';
+    const varCount=CROP_DATA[key]?.varieties?.length||0;
     return `<div class="crop-card ${sel}" onclick="selectBase('${esc(key)}')">
       <div class="crop-card-name">${key}${varCount>1?`<span style="font-size:0.64rem;color:var(--text-tertiary);margin-left:4px">${varCount}品種</span>`:''}</div>
       <div><span class="crop-card-price">${pd}</span><span class="crop-card-unit">${pd!==NA?pl:''}</span></div>
@@ -276,15 +237,11 @@ function renderGrid() {
   if (!hasSearch) {
     if (!showAll && remaining > 0) {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:6px">
-        <button onclick="toggleShowAll()" style="font-size:0.86rem;padding:6px 20px;
-          border:0.5px solid var(--border-strong);border-radius:20px;
-          color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
+        <button onclick="toggleShowAll()" style="font-size:0.86rem;padding:6px 20px;border:0.5px solid var(--border-strong);border-radius:20px;color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
           查看更多（還有 ${remaining} 項）</button></div>`;
     } else if (showAll && allKeys.length > ITEMS_DEFAULT) {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:6px">
-        <button onclick="toggleShowAll()" style="font-size:0.86rem;padding:6px 20px;
-          border:0.5px solid var(--border-strong);border-radius:20px;
-          color:var(--text-tertiary);background:var(--bg-card);cursor:pointer">
+        <button onclick="toggleShowAll()" style="font-size:0.86rem;padding:6px 20px;border:0.5px solid var(--border-strong);border-radius:20px;color:var(--text-tertiary);background:var(--bg-card);cursor:pointer">
           收起</button></div>`;
     }
   }
@@ -298,7 +255,6 @@ function renderOverview() {
   renderGrid();
 }
 
-/* ── 詳情 ── */
 function setPriceType(t) {
   ovState.priceType = t;
   document.getElementById('ptab-a').className='ptt '+(t==='auction'?'active auction':'auction');
@@ -332,21 +288,19 @@ function toggleLayer(k,el) {
 
 function renderDetail() {
   if (!ovState.selectedBase) return;
-  const crop = CROP_DATA[ovState.selectedBase];
-  if (!crop) return;
-  const v   = crop.varieties[ovState.selectedVar] || crop.varieties[0];
-  const isA = ovState.priceType === 'auction';
-  const pl  = Units.priceLabel();
+  const crop=CROP_DATA[ovState.selectedBase]; if (!crop) return;
+  const v=crop.varieties[ovState.selectedVar]||crop.varieties[0];
+  const isA=ovState.priceType==='auction';
+  const pl=Units.priceLabel();
   const avgKg=isA?v.avgA:v.avgW, prevKg=isA?v.prevA:v.prevW;
-  const hiKg=isA?v.hiA:v.hiW,   loKg=isA?v.loA:v.loW, volKg=isA?v.volA:v.volW;
+  const hiKg=isA?v.hiA:v.hiW, loKg=isA?v.loA:v.loW, volKg=isA?v.volA:v.volW;
   const chg=safeC(avgKg,prevKg);
   const {val:vv,unit:vu}=safeV(volKg);
   const ad=safeP(avgKg),hd=safeP(hiKg),ld=safeP(loKg);
   const rd=avgKg!==null?safeP(avgKg*3):NA;
   const badge=isA?'<span class="badge badge-auction">拍賣</span>':'<span class="badge badge-wholesale">行口</span>';
-
   document.getElementById('det-title').innerHTML=v.name+' '+badge;
-  document.getElementById('det-sub').textContent=v.code+' · '+pl;
+  document.getElementById('det-sub').textContent=(v.code||'')+' · '+pl;
   document.getElementById('det-sum-row').innerHTML=`
     <div class="metric"><div class="metric-label">今日均價</div><div class="metric-value">${ad}<span class="metric-unit">${ad!==NA?pl:''}</span></div><div class="metric-sub ${chg.cls}">${chg.arrow} ${chg.text}</div></div>
     <div class="metric"><div class="metric-label">上價</div><div class="metric-value color-up">${hd}<span class="metric-unit">${hd!==NA?pl:''}</span></div></div>
@@ -354,8 +308,6 @@ function renderDetail() {
     <div class="metric"><div class="metric-label">成交量</div><div class="metric-value">${vv}<span class="metric-unit">${vu}</span></div></div>
     <div class="metric"><div class="metric-label">預估零售</div><div class="metric-value">${rd}<span class="metric-unit">${rd!==NA?pl:''}</span></div><div class="metric-sub" style="color:var(--text-tertiary)">×3 倍估算</div></div>
   `;
-
-  /* 同品種比較表 */
   document.getElementById('var-sub').textContent=ovState.selectedBase+'（'+pl+'）';
   document.getElementById('th-avg').textContent='均價('+pl+')';
   document.getElementById('th-hi').textContent='上價('+pl+')';
@@ -376,7 +328,6 @@ function renderDetail() {
       <td class="vol-cell">${vval} ${vunit}</td>
     </tr>`;
   }).join('');
-
   renderTrendChart();
   renderMarkets();
 }
@@ -424,7 +375,7 @@ function renderMarkets() {
     const fillC=isBest?'#C0DD97':isWorst?'#F7C1C1':'#D3D1C7';
     const textC=isBest?'#27500A':isWorst?'#791F1F':'#5F5E5A';
     const {val:vv,unit:vu}=safeV(m.volKg);
-    const rC=REGION_COLOR[m.region]||'#888', rB=REGION_BG[m.region]||'#eee';
+    const rC=REGION_COLOR[m.region]||'#888',rB=REGION_BG[m.region]||'#eee';
     return `<div class="market-row">
       <div class="market-name" title="${m.name}">${m.name}</div>
       <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${safeP(m.priceKg)}</span></div></div>
@@ -436,7 +387,6 @@ function renderMarkets() {
   }).join('');
 }
 
-/* ── 單位切換 ── */
 function setPriceUnit(u,el) {
   Units.setPriceUnit(u);
   document.querySelectorAll('#price-unit-seg .seg-btn').forEach(b=>b.classList.remove('active'));
@@ -453,7 +403,6 @@ function setVolUnit(u,el) {
   if (ovState.selectedBase) renderDetail();
 }
 
-/* ── 初始化 ── */
 document.addEventListener('DOMContentLoaded', () => {
   setPriceType('auction');
   window.DATA_READY.then(() => {
