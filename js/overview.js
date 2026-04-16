@@ -1,4 +1,4 @@
-/* overview.js — 行情總覽頁，使用真實資料，缺漏顯示 N/A */
+/* overview.js — 行情總覽頁 */
 
 let ovState = {
   mainCat:      'fruit',
@@ -8,8 +8,13 @@ let ovState = {
   varIdx:       0,
   range:        30,
   layers:       { lastYear:false, band:false, ma:false, vol:false },
+  searchQuery:  '',
+  showAll:      false,
 };
 
+const ITEMS_DEFAULT = 10;
+
+/* ── 工具 ── */
 function safePrice(val) {
   if (val === null || val === undefined || isNaN(parseFloat(val))) return NA;
   return Units.convPrice(parseFloat(val));
@@ -21,8 +26,7 @@ function safeVol(val) {
 }
 
 function safeChg(cur, prev) {
-  if (cur === null || prev === null || cur === NA || prev === NA ||
-      isNaN(parseFloat(cur)) || isNaN(parseFloat(prev))) {
+  if (cur === null || prev === null || isNaN(parseFloat(cur)) || isNaN(parseFloat(prev))) {
     return { text: NA, cls: 'color-flat', arrow: '' };
   }
   return Units.formatChange(parseFloat(cur), parseFloat(prev));
@@ -38,16 +42,30 @@ function guessRegion(name) {
 
 /* ── 種類切換 ── */
 function switchMainCat(cat) {
-  ovState.mainCat = cat;
+  ovState.mainCat      = cat;
   ovState.selectedCrop = null;
-  ovState.varIdx = 0;
+  ovState.varIdx       = 0;
+  ovState.searchQuery  = '';
+  ovState.showAll      = false;
   document.getElementById('tab-fruit').classList.toggle('active', cat === 'fruit');
-  document.getElementById('tab-vege').classList.toggle('active', cat === 'vege');
+  document.getElementById('tab-vege').classList.toggle('active',  cat === 'vege');
+  /* 清空搜尋框 */
+  const inp = document.getElementById('crop-search');
+  if (inp) inp.value = '';
   buildSubPills();
   renderOverview();
   document.getElementById('detail-section').style.display = 'none';
 }
 
+/* ── 取得過濾後的作物清單 ── */
+function getFilteredKeys() {
+  const q    = ovState.searchQuery.trim().toLowerCase();
+  const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
+  if (!q) return keys;
+  return keys.filter(k => k.toLowerCase().includes(q));
+}
+
+/* ── sub pills（選中作物的快速 pill，保持不變）── */
 function buildSubPills() {
   const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   if (!keys.length) {
@@ -55,15 +73,40 @@ function buildSubPills() {
       `<span style="font-size:0.86rem;color:var(--text-tertiary)">資料載入中，請稍後…</span>`;
     return;
   }
-  document.getElementById('sub-pills').innerHTML = keys.map(k =>
-    `<button class="cpill ${k === ovState.selectedCrop ? 'active' : ''}"
-      onclick="selectCrop('${k}')">${k}</button>`
-  ).join('');
+  /* 只顯示已選中的那一個（讓用戶知道目前選的是什麼） */
+  if (ovState.selectedCrop) {
+    document.getElementById('sub-pills').innerHTML =
+      `<button class="cpill active" onclick="selectCrop('${ovState.selectedCrop}')">${ovState.selectedCrop}</button>
+       <button class="cpill" onclick="clearCrop()" style="color:var(--text-tertiary)">✕ 清除選擇</button>`;
+  } else {
+    document.getElementById('sub-pills').innerHTML = '';
+  }
 }
 
-function selectCrop(key) {
-  ovState.selectedCrop = ovState.selectedCrop === key ? null : key;
+function clearCrop() {
+  ovState.selectedCrop = null;
   ovState.varIdx = 0;
+  buildSubPills();
+  renderOverview();
+  document.getElementById('detail-section').style.display = 'none';
+}
+
+/* ── 搜尋 ── */
+function onCropSearch(val) {
+  ovState.searchQuery = val;
+  ovState.showAll     = val.trim().length > 0; /* 有搜尋時顯示全部結果 */
+  renderGrid();
+}
+
+/* ── 選擇作物 ── */
+function selectCrop(key) {
+  if (ovState.selectedCrop === key) {
+    ovState.selectedCrop = null;
+    ovState.varIdx = 0;
+  } else {
+    ovState.selectedCrop = key;
+    ovState.varIdx = 0;
+  }
   buildSubPills();
   renderOverview();
   const det = document.getElementById('detail-section');
@@ -100,7 +143,7 @@ function renderTotalSummary() {
 
   const chg     = safeChg(avgA, prevA);
   const pl      = Units.priceLabel();
-  const { val:vv, unit:vu } = safeVol(totalVol);
+  const {val:vv,unit:vu} = safeVol(totalVol);
   const avgDisp = safePrice(avgA);
   const retDisp = avgA !== null ? safePrice(avgA * 3) : NA;
 
@@ -117,12 +160,12 @@ function renderTotalSummary() {
   `;
 }
 
-/* ── 排行 ── */
+/* ── 漲跌排行 ── */
 function renderRankings() {
   const keys  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === ovState.mainCat);
   const items = keys.map(k => {
     const avg = getCropAvgA(k), prev = getCropPrevA(k);
-    const pct = avg!==null && prev!==null && prev!==0 ? (avg-prev)/prev*100 : null;
+    const pct = avg!==null&&prev!==null&&prev!==0 ? (avg-prev)/prev*100 : null;
     return { key:k, avg, pct };
   });
   const sorted = [...items.filter(i=>i.pct!==null).sort((a,b)=>b.pct-a.pct),
@@ -145,24 +188,53 @@ function renderRankings() {
   document.getElementById('rank-down').innerHTML = mk([...sorted].reverse());
 }
 
-/* ── 商品卡片 ── */
+/* ── 商品卡片網格（含搜尋 + 查看更多）── */
 function renderGrid() {
-  const catLabel = ovState.mainCat==='fruit'?'水果':'蔬菜';
+  const catLabel = ovState.mainCat === 'fruit' ? '水果' : '蔬菜';
   document.getElementById('grid-title').innerHTML =
     `${catLabel}總覽 <span class="card-title-sub">點擊商品查看詳情</span>`;
-  const keys = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat===ovState.mainCat);
-  const pl   = Units.priceLabel();
-  if (!keys.length) {
-    document.getElementById('overview-grid').innerHTML =
-      `<div style="grid-column:1/-1;font-size:0.86rem;color:var(--text-tertiary);padding:16px 0">資料尚未更新，等待每日自動更新（每日早上 6:00）。</div>`;
+
+  const allKeys      = getFilteredKeys();
+  const hasSearch    = ovState.searchQuery.trim().length > 0;
+  const showAll      = ovState.showAll || hasSearch;
+  const displayKeys  = showAll ? allKeys : allKeys.slice(0, ITEMS_DEFAULT);
+  const remaining    = allKeys.length - ITEMS_DEFAULT;
+  const pl           = Units.priceLabel();
+
+  /* 搜尋框 */
+  const searchHtml = `
+    <div style="margin-bottom:10px;position:relative">
+      <input
+        id="crop-search"
+        type="text"
+        placeholder="搜尋${catLabel}名稱…"
+        value="${escHtml(ovState.searchQuery)}"
+        oninput="onCropSearch(this.value)"
+        style="width:100%;height:34px;padding:0 10px 0 32px;font-size:0.86rem;
+               border:0.5px solid var(--border-strong);border-radius:var(--radius-sm);
+               background:var(--bg-card);color:var(--text-primary);outline:none;font-family:var(--font)">
+      <svg viewBox="0 0 20 20" style="position:absolute;left:9px;top:50%;transform:translateY(-50%);
+        width:14px;height:14px;fill:none;stroke:var(--text-tertiary);stroke-width:2;pointer-events:none">
+        <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
+      </svg>
+    </div>`;
+
+  if (!allKeys.length) {
+    document.getElementById('overview-grid').outerHTML =
+      `<div id="overview-grid">${searchHtml}
+        <div style="font-size:0.86rem;color:var(--text-tertiary);padding:12px 0">
+          ${hasSearch ? `找不到「${escHtml(ovState.searchQuery)}」，請換個關鍵字` : '資料尚未更新，等待每日自動更新（每日早上 6:00）'}
+        </div>
+      </div>`;
     return;
   }
-  document.getElementById('overview-grid').innerHTML = keys.map(key => {
-    const avg=getCropAvgA(key), prev=getCropPrevA(key), vol=getCropTotalVolA(key);
-    const chg=safeChg(avg,prev);
-    const {val:vv,unit:vu}=safeVol(vol);
-    const pd=safePrice(avg);
-    const sel=key===ovState.selectedCrop?'selected':'';
+
+  const cardsHtml = displayKeys.map(key => {
+    const avg = getCropAvgA(key), prev = getCropPrevA(key), vol = getCropTotalVolA(key);
+    const chg = safeChg(avg, prev);
+    const {val:vv, unit:vu} = safeVol(vol);
+    const pd  = safePrice(avg);
+    const sel = key === ovState.selectedCrop ? 'selected' : '';
     return `<div class="crop-card ${sel}" onclick="selectCrop('${key}')">
       <div class="crop-card-name">${key}</div>
       <div><span class="crop-card-price">${pd}</span><span class="crop-card-unit">${pd!==NA?pl:''}</span></div>
@@ -170,6 +242,56 @@ function renderGrid() {
       <div class="crop-card-vol">${vv!==NA?`成交 ${vv} ${vu}`:'成交量 N/A'}</div>
     </div>`;
   }).join('');
+
+  /* 查看更多 / 收起 按鈕 */
+  let moreHtml = '';
+  if (!hasSearch) {
+    if (!showAll && remaining > 0) {
+      moreHtml = `
+        <div style="grid-column:1/-1;text-align:center;padding-top:4px">
+          <button onclick="toggleShowAll()" style="
+            font-size:0.86rem;padding:6px 20px;
+            border:0.5px solid var(--border-strong);border-radius:20px;
+            color:var(--text-secondary);background:var(--bg-card);cursor:pointer;
+            transition:all 0.12s">
+            查看更多（還有 ${remaining} 項）
+          </button>
+        </div>`;
+    } else if (showAll && allKeys.length > ITEMS_DEFAULT) {
+      moreHtml = `
+        <div style="grid-column:1/-1;text-align:center;padding-top:4px">
+          <button onclick="toggleShowAll()" style="
+            font-size:0.86rem;padding:6px 20px;
+            border:0.5px solid var(--border-strong);border-radius:20px;
+            color:var(--text-secondary);background:var(--bg-card);cursor:pointer;
+            transition:all 0.12s">
+            收起
+          </button>
+        </div>`;
+    }
+  }
+
+  /* 用 outerHTML 替換，保留 id */
+  const el = document.getElementById('overview-grid');
+  el.innerHTML = searchHtml +
+    `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:8px">
+      ${cardsHtml}${moreHtml}
+    </div>`;
+
+  /* 還原 focus 到搜尋框 */
+  if (hasSearch) {
+    const inp = document.getElementById('crop-search');
+    if (inp) { inp.focus(); inp.setSelectionRange(inp.value.length, inp.value.length); }
+  }
+}
+
+function toggleShowAll() {
+  ovState.showAll = !ovState.showAll;
+  renderGrid();
+}
+
+function escHtml(s) {
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
 function renderOverview() {
@@ -223,7 +345,7 @@ function renderDetail() {
   const hiKg=isA?v.hiA:v.hiW, loKg=isA?v.loA:v.loW, volKg=isA?v.volA:v.volW;
   const chg=safeChg(avgKg,prevKg);
   const {val:vv,unit:vu}=safeVol(volKg);
-  const ad=safePrice(avgKg), hd=safePrice(hiKg), ld=safePrice(loKg);
+  const ad=safePrice(avgKg),hd=safePrice(hiKg),ld=safePrice(loKg);
   const rd=avgKg!==null?safePrice(avgKg*3):NA;
   const badge=isA?'<span class="badge badge-auction">拍賣</span>':'<span class="badge badge-wholesale">行口</span>';
 
@@ -242,8 +364,8 @@ function renderDetail() {
   document.getElementById('th-lo').textContent='下價('+pl+')';
   document.getElementById('th-vol').textContent='成交量('+Units.volLabel()+')';
   document.getElementById('var-body').innerHTML=crop.varieties.map((vv2,i)=>{
-    const a=isA?vv2.avgA:vv2.avgW, pr=isA?vv2.prevA:vv2.prevW;
-    const h=isA?vv2.hiA:vv2.hiW, l=isA?vv2.loA:vv2.loW, vol=isA?vv2.volA:vv2.volW;
+    const a=isA?vv2.avgA:vv2.avgW,pr=isA?vv2.prevA:vv2.prevW;
+    const h=isA?vv2.hiA:vv2.hiW,l=isA?vv2.loA:vv2.loW,vol=isA?vv2.volA:vv2.volW;
     const c=safeChg(a,pr);
     const {val:vval,unit:vunit}=safeVol(vol);
     return `<tr class="${i===ovState.varIdx?'selected':''}" onclick="selectVar(${i})">
@@ -260,7 +382,6 @@ function renderDetail() {
   renderMarkets();
 }
 
-/* ── 趨勢圖：真實歷史資料 ── */
 function renderTrendChart() {
   if (!ovState.selectedCrop) return;
   const crop=CROP_DATA[ovState.selectedCrop];
@@ -269,7 +390,7 @@ function renderTrendChart() {
   const slice=hist.slice(-ovState.range);
   if (slice.length<2) {
     document.getElementById('trend-legend').innerHTML=
-      `<span style="font-size:0.79rem;color:var(--text-tertiary)">歷史資料不足，無法繪製趨勢圖（N/A）</span>`;
+      `<span style="font-size:0.79rem;color:var(--text-tertiary)">歷史資料不足（N/A）</span>`;
     return;
   }
   const labels=slice.map(d=>{const p=d.date.split('.');return p.length>=3?`${parseInt(p[1])}/${parseInt(p[2])}`:d.date;});
@@ -279,13 +400,11 @@ function renderTrendChart() {
   if (ovState.layers.vol) Charts.drawVolRaw({canvasId:'volC',labels,volData:volD});
   const mainColor=ovState.priceType==='auction'?'#854F0B':'#185FA5';
   const pl=Units.priceLabel();
-  const legParts=[`<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${ovState.priceType==='auction'?'拍賣均價':'行口均價'}（${pl}）— 農業部實際資料</span>`];
-  if (ovState.layers.lastYear) legParts.push(`<span class="legend-item"><span class="legend-dashed" style="color:#639922"></span>去年同期（N/A — 待資料累積）</span>`);
-  document.getElementById('trend-legend').innerHTML=legParts.join('');
+  document.getElementById('trend-legend').innerHTML=
+    `<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${ovState.priceType==='auction'?'拍賣均價':'行口均價'}（${pl}）— 農業部實際資料</span>`;
   document.getElementById('season-note').textContent=crop.season;
 }
 
-/* ── 市場比較：真實 mktSummary ── */
 function renderMarkets() {
   if (!ovState.selectedCrop) return;
   const crop=CROP_DATA[ovState.selectedCrop];
@@ -310,7 +429,7 @@ function renderMarkets() {
     const fillC=isBest?'#C0DD97':isWorst?'#F7C1C1':'#D3D1C7';
     const textC=isBest?'#27500A':isWorst?'#791F1F':'#5F5E5A';
     const {val:vv,unit:vu}=safeVol(m.volKg);
-    const rC=REGION_COLOR[m.region]||'#888', rB=REGION_BG[m.region]||'#eee';
+    const rC=REGION_COLOR[m.region]||'#888',rB=REGION_BG[m.region]||'#eee';
     return `<div class="market-row">
       <div class="market-name" title="${m.name}">${m.name}</div>
       <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${safePrice(m.priceKg)}</span></div></div>
@@ -322,7 +441,6 @@ function renderMarkets() {
   }).join('');
 }
 
-/* ── 單位切換 ── */
 function setPriceUnit(u,el) {
   Units.setPriceUnit(u);
   document.querySelectorAll('#price-unit-seg .seg-btn').forEach(b=>b.classList.remove('active'));
@@ -339,10 +457,12 @@ function setVolUnit(u,el) {
   if (ovState.selectedCrop) renderDetail();
 }
 
-/* ── 初始化 ── */
 document.addEventListener('DOMContentLoaded', () => {
   setPriceType('auction');
   buildSubPills();
-  window.DATA_READY.then(() => { buildSubPills(); renderOverview(); });
-  setTimeout(()=>{ const f=document.getElementById('loading-fill'); if(f) f.classList.remove('active'); },2000);
+  window.DATA_READY.then(() => {
+    buildSubPills();
+    renderOverview();
+  });
+  setTimeout(()=>{ const f=document.getElementById('loading-fill'); if(f) f.classList.remove('active'); }, 2000);
 });

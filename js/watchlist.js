@@ -1,4 +1,4 @@
-/* watchlist.js — 我的關注頁邏輯 */
+/* watchlist.js — 我的關注頁 */
 
 const LS_KEY = 'agri_watchlist_v1';
 
@@ -12,29 +12,73 @@ let wState = {
   layers:     { lastYear:false, band:false, ma:false, vol:false },
 };
 
+const W_ITEMS_DEFAULT = 10;
+
 function rng(s){ const x=Math.sin(s+1)*10000; return x-Math.floor(x); }
 
 function loadSaved() {
-  try { return JSON.parse(localStorage.getItem(LS_KEY) || '[]'); }
-  catch(e) { return []; }
+  try { return JSON.parse(localStorage.getItem(LS_KEY)||'[]'); } catch { return []; }
 }
 
-function saveCrops(list) {
-  localStorage.setItem(LS_KEY, JSON.stringify(list));
-}
+function saveCrops(list) { localStorage.setItem(LS_KEY, JSON.stringify(list)); }
 
+/* ── 建立選擇清單（從真實 CROP_DATA 讀取）── */
 function buildPickGrids() {
   const fruits = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'fruit');
   const veges  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'vege');
 
-  const render = (keys) => keys.map(k => `
-    <div class="pick-item" id="pick-${k}" onclick="togglePick('${k}')">
-      ${k}<span class="pick-check" id="pick-check-${k}"></span>
-    </div>
-  `).join('');
+  const renderSection = (keys, containerId) => {
+    const el = document.getElementById(containerId);
+    if (!el) return;
 
-  document.getElementById('pick-fruit').innerHTML = render(fruits);
-  document.getElementById('pick-vege').innerHTML  = render(veges);
+    if (!keys.length) {
+      el.innerHTML = `<span style="font-size:0.86rem;color:var(--text-tertiary)">資料載入中…</span>`;
+      return;
+    }
+
+    /* 預設只顯示前 10 個，其餘收起 */
+    const showAll  = el.dataset.showAll === 'true';
+    const display  = showAll ? keys : keys.slice(0, W_ITEMS_DEFAULT);
+    const remaining = keys.length - W_ITEMS_DEFAULT;
+
+    const itemsHtml = display.map(k => {
+      const isChecked = wState.savedCrops.includes(k);
+      return `<div class="pick-item ${isChecked?'checked':''}" id="pick-${k}" onclick="togglePick('${k}')">
+        ${k}<span class="pick-check" id="pick-check-${k}">${isChecked?'✓':''}</span>
+      </div>`;
+    }).join('');
+
+    let moreHtml = '';
+    if (!showAll && remaining > 0) {
+      moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
+        <button onclick="togglePickShowAll('${containerId}')" style="
+          font-size:0.82rem;padding:5px 16px;
+          border:0.5px solid var(--border-strong);border-radius:20px;
+          color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
+          查看更多（還有 ${remaining} 項）
+        </button></div>`;
+    } else if (showAll && keys.length > W_ITEMS_DEFAULT) {
+      moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
+        <button onclick="togglePickShowAll('${containerId}')" style="
+          font-size:0.82rem;padding:5px 16px;
+          border:0.5px solid var(--border-strong);border-radius:20px;
+          color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
+          收起
+        </button></div>`;
+    }
+
+    el.innerHTML = itemsHtml + moreHtml;
+  };
+
+  renderSection(fruits, 'pick-fruit');
+  renderSection(veges,  'pick-vege');
+}
+
+function togglePickShowAll(containerId) {
+  const el = document.getElementById(containerId);
+  if (!el) return;
+  el.dataset.showAll = el.dataset.showAll === 'true' ? 'false' : 'true';
+  buildPickGrids();
 }
 
 function togglePick(key) {
@@ -44,12 +88,12 @@ function togglePick(key) {
 
   if (idx >= 0) {
     wState.savedCrops.splice(idx, 1);
-    el.classList.remove('checked');
-    check.textContent = '';
+    el?.classList.remove('checked');
+    if (check) check.textContent = '';
   } else {
     wState.savedCrops.push(key);
-    el.classList.add('checked');
-    check.textContent = '✓';
+    el?.classList.add('checked');
+    if (check) check.textContent = '✓';
   }
 
   document.getElementById('confirm-btn').disabled = wState.savedCrops.length === 0;
@@ -65,12 +109,15 @@ function showMainScreen() {
   document.getElementById('setup-screen').style.display = 'none';
   document.getElementById('main-screen').style.display  = 'block';
   buildWatchTabs();
-  if (wState.activeCrop) wRenderAll();
+  if (wState.activeCrop) {
+    wRenderAll();
+    fetchNews(wState.activeCrop, 'w-news-list');
+  }
 }
 
 function buildWatchTabs() {
   const tabs = wState.savedCrops.map(k =>
-    `<button class="watch-tab ${k === wState.activeCrop ? 'active' : ''}"
+    `<button class="watch-tab ${k===wState.activeCrop?'active':''}"
       onclick="wSelectCrop('${k}')">${k}</button>`
   ).join('');
   document.getElementById('watch-tabs').innerHTML =
@@ -82,58 +129,50 @@ function wSelectCrop(key) {
   wState.varIdx     = 0;
   buildWatchTabs();
   wRenderAll();
-  /* 載入即時新聞 */
   fetchNews(key, 'w-news-list');
 }
 
 function showSetup() {
   document.getElementById('main-screen').style.display  = 'none';
   document.getElementById('setup-screen').style.display = 'block';
-  wState.savedCrops.forEach(k => {
-    const el    = document.getElementById('pick-' + k);
-    const check = document.getElementById('pick-check-' + k);
-    if (el)    el.classList.add('checked');
-    if (check) check.textContent = '✓';
-  });
+  buildPickGrids();
   document.getElementById('confirm-btn').disabled = false;
   document.getElementById('confirm-btn').textContent = '更新我的清單';
 }
 
+/* ── 價格類型 ── */
 function wSetPriceType(t) {
   wState.priceType = t;
-  document.getElementById('w-ptab-a').className = 'ptt ' + (t === 'auction' ? 'active auction' : 'auction');
-  document.getElementById('w-ptab-w').className = 'ptt ' + (t === 'wholesale' ? 'active wholesale' : 'wholesale');
-  document.getElementById('w-ptype-note').textContent = t === 'auction'
-    ? '拍賣價：農民送拍、市場公開競標，價格透明。來源：農業部 / 高雄果菜公司 / 台中果菜公司'
-    : '行口價：行口盤商收購，通常比拍賣價低 5–15%，注意兩者不可混合計算。';
+  document.getElementById('w-ptab-a').className='ptt '+(t==='auction'?'active auction':'auction');
+  document.getElementById('w-ptab-w').className='ptt '+(t==='wholesale'?'active wholesale':'wholesale');
+  document.getElementById('w-ptype-note').textContent = t==='auction'
+    ? '拍賣價：農民送拍、市場公開競標，價格透明。來源：農業部批發市場 / 高雄果菜公司 / 台中果菜公司'
+    : '行口價：以拍賣均價 × 0.9 估算，實際行口價依各地市場而異，僅供參考。';
   wRenderAll();
 }
 
 function wSetMktType(t) {
-  wState.mktType = t;
-  document.getElementById('w-mptab-a').className = 'ptt ' + (t === 'auction' ? 'active auction' : 'auction');
-  document.getElementById('w-mptab-w').className = 'ptt ' + (t === 'wholesale' ? 'active wholesale' : 'wholesale');
+  wState.mktType=t;
+  document.getElementById('w-mptab-a').className='ptt '+(t==='auction'?'active auction':'auction');
+  document.getElementById('w-mptab-w').className='ptt '+(t==='wholesale'?'active wholesale':'wholesale');
   wRenderMarkets();
 }
 
-function wSetRange(n, el) {
-  wState.range = n;
-  document.querySelectorAll('#w-range-tg .tb').forEach(b => b.classList.remove('active'));
+function wSetRange(n,el) {
+  wState.range=n;
+  document.querySelectorAll('#w-range-tg .tb').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');
   wRenderTrend();
 }
 
-function wToggleLayer(k, el) {
-  wState.layers[k] = !wState.layers[k];
-  el.classList.toggle('active', wState.layers[k]);
-  document.getElementById('w-vol-wrap').style.display = wState.layers.vol ? 'block' : 'none';
+function wToggleLayer(k,el) {
+  wState.layers[k]=!wState.layers[k];
+  el.classList.toggle('active',wState.layers[k]);
+  document.getElementById('w-vol-wrap').style.display=wState.layers.vol?'block':'none';
   wRenderTrend();
 }
 
-function wSelectVar(i) {
-  wState.varIdx = i;
-  wRenderAll();
-}
+function wSelectVar(i) { wState.varIdx=i; wRenderAll(); }
 
 function wRenderAll() {
   wRenderSummary();
@@ -142,60 +181,66 @@ function wRenderAll() {
   wRenderMarkets();
 }
 
+/* ── 安全工具 ── */
+function wSafePrice(val) {
+  if (val===null||val===undefined||isNaN(parseFloat(val))) return NA;
+  return Units.convPrice(parseFloat(val));
+}
+function wSafeVol(val) {
+  if (val===null||val===undefined||isNaN(parseFloat(val))) return {val:NA,unit:''};
+  return Units.convVol(parseFloat(val));
+}
+function wSafeChg(cur,prev) {
+  if (cur===null||prev===null||isNaN(parseFloat(cur))||isNaN(parseFloat(prev))) return {text:NA,cls:'color-flat',arrow:''};
+  return Units.formatChange(parseFloat(cur),parseFloat(prev));
+}
+
 function wRenderSummary() {
   if (!wState.activeCrop) return;
-  const crop = CROP_DATA[wState.activeCrop];
-  const v    = crop.varieties[wState.varIdx] || crop.varieties[0];
-  const isA  = wState.priceType === 'auction';
-  const avgKg  = isA ? v.avgA  : v.avgW;
-  const prevKg = isA ? v.prevA : v.prevW;
-  const hiKg   = isA ? v.hiA   : v.hiW;
-  const loKg   = isA ? v.loA   : v.loW;
-  const volKg  = isA ? v.volA  : v.volW;
-  const pl     = Units.priceLabel();
-  const chg    = Units.formatChange(avgKg, prevKg);
-  const { val:vv, unit:vu } = Units.convVol(volKg);
-  const badge  = isA ? '<span class="badge badge-auction">拍賣</span>' : '<span class="badge badge-wholesale">行口</span>';
-
-  document.getElementById('w-crop-title').innerHTML = wState.activeCrop + ' ' + badge;
-  document.getElementById('w-crop-sub').textContent  = v.code + ' · ' + pl;
-
-  document.getElementById('w-sum-row').innerHTML = `
-    <div class="metric"><div class="metric-label">今日均價</div><div class="metric-value">${Units.convPrice(avgKg)}<span class="metric-unit">${pl}</span></div><div class="metric-sub ${chg.cls}">${chg.arrow} ${chg.text}</div></div>
-    <div class="metric"><div class="metric-label">上價</div><div class="metric-value color-up">${Units.convPrice(hiKg)}<span class="metric-unit">${pl}</span></div></div>
-    <div class="metric"><div class="metric-label">下價</div><div class="metric-value color-down">${Units.convPrice(loKg)}<span class="metric-unit">${pl}</span></div></div>
+  const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
+  const v=crop.varieties[wState.varIdx]||crop.varieties[0];
+  const isA=wState.priceType==='auction';
+  const pl=Units.priceLabel();
+  const avgKg=isA?v.avgA:v.avgW,prevKg=isA?v.prevA:v.prevW;
+  const hiKg=isA?v.hiA:v.hiW,loKg=isA?v.loA:v.loW,volKg=isA?v.volA:v.volW;
+  const chg=wSafeChg(avgKg,prevKg);
+  const {val:vv,unit:vu}=wSafeVol(volKg);
+  const ad=wSafePrice(avgKg),hd=wSafePrice(hiKg),ld=wSafePrice(loKg);
+  const rd=avgKg!==null?wSafePrice(avgKg*3):NA;
+  const badge=isA?'<span class="badge badge-auction">拍賣</span>':'<span class="badge badge-wholesale">行口</span>';
+  document.getElementById('w-crop-title').innerHTML=wState.activeCrop+' '+badge;
+  document.getElementById('w-crop-sub').textContent=(v.code||'')+' · '+pl;
+  document.getElementById('w-sum-row').innerHTML=`
+    <div class="metric"><div class="metric-label">今日均價</div><div class="metric-value">${ad}<span class="metric-unit">${ad!==NA?pl:''}</span></div><div class="metric-sub ${chg.cls}">${chg.arrow} ${chg.text}</div></div>
+    <div class="metric"><div class="metric-label">上價</div><div class="metric-value color-up">${hd}<span class="metric-unit">${hd!==NA?pl:''}</span></div></div>
+    <div class="metric"><div class="metric-label">下價</div><div class="metric-value color-down">${ld}<span class="metric-unit">${ld!==NA?pl:''}</span></div></div>
     <div class="metric"><div class="metric-label">成交量</div><div class="metric-value">${vv}<span class="metric-unit">${vu}</span></div></div>
-    <div class="metric"><div class="metric-label">預估零售</div><div class="metric-value">${Units.convPrice(avgKg*3)}<span class="metric-unit">${pl}</span></div><div class="metric-sub" style="color:var(--text-tertiary)">×3 倍估算</div></div>
+    <div class="metric"><div class="metric-label">預估零售</div><div class="metric-value">${rd}<span class="metric-unit">${rd!==NA?pl:''}</span></div><div class="metric-sub" style="color:var(--text-tertiary)">×3 倍估算</div></div>
   `;
 }
 
 function wRenderVarieties() {
   if (!wState.activeCrop) return;
-  const crop = CROP_DATA[wState.activeCrop];
-  const isA  = wState.priceType === 'auction';
-  const pl   = Units.priceLabel();
-
-  document.getElementById('w-var-sub').textContent  = wState.activeCrop + ' 所有品種（' + pl + '）';
-  document.getElementById('w-th-avg').textContent = '均價(' + pl + ')';
-  document.getElementById('w-th-hi').textContent  = '上價(' + pl + ')';
-  document.getElementById('w-th-lo').textContent  = '下價(' + pl + ')';
-  document.getElementById('w-th-vol').textContent = '成交量(' + Units.volLabel() + ')';
-
-  document.getElementById('w-var-body').innerHTML = crop.varieties.map((v, i) => {
-    const a   = isA ? v.avgA  : v.avgW;
-    const pr  = isA ? v.prevA : v.prevW;
-    const h   = isA ? v.hiA   : v.hiW;
-    const l   = isA ? v.loA   : v.loW;
-    const vol = isA ? v.volA  : v.volW;
-    const c   = Units.formatChange(a, pr);
-    const { val:vval, unit:vunit } = Units.convVol(vol);
-    return `<tr class="${i === wState.varIdx ? 'selected' : ''}" onclick="wSelectVar(${i})">
+  const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
+  const isA=wState.priceType==='auction';
+  const pl=Units.priceLabel();
+  document.getElementById('w-var-sub').textContent=wState.activeCrop+'（'+pl+'）';
+  document.getElementById('w-th-avg').textContent='均價('+pl+')';
+  document.getElementById('w-th-hi').textContent='上價('+pl+')';
+  document.getElementById('w-th-lo').textContent='下價('+pl+')';
+  document.getElementById('w-th-vol').textContent='成交量('+Units.volLabel()+')';
+  document.getElementById('w-var-body').innerHTML=crop.varieties.map((v,i)=>{
+    const a=isA?v.avgA:v.avgW,pr=isA?v.prevA:v.prevW;
+    const h=isA?v.hiA:v.hiW,l=isA?v.loA:v.loW,vol=isA?v.volA:v.volW;
+    const c=wSafeChg(a,pr);
+    const {val:vval,unit:vunit}=wSafeVol(vol);
+    return `<tr class="${i===wState.varIdx?'selected':''}" onclick="wSelectVar(${i})">
       <td><span class="variety-name">${v.name}</span></td>
-      <td><span class="badge ${isA ? 'badge-auction' : 'badge-wholesale'}">${isA ? '拍賣' : '行口'}</span></td>
-      <td class="price-cell">${Units.convPrice(a)}</td>
+      <td><span class="badge ${isA?'badge-auction':'badge-wholesale'}">${isA?'拍賣':'行口'}</span></td>
+      <td class="price-cell">${wSafePrice(a)}</td>
       <td class="chg-cell ${c.cls}">${c.arrow} ${c.text}</td>
-      <td class="vol-cell hide-mobile">${Units.convPrice(h)}</td>
-      <td class="vol-cell hide-mobile">${Units.convPrice(l)}</td>
+      <td class="vol-cell hide-mobile">${wSafePrice(h)}</td>
+      <td class="vol-cell hide-mobile">${wSafePrice(l)}</td>
       <td class="vol-cell">${vval} ${vunit}</td>
     </tr>`;
   }).join('');
@@ -203,91 +248,114 @@ function wRenderVarieties() {
 
 function wRenderTrend() {
   if (!wState.activeCrop) return;
-  const crop   = CROP_DATA[wState.activeCrop];
-  const v      = crop.varieties[wState.varIdx] || crop.varieties[0];
-  const isA    = wState.priceType === 'auction';
-  const baseKg = isA ? v.avgA : v.avgW;
-
-  Charts.drawTrend({
-    canvasId:  'w-trendC',
-    baseKg,
-    varSeed:   wState.varIdx * 100,
-    range:     wState.range,
-    priceType: wState.priceType,
-    layers:    wState.layers,
-  });
-
-  if (wState.layers.vol) {
-    Charts.drawVol({ canvasId:'w-volC', n:wState.range, seed:wState.varIdx * 100 });
+  const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
+  const hist=crop.historyPoints||[];
+  const slice=hist.slice(-wState.range);
+  if (slice.length<2) {
+    document.getElementById('w-trend-legend').innerHTML=
+      `<span style="font-size:0.79rem;color:var(--text-tertiary)">歷史資料不足（N/A）</span>`;
+    return;
   }
-
-  const mainColor = isA ? '#854F0B' : '#185FA5';
-  const pl        = Units.priceLabel();
-  const legParts  = [`<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${isA ? '拍賣均價' : '行口均價'}（${pl}）</span>`];
-  if (wState.layers.lastYear) legParts.push(`<span class="legend-item"><span class="legend-dashed" style="color:#639922"></span>去年同期</span>`);
-  if (wState.layers.band)     legParts.push(`<span class="legend-item"><span style="display:inline-block;width:16px;height:8px;background:rgba(99,153,34,0.15);border:0.5px solid rgba(99,153,34,0.4);border-radius:2px"></span>歷史價格帶</span>`);
-  if (wState.layers.ma)       legParts.push(`<span class="legend-item"><span class="legend-dashed" style="color:#BA7517"></span>7日均線</span>`);
-  document.getElementById('w-trend-legend').innerHTML = legParts.join('');
-  document.getElementById('w-season-note').textContent = crop.season;
+  const labels=slice.map(d=>{const p=d.date.split('.');return p.length>=3?`${parseInt(p[1])}/${parseInt(p[2])}`:d.date;});
+  const thisY=slice.map(d=>d.avg!==null?Units.convPrice(d.avg):null);
+  const volD=slice.map(d=>d.vol||0);
+  Charts.drawTrendRaw({canvasId:'w-trendC',labels,thisY,volData:volD,priceType:wState.priceType,layers:wState.layers});
+  if (wState.layers.vol) Charts.drawVolRaw({canvasId:'w-volC',labels,volData:volD});
+  const mainColor=wState.priceType==='auction'?'#854F0B':'#185FA5';
+  const pl=Units.priceLabel();
+  document.getElementById('w-trend-legend').innerHTML=
+    `<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${wState.priceType==='auction'?'拍賣均價':'行口均價'}（${pl}）— 農業部實際資料</span>`;
+  document.getElementById('w-season-note').textContent=crop.season;
 }
 
 function wRenderMarkets() {
   if (!wState.activeCrop) return;
-  const crop   = CROP_DATA[wState.activeCrop];
-  const v      = crop.varieties[wState.varIdx] || crop.varieties[0];
-  const isA    = wState.mktType === 'auction';
-  const mkts   = isA ? AUCTION_MARKETS : WHOLESALE_MARKETS;
-  const baseKg = isA ? v.avgA : v.avgW;
-  const pl     = Units.priceLabel();
-
-  const list = mkts.map((m, i) => ({
-    ...m,
-    priceKg: +(baseKg * (0.82 + rng(i * 13 + wState.varIdx * 7) * 0.36)).toFixed(1),
-    volKg:   Math.round((20 + rng(i * 17) * 200) * 1000),
-  })).sort((a, b) => b.priceKg - a.priceKg);
-
-  const maxP = list[0].priceKg;
-  document.getElementById('w-mkt-sub').textContent = `今日 · ${isA ? '拍賣' : '行口'} · ${v.name}`;
-
-  document.getElementById('w-mkt-section').innerHTML = list.map((m, i) => {
-    const pct     = Math.max(14, (m.priceKg / maxP) * 100);
-    const isBest  = i === 0, isWorst = i === list.length - 1;
-    const fillC   = isBest ? '#C0DD97' : isWorst ? '#F7C1C1' : '#D3D1C7';
-    const textC   = isBest ? '#27500A' : isWorst ? '#791F1F' : '#5F5E5A';
-    const { val:vv, unit:vu } = Units.convVol(m.volKg);
+  const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
+  const isA=wState.mktType==='auction';
+  const pl=Units.priceLabel();
+  const mktSummary=crop.mktSummary||{};
+  const realMkts=Object.entries(mktSummary)
+    .filter(([,v])=>v.avg!==null)
+    .map(([name,v])=>({
+      name,
+      region: guessRegionW(name),
+      priceKg:isA?v.avg:+(v.avg*0.9).toFixed(1),
+      volKg:v.vol||0
+    }))
+    .sort((a,b)=>b.priceKg-a.priceKg);
+  document.getElementById('w-mkt-sub').textContent=`今日 · ${isA?'拍賣':'行口'} · ${wState.activeCrop}`;
+  if (!realMkts.length) {
+    document.getElementById('w-mkt-section').innerHTML=
+      `<div style="font-size:0.86rem;color:var(--text-tertiary);padding:8px 0">此作物目前無市場行情資料（N/A）</div>`;
+    return;
+  }
+  const maxP=realMkts[0].priceKg;
+  document.getElementById('w-mkt-section').innerHTML=realMkts.map((m,i)=>{
+    const pct=Math.max(14,(m.priceKg/maxP)*100);
+    const isBest=i===0,isWorst=i===realMkts.length-1;
+    const fillC=isBest?'#C0DD97':isWorst?'#F7C1C1':'#D3D1C7';
+    const textC=isBest?'#27500A':isWorst?'#791F1F':'#5F5E5A';
+    const {val:vv,unit:vu}=wSafeVol(m.volKg);
+    const rC=REGION_COLOR[m.region]||'#888',rB=REGION_BG[m.region]||'#eee';
     return `<div class="market-row">
-      <div class="market-name">${m.name}</div>
-      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${Units.convPrice(m.priceKg)}</span></div></div>
-      <span class="region-tag" style="color:${REGION_COLOR[m.region]};background:${REGION_BG[m.region]}">${m.region}</span>
-      <span class="market-vol">${vv}${vu.slice(0,1)}</span>
-      ${isBest  ? '<span class="best-tag">最高</span>'  : ''}
-      ${isWorst ? '<span class="worst-tag">最低</span>' : ''}
+      <div class="market-name" title="${m.name}">${m.name}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${wSafePrice(m.priceKg)}</span></div></div>
+      <span class="region-tag" style="color:${rC};background:${rB}">${m.region}</span>
+      <span class="market-vol">${vv!==NA?vv+vu.slice(0,1):NA}</span>
+      ${isBest?'<span class="best-tag">最高</span>':''}
+      ${isWorst?'<span class="worst-tag">最低</span>':''}
     </div>`;
   }).join('');
 }
 
-function setPriceUnit(u, el) {
+function guessRegionW(name) {
+  if (/(台北|板橋|三重|宜蘭|桃園|基隆|新北|新竹|苗栗)/.test(name)) return '北';
+  if (/(台中|彰化|南投|豐原|苑裡)/.test(name)) return '中';
+  if (/(台南|高雄|嘉義|屏東|鳳山|旗山)/.test(name)) return '南';
+  if (/(台東|花蓮)/.test(name)) return '東';
+  return '中';
+}
+
+function setPriceUnit(u,el) {
   Units.setPriceUnit(u);
-  el.parentElement.querySelectorAll('.seg-btn').forEach(b => b.classList.remove('active'));
+  el.parentElement.querySelectorAll('.seg-btn').forEach(b=>b.classList.remove('active'));
   el.classList.add('active');
   wRenderAll();
 }
 
-function setVolUnit(u, el) {
+function setVolUnit(u,el) {
   Units.setVolUnit(u);
-  el.parentElement.querySelectorAll('.seg-btn').forEach(b => b.classList.remove('active','blue'));
+  el.parentElement.querySelectorAll('.seg-btn').forEach(b=>b.classList.remove('active','blue'));
   el.classList.add('active','blue');
   wRenderAll();
 }
 
+/* ── 初始化：等 DATA_READY 再建立選項 ── */
 document.addEventListener('DOMContentLoaded', () => {
-  buildPickGrids();
   const saved = loadSaved();
   if (saved.length > 0) {
     wState.savedCrops = saved;
     wState.activeCrop = saved[0];
-    wSetPriceType('auction');
-    showMainScreen();
-    fetchNews(wState.activeCrop, 'w-news-list');
   }
+
+  /* 等真實資料載入後才建 pick grids */
+  window.DATA_READY.then(() => {
+    buildPickGrids();
+
+    if (wState.savedCrops.length > 0) {
+      /* 確認已儲存的作物在新資料中仍存在 */
+      wState.savedCrops = wState.savedCrops.filter(k => CROP_DATA[k]);
+      if (wState.savedCrops.length > 0) {
+        wState.activeCrop = wState.activeCrop && CROP_DATA[wState.activeCrop]
+          ? wState.activeCrop : wState.savedCrops[0];
+        wSetPriceType('auction');
+        showMainScreen();
+        fetchNews(wState.activeCrop, 'w-news-list');
+        return;
+      }
+    }
+
+    /* 無已儲存資料，顯示設定畫面 */
+    document.getElementById('setup-screen').style.display = 'block';
+  });
 });
