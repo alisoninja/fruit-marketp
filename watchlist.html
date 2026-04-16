@@ -27,10 +27,10 @@
 </header>
 
 <!-- 初始設定畫面 -->
-<div id="setup-screen">
+<div id="setup-screen" style="display:none">
   <div class="watchlist-setup">
     <h2>建立你的關注清單</h2>
-    <p>選擇你想追蹤的水果或蔬菜，可以多選。之後可以隨時修改。</p>
+    <p>選擇你想追蹤的水果或蔬菜，可以多選，之後可隨時修改。</p>
     <div class="pick-section">
       <div class="pick-section-title">水果</div>
       <div class="pick-grid" id="pick-fruit"></div>
@@ -59,8 +59,8 @@
     <div class="unit-switcher" style="margin-left:0;width:100%">
       <span class="filter-label">價格：</span>
       <div class="seg">
-        <button class="seg-btn active" onclick="setPriceUnit('kg',this)">元/公斤</button>
-        <button class="seg-btn"        onclick="setPriceUnit('jin',this)">元/台斤</button>
+        <button class="seg-btn" onclick="setPriceUnit('kg',this)">元/公斤</button>
+        <button class="seg-btn active" onclick="setPriceUnit('jin',this)">元/台斤</button>
       </div>
       <span class="filter-label" style="margin-left:6px">成交量：</span>
       <div class="seg">
@@ -73,6 +73,13 @@
 
   <div class="page-content">
 
+    <!-- 子品種選擇器 -->
+    <div style="margin-bottom:10px" id="w-sub-picker-wrap">
+      <div style="font-size:0.79rem;color:var(--text-secondary);margin-bottom:5px;font-weight:500">選擇品種：</div>
+      <div id="w-sub-variety-picker" class="cat-pills" style="flex-wrap:wrap;gap:5px;display:none"></div>
+    </div>
+
+    <!-- 摘要卡 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="w-crop-title">—</span>
@@ -86,6 +93,7 @@
       <div class="summary-row" id="w-sum-row"></div>
     </div>
 
+    <!-- 同品種比較表 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="w-var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -103,6 +111,7 @@
       </div>
     </div>
 
+    <!-- 趨勢 + 市場 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -153,7 +162,6 @@
 
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
-
     <a href="index.html" class="bnav-item" aria-label="行情總覽">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -164,7 +172,6 @@
       </div>
       <span class="bnav-label">行情總覽</span>
     </a>
-
     <a href="watchlist.html" class="bnav-item active" aria-label="我的關注">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -174,19 +181,15 @@
       </div>
       <span class="bnav-label">我的關注</span>
     </a>
-
     <a href="contact.html" class="bnav-item" aria-label="聯絡我們">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
-          <rect x="2" y="4" width="20" height="16" rx="2"
-            fill="none" stroke="currentColor" stroke-width="1.8"/>
-          <polyline points="2,4 12,13 22,4"
-            fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          <rect x="2" y="4" width="20" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          <polyline points="2,4 12,13 22,4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
         </svg>
       </div>
       <span class="bnav-label">聯絡我們</span>
     </a>
-
   </div>
 </nav>
 

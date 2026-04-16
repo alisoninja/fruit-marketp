@@ -1,10 +1,12 @@
-/* units.js — 單位換算 + 字體大小偏好 */
+/* units.js — 單位換算，預設台斤 */
 
 const Units = (() => {
   const KG_PER_JIN = 0.6;
   const JIN_PER_KG = 1.0 / 0.6;
-  let priceUnit = 'kg';
-  let volUnit   = 'jin';
+
+  /* 預設均改為台斤 */
+  let priceUnit = 'jin';   /* ← 預設台斤 */
+  let volUnit   = 'jin';   /* ← 預設台斤 */
 
   function setPriceUnit(u) { priceUnit = u; }
   function setVolUnit(u)   { volUnit   = u; }
@@ -18,9 +20,9 @@ const Units = (() => {
   }
 
   function smartNum(n) {
-    if (n >= 100000000) return (n / 100000000).toFixed(1).replace(/\.0$/, '') + '億';
-    if (n >= 10000)     return (n / 10000).toFixed(1).replace(/\.0$/, '') + '萬';
-    if (n >= 1000)      return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+    if (n >= 100000000) return (n / 100000000).toFixed(1).replace(/\.0$/,'') + '億';
+    if (n >= 10000)     return (n / 10000).toFixed(1).replace(/\.0$/,'') + '萬';
+    if (n >= 1000)      return (n / 1000).toFixed(1).replace(/\.0$/,'') + 'k';
     return Math.round(n).toString();
   }
 
@@ -66,14 +68,12 @@ const FS_DEFAULT = 14;
 const FS_MIN     = 12;
 const FS_MAX     = 20;
 
-function getCurrentFontSize() {
-  return parseInt(localStorage.getItem(FS_KEY) || FS_DEFAULT, 10);
-}
+function getCurrentFontSize() { return parseInt(localStorage.getItem(FS_KEY) || FS_DEFAULT, 10); }
 
 function applyFontSize(px) {
-  const clamped = Math.max(FS_MIN, Math.min(FS_MAX, px));
-  document.documentElement.style.fontSize = clamped + 'px';
-  localStorage.setItem(FS_KEY, clamped);
+  const c = Math.max(FS_MIN, Math.min(FS_MAX, px));
+  document.documentElement.style.fontSize = c + 'px';
+  localStorage.setItem(FS_KEY, c);
 }
 
 function fontSizeIncrease() { applyFontSize(getCurrentFontSize() + 1); }
@@ -82,19 +82,6 @@ function fontSizeDecrease() { applyFontSize(getCurrentFontSize() - 1); }
 window.fontSizeIncrease = fontSizeIncrease;
 window.fontSizeDecrease = fontSizeDecrease;
 
-/* ── Topbar 日期（只顯示日期，不顯示時間） ── */
-function updateTopbarDate() {
-  const el = document.getElementById('topbar-date');
-  if (!el) return;
-  const now = new Date();
-  const mo  = String(now.getMonth() + 1).padStart(2, '0');
-  const d   = String(now.getDate()).padStart(2, '0');
-  el.textContent = `${mo}/${d}`;
-}
-
 document.addEventListener('DOMContentLoaded', () => {
   applyFontSize(getCurrentFontSize());
-  updateTopbarDate();
-  /* 日期不需要每秒更新，每分鐘更新一次即可 */
-  setInterval(updateTopbarDate, 60000);
 });

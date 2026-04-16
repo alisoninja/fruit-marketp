@@ -26,43 +26,68 @@
   </div>
 </header>
 
+<!-- 資料更新時間列 -->
 <div class="data-update-bar">
   <div class="data-update-dot" id="update-dot"></div>
   <span id="data-updated-at">資料載入中…</span>
 </div>
 
-<div class="filter-bar">
-  <div class="cat-pills">
-    <button class="cpill active" id="tab-fruit" onclick="switchMainCat('fruit')">水果</button>
-    <button class="cpill"        id="tab-vege"  onclick="switchMainCat('vege')">蔬菜</button>
-  </div>
-  <div class="unit-switcher">
-    <span class="filter-label">價格：</span>
-    <div class="seg" id="price-unit-seg">
-      <button class="seg-btn active" onclick="setPriceUnit('kg',this)">元/公斤</button>
-      <button class="seg-btn"        onclick="setPriceUnit('jin',this)">元/台斤</button>
+<!-- ===== 篩選列：水果/蔬菜 + 搜尋 + 品項 pills + 單位切換 ===== -->
+<div class="filter-bar" style="flex-direction:column;align-items:stretch;gap:8px;padding:10px 16px">
+
+  <!-- 第一行：水果/蔬菜切換 + 搜尋框 -->
+  <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+    <div class="cat-pills">
+      <button class="cpill active" id="tab-fruit" onclick="switchMainCat('fruit')">水果</button>
+      <button class="cpill"        id="tab-vege"  onclick="switchMainCat('vege')">蔬菜</button>
     </div>
-    <span class="filter-label" style="margin-left:6px">成交量：</span>
-    <div class="seg" id="vol-unit-seg">
-      <button class="seg-btn active blue" onclick="setVolUnit('jin',this)">台斤</button>
-      <button class="seg-btn"             onclick="setVolUnit('kg',this)">公斤</button>
-      <button class="seg-btn"             onclick="setVolUnit('ton',this)">公噸</button>
+
+    <!-- 搜尋框 -->
+    <div style="position:relative;flex:1;min-width:120px;max-width:220px">
+      <input id="ov-search" type="text" placeholder="搜尋品項…"
+        oninput="onOvSearch(this.value)"
+        style="width:100%;height:30px;padding:0 8px 0 28px;font-size:0.82rem;
+               border:0.5px solid var(--border-strong);border-radius:var(--radius-sm);
+               background:var(--bg-card);color:var(--text-primary);outline:none;font-family:var(--font)">
+      <svg viewBox="0 0 20 20" style="position:absolute;left:8px;top:50%;transform:translateY(-50%);
+        width:13px;height:13px;fill:none;stroke:var(--text-tertiary);stroke-width:2;pointer-events:none">
+        <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
+      </svg>
+    </div>
+
+    <!-- 單位切換（推到右側）-->
+    <div class="unit-switcher" style="margin-left:auto">
+      <span class="filter-label">價格：</span>
+      <div class="seg" id="price-unit-seg">
+        <button class="seg-btn" onclick="setPriceUnit('kg',this)">元/公斤</button>
+        <button class="seg-btn active" onclick="setPriceUnit('jin',this)">元/台斤</button>
+      </div>
+      <span class="filter-label" style="margin-left:6px">成交量：</span>
+      <div class="seg" id="vol-unit-seg">
+        <button class="seg-btn active blue" onclick="setVolUnit('jin',this)">台斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('kg',this)">公斤</button>
+        <button class="seg-btn"             onclick="setVolUnit('ton',this)">公噸</button>
+      </div>
     </div>
   </div>
+
+  <!-- 第二行：品項 pills（動態渲染）-->
+  <div id="crop-filter-area" class="cat-pills" style="flex-wrap:wrap;gap:5px;min-height:28px">
+    <span style="font-size:0.82rem;color:var(--text-tertiary)">資料載入中…</span>
+  </div>
+
 </div>
 <div class="loading-bar"><div class="loading-fill active" id="loading-fill"></div></div>
 
 <div class="page-content">
 
-  <div style="margin-bottom:12px">
-    <div class="cat-pills" id="sub-pills" style="flex-wrap:wrap;gap:5px"></div>
-  </div>
-
+  <!-- 摘要 -->
   <div class="card" style="margin-bottom:12px">
     <div class="card-title">全台成交總量 <span class="card-title-sub" id="total-summary-sub">今日</span></div>
     <div class="summary-row" id="total-summary-row"></div>
   </div>
 
+  <!-- 漲跌排行 -->
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:12px">
     <div class="card">
       <div class="card-title">漲幅排行 <span class="card-title-sub">今日漲最多</span></div>
@@ -74,13 +99,24 @@
     </div>
   </div>
 
+  <!-- 大類商品卡片網格 -->
   <div class="card" style="margin-bottom:12px">
-    <div class="card-title" id="grid-title">水果總覽 <span class="card-title-sub">點擊商品查看詳情</span></div>
+    <div class="card-title" id="grid-title">
+      水果總覽 <span class="card-title-sub">點擊品項查看詳情</span>
+    </div>
     <div class="overview-grid" id="overview-grid"></div>
   </div>
 
+  <!-- 詳情區（選了大類才顯示）-->
   <div id="detail-section" style="display:none">
 
+    <!-- 子品種選擇器 -->
+    <div style="margin-bottom:10px">
+      <div style="font-size:0.79rem;color:var(--text-secondary);margin-bottom:5px;font-weight:500">選擇品種：</div>
+      <div id="sub-variety-picker" class="cat-pills" style="flex-wrap:wrap;gap:5px;display:none"></div>
+    </div>
+
+    <!-- 摘要卡 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title" style="margin-bottom:6px">
         <span id="det-title">—</span>
@@ -94,6 +130,7 @@
       <div class="summary-row" id="det-sum-row"></div>
     </div>
 
+    <!-- 同品種全規格比較表 -->
     <div class="card" style="margin-bottom:12px">
       <div class="card-title">同品種全規格比較 <span class="card-title-sub" id="var-sub"></span></div>
       <div style="overflow-x:auto">
@@ -111,6 +148,7 @@
       </div>
     </div>
 
+    <!-- 趨勢 + 市場 -->
     <div class="main-layout" style="margin-bottom:12px">
       <div class="col-left">
         <div class="card">
@@ -152,17 +190,15 @@
       </div>
     </div>
 
-  </div>
+  </div><!-- /detail-section -->
 </div>
 
 <footer class="footer">
   Produced by 密菓子 · 農產報價 Pro v1.0.0 · 資料來源：農業部開放資料平台
 </footer>
 
-<!-- Bottom Nav：純 SVG icon，currentColor 自動切換 -->
 <nav class="bottom-nav">
   <div class="bottom-nav-inner">
-
     <a href="index.html" class="bnav-item active" aria-label="行情總覽">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -173,7 +209,6 @@
       </div>
       <span class="bnav-label">行情總覽</span>
     </a>
-
     <a href="watchlist.html" class="bnav-item" aria-label="我的關注">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -183,19 +218,15 @@
       </div>
       <span class="bnav-label">我的關注</span>
     </a>
-
     <a href="contact.html" class="bnav-item" aria-label="聯絡我們">
       <div class="bnav-icon">
         <svg viewBox="0 0 24 24" aria-hidden="true">
-          <rect x="2" y="4" width="20" height="16" rx="2"
-            fill="none" stroke="currentColor" stroke-width="1.8"/>
-          <polyline points="2,4 12,13 22,4"
-            fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          <rect x="2" y="4" width="20" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          <polyline points="2,4 12,13 22,4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
         </svg>
       </div>
       <span class="bnav-label">聯絡我們</span>
     </a>
-
   </div>
 </nav>
 

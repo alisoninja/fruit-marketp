@@ -1,28 +1,23 @@
-/* watchlist.js — 我的關注頁 */
+/* watchlist.js — 我的關注頁，品項以大類分組 */
 
 const LS_KEY = 'agri_watchlist_v1';
 
 let wState = {
-  savedCrops: [],
+  savedCrops: [],   /* 大類名稱清單，例如 ['鳳梨','高麗菜'] */
   activeCrop: null,
+  activeVar:  0,
   priceType:  'auction',
   mktType:    'auction',
-  varIdx:     0,
   range:      30,
-  layers:     { lastYear:false, band:false, ma:false, vol:false },
+  layers:     { ma:false, vol:false },
 };
 
-const W_ITEMS_DEFAULT = 10;
+const W_DEFAULT = 10;
 
-function rng(s){ const x=Math.sin(s+1)*10000; return x-Math.floor(x); }
-
-function loadSaved() {
-  try { return JSON.parse(localStorage.getItem(LS_KEY)||'[]'); } catch { return []; }
-}
-
+function loadSaved() { try { return JSON.parse(localStorage.getItem(LS_KEY)||'[]'); } catch { return []; } }
 function saveCrops(list) { localStorage.setItem(LS_KEY, JSON.stringify(list)); }
 
-/* ── 建立選擇清單（從真實 CROP_DATA 讀取）── */
+/* ── 建立選擇清單 ── */
 function buildPickGrids() {
   const fruits = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'fruit');
   const veges  = Object.keys(CROP_DATA).filter(k => CROP_DATA[k].cat === 'vege');
@@ -30,41 +25,28 @@ function buildPickGrids() {
   const renderSection = (keys, containerId) => {
     const el = document.getElementById(containerId);
     if (!el) return;
+    if (!keys.length) { el.innerHTML = `<span style="font-size:0.86rem;color:var(--text-tertiary)">資料載入中…</span>`; return; }
 
-    if (!keys.length) {
-      el.innerHTML = `<span style="font-size:0.86rem;color:var(--text-tertiary)">資料載入中…</span>`;
-      return;
-    }
-
-    /* 預設只顯示前 10 個，其餘收起 */
-    const showAll  = el.dataset.showAll === 'true';
-    const display  = showAll ? keys : keys.slice(0, W_ITEMS_DEFAULT);
-    const remaining = keys.length - W_ITEMS_DEFAULT;
+    const showAll   = el.dataset.showAll === 'true';
+    const display   = showAll ? keys : keys.slice(0, W_DEFAULT);
+    const remaining = keys.length - W_DEFAULT;
 
     const itemsHtml = display.map(k => {
-      const isChecked = wState.savedCrops.includes(k);
-      return `<div class="pick-item ${isChecked?'checked':''}" id="pick-${k}" onclick="togglePick('${k}')">
-        ${k}<span class="pick-check" id="pick-check-${k}">${isChecked?'✓':''}</span>
+      const checked = wState.savedCrops.includes(k);
+      const varCount = CROP_DATA[k]?.varieties?.length || 0;
+      return `<div class="pick-item ${checked?'checked':''}" id="pick-${k}" onclick="togglePick('${k}')">
+        <span>${k}${varCount>1?`<span style="font-size:0.64rem;opacity:0.7;margin-left:3px">${varCount}品種</span>`:''}</span>
+        <span class="pick-check" id="pick-check-${k}">${checked?'✓':''}</span>
       </div>`;
     }).join('');
 
     let moreHtml = '';
     if (!showAll && remaining > 0) {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
-        <button onclick="togglePickShowAll('${containerId}')" style="
-          font-size:0.82rem;padding:5px 16px;
-          border:0.5px solid var(--border-strong);border-radius:20px;
-          color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
-          查看更多（還有 ${remaining} 項）
-        </button></div>`;
-    } else if (showAll && keys.length > W_ITEMS_DEFAULT) {
+        <button onclick="togglePickShowAll('${containerId}')" style="font-size:0.82rem;padding:5px 16px;border:0.5px solid var(--border-strong);border-radius:20px;color:var(--text-secondary);background:var(--bg-card);cursor:pointer">查看更多（還有 ${remaining} 項）</button></div>`;
+    } else if (showAll && keys.length > W_DEFAULT) {
       moreHtml = `<div style="grid-column:1/-1;text-align:center;padding-top:2px">
-        <button onclick="togglePickShowAll('${containerId}')" style="
-          font-size:0.82rem;padding:5px 16px;
-          border:0.5px solid var(--border-strong);border-radius:20px;
-          color:var(--text-secondary);background:var(--bg-card);cursor:pointer">
-          收起
-        </button></div>`;
+        <button onclick="togglePickShowAll('${containerId}')" style="font-size:0.82rem;padding:5px 16px;border:0.5px solid var(--border-strong);border-radius:20px;color:var(--text-tertiary);background:var(--bg-card);cursor:pointer">收起</button></div>`;
     }
 
     el.innerHTML = itemsHtml + moreHtml;
@@ -74,8 +56,8 @@ function buildPickGrids() {
   renderSection(veges,  'pick-vege');
 }
 
-function togglePickShowAll(containerId) {
-  const el = document.getElementById(containerId);
+function togglePickShowAll(id) {
+  const el = document.getElementById(id);
   if (!el) return;
   el.dataset.showAll = el.dataset.showAll === 'true' ? 'false' : 'true';
   buildPickGrids();
@@ -85,7 +67,6 @@ function togglePick(key) {
   const el    = document.getElementById('pick-' + key);
   const check = document.getElementById('pick-check-' + key);
   const idx   = wState.savedCrops.indexOf(key);
-
   if (idx >= 0) {
     wState.savedCrops.splice(idx, 1);
     el?.classList.remove('checked');
@@ -95,7 +76,6 @@ function togglePick(key) {
     el?.classList.add('checked');
     if (check) check.textContent = '✓';
   }
-
   document.getElementById('confirm-btn').disabled = wState.savedCrops.length === 0;
 }
 
@@ -109,16 +89,12 @@ function showMainScreen() {
   document.getElementById('setup-screen').style.display = 'none';
   document.getElementById('main-screen').style.display  = 'block';
   buildWatchTabs();
-  if (wState.activeCrop) {
-    wRenderAll();
-    fetchNews(wState.activeCrop, 'w-news-list');
-  }
+  if (wState.activeCrop) { wRenderAll(); fetchNews(wState.activeCrop, 'w-news-list'); }
 }
 
 function buildWatchTabs() {
   const tabs = wState.savedCrops.map(k =>
-    `<button class="watch-tab ${k===wState.activeCrop?'active':''}"
-      onclick="wSelectCrop('${k}')">${k}</button>`
+    `<button class="watch-tab ${k===wState.activeCrop?'active':''}" onclick="wSelectCrop('${k}')">${k}</button>`
   ).join('');
   document.getElementById('watch-tabs').innerHTML =
     tabs + `<button class="watch-edit-btn" onclick="showSetup()">編輯清單</button>`;
@@ -126,10 +102,29 @@ function buildWatchTabs() {
 
 function wSelectCrop(key) {
   wState.activeCrop = key;
-  wState.varIdx     = 0;
+  wState.activeVar  = 0;
   buildWatchTabs();
   wRenderAll();
+  wRenderSubPicker();
   fetchNews(key, 'w-news-list');
+}
+
+/* 子品種選擇器 */
+function wRenderSubPicker() {
+  const el = document.getElementById('w-sub-variety-picker');
+  if (!el) return;
+  const crop = CROP_DATA[wState.activeCrop];
+  if (!crop || crop.varieties.length <= 1) { el.style.display='none'; return; }
+  el.style.display = 'flex';
+  el.innerHTML = crop.varieties.map((v,i) =>
+    `<button class="cpill ${i===wState.activeVar?'active':''}" onclick="wSelectVar(${i})">${v.subName}</button>`
+  ).join('');
+}
+
+function wSelectVar(i) {
+  wState.activeVar = i;
+  wRenderSubPicker();
+  wRenderAll();
 }
 
 function showSetup() {
@@ -140,7 +135,7 @@ function showSetup() {
   document.getElementById('confirm-btn').textContent = '更新我的清單';
 }
 
-/* ── 價格類型 ── */
+/* ── 價格/市場類型 ── */
 function wSetPriceType(t) {
   wState.priceType = t;
   document.getElementById('w-ptab-a').className='ptt '+(t==='auction'?'active auction':'auction');
@@ -172,44 +167,30 @@ function wToggleLayer(k,el) {
   wRenderTrend();
 }
 
-function wSelectVar(i) { wState.varIdx=i; wRenderAll(); }
+function wSelectVar(i) { wState.activeVar=i; wRenderSubPicker(); wRenderAll(); }
 
-function wRenderAll() {
-  wRenderSummary();
-  wRenderVarieties();
-  wRenderTrend();
-  wRenderMarkets();
-}
+function wRenderAll() { wRenderSummary(); wRenderVarieties(); wRenderTrend(); wRenderMarkets(); }
 
 /* ── 安全工具 ── */
-function wSafePrice(val) {
-  if (val===null||val===undefined||isNaN(parseFloat(val))) return NA;
-  return Units.convPrice(parseFloat(val));
-}
-function wSafeVol(val) {
-  if (val===null||val===undefined||isNaN(parseFloat(val))) return {val:NA,unit:''};
-  return Units.convVol(parseFloat(val));
-}
-function wSafeChg(cur,prev) {
-  if (cur===null||prev===null||isNaN(parseFloat(cur))||isNaN(parseFloat(prev))) return {text:NA,cls:'color-flat',arrow:''};
-  return Units.formatChange(parseFloat(cur),parseFloat(prev));
-}
+function wP(v) { if(v===null||v===undefined||isNaN(parseFloat(v))) return NA; return Units.convPrice(parseFloat(v)); }
+function wV(v) { if(v===null||v===undefined||isNaN(parseFloat(v))) return {val:NA,unit:''}; return Units.convVol(parseFloat(v)); }
+function wC(c,p) { if(c===null||p===null||isNaN(parseFloat(c))||isNaN(parseFloat(p))) return {text:NA,cls:'color-flat',arrow:''}; return Units.formatChange(parseFloat(c),parseFloat(p)); }
 
 function wRenderSummary() {
   if (!wState.activeCrop) return;
   const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
-  const v=crop.varieties[wState.varIdx]||crop.varieties[0];
+  const v=crop.varieties[wState.activeVar]||crop.varieties[0];
   const isA=wState.priceType==='auction';
   const pl=Units.priceLabel();
-  const avgKg=isA?v.avgA:v.avgW,prevKg=isA?v.prevA:v.prevW;
-  const hiKg=isA?v.hiA:v.hiW,loKg=isA?v.loA:v.loW,volKg=isA?v.volA:v.volW;
-  const chg=wSafeChg(avgKg,prevKg);
-  const {val:vv,unit:vu}=wSafeVol(volKg);
-  const ad=wSafePrice(avgKg),hd=wSafePrice(hiKg),ld=wSafePrice(loKg);
-  const rd=avgKg!==null?wSafePrice(avgKg*3):NA;
+  const avgKg=isA?v.avgA:v.avgW, prevKg=isA?v.prevA:v.prevW;
+  const hiKg=isA?v.hiA:v.hiW, loKg=isA?v.loA:v.loW, volKg=isA?v.volA:v.volW;
+  const chg=wC(avgKg,prevKg);
+  const {val:vv,unit:vu}=wV(volKg);
+  const ad=wP(avgKg),hd=wP(hiKg),ld=wP(loKg);
+  const rd=avgKg!==null?wP(avgKg*3):NA;
   const badge=isA?'<span class="badge badge-auction">拍賣</span>':'<span class="badge badge-wholesale">行口</span>';
-  document.getElementById('w-crop-title').innerHTML=wState.activeCrop+' '+badge;
-  document.getElementById('w-crop-sub').textContent=(v.code||'')+' · '+pl;
+  document.getElementById('w-crop-title').innerHTML=v.name+' '+badge;
+  document.getElementById('w-crop-sub').textContent=v.code+' · '+pl;
   document.getElementById('w-sum-row').innerHTML=`
     <div class="metric"><div class="metric-label">今日均價</div><div class="metric-value">${ad}<span class="metric-unit">${ad!==NA?pl:''}</span></div><div class="metric-sub ${chg.cls}">${chg.arrow} ${chg.text}</div></div>
     <div class="metric"><div class="metric-label">上價</div><div class="metric-value color-up">${hd}<span class="metric-unit">${hd!==NA?pl:''}</span></div></div>
@@ -230,17 +211,17 @@ function wRenderVarieties() {
   document.getElementById('w-th-lo').textContent='下價('+pl+')';
   document.getElementById('w-th-vol').textContent='成交量('+Units.volLabel()+')';
   document.getElementById('w-var-body').innerHTML=crop.varieties.map((v,i)=>{
-    const a=isA?v.avgA:v.avgW,pr=isA?v.prevA:v.prevW;
-    const h=isA?v.hiA:v.hiW,l=isA?v.loA:v.loW,vol=isA?v.volA:v.volW;
-    const c=wSafeChg(a,pr);
-    const {val:vval,unit:vunit}=wSafeVol(vol);
-    return `<tr class="${i===wState.varIdx?'selected':''}" onclick="wSelectVar(${i})">
+    const a=isA?v.avgA:v.avgW, pr=isA?v.prevA:v.prevW;
+    const h=isA?v.hiA:v.hiW, l=isA?v.loA:v.loW, vol=isA?v.volA:v.volW;
+    const c=wC(a,pr);
+    const {val:vval,unit:vunit}=wV(vol);
+    return `<tr class="${i===wState.activeVar?'selected':''}" onclick="wSelectVar(${i})">
       <td><span class="variety-name">${v.name}</span></td>
       <td><span class="badge ${isA?'badge-auction':'badge-wholesale'}">${isA?'拍賣':'行口'}</span></td>
-      <td class="price-cell">${wSafePrice(a)}</td>
+      <td class="price-cell">${wP(a)}</td>
       <td class="chg-cell ${c.cls}">${c.arrow} ${c.text}</td>
-      <td class="vol-cell hide-mobile">${wSafePrice(h)}</td>
-      <td class="vol-cell hide-mobile">${wSafePrice(l)}</td>
+      <td class="vol-cell hide-mobile">${wP(h)}</td>
+      <td class="vol-cell hide-mobile">${wP(l)}</td>
       <td class="vol-cell">${vval} ${vunit}</td>
     </tr>`;
   }).join('');
@@ -251,11 +232,7 @@ function wRenderTrend() {
   const crop=CROP_DATA[wState.activeCrop]; if (!crop) return;
   const hist=crop.historyPoints||[];
   const slice=hist.slice(-wState.range);
-  if (slice.length<2) {
-    document.getElementById('w-trend-legend').innerHTML=
-      `<span style="font-size:0.79rem;color:var(--text-tertiary)">歷史資料不足（N/A）</span>`;
-    return;
-  }
+  if (slice.length<2) { document.getElementById('w-trend-legend').innerHTML=`<span style="font-size:0.79rem;color:var(--text-tertiary)">歷史資料不足（N/A）</span>`; return; }
   const labels=slice.map(d=>{const p=d.date.split('.');return p.length>=3?`${parseInt(p[1])}/${parseInt(p[2])}`:d.date;});
   const thisY=slice.map(d=>d.avg!==null?Units.convPrice(d.avg):null);
   const volD=slice.map(d=>d.vol||0);
@@ -263,8 +240,7 @@ function wRenderTrend() {
   if (wState.layers.vol) Charts.drawVolRaw({canvasId:'w-volC',labels,volData:volD});
   const mainColor=wState.priceType==='auction'?'#854F0B':'#185FA5';
   const pl=Units.priceLabel();
-  document.getElementById('w-trend-legend').innerHTML=
-    `<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${wState.priceType==='auction'?'拍賣均價':'行口均價'}（${pl}）— 農業部實際資料</span>`;
+  document.getElementById('w-trend-legend').innerHTML=`<span class="legend-item"><span class="legend-swatch" style="background:${mainColor}"></span>${wState.priceType==='auction'?'拍賣均價':'行口均價'}（${pl}）— 農業部實際資料</span>`;
   document.getElementById('w-season-note').textContent=crop.season;
 }
 
@@ -274,45 +250,34 @@ function wRenderMarkets() {
   const isA=wState.mktType==='auction';
   const pl=Units.priceLabel();
   const mktSummary=crop.mktSummary||{};
-  const realMkts=Object.entries(mktSummary)
-    .filter(([,v])=>v.avg!==null)
-    .map(([name,v])=>({
-      name,
-      region: guessRegionW(name),
-      priceKg:isA?v.avg:+(v.avg*0.9).toFixed(1),
-      volKg:v.vol||0
-    }))
+  const realMkts=Object.entries(mktSummary).filter(([,v])=>v.avg!==null)
+    .map(([name,v])=>({name,region:wRegion(name),priceKg:isA?v.avg:+(v.avg*0.9).toFixed(1),volKg:v.vol||0}))
     .sort((a,b)=>b.priceKg-a.priceKg);
   document.getElementById('w-mkt-sub').textContent=`今日 · ${isA?'拍賣':'行口'} · ${wState.activeCrop}`;
-  if (!realMkts.length) {
-    document.getElementById('w-mkt-section').innerHTML=
-      `<div style="font-size:0.86rem;color:var(--text-tertiary);padding:8px 0">此作物目前無市場行情資料（N/A）</div>`;
-    return;
-  }
+  if (!realMkts.length) { document.getElementById('w-mkt-section').innerHTML=`<div style="font-size:0.86rem;color:var(--text-tertiary);padding:8px 0">此作物目前無市場行情資料（N/A）</div>`; return; }
   const maxP=realMkts[0].priceKg;
   document.getElementById('w-mkt-section').innerHTML=realMkts.map((m,i)=>{
     const pct=Math.max(14,(m.priceKg/maxP)*100);
     const isBest=i===0,isWorst=i===realMkts.length-1;
     const fillC=isBest?'#C0DD97':isWorst?'#F7C1C1':'#D3D1C7';
     const textC=isBest?'#27500A':isWorst?'#791F1F':'#5F5E5A';
-    const {val:vv,unit:vu}=wSafeVol(m.volKg);
+    const {val:vv,unit:vu}=wV(m.volKg);
     const rC=REGION_COLOR[m.region]||'#888',rB=REGION_BG[m.region]||'#eee';
     return `<div class="market-row">
       <div class="market-name" title="${m.name}">${m.name}</div>
-      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${wSafePrice(m.priceKg)}</span></div></div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${fillC}"><span class="bar-fill-val" style="color:${textC}">${wP(m.priceKg)}</span></div></div>
       <span class="region-tag" style="color:${rC};background:${rB}">${m.region}</span>
       <span class="market-vol">${vv!==NA?vv+vu.slice(0,1):NA}</span>
-      ${isBest?'<span class="best-tag">最高</span>':''}
-      ${isWorst?'<span class="worst-tag">最低</span>':''}
+      ${isBest?'<span class="best-tag">最高</span>':''}${isWorst?'<span class="worst-tag">最低</span>':''}
     </div>`;
   }).join('');
 }
 
-function guessRegionW(name) {
-  if (/(台北|板橋|三重|宜蘭|桃園|基隆|新北|新竹|苗栗)/.test(name)) return '北';
-  if (/(台中|彰化|南投|豐原|苑裡)/.test(name)) return '中';
-  if (/(台南|高雄|嘉義|屏東|鳳山|旗山)/.test(name)) return '南';
-  if (/(台東|花蓮)/.test(name)) return '東';
+function wRegion(n) {
+  if (/(台北|板橋|三重|宜蘭|桃園|基隆|新北|新竹|苗栗)/.test(n)) return '北';
+  if (/(台中|彰化|南投|豐原|苑裡)/.test(n)) return '中';
+  if (/(台南|高雄|嘉義|屏東|鳳山|旗山)/.test(n)) return '南';
+  if (/(台東|花蓮)/.test(n)) return '東';
   return '中';
 }
 
@@ -330,32 +295,24 @@ function setVolUnit(u,el) {
   wRenderAll();
 }
 
-/* ── 初始化：等 DATA_READY 再建立選項 ── */
+/* ── 初始化 ── */
 document.addEventListener('DOMContentLoaded', () => {
   const saved = loadSaved();
-  if (saved.length > 0) {
-    wState.savedCrops = saved;
-    wState.activeCrop = saved[0];
-  }
+  if (saved.length > 0) { wState.savedCrops = saved; wState.activeCrop = saved[0]; }
 
-  /* 等真實資料載入後才建 pick grids */
   window.DATA_READY.then(() => {
-    buildPickGrids();
+    /* 過濾掉新資料中不存在的舊選項 */
+    wState.savedCrops = wState.savedCrops.filter(k => CROP_DATA[k]);
 
     if (wState.savedCrops.length > 0) {
-      /* 確認已儲存的作物在新資料中仍存在 */
-      wState.savedCrops = wState.savedCrops.filter(k => CROP_DATA[k]);
-      if (wState.savedCrops.length > 0) {
-        wState.activeCrop = wState.activeCrop && CROP_DATA[wState.activeCrop]
-          ? wState.activeCrop : wState.savedCrops[0];
-        wSetPriceType('auction');
-        showMainScreen();
-        fetchNews(wState.activeCrop, 'w-news-list');
-        return;
-      }
+      wState.activeCrop = CROP_DATA[wState.activeCrop] ? wState.activeCrop : wState.savedCrops[0];
+      wSetPriceType('auction');
+      showMainScreen();
+      wRenderSubPicker();
+      fetchNews(wState.activeCrop, 'w-news-list');
+    } else {
+      buildPickGrids();
+      document.getElementById('setup-screen').style.display = 'block';
     }
-
-    /* 無已儲存資料，顯示設定畫面 */
-    document.getElementById('setup-screen').style.display = 'block';
   });
 });
