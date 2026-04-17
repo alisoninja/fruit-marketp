@@ -43,6 +43,54 @@ const TARGET_KEYWORDS = [
 /* 新聞抓取的代表作物 */
 const NEWS_CROPS = ['鳳梨','芒果','荔枝','香蕉','高麗菜','番茄','花椰菜','地瓜'];
 
+/* 新聞標題關鍵字 → tag 對應 */
+const TAG_RULES = [
+  { tag: 'weather', words: ['颱風','颱','豪雨','旱','乾旱','低溫','寒害','寒流','霜','冰雹','氣候','天氣','水災'] },
+  { tag: 'policy',  words: ['農委會','農業部','補貼','補助','政策','禁令','進口','出口','關稅','法規','農藥','收購'] },
+  { tag: 'market',  words: ['市場','批發','外銷','出口','需求','供應','庫存','通路','超市','賣場'] },
+  { tag: 'price',   words: ['漲','跌','價格','行情','均價','上價','下價','暴漲','暴跌'] },
+];
+
+function guessTag(title) {
+  for (const rule of TAG_RULES) {
+    if (rule.words.some(w => title.includes(w))) return rule.tag;
+  }
+  return 'market';
+}
+
+/* 從 Google News RSS 抓新聞（免費，無需 API key） */
+async function fetchNewsRSS(cropName) {
+  const q   = encodeURIComponent(`台灣 ${cropName} 農業 批發`);
+  const url = `https://news.google.com/rss/search?q=${q}&hl=zh-TW&gl=TW&ceid=TW:zh-TW`;
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'fruit-marketp-bot/2.0' },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const xml = await res.text();
+
+  /* 簡單 XML 解析：不依賴外部套件 */
+  const items = [];
+  const itemRe = /<item>([\s\S]*?)<\/item>/g;
+  let m;
+  while ((m = itemRe.exec(xml)) !== null && items.length < 4) {
+    const block   = m[1];
+    const title   = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/))?.[1]?.trim() || '';
+    const link    = (block.match(/<link>(.*?)<\/link>/) || [])[1]?.trim() || '';
+    const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1]?.trim() || '';
+    const source  = (block.match(/<source[^>]*>(.*?)<\/source>/) || [])[1]?.trim() || 'Google News';
+
+    if (!title || !link?.startsWith('http')) continue;
+
+    /* pubDate → YYYY-MM-DD */
+    let date = '';
+    try { date = new Date(pubDate).toISOString().slice(0, 10); } catch { date = ''; }
+
+    items.push({ title, url: link, source, date, tag: guessTag(title) });
+  }
+  return items;
+}
+
 function toROCDate(date) {
   const y = date.getFullYear() - 1911;
   const m = String(date.getMonth() + 1).padStart(2, '0');
@@ -247,60 +295,28 @@ async function main() {
     }
   }
 
-  /* ── 2. 農業新聞（需要 ANTHROPIC_API_KEY）── */
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) {
-    console.log('\n[2/2] 跳過新聞抓取（未設定 ANTHROPIC_API_KEY）');
-  } else {
-    console.log('\n[2/2] 透過 Claude API 搜尋農業新聞...');
-    const newsData = {};
+  /* ── 2. 農業新聞（Google News RSS，免費無需 API key）── */
+  console.log('\n[2/2] 透過 Google News RSS 抓取農業新聞...');
+  const newsData = {};
 
-    for (const cropName of NEWS_CROPS) {
-      process.stdout.write(`  搜尋：${cropName}... `);
-      try {
-        const res = await fetch('https://api.anthropic.com/v1/messages', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'x-api-key': apiKey,
-            'anthropic-version': '2023-06-01',
-          },
-          body: JSON.stringify({
-            model: 'claude-sonnet-4-5',
-            max_tokens: 1500,
-            system: '只回傳 JSON 陣列，不回傳任何其他文字。',
-            messages: [{
-              role: 'user',
-              content: `用 web_search 搜尋「台灣 ${cropName} 農業 批發 2025」，找出最多4則真實新聞。
-只回傳 JSON 陣列：[{"title":"...","url":"https://...","source":"...","date":"2025-04-15","tag":"price"}]
-tag 只能是 price/weather/policy/market 之一。url 必須是真實 https:// 網址。`,
-            }],
-            tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-          }),
-          signal: AbortSignal.timeout(60000),
-        });
-
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data  = await res.json();
-        const text  = (data.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-        const match = text.match(/\[[\s\S]*?\]/);
-        if (!match) throw new Error('no JSON');
-        const articles = JSON.parse(match[0]).filter(a => a?.title && a?.url?.startsWith('http'));
-        newsData[cropName] = articles;
-        console.log(`${articles.length} 則`);
-      } catch (err) {
-        console.log(`失敗（${err.message}）`);
-        newsData[cropName] = [];
-      }
-      await new Promise(r => setTimeout(r, 1500));
+  for (const cropName of NEWS_CROPS) {
+    process.stdout.write(`  搜尋：${cropName}... `);
+    try {
+      const articles = await fetchNewsRSS(cropName);
+      newsData[cropName] = articles;
+      console.log(`${articles.length} 則`);
+    } catch (err) {
+      console.log(`失敗（${err.message}）`);
+      newsData[cropName] = [];
     }
-
-    fs.writeFileSync(NEWS_PATH, JSON.stringify({
-      updatedAt: new Date().toISOString(),
-      news: newsData,
-    }, null, 2), 'utf-8');
-    console.log('  ✅ news.json 完成');
+    await new Promise(r => setTimeout(r, 500));
   }
+
+  fs.writeFileSync(NEWS_PATH, JSON.stringify({
+    updatedAt: new Date().toISOString(),
+    news: newsData,
+  }, null, 2), 'utf-8');
+  console.log('  ✅ news.json 完成');
 
   console.log('\n=== 完成 ===');
 }

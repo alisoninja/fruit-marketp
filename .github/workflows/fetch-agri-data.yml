@@ -38,8 +38,6 @@ jobs:
           node-version: '18'
 
       - name: 執行資料與新聞抓取腳本
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/fetch-data.js
 
       - name: 設定 Git 使用者
