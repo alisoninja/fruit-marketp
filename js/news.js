@@ -44,18 +44,23 @@ async function fetchNews(cropName, containerId, cardId) {
     return;
   }
 
-  /* 讀 data/news.json */
-  const stored = await loadNewsJson();
-  const saved  = stored?.news?.[cropName];
+  /* 讀 data/news.json，只保留最近 7 天 */
+  const stored  = await loadNewsJson();
+  const saved   = stored?.news?.[cropName];
+  const cutoff  = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const recent  = (saved || []).filter(a => {
+    if (!a.date) return false;
+    try { return new Date(a.date).getTime() >= cutoff; } catch { return false; }
+  });
 
-  if (saved && saved.length > 0) {
-    _newsCache[cropName] = saved;
+  if (recent.length > 0) {
+    _newsCache[cropName] = recent;
     if (card) card.style.display = '';
-    renderNews(saved, container);
+    renderNews(recent, container);
     return;
   }
 
-  /* news.json 無此作物資料 → 卡片保持隱藏 */
+  /* 無資料或全超過一週 → 卡片保持隱藏 */
   _newsCache[cropName] = [];
 }
 
