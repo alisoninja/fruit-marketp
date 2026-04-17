@@ -55,41 +55,8 @@ async function fetchNews(cropName, containerId, cardId) {
     return;
   }
 
-  /* news.json 無此作物，嘗試即時 Claude API */
-  try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-6',
-        max_tokens: 1500,
-        system: '只回傳 JSON 陣列，不回傳任何其他文字。',
-        messages: [{
-          role: 'user',
-          content: `用 web_search 搜尋「台灣 ${cropName} 農業 批發 2025」，找最多4則真實新聞。
-只回傳 JSON：[{"title":"...","url":"https://...","source":"...","date":"2025-04-15","tag":"price"}]
-tag 只能是 price/weather/policy/market。url 必須是真實 https:// 網址。`,
-        }],
-        tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-      }),
-    });
-
-    if (!res.ok) throw new Error('API HTTP ' + res.status);
-    const data     = await res.json();
-    const text     = (data.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-    const match    = text.match(/\[[\s\S]*?\]/);
-    if (!match) throw new Error('no JSON');
-    const articles = JSON.parse(match[0]).filter(a => a?.title && a?.url?.startsWith('http'));
-    if (!articles.length) throw new Error('empty');
-
-    _newsCache[cropName] = articles;
-    if (card) card.style.display = '';
-    renderNews(articles, container);
-
-  } catch {
-    /* API 無餘額或失敗 → 卡片保持隱藏 */
-    _newsCache[cropName] = [];
-  }
+  /* news.json 無此作物資料 → 卡片保持隱藏 */
+  _newsCache[cropName] = [];
 }
 
 /* ── 渲染 ── */
