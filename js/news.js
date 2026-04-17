@@ -47,7 +47,7 @@ async function fetchNews(cropName, containerId, cardId) {
   /* 讀 data/news.json，只保留最近 7 天 */
   const stored  = await loadNewsJson();
   const saved   = stored?.news?.[cropName];
-  const cutoff  = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const cutoff  = Date.now() - 30 * 24 * 60 * 60 * 1000;
   const recent  = (saved || []).filter(a => {
     if (!a.date) return false;
     try { return new Date(a.date).getTime() >= cutoff; } catch { return false; }

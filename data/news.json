@@ -1,66 +1,16 @@
 {
-  "updatedAt": "2026-04-17T11:14:58.210Z",
+  "updatedAt": "2026-04-17T11:51:15.957Z",
   "news": {
     "鳳梨": [
       {
-        "title": "鳳梨剛進盛產季銷日已達去年36% 策略聯盟召集人：今年品質好、價格「內外皆美」 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tczVVMVpyT3VLcGJaYzVJVVUxVU9PMHBaM1hGTVBDWUZmdUFqdEQ0WVVpTmloMU9vN2NIQ0xWTnVLX3hITUdqUGZVTmNNMDl5eTNyWkR3?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "price"
-      },
-      {
-        "title": "台南鳳梨、芭樂首度輸銷法國 黃偉哲赴法國拓展國際通路 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FQUhXWEZGM0dpSjdNVTMxcTRaM2o2LW5EN21IekdFZ19CbG11OWY2UVB2ZXdZXzI3QW5CcjBUdWYzYkFYaG51UHhadTVXZktuZXJjbnUxSVpxZ9IBX0FVX3lxTE1iS0tWeWg5dE5HVmV5aC1SOXZWRHlTVlpVWUY4eVlQZ2tNMFN3S0x2aTlJV1NMUFVhckp0T1pmYjlxSHJWQXkyYmlkY0FQUUtESTlGRF9uTGFVT0ZMcl9z?oc=5",
-        "source": "經濟日報",
-        "date": "2025-12-05",
-        "tag": "market"
-      },
-      {
-        "title": "香港中評網：貿易商秦竣鏞：香港今年台灣鳳梨訂單增加 - 中國評論新聞",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3B1MXhlQVdBNVQzZ2ljMzJHcUxXbGlUV1Ryb01LQ1ZqbUowbkliVXhUXzdsQkRJZVpPbzl1YnRjSmtqeXBxVnNBQVAzbjBZRl9BaVRBUG5NRlBQaUVRR2VIN1FGUFFOeWd0VGIzQTZBb2RiQWY3T2RUcXEtZ1pMeFY1UEFrVkQzeVE0UU5YM1BkbEhfWkxRY2R3?oc=5",
-        "source": "中國評論新聞",
-        "date": "2026-01-06",
-        "tag": "market"
-      },
-      {
-        "title": "台南農產行銷歐洲 鳳梨、芭樂首次輸入法國就獲好評 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ydzU2aEw1NXIyZm1QNkRLcWRtTGQwTkQ4eXVfeHlRZ08xTlpZbHpBX3RBOUZPaTBMX2ZNVlZGRUhSbi1sX2R6TnZPbWx5RUlfU29TdUNyZVl2S3FqVXFqcGNxRjHSAWpBVV95cUxQV3RkaHBEaVdCYXkybmp6UGVuZFNyVURyaUxZa29NOUs0UlU4UFh6c0gyblJiZ3hxdlF2TmJlSHlYRDJPV3B0UzRhdnpYVXZIdmY3WUxmUThRUGFTR1NWR2JLYzhhQ3ZTMzdR?oc=5",
-        "source": "自由時報",
-        "date": "2025-12-05",
-        "tag": "market"
+        "title": "習近平表態歡迎台灣農漁產品輸入 農業部：中方非穩定市場、不可依賴 - 知新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kZkhlQXZxNEZTZFVOUWE4TWxLVUNjMVBnVGpvSGNaSlVyYkphQWRUdWNKRWlBQ21EOFNWUkVhUk96T1NhZGkyQ3d2eFFEMDlzMkN6a3BrUkRwRXE5NDdrOE1IclI2NWpIalJfd2NMbw?oc=5",
+        "source": "知新聞",
+        "date": "2026-04-11",
+        "tag": "policy"
       }
     ],
-    "芒果": [
-      {
-        "title": "年初低溫致減產 今年芒果產量估較常年大減26% 北農5月批發價漲近5成 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYnBaMTVsdTBNM3pUMjFyNTlnVkJOSzVTX2RHQXNKUUpqalZTMjN5Nk9IZkJ0M19tVUNNSU9VdGN3cVhaMDJfS09lVHVJV1U3bUM4OG9R?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "weather"
-      },
-      {
-        "title": "農產品初級加工場產值逾2.4億元 今年芒果產量增21% 農糧署估加工5千公噸 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NY0twb214RzA0cExNcnpQSDNuSExPX1U0QVAyYTJaLXZudEVwQ044TFFRZng5SlJpRWJ4Ukd4eHVFelBrRllYRmtzZUpOTGs2Umx3ZDZ3?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-02",
-        "tag": "market"
-      },
-      {
-        "title": "嚼食人口減少、產值下降 為何檳榔仍是全台種植面積最大果樹？ - 新聞實驗室",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tRlprY2NrV1JLYnY1V21Zb2ZoRU5CWng4UHlZempYV3F3OWNfb3FydFFwM2QyczI5RGFiN0dIN0pmUk5pOGlGYVptZ0I?oc=5",
-        "source": "新聞實驗室",
-        "date": "2025-06-23",
-        "tag": "market"
-      },
-      {
-        "title": "這次不是墾丁的鍋！民眾買4顆愛文芒果噴498　屏東縣府說話了：今年批發價貴一倍 | 生活 | CTWANT - CTWANT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWFZhcHFuSm1aQ2tvWWtSWTN1TGhKX29qTEdiMExyVE1vcWVsbXhSTklBNGFzcmFsZk1mWFA3WTRJaEVtTy0xdXEyTVJxd2_SAVRBVV95cUxNMThDWTl3RTl3MURnTV9zaVpfd2pST3BnRUg5czVLeV9KeWd5ZmFtM0pkX2t0Qm9wVkVtdEFYVXRZN2VYdUFiM3Z2a21MMjJPRDF4T1E?oc=5",
-        "source": "CTWANT",
-        "date": "2025-06-02",
-        "tag": "market"
-      }
-    ],
+    "芒果": [],
     "荔枝": [
       {
         "title": "太麻里艷麗荔枝提早上市 批發價每台斤飆破85元 - MSN",
@@ -68,89 +18,10 @@
         "source": "MSN",
         "date": "2026-04-16",
         "tag": "market"
-      },
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 公視新聞網PNN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "公視新聞網PNN",
-        "date": "2025-07-02",
-        "tag": "market"
-      },
-      {
-        "title": "消費者“甜”了，果農有賺頭嗎？（經濟新方位） --新聞報道-中國共產黨新聞網 - 中国共产党新闻网",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TVDQ4MEpyX0pkaFpsUzdhUDRDaGVMLW1Ua2tmUl94czFyOTRQQ0JENnotZk1RS0FBXzBxcFpWOWUydU90V1pzc2tCaWZud3c5YUowbmZhU2UzTVpzVWZFdms0enNfRXZkSkFkVHJaWV8?oc=5",
-        "source": "中国共产党新闻网",
-        "date": "2025-07-14",
-        "tag": "market"
-      },
-      {
-        "title": "年初低溫致減產 今年芒果產量估較常年大減26% 北農5月批發價漲近5成 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYnBaMTVsdTBNM3pUMjFyNTlnVkJOSzVTX2RHQXNKUUpqalZTMjN5Nk9IZkJ0M19tVUNNSU9VdGN3cVhaMDJfS09lVHVJV1U3bUM4OG9R?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "weather"
       }
     ],
-    "香蕉": [
-      {
-        "title": "香蕉價格持續高檔 陳駿季：高價是短期現象 農業部不會啟動進口平抑價格 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KaUo3Q0JrMS1CNjBvRVV1UVQzcGRoeGRFbFRPSE1qY25iRUZVeXVLdGdPMldDaml3MWJPS3RiTnJiUDkzTDJnVDNUWkE3bm95Ry1nazJ3?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "policy"
-      },
-      {
-        "title": "批發價21.7元！高雄香蕉價格回穩 正是品嘗好時機 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Nald0T2N4eHhrN3F2NDI2alZobmFyZFpPU1NtYlNuRVdQa1Q3UEpjeEpVeTZqSEUtVHNodWx4R2J0WEMxUG9HUnNXeDQtM2RfVHZkR1QxZTBzaGkxajZwTjdScF9hUknSAWxBVV95cUxOLUgzcThOYi01V19GNE5Tc0prVXJHczBQQWF1TFJXSFR1ODZPOVk1cU9YajZLWDJ3Q1pabjgxdVhZNFFkMzdST216d2oyWEMtX1NWbzNESUZ6VWxIUTBZU0NfUC12VV9jQ0VnSEM?oc=5",
-        "source": "自由時報",
-        "date": "2025-10-01",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉盛產...1根價比1顆茶葉蛋還低 嘉義農民叫苦 - 聯合新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGRmc4cnQ4SzZCRTNPbTBYdDVmYzhyMzJrNVlTNmR4WkpocU56d3NMV2hOODNVVFRJVXZjT2pNRG56a1BodGdPSGM5ekZzeF9G0gFWQVVfeXFMTXFOTnBBQVE0bzVsdUExclljN2RtSVJUSzFXZXk0RWZ2X1p3SlBsd0JJWTJlUndwdWliX1g0TTRPWTBFRnNZZi00eVFVUk1BNnpoSGtSbHc?oc=5",
-        "source": "聯合新聞網",
-        "date": "2025-07-03",
-        "tag": "market"
-      },
-      {
-        "title": "高雄香蕉價格回穩 高市農業局籲民眾多吃在地好蕉挺農友 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNYTg2YW15U2MxbjVuRXFmOWR3cE96ci03WVJtcm02YWVUU2pQZjdQeFdOSURlUEpNRzlmTWpITHR3OEpwcThDdTU5TDk4Q29XcUplZWxDYUxVLXUzSFZQRnZsbmIydHplMU5Ea2pTdk5SaDUxMXRDRl9MUmN1ZVJzM1NNaThPb2Y1Yk9qMTAxWjNrMUIxMXZkWGFWSmxsYzA3VGhGOGRrQU5wWDdVenZjSUxWUkt5LUtDbzNIMDFBNmZubWpTQ0xucWc3NlU4U0xIZkpoN3dFY1lSa1ZGNDdtUnhPV3luWEpGeWNYLXhKRnQ5NkxnU01zbVpFWXRuZ0dEV3BDY1RLekEtV245bGtWWXNEMHVJQ2Q5TTJyeTh1QzNGWl96cDdMVk9xWXpha0wxVTVpXzBSMTdLLXk3dEJkWG5WM1lMNUxhVS1xbmR3bHpscHZuNFRjVVgzbmEwLUxHM1d4cUJhMDRDcUc3ald4LU91bmRLUTJjb0VKcnpiRFA?oc=5",
-        "source": "Yahoo新聞",
-        "date": "2025-10-01",
-        "tag": "price"
-      }
-    ],
-    "木瓜": [
-      {
-        "title": "北市抽驗批發市場蔬果 番石榴、木瓜不合格率高|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NkdHeE1DQkpsaGZVbGNoZ1k4Rkx0MVBkLTBwUU1VR1JPUVNQdUVZUWZpRTJHYlN0QWRrS1RycGtwVENmR1Zvd2pNWQ?oc=5",
-        "source": "僑務電子報",
-        "date": "2025-06-25",
-        "tag": "market"
-      },
-      {
-        "title": "木瓜就像CPU──台灣農產品熱銷國際 - 台灣光華雜誌 Taiwan Panorama",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYnp1UGduNWROM1RNdVl2Z3g0V19OeHVUT2M1UWQ4LXRvcjJMdmhmSTFEMDFJRHJmLTZ3VnBIWnB3cWhZT2NpV1ZDNjNiWmp5WF9uUURwU1FwUjlTdnREU0FMcUdfZWF2Uzd1V01TN1hZZ0xpd3Nhbm1TOW5USGVCdjN6VVZGR0QtRjhPMml2cFhjQ3ozQWdYQlVmWmgwa25ua1I3RUlHYlZMQUp5ZDM3dzdWQUN0dkFscFNCaWhPN3JHd2ZtanM2TWJOY25pSGc2LW40ejlONWtxZEp0b1MzQS02UXFFa21CWTNBMmtldHVjLTUwWmdpZFRJbWowTDNXU2dzcnVlbmNRRFZrU0hnQTZJMWY4U0JpZGV2OXVDWkJ4OEYwcE5TYmcyTjhNbUlsczNEQTlQQXA4eW5oLXUwZVZZcC03aHBXQzFhc2NLelkxVXM0akh3TlFCQWRMVlROMV9EMDJB?oc=5",
-        "source": "台灣光華雜誌 Taiwan Panorama",
-        "date": "2022-04-01",
-        "tag": "market"
-      },
-      {
-        "title": "極端氣候衝擊 夏季水果產量腰斬 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbE9PYlE1R2VIaGF0ZkEwbTlmXzdremltZjZWM2tqRHVHbWVEVDF6bVpIT2dmVmFjYURCNjgzcHNXT1JIakZHOVdldmVncU8weVdiUUtRVUlEZWvSAWBBVV95cUxPUTRhb3BHLTQwSmRpRmttV1d6N2tHU2xOOVltUFBJMzZnZTE3Z1p3VDFaM1dmdnZEVjJrb3puM1hvYlJHdV9tVDYwLWMwand2dnBrNDlqbHNHNi12Z3FSZy0?oc=5",
-        "source": "自由時報",
-        "date": "2025-05-25",
-        "tag": "weather"
-      },
-      {
-        "title": "紅透台灣 2024林內木瓜節8/2-3熱鬧登場 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb0xGQk1DdHFBTVhpZjQ3SDIwZUhmUFNOZUVIdDFnb3lndFVlTEtXMzVGemlTYlJLd1BTOEx1NURZckVLcmQtNGp2cDRqOXVxSk9QTmQ0Vmt3MVRkMnJLUmFicXVKMWpWTGY0TUFVcGc3ZFZuczc1VDluWU5YbUJDYnVHMHNaQQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2024-08-02",
-        "tag": "market"
-      }
-    ],
+    "香蕉": [],
+    "木瓜": [],
     "葡萄": [
       {
         "title": "四月第一口巨峰葡萄 溪湖壽春果園黃俊祐宅配直送到家 - 樂聯網",
@@ -165,384 +36,38 @@
         "source": "觀傳媒",
         "date": "2026-04-12",
         "tag": "market"
-      },
-      {
-        "title": "麝香葡萄最殺甜甜價！韓媒驚爆價格崩盤1公斤不用40元 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4a2V2Z01rQmllb0RRUHZZaDJNZ21pT3l1UFNYOFNiVk0xSHZpWGZyaUFmVzg3YVZVcGYxTjNoaHFxem5obUlYMmVSRGhCN3VfVW1zZXIzZ1pMTWVlOE1Z0gFkQVVfeXFMUHhrWEx0NmVlYVh4R01TTXgtbnR5ZjhvU01GTUYxN21TX0hhUGFwMWpiVzN5ZlJjYTdKQTk4NWJXRHNwc3daQTRCRDdxUm9HdWRIbld5NGl5YWRhVlVrWko0VVN5Mw?oc=5",
-        "source": "自由財經",
-        "date": "2026-02-16",
-        "tag": "price"
-      },
-      {
-        "title": "台中農業嘉年華千人饗宴共譜豐饒食農 菇筍聯姻展新意「葡萄之王」閃耀全場 - 報新聞 Mega News",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MMUdzczFPWU94Qi1KQ09xV0Y1eGtJLU96N1JzaDhfeEdMMWZaX0ZFYmpLb3pPWTA3c1V1am15WkZiRmozdjcyVWZMMG5fVFFUcDlMZWZQNWJfTjZMcXFYMWVLZXRDNzNT?oc=5",
-        "source": "報新聞 Mega News",
-        "date": "2025-08-11",
-        "tag": "market"
       }
     ],
-    "蓮霧": [
-      {
-        "title": "落實登記、做好分級打通路，蔬果共同運銷為產銷失衡找出路 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14T3dsb21PcjM4Vk5ucTNCTDc1VzNtMzlnWXJJZUFKR0NMZHZkQ0JqbWc4RTRsQUN6bEhRNm0xQUFncWZNUGp2dFd1MFVOUmhWZk1CNQ?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "農業部：春節蔬果漁畜產品供應充足、價格平穩| 生活 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qNnVBRS1MTEVsTVB5NGpLc0VZcF94MzRHelNwTGgyMTNEYzZFdFhfTnFoX3RJWTNJblFfSWZVN3FRZmwyWWliSjFUMlcwcWVnS3hDN1l4bXpfNndxUmhz?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-02-04",
-        "tag": "policy"
-      },
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 公視新聞網PNN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "公視新聞網PNN",
-        "date": "2025-07-02",
-        "tag": "market"
-      },
-      {
-        "title": "臺北第一果菜市場要改建，產地有話說 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRbEpjYkh2cjFFbzB6SWtfWTlUMk5ZZGpUckpiTEJVWkQxRUhLT2podzRfMGNUTlJRMU1FNTFjMU9zYnZIUGF5NVExb3pYbDhOUTFSYQ?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      }
-    ],
-    "草莓": [
-      {
-        "title": "【餐桌上的產地】大湖草莓王國：湖畔之鄉的甜酸美味 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3dmZaWlRFU3BhMERkemFiZVU1S0Z5OHp5X3pPQVM2Y0ZOeUZRZUt1ZUl2bHVDNnJLS1NPbTUyU2dtdi0wVnJYOWRobml0R094SFNXaW13?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "寒流致遲發性受損 草莓批發價每公斤飆破400元 - 公視新聞網PNN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RVm9TcmhPMnc5eXJKNkpqcVFBSjM1TDNISjQxczBMVS0yc0FKYlZZWC1jUDg3SU5oVlF0SVlub1oyZFVJMDRHbnU4Q2hpWEk?oc=5",
-        "source": "公視新聞網PNN",
-        "date": "2024-02-01",
-        "tag": "weather"
-      },
-      {
-        "title": "有「名」有實價更高水果產銷戰開打 - 台灣光華雜誌 Taiwan Panorama",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcmIwV09YQ0xxa3FpSkRoZl81RjF4Y2NEMVVfbGZRemI0NWZiUFowejdPcTlrUWVlUkVTSG80ekYtQ2FxX3FnR1l1a2lYUzVCT2oyUThxc3VGeDc5WWxBVk5BdzVBc3U4MmdpeDFhbm5JTHQ1dDR1Wjg0NlNac3paMXozcDRtWlcyNHZLU1JZWGd0ekVESVlEVVU4OEktc2NoNWcyV2VKQXQ1bjJMclZ1dVlxajV6ZThXYjNsMHpBY0NyNlU1MFgtQ2tHQ01lcnhEZzFpblo0d0psa3dIc1dWU0kySDdkcWVveFFRazU2aHlVUWVNa0lIQTMzSEk4Z1FzeVBBQ0V1dDJaQTAyQjlrTFBjNExOdllZbEN4VkVVR1JUamdjUU9pd21XN01NWFpuQzV5TEtUSXdLOEF4Rk1UdjJ1MTdrc3RNYndHZmdtU0dreUlpbWF4cDJoNkpKQmFMS0dPOXEzUHBiVWxL?oc=5",
-        "source": "台灣光華雜誌 Taiwan Panorama",
-        "date": "2024-07-21",
-        "tag": "market"
-      },
-      {
-        "title": "行口就是江湖 掀開果菜批發市場神秘面貌 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzMmxJMWNlUjYySUhpeEtyNERZeS1qQUt6MzNXb2JjMVFTUlhPYm1fWERvYUJLbHZKd2tsUjd4dUlsUkstSHBWOFJvWllLMERabVpJ?oc=5",
-        "source": "上下游",
-        "date": "2014-10-13",
-        "tag": "market"
-      }
-    ],
-    "西瓜": [
-      {
-        "title": "高雄瓜類豐收上市 年產值破4億元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qNEdleXpwbjN5cThvaGNUNHU2LXAwZlNvQ05tb0dzUko3MXhvOF92b3ZqbV9BakQ3VXotbk13SllWRmJ5WlQwOHRlVm11alJabk5vQjVpSDRTaG1WZ3Z1UUpfVTnSAWpBVV95cUxQSnNnQzlpS2VpTDZMczBUWGlJNEpSOXpIWmFmdGVJcFAtZGE3bG55RGZvVlgzN09jTWk2cnJselRmZXJxR1pWaUkyYnowblBKWEtGb0hvMmJQMFhlbzRzRmFFNWJtT0toc0RB?oc=5",
-        "source": "自由時報",
-        "date": "2025-04-29",
-        "tag": "market"
-      },
-      {
-        "title": "酸辣農友會（上）大頭菜交易有賺有賠 現實世界農業穩賠不賺？ - 新聞實驗室",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hczBuVFFjMUR0WllQNFphbGhNNy1OUmpuMUJpWDBKYzdwVUFFeDI4N05uMkRxclYzbTJtQUNFaFljUm04T2JVT1J3Zw?oc=5",
-        "source": "新聞實驗室",
-        "date": "2020-05-26",
-        "tag": "market"
-      },
-      {
-        "title": "台灣西瓜大王》王家正運轉全台700甲西瓜田，沿溪游牧，喊水會結凍 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DeHczQ21wZUdpNzJZdnBJRmdhblNwNXVSOEVHVlhsSm5NY2RPS2xURmZsN2VTaWxtQmFaMVFNbnBRMmVjZThjMmdrbXpPSWZMLXAyZA?oc=5",
-        "source": "上下游",
-        "date": "2022-05-31",
-        "tag": "market"
-      },
-      {
-        "title": "從一張白紙到破7萬追蹤青農網紅，林柏賢返鄉務農自白 - alive Taiwan",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTTQtc3h0dXdXcFZLTEVURnEtZkZhUVpGWlczaS1qLWdVSjdiejh1Y19XZUtmRERsRmhGc1dzRVpoLWM1NlR4WlNWdmRzU3pQY3h5NGlQcmlDUTYxM2hJNTdncTBWbXAxRFA1Qnc2cw?oc=5",
-        "source": "alive Taiwan",
-        "date": "2024-05-31",
-        "tag": "market"
-      }
-    ],
-    "柳橙": [
-      {
-        "title": "友善動物栽培，如何也友善農民？ - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KemN2c1V0UFIwbVR6dmVNSmZXLWJGbElMYncwNlktSVNUV2hSbW4zLWIwYlRySWh4d3N1cGlRc040MmRJaS1hT1I4SlRpMi1mTlR4Tw?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "北農批發市場擴大低溫卸貨區 陳吉仲：完成冷鏈最後一哩路 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TTTNFWWZGQ2poeER1NUE0MUJ6bnplVlVrTW0wZ1RUM0VkSzU5dlZQWkhmZ3h5enNQT3U5LVo5YVFCU3J5MFRWSHhJOE9KbHdBb29Vam5ZakpnQ3JYOUtiRFFWNTPSAWpBVV95cUxPZml4LWQ3S3FmTy1rTjJGU3pvTGJoaGRpT3RZRk80TkZyaFV1UGNpYXphcmZ1ZDZ3SWZzVWtSWlIzMVRLdHVXaFFHcExsYWtBRkE0MndRQmpCaV9uR1V5WW5UWUVCOExqQmdn?oc=5",
-        "source": "自由時報",
-        "date": "2022-12-20",
-        "tag": "weather"
-      },
-      {
-        "title": "Zespri奇異果傳奇 - 動腦Brain.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUkV2WG1pYUdxRUdTRExjQnVuMWg5ekpSVzNuZ24tWmVORVN2cnhzeE1LN3kwczgxTkRZekhZdGlkby1hd3hkZjBVU3BqR1Y2MDI1VDNieHZub1EwcUFxXzBn?oc=5",
-        "source": "動腦Brain.com.tw",
-        "date": "2009-06-29",
-        "tag": "market"
-      }
-    ],
-    "文旦": [
-      {
-        "title": "風災受損秋季水果仍不少 文旦柚、紅龍果及梨「著時」可穩定供應 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDVGtHWE5yTVNxbWRxd1Z1VU1ZQ0hkT2RGdHpxYm5WRHdrMTZrcnVmLUEzeGNMVEwwTVNOSGEzVTJPbkNwQ3U0Qi1RMmVybkdSS19xMjdn?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "打破秋節後文旦價跌魔咒，如何「闢柚」農民開創市場新藍海？ - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vS0Z3VUZyRjlkdWhNaDJPUmt4eXFIdUdmYzRDa2dIOXN4NmtlTWp1X2RMVk5GYkVyREMxYVRER3E2bEJpWWlFLTZzakkxZjYxUUNocQ?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-01",
-        "tag": "market"
-      },
-      {
-        "title": "文旦減產3成品質不變 台北批發價較往年漲近1倍 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByR0VVbmM0R25CMkpseXBpbXUtNWNkZUgzWHZ0N3Y3UFFxVTlUbWgxbHp5aVhaSXBTbTM2WElleHY0Wm9zdEJQZWU3M25HUkdQNnZja01LVERYY1NsbnNvQWlHSl_SAWpBVV95cUxNb2NRbWtIeXh1M2ZhUXlzTk40eXQwS2tQM2lpMmNjY2xQZXEwTDgxME5pVEZQMi1sNGdLd1p6U3dLMXVsOElMeE5BUUM3eE9jbkVuR1NyZ2xpRWwydmlBX0dHc3V6Y2hkTUNB?oc=5",
-        "source": "自由時報",
-        "date": "2025-10-02",
-        "tag": "market"
-      },
-      {
-        "title": "中國再片面中斷我國三項農水產品 8億產值受挫 陳吉仲譴責：全球貿易絕無僅有 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOY0hlUENQaFJRZHhQUEN4NUZPR2J5b3ZHSlJTTzdmNFN6QmxuTkZySTJVM3pkQjBHVE81ZzRsaFg4bmpoclZldC1mQjVLaThBZjQxYg?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-01",
-        "tag": "market"
-      }
-    ],
-    "釋迦": [
-      {
-        "title": "鳳梨釋迦外銷受阻 陳瑩籲農業部緊盯產地價 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGNVUmlrUUtqYTRnc1NZdlhnN1ZqSWl4Y3lFc3V3bzhyTXJyRlRDbkNhVjR4bFlWMWdiMGp3M3ZYdGExSmJHYVB1YXZXb25QdW1LV2dzM0lpd0dCVTc0Uy1VY01ydkt4ejh4OWktQkpvejg0YVlLbDFpSmxnLTdHZzBXV3FJSXBHTkpiZQ?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-01-27",
-        "tag": "policy"
-      },
-      {
-        "title": "台東鳳梨釋迦海外拓銷措施啟動 陳瑩、莊瑞雄要求農業部「盯緊」產地價格 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFdWcnRwT1NpbVU5YlV1Qk4xTC1yYThrTkNJalVIcHdmV1dHY0ZxUno1MVFJU2cyWTk2dzN2QmhOaUYycndkSjdHM2lsaVpvcFB5VFNqdjdFVGZ5ODZpQ3RYZ21obmZyZTNVLU9VaUY4M1VCRGFzR1Q4QW5LOTJpSURKSHQwVFRBSEE?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-01-27",
-        "tag": "policy"
-      },
-      {
-        "title": "年前一周物流接單停、企業訂單減少 鳳梨釋迦年前價格低檔 過年展開促銷 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lYzljcmxzX0ItVFNFakxnQTY2Q3FJUHZIMzJkcW9rYzU2TTFGb0cwSUx0MjJvT0xYYVVIb2FVbU9DY0dKbkdMNXVMRmNiQ0RZX2tJXw?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "price"
-      },
-      {
-        "title": "極端氣候衝擊 夏季水果產量腰斬 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbE9PYlE1R2VIaGF0ZkEwbTlmXzdremltZjZWM2tqRHVHbWVEVDF6bVpIT2dmVmFjYURCNjgzcHNXT1JIakZHOVdldmVncU8weVdiUUtRVUlEZWvSAWBBVV95cUxPUTRhb3BHLTQwSmRpRmttV1d6N2tHU2xOOVltUFBJMzZnZTE3Z1p3VDFaM1dmdnZEVjJrb3puM1hvYlJHdV9tVDYwLWMwand2dnBrNDlqbHNHNi12Z3FSZy0?oc=5",
-        "source": "自由時報",
-        "date": "2025-05-25",
-        "tag": "weather"
-      }
-    ],
-    "龍眼": [
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 公視新聞網PNN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "公視新聞網PNN",
-        "date": "2025-07-02",
-        "tag": "market"
-      },
-      {
-        "title": "伊甸不再，台資果農的困境 - 台灣光華雜誌 Taiwan Panorama",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQ2VNejhKaVhueDV2OEw1dkR3a2o2ZGVDalRHR1liU2dEMW81LVk5enJoakFnb0lGMUg3MkFrNkJKS1F2akVEcFBWSm9idnE5b1NMQkJzalRkVTI5bFRaZXlrUVBFX2xKUWxmYmFFLWpPemUxd0tCVnU0SG1CU1hLNHY3TEpIZnNnb09WUENZUG9yeWNWSk4xbFNOQ3NfdnJTQ3N4Y2I1UGh6b3pqVEROSXp3YTJLcUYwMUdSazc2RmZBU2NWWlV3MldMRW9KVmxWLUdUVmx6SWFzQm1DYVVaakxuV2o0dzVKb05vRzF5OW1ka0hMbExzWG94Z2RpY1ZfUWtzclFaUFJYQU5IWUREaFFHSEZ1RkVFUHZiRldIYmFMWXF3d3NQOHdxUFFQMHN4UFRJTTFnMUlBOXNpQXc?oc=5",
-        "source": "台灣光華雜誌 Taiwan Panorama",
-        "date": "2022-02-03",
-        "tag": "market"
-      },
-      {
-        "title": "「農五代」發揚米食、「漁四代」這樣介紹虱目魚 青年大使連結台灣與國際 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOM3YxeVo4V21uOE50aG01RjBBS1dVMnI4eDlzOFZPYzZJZUctZVhMckRKVmlvWFVqRjNja2tEYzNSZFI3TTZTT2VHNTBkYWxJSkRxdHdDQ0FMYnNLVUJfeG5wa0d6SUhzVGd1WmRRdUJXbUlMMThJazhhZ0Z5b1N2eF8tMWFrWWVoVUxuX3htbGZrNnlFbWhEdl9xOWVNVEwtemJHN3hnektfaGI5VHYtVmlmTC1OMTdIWldTMUtuLV9JWlZFMlJxdHVHdWkzR3R5dWMwcjZsR1MwOW16OVFuaUJBUGFwV21sSFNKbkYzdmhmOXU4ZjJhZnAta2RDZHNOb2tNNHhtN3lqSUVfQVhvWE9iNW1WdFFPOUpVQXFkOEhxZ1NseFpXbG5rTnVUWWtTMXVuZUxzcmNSeXlFTmZLSDV3UWtQNkxTR3Jqc0xsX19uUkFwdUg3VXJJenNnOGo0ZEt6RS1RcmZZbDFXTmRBMU1MMjZZcTlFZXZwSFpMZ1cxSzBBQ0p3S2ZEVUdVU2g1bGxsQXB5RHVETFM4dGRtSG9UM2xzN283?oc=5",
-        "source": "Yahoo新聞",
-        "date": "2025-01-29",
-        "tag": "market"
-      },
-      {
-        "title": "農業部率團赴東京國際食品展首日獲大單 日公司將採購1,300噸台灣鳳梨 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SWEVJbDdLZjk3SmhybUMyOWpfc1o5bjBCZnFiWWstNmdVZV9DaDdlYkhHX05NVV9VT0pTdVB5VWYtUHNJTHMtTGhLODNCaW1HQnc?oc=5",
-        "source": "蕃新聞",
-        "date": "2024-03-05",
-        "tag": "policy"
-      }
-    ],
-    "番石榴": [
-      {
-        "title": "冷鏈外銷再進步 穩定輸銷臺灣爽脆番石榴：搭配關鍵採後技術鎖住鮮果風味 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51UTJ5S3RSUG9QLTJMSnlJMDhGWm95YWxzODQxLXB4OTY2TTVSNXVaSVduc0V4djFPaDJOUWduMG5Zci1PNkJLYWJfR0E5c0hjRVVqV213?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "芭樂價格創新高、果農無奈採收率僅剩兩成 盼12月底價格回穩 - 台灣民眾電子報",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtb1lmSGtMa1dFOXlRNmdVWEdXQ3p2WjZNR3VwYWw0SV9lcGRwekFqQkhxX0l3eTZHeC1kWWpNSWFPQQ?oc=5",
-        "source": "台灣民眾電子報",
-        "date": "2025-11-17",
-        "tag": "price"
-      },
-      {
-        "title": "北市抽驗批發市場蔬果 番石榴、木瓜不合格率高|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NkdHeE1DQkpsaGZVbGNoZ1k4Rkx0MVBkLTBwUU1VR1JPUVNQdUVZUWZpRTJHYlN0QWRrS1RycGtwVENmR1Zvd2pNWQ?oc=5",
-        "source": "僑務電子報",
-        "date": "2025-06-25",
-        "tag": "market"
-      },
-      {
-        "title": "芭樂好貴！每公斤拍賣價飆94.9元 創11月歷史新高 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84b3JVZjU5Vm9yYUJNRDJjUEtRZi1tV2FteW01cjJaLVltamxYMnRuckxiQXFUSjJUX0lLS2liZkZEb2NXbVNrUThDYmNmazRDczBQeTRmVVF1ZEFsVEVXQzBLdmrSAWpBVV95cUxNWmowY0ZCUjIzeVJoSXFhNzI1VHV4UGw0Z1paakdhRXVmQ1VhbEhxdG1jTFczNlJXeVd4YVFybXVRLWp1ektITTlnc3cweElqTEotaU04dEhOeUNnUUkzLVA2QW1qOThjT0Jn?oc=5",
-        "source": "自由時報",
-        "date": "2025-11-16",
-        "tag": "market"
-      }
-    ],
+    "蓮霧": [],
+    "草莓": [],
+    "西瓜": [],
+    "柳橙": [],
+    "文旦": [],
+    "釋迦": [],
+    "龍眼": [],
+    "番石榴": [],
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "200913電子報｜《水良伯的老農哲學》 教你怎麼種出好吃又低碳的高麗菜 - 環境資訊中心",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vWDFVTmNCNkZnSEZyRlByc1JUU0lWVjVndEhGNFNGOFpyNG80dFJfSEp2RW03WEgyWER3bFIzZnVfRVRQNHFoX3ozbXE4Zw?oc=5",
-        "source": "環境資訊中心",
-        "date": "2026-03-24",
-        "tag": "market"
-      },
-      {
-        "title": "高麗菜成為賭博菜的原因與解方：提升農業生產力、組織性 從源頭抑制產銷失衡╱焦鈞 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Xy02Zk5EOHZXUDFWRE1sMlQwczJPSFRLZi1vSGlTSkFEck0tMlBEcWhVTW1fTUNqVzlVWDNMU09tVVBTNFhFQ3VmdlVaMUNza0VhSVZ3?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "農業部力推種植登記制度 菜價暴漲暴跌將有解 - 翻爆",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuLUgtcnBRc0ZUMGdRNUVMcHNyU25TcU9BcldHd3Q1ZExDdjJrREpUM1JRZ29UVHNmem5OYWVoaktRTHR3SVBzM0txbmdUNzlBYkpKbDVMU0ZxeDIxMERhZW5jVUFZNG1zaXpV?oc=5",
-        "source": "翻爆",
-        "date": "2026-01-07",
-        "tag": "policy"
-      },
-      {
-        "title": "高麗菜供過於求全國均價不到10元 首波外銷新加坡162公噸 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LYTcwS1FXMWlrRG5OX2VkVjRmNjZRdkVtclllUGMtWFY5WG1GQVRYS1A4VEJsWVctU0pGX2dfODFjS1RKeHBBak9wbWxQdW5jeWdaZ1FlOTU4RDN6MkN1R3lXRnTSAWpBVV95cUxQZ3NuTHlHS3BRdlFyMS1tbWZCTlp3N09KZjljbjF3Y0tHanJsbnNJN1JxVU96U1lINzN3YlVWQnByNld3VVpmRERCRkVheE1MRnBON1JDNFJXOWRsR0tvaGxVXzF2cjBoX0h3?oc=5",
-        "source": "自由時報",
-        "date": "2025-12-23",
-        "tag": "market"
+        "title": "台灣1蔬菜價格斷崖崩盤！能助腸胃修復 2祕訣可保存1個月 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtQUM4d2dPY3hpcHN4aWJTalRpaEN1alpMSENxX29reW5nVXlZZDdlWEp3d2NHV3FtOHhTS1M4UUltN25RbERlMXlqTmo3Zw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-04-12",
+        "tag": "price"
       }
     ],
     "番茄": [
-      {
-        "title": "冷鏈搭配無萼片採收 外銷成長指日可待：低溫保鮮技術克服小果番茄低溫寒害與後熟反應 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVVBYNlpNR2NZbUNNc2c0UzdONUFWVzYxU0pSNUNHWEtXcklHT1ZidDRPQkNKVkJyb3N3dW5OWm00cjFsZFA2dGRtV0t6TlJBeVo5cVp3?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-01",
-        "tag": "weather"
-      },
       {
         "title": "田尾青年返鄉翻轉農業，梁勝智七彩番茄闖出市場新路! - peopo.org",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iQzFrRVhSWEc0R3U1QnVZOEd5UFo3RkFJWHhJMVhlNnNSbmN1eWgyVGRuYV9vbkt2QXhmVTUwT2gwQi1VanpvQw?oc=5",
         "source": "peopo.org",
         "date": "2026-03-19",
         "tag": "market"
-      },
-      {
-        "title": "颱風、網室、批發市場：餐桌上的台灣「菜歷史」 - 環境資訊中心",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zSDdQamFnTkVOSkVQUVQxNmhYZlF6ZE1NMUpIUGtyRFFEZ3A5TkRSMzdUdVc1MFBoX2VxQ2NmeWw4RVNzZmhMeQ?oc=5",
-        "source": "環境資訊中心",
-        "date": "2025-08-05",
-        "tag": "weather"
-      },
-      {
-        "title": "上漲近10倍！陸番茄價格飆升 網喊「雞蛋快配不上番茄」 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ib2JDZU1TNy1DTjZ5LWI1VTFKWEhxY2lkcnFueUhfMkZsMU9BNFhfbW5TZ084S1dtSzM4OVVKZHo0NTZNaDBQYTFJcGh1VWNvNElj?oc=5",
-        "source": "中天新聞網",
-        "date": "2026-01-17",
-        "tag": "price"
       }
     ],
-    "花椰菜": [
-      {
-        "title": "台灣1蔬菜價格大降價！雪崩式暴跌7成「每公斤剩11元」， 農糧署曝現在買超便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JOW9pdlE1SXgyaV9VZWlqSUdVcEFmNFdkS20xYm1aSWR6YjBKUDZ5dkREdVYwcE1OOWl2VGNwLXEzUWtRT0hKeWZJWDVsYUUw?oc=5",
-        "source": "風傳媒",
-        "date": "2025-12-10",
-        "tag": "price"
-      },
-      {
-        "title": "健身助農的花椰菜吃起來！天熱爆量，青花白花大跌價，產地直銷超划算 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6NDUxYm5oR3NEaVNHei1yUnlSLW94WmVLZEVhcWkzaXdBVTBOV0FFVURleTFYS0Zyc1pmckxPaE1hd0FFZ0VQeUxYMXI3S09CdnVHVg?oc=5",
-        "source": "上下游",
-        "date": "2021-01-28",
-        "tag": "price"
-      },
-      {
-        "title": "大台北批發菜價飆新高48.7元 高麗菜1顆漲破200元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11MVdYdG4tZnNNRVNuRGxmbFB0UUFjalNxcWFVYjVVNEdHS1l5VGhDeXVfcXlsVkl4ekh3LTFGX1J5WEhzZXdKNHBnVVVEbzNZZEJjNFdKRm9UajRHZUZCNmVfZFLSAWpBVV95cUxPXy1ycEFVMUtnVXZOUVd5YVRibkdpOUtQTXYxRGx4UUlDejFLek1kQkozRXlfN19XMHFXbVhuQ3EwR3ZXTnNLZEpVZl85UHhhbkxVNGVSU29YcW1oU2M5eWFFd0pZTUVIc3NB?oc=5",
-        "source": "自由時報",
-        "date": "2021-08-10",
-        "tag": "market"
-      },
-      {
-        "title": "台北果菜市場拍賣員決定菜價！ 蘇治芬解構「菜蟲」生態 - 信傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IZXZ2NmRHOWE1SkVGR3NWR3pIR2szb0piOW53Q2hBeXVFS05WOUNkQ2NHclMyMlFscEhRU2U0UWtBQ20zU2lGUm16cUFuY3hRWE9YQndDalc?oc=5",
-        "source": "信傳媒",
-        "date": "2016-10-29",
-        "tag": "market"
-      }
-    ],
-    "地瓜": [
-      {
-        "title": "全方位升級 雲林農漁畜冷鏈 從區域物流中心到特色產業冷鏈加工廠 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIWkFLVVRjUm5panM5bi1qNlpDc3RxazhmcEJuWTVnRk9abmgweXpkbWdKMk5QRjFFQUk4UkJjY1lEOUJzdTJMaHBYUGhZSThkRjhMRw?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-01",
-        "tag": "market"
-      },
-      {
-        "title": "從地瓜簽到台灣「藷」光 跨世代的甘藷傳奇 - 台灣光華雜誌 Taiwan Panorama",
-        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOVzg5R2tLQlpXeXAwVXNfTTNpdHN1a0h6cDl6YTJteEpBVDE4ODlWOVhYVHg4amFwMUpmVjkwT2E3LXJ2ZUFWX2lNQ190bTRWVUdFQzdnczQtNnVhOUNHblYwUU41ZjBPV3NWUnQ3cHdKS01QeHRzNDdfZkhBZmtfR0J6QWV6U0UzSkJLa2l4b1l1TEZkZFF2eWxFVDc1d1JydWhFa3BvNXUtVFNZUVROSnVESElpTUFOaGt1VWI5TlhuTlJoU1VqdGNRUXA0RUc3R3J5cVYtY1p1YXQ4SUpwMzlQMV9PdDlTQWdkMUVjdDM1YnZCOUNiaXlUa29BeUdjZGMyTlUzektJbUpqR0U2UV9XclZBWDFCQmlHMGFPRmp1ZDlTS0tsaHNzMUFiZE9XY1dHR1pMMWRJcHN2czVjVnRTZk0zaUxzMlNkSjlhVzFrNElUcmJoMlFRTGhYUDFlSjBGWlM1RkRrWHNzX21jeE1rQ1pnbzlObS1LWlY5X3RkaU9TR21ZYUhROUY2R3E2NVE?oc=5",
-        "source": "台灣光華雜誌 Taiwan Panorama",
-        "date": "2024-06-11",
-        "tag": "market"
-      },
-      {
-        "title": "彰化縣政府率團參加東京國際食品展 成功媒合簽署MOU訂單超過新臺幣2611萬元 - chcg.gov.tw",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUtOcGswbE9KMzVaNUd5emF3SndlN1pVMFNxVm5HcHQzZG1QTEp1d2NHaWR6MjcyR3ZmaUg5c1J4TzR2TUwzemZPdFZzY2xNaUVYRUZOcUJJZmU5QmZZWGZIUWhyWEFPNEhZZWlVVnB2VVlBRDJtZjdNeDlsZUVGQ05xZng2ZWdmRnBpT3laakV6aWJkc1BVaERpSWoyTkc4OXlacGRwLVVhYVJrWkVRNnVYZw?oc=5",
-        "source": "chcg.gov.tw",
-        "date": "2025-03-13",
-        "tag": "market"
-      },
-      {
-        "title": "【不完美變身的好完美——格外品大集合】 - huashan1914.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ESHlvSThaNEZ6YnFJSHVGbUZudGZrblNGeElGX3lBSmRObkZIYm5YX3pTNW1aTkhlemczNUFiLUN2bktRRkl1Z0FNZlU0OFVOYTdTNE1HS3dIR0J3RWpOd2pNSUpqM3Zhd0drNlM1YjNUM3FJQi13RFZZTmc?oc=5",
-        "source": "huashan1914.com",
-        "date": "2023-06-20",
-        "tag": "market"
-      }
-    ],
+    "花椰菜": [],
+    "地瓜": [],
     "菠菜": [
-      {
-        "title": "北市抽驗批發市場蔬果 辣椒豌豆菠菜不合格較多|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjRkprcDRFYlRfMVRoN3R5VWNscGhuUm9qaGFFa1pGdnlseGg1MGFLWUVHandRXzdaU0pEX2hVbnZQYVlyZGk1NU1Fcw?oc=5",
-        "source": "僑務電子報",
-        "date": "2026-04-10",
-        "tag": "market"
-      },
       {
         "title": "北市抽驗批發市場蔬果「辣椒、豌豆、菠菜農藥超標」還霸榜2個月 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVVWprdTM0NnBtcDFseExJU0lvd29TX2lfWGI3OHZ1alZoY0NOREFzNU1ZcjJJZGpSLUJXdDQxa3d4TUlqdWpWSjJzQ0MwT1U5WEc4UnZOSFVBQURzUE1kQ2Zzb1TSAWpBVV95cUxQRi15eTZfcngyUTVXMG94SXlDTmlDRjM2SVNybFNYRXJ2a05WRFVjanl4bWx2Y3FGSnhwSXRtVWFLSXlwU1hzSk1IYWlreC02c2JtRWx0T0hDUy1qb0Y1Yk40R2ZvQWpCSWNR?oc=5",
@@ -551,305 +76,22 @@
         "tag": "policy"
       },
       {
-        "title": "又有毒蔬菜！台灣人愛吃的「4種青菜」農藥超標，多數來自「3縣市」 | 魏甫丞 | 風生活 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBNHE1LU1UTk15TW9iTEl4eEFmQjJGbnQ5VXdQcXQ4TndXR3lHemtFUTFDVmRDUHo2X1ZlSGNSVmpzSmJhamNaMEg1YzAyWldj?oc=5",
-        "source": "風傳媒",
-        "date": "2025-12-26",
-        "tag": "policy"
-      }
-    ],
-    "青花菜": [
-      {
-        "title": "健身風氣帶動青花菜需求！加強推廣與採後處理為發展利基 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lTXlQWDlNQ0dsVUZUazhLNi1LSExsWTlqcVpUbnNNSURVUnlDbEI0dlUyTC11VmJVOVFFMHh6OTAtOU1POFRtNWR4SE13bWpYNE5sZw?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-24",
-        "tag": "market"
-      },
-      {
-        "title": "青花菜產銷波動係氣候致短期集中採收 非政策造成衝擊|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tSERBZkZfQW53aFZZcENUaE1SX2JmejlmNGdDVUlhNmo0NDlBMy1lUGZCUmozVUxXdmp4N1hab2p1RTc4QnBzT19TQQ?oc=5",
+        "title": "北市抽驗批發市場蔬果 辣椒豌豆菠菜不合格較多|農業 - 僑務電子報",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjRkprcDRFYlRfMVRoN3R5VWNscGhuUm9qaGFFa1pGdnlseGg1MGFLWUVHandRXzdaU0pEX2hVbnZQYVlyZGk1NU1Fcw?oc=5",
         "source": "僑務電子報",
-        "date": "2026-01-07",
-        "tag": "weather"
-      },
-      {
-        "title": "從「天菜」到「泡沫」，種了個寂寞的青花菜之路 - 遠見雜誌",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xeDRvd0wwY0pwcjF5SkIyWlRqQk9tV0o5aEJrM2FKVEU0a3c5OGlJUGc3WmNFQk9JSV95VkMxdWM2MjFDRHJQaktvc1Zfdw?oc=5",
-        "source": "遠見雜誌",
-        "date": "2026-01-07",
-        "tag": "market"
-      },
-      {
-        "title": "青花菜增加 價格波動 農糧署澄清：氣候造成集中採收 - 台視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oSEtKc2NBY3JSYjNmWmk3QzM3eVhQOG44TS15M3JvenNVZzROSG5QdkhLU0JlVUdRQl82QXVuTV9ZYnBqTU95WXZJam05S2hLa0tTZ0ZwZw?oc=5",
-        "source": "台視新聞網",
-        "date": "2026-01-05",
-        "tag": "weather"
-      }
-    ],
-    "茄子": [
-      {
-        "title": "勇敢面對台灣農業現況－鹽埔鄉蔬菜產銷第二班與班長張技生-茄子主題館 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUHZENmczR01mSmk2aU9hc2dHczhmelJWdXM0QXhZaVhwTXNtYW5lSnloaWhodk1fcVF3bVFQekYyelpMcGYtbG5GajhCSFgwSTZDUG9kVTVMdzZ1T2lVaFN2VQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-03",
-        "tag": "market"
-      },
-      {
-        "title": "（有影片）／氣候影響二水農會舉辦農產推廣幾乎拿不出農產品來行銷| 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TeEVwLWl4Y0tEUzlYV24wSGRMeEtmUndON3ZQU1l5ZXpHd09zNmx5R0lnY2NHM2drSkxqSFRacFJ0QnREREt4UVBtSW5ZbjJZeDgweU1B?oc=5",
-        "source": "LINE TODAY",
-        "date": "2024-10-20",
-        "tag": "weather"
-      },
-      {
-        "title": "茄子8公斤1500？ 菜販賣780 中市府稱每公斤批發均價33元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRE1CdDJZY0tNaGU0a3hFc1VTbDg3a3BwZkQ4M2RaTW5NTG5iVjRvZ05vUnBBczVBSnpWeTZsdHZvSWZ0cmowYlB4SDFzbnN2SnU1dzV5REZ1N21zTVRWV01xd2w2eWNSSUHSAW9BVV95cUxPcW1iLXRQbjU2dHNoWERURkxERTNpQzE5U21xYXJtd0Rabkw0X3BCdGwxN0Eyd2FvZUFHbzBvaWFZREU1WFRhdjJIbldSLWQwY1BTTDRuby1FRUVUZ01qa1k5dFJQUmxVX05RY2NpY1k?oc=5",
-        "source": "自由時報",
-        "date": "2018-08-31",
-        "tag": "market"
-      },
-      {
-        "title": "美國加州蔬菜及其種苗產業現況 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qUzFBRHZoVjdKZWx0Ny1GSFFhbzZwMy1mTlk1am9tTmlpWXhyaG9sWUdHWU5sbGVGX05NQUQ0cXpoTno2QUhqZ2RQbUxrakFSdmtYa3NpVWNiUDNJTHl3aGVLZXdDZkhvQjYw?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-02",
+        "date": "2026-04-10",
         "tag": "market"
       }
     ],
-    "黃瓜": [
-      {
-        "title": "蔬果產地.批發價已跌 市場還是貴 批發商：高價進貨沒賣完 - 華視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xODY5eHlxa0JwUTlveUFyUEx0bHlvcGgzQzJSaHN2NEY2eHFSVVBmRW9aU2hDbkl6Wk5RQlAwTFVWVkhoUXdDUURReVE2U0Y1aUdsMTFLQ05qell3NlFtb19UQzdtU2Z6MnFHVg?oc=5",
-        "source": "華視新聞網",
-        "date": "2025-08-16",
-        "tag": "market"
-      },
-      {
-        "title": "槍殺、打劫嚇不倒，九如果菜批發市場全民營，每天現金現結，轉運蔬菜造福農村 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43aWIxeHpjM2hDLXJEQXI0SWJEVGtaN1hZTmN2SjdPX2dTcU05TnhyWmtHdWdWMUpLM1pOZGFPWjJEMkQyc3lfMWdOLUdRZFZFMDdBMA?oc=5",
-        "source": "上下游",
-        "date": "2024-01-25",
-        "tag": "market"
-      },
-      {
-        "title": "勇敢面對台灣農業現況－鹽埔鄉蔬菜產銷第二班與班長張技生-茄子主題館 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUHZENmczR01mSmk2aU9hc2dHczhmelJWdXM0QXhZaVhwTXNtYW5lSnloaWhodk1fcVF3bVFQekYyelpMcGYtbG5GajhCSFgwSTZDUG9kVTVMdzZ1T2lVaFN2VQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-03",
-        "tag": "market"
-      },
-      {
-        "title": "西螺好秋樂活市集行銷在地農產品 12/7-10邀民眾共襄盛舉 - TDN台灣生活新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zNGgtYnkybWFIMmJrSldMMHlHYlk5YzFDRFVNN0pPYVJ4REZ1M0NkbnhreGR2QzJ0amRRYmY3VDJSeU92d24teHNaYk9Oa2Y0?oc=5",
-        "source": "TDN台灣生活新聞",
-        "date": "2024-12-05",
-        "tag": "market"
-      }
-    ],
-    "蘿蔔": [
-      {
-        "title": "逛超市還是上市場？蔬菜產銷環節的悄然巨變：冷鏈物流促成農民、通路雙贏╱焦鈞 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZE1MS1Q1VVhMdHZnd3BMaGNvcEtEN3dwMzZJSDNRTmtYVWZ6OWR2c1JJUE9tR1N5Q281MWNBYkw5OGdTSEhFRF9MaHRPb182a0dFYUhB?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "菜價跌！小白菜、蘿蔔便宜 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00WWhvZVZmbHF5OFo2VnJIc0hoZjZON2JvZEwxWUdYenJuQm41Wmt0Y1NPcG9ycGZrRU5LdlFtbTlVZnEtakxReG50SzBadDZlUC0zOEVmRVhSWjZvMnFwWUI1RGFDUVE2WDV3?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-03",
-        "tag": "price"
-      },
-      {
-        "title": "【貿易壁壘】中國銷台農產400億，蘿蔔、冷凍蝦仁排十大，台售中農產200億，稻米居冠 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xVnZINkgxLXFqUGlqMUYzNkRMNEVrbXFYNUp6cGdjUjdpdl93X2tZZVB0SHk0UXRrclZvZ29rWVpkVl9TRzFxNWlDU1Qta2cwRjRsSw?oc=5",
-        "source": "上下游",
-        "date": "2023-12-21",
-        "tag": "market"
-      },
-      {
-        "title": "打造雲林胡蘿蔔王國，「VDS活力東勢」在田間想像世界，讓農業也能很新潮 - 微笑台灣",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMjNLWXV3enNTTnpydVZwSVdIOGR0UVhUbTB1OHFJaEE4VDBkbVlwSWpPbUtaSkRmSDNyTDNTTGdVajZFaHdlbkc3VWtPX3R6dXBkSg?oc=5",
-        "source": "微笑台灣",
-        "date": "2023-06-20",
-        "tag": "market"
-      }
-    ],
-    "洋蔥": [
-      {
-        "title": "恆春洋蔥今年首度銷日 首批21,600公斤今封櫃赴沖繩 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZN0V4YjFQaEtycWt3S09ucC1Fd0laR3A5RXBabFZ0RUNnSlI5MVZiaUhiY05qWkY3TzktYXdOYlE2ZmxXSzJ4SnVQNG5HUWNuUzBVaGhR?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "【首長牛年新展望─農委會主委陳吉仲】下篇以冷鏈、加工穩定產銷調節農委會瞄準大蒜、洋蔥、紅豆十餘項農產品「保價加值」 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94aVBSTHFWY21EY2NPSkZMQW50am1aLVR2UnFuS3p1cEN3dHBLZU1pUjFfZkswUUQwcXVEWTVfclBHbUNiSm54MkNOTW5BWk5QQmRQcw?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "policy"
-      },
-      {
-        "title": "國產洋蔥進軍日本 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MYnA1bXNUZlNYSlZER29MR2xpb18xWTd4TzVrZFZyUnlfQkc0bU5xa3dyV1dVRDFwLVZGa1RIaXQxUTVfanVfY2tUWTI4MHNKOGdOUnIxdERhTGNuMjM3WUZSN0ZEcjVtMmZj?oc=5",
-        "source": "農業知識入口網",
-        "date": "2024-03-30",
-        "tag": "market"
-      },
-      {
-        "title": "屏東洋蔥進軍國際 銷日首批2萬1600公斤|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4SldQa1JlWVI3bXNGcmtfejRaeEw3RnhMTVd3cU9ScHE0VWxLN3ZmQktDTTBXZjZjODFZYkI4ZkpxMHRkSktOR213QQ?oc=5",
-        "source": "僑務電子報",
-        "date": "2024-03-29",
-        "tag": "market"
-      }
-    ],
-    "大蒜": [
-      {
-        "title": "【首長牛年新展望─農委會主委陳吉仲】下篇以冷鏈、加工穩定產銷調節農委會瞄準大蒜、洋蔥、紅豆十餘項農產品「保價加值」 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94aVBSTHFWY21EY2NPSkZMQW50am1aLVR2UnFuS3p1cEN3dHBLZU1pUjFfZkswUUQwcXVEWTVfclBHbUNiSm54MkNOTW5BWk5QQmRQcw?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "policy"
-      },
-      {
-        "title": "蒜頭正當季！批發價全年最低：菜販教怎麼挑　4招保存必學可放1年 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnNVlCRnlobmhQN0xaWV9LQ2hWVm9KZHUxejVueE9adHNRb05oRWxmdk5UTVNRakFuWFZFZHkwYmw2SG1idlhlWmQxajnSAVJBVV95cUxOVG50RTZnNHB6aVltX2JlOURiTWExczRGcXFGSkJIa3lweG9UYW9mUEJoc0hxYUpHT1phdmxudW9VVjIyQTJ5aUhlRVZQWG9SY0tB?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-03-17",
-        "tag": "market"
-      },
-      {
-        "title": "台灣農業產銷失控導致蒜農失血 立委丁學忠：政府應正視問題 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uX3BHc2llMlVsVFdfb21YQ0VVcWN4dGloZEtVcng2TWZNbllRTjN0OFRuYS1GZDc3VlN2YVV5ejdlaWQzTEVtNmxPa3gxMkFBVXhJ?oc=5",
-        "source": "中天新聞網",
-        "date": "2024-03-22",
-        "tag": "market"
-      },
-      {
-        "title": "疫情拉高價格？ 雲林蒜頭「貴森森」 批發價每公斤133元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VEF3NXVBTExCX3JUYnotMVdwbWdQUWZySndXZ1F1YTRDSE5JeEdWWDVBbDFaUDExdkxHeE1WMTEyNEt0RUFPeXhzZl9PaHhKZTQ0UFZQRG9xb3I0YURGbDFsTUvSAWpBVV95cUxOMEVBS00xWURYXzZuT21pRXpyTXdnS2FZTF9oSGk0RkZNUEFGTzlXREVQWkR1TDNpcTdDazgtQ1Y3bXM3N2wxRllzRVRsZlo3OWZTNzg1UV9qSlpRRFc4WDRfX1hjMklpN1dR?oc=5",
-        "source": "自由時報",
-        "date": "2021-05-24",
-        "tag": "market"
-      }
-    ],
-    "玉米": [
-      {
-        "title": "乾旱加風災 台文旦產量較往年減少逾三成 - 大紀元新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZU2hqbkJ6R1JBeW5DYkx4cmZ1bnRhM3FZR25DZUQ3LTdKb094ZXpIbUNndmV3OUl2eHdhZVBaUmZWWmpwNndpYUYtUER6LUZFSk91d1ZiTVMwSVBCclJJVNIBZkFVX3lxTE10Vnl4YURYYUhrU2ktWHhzOTgtcTJBMEpPb29FNEpra1ZRTno3SWtvbXdhLWxQVGdGVEVxM1BBMHFJeURQN1hBc1h1N2tON1dNaEdRNWRzWl9MZEFlSEZyOWlXRHFPQQ?oc=5",
-        "source": "大紀元新聞網",
-        "date": "2025-10-02",
-        "tag": "weather"
-      },
-      {
-        "title": "關鍵原物料稅負減徵措施 卓揆：延長至明年3月底 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CTTNsMjZXQTl5cllVYzFXQjg3YVlDWkI0LXVzdXNsZFBwdmphVXRFVjlFb3duM0k4UGxhX2JQWmZoTUQwUnJZR3RZUkJvajQ2c3FHU3RZd2dqaTRwd1lJ0gFkQVVfeXFMTkFWZExuQ2VGWFppaGU0TkFDRERRYjlMZS01b01od2NPWUhCX2EtOW5aRTlJRnpQWlR4VFo1ZzM0X1JITEVZUGh6bklKamliazZ6R3ZpQ1ZoWkJwc3JnVDEyc3d1cQ?oc=5",
-        "source": "自由財經",
-        "date": "2025-10-02",
-        "tag": "market"
-      },
-      {
-        "title": "白委指每顆肉粽平均貴5至10元 農業部：豬肉飼養成本提高 - 公視新聞網PNN",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QMm85ZVFZcjMzTjBWakVLUWRTRUJyWTZQT0lJTXU5M2NzLVB4Y1VjXzlmbE9UNGxUdEk2XzQxWk9kQW9qbWVjbThKTWVlYk0?oc=5",
-        "source": "公視新聞網PNN",
-        "date": "2025-05-28",
-        "tag": "policy"
-      },
-      {
-        "title": "台中農業局長視察批發市場 價格穩定供銷無虞 - 台灣好新聞",
-        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQUDlrX1Fwa0o5ckZOR0dJTEJuamk1OXAtWkZOMzRiS2l1ckRfRmp6T1R2aTJ2WkFnRmY5bFJFbm53VU4xTVFCSDEyUGVaWUdCNWpqaVZ6SlI0NmlpYzBsTHRYNkg5dnJqQy1iYTcycDBiWW92QWhsT3U3am5zcGw2SWtsQ0F2U0ZwVjRwazNZMkRlblFuQVVrSEhtNDkzRllrNi1rYWhuNTlaUWxJcW5KbExQVk5Od2NQTU9KQ3RZU1E5STJ3bWd5UjgwejEwVGVSTXJ3cGxQVldrVm1pRjBWUTVyazFiWDNNby1JSmRBenVFYVREMWExVFlaX3pXbEEwV3J5X3ZkNFVKMERmMDBSM2xCNEFXbjVtTFhlcUJncGF6WmZIcjVkSWVpSjVfTkFIMEJ4cWpkQm5aMmxBMjJUSw?oc=5",
-        "source": "台灣好新聞",
-        "date": "2022-01-20",
-        "tag": "market"
-      }
-    ],
-    "南瓜": [
-      {
-        "title": "秋冬下種，栗子南瓜品質決勝點 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHppLU05MEhBX1I5VXlSb1RrOXlzTWMxYy1nc3VoeE5ROEpMTEhSaXJGRm51Rlpfc3hKYm4yM2FVY0NaRFRHRER0aFdxVjQyZUNDSmItZkFMTWlQTHVwczFOUW1GR2FuVFVrWnJvRDZ6S2t1X2sxYjUteVhoRkpQcmxZTQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-01",
-        "tag": "market"
-      },
-      {
-        "title": "農糧署攜手全聯福利中心 挺花蓮農產品 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fN2J6czRQWndVNEd0cmdTQkw2dlNWNE9UMEl0RnB1Vmw4cVB1aXM4R2NDRGxDQUdYZzlrUFZab0tSVmFFTU00VEl4SDJIbHFRRDlQeDRn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2024-04-22",
-        "tag": "market"
-      },
-      {
-        "title": "強烈颱風康芮逼近 桃市農業局啟動防颱整備計畫 - 台灣好新聞",
-        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVUY0NmZXX0ZiZEVxQ0NoT1ZQdjFJcmtLa2ZCWm9TQnAwczV3TndUVHlTMEFpT2VzcFJXM3NodlRnclJuQkNQNkhFdWFnLXgtdktpaEh4Mk0waVZqbG5kX2d4SGpITTRSNU1XMko0eFY2U20yaFFkOGo3VDJxbEx5ejhXYmdvRFVGaU9hdUd4UHZCMXYyLUVYUzR2MWNSWUU3Y3JmcEJMaXZYcWx3LXlTbjlmNlFJd19nUEx2SEpzNzFZRHhvV1JWT1BHODk0aFJLQ0JwQkRpc2tRMFpIaS1IbHpPUENXcFNVdnF1SzR6Zk5VTk05ci1lOEZzQ1REa1p4NS1TVjhpTmJpczl5Y1Rfc29RVTBUZDZuSnkzaXQxUjJ4MFByTGU2cjZXbW1QTnFPX0R0dnE2MkZaT3Q4czVuOUpiczBUMjJHa0FXWldn?oc=5",
-        "source": "台灣好新聞",
-        "date": "2024-10-30",
-        "tag": "weather"
-      }
-    ],
-    "苦瓜": [
-      {
-        "title": "花改場--苦瓜新品種｀花蓮8號´之育成--07 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1kxQWhmUmFtc2N6SEc0ei1PLWtGVWVZRGt2R3JJdFVQeko4Wjhoa1hJVndJUGt0b0VQZVNmTTFvRng3Qi1zTHZWZEFVbllrSWdYM1c1dlFoaDM1VWFaNWR2TWdqSV9GeVM0ejVoYkUyVVJfbXFEOXRXYTFVZ1FiWGVFX3g?oc=5",
-        "source": "農業知識入口網",
-        "date": "2025-06-16",
-        "tag": "market"
-      },
-      {
-        "title": "又有毒蔬菜被驗出！政府抽驗傳統市場、農會「中南部超多中鏢」，71 間農藥超標店家曝光 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CQV9ybVBLSlV1bzU2R2d6VXVadWJJd2lXVkd6a294VFRlWjhUVDAxd25DSVNfLVFOekJZemxWUzItbG5iZExCVDlmQWstMGM?oc=5",
-        "source": "風傳媒",
-        "date": "2025-04-22",
-        "tag": "policy"
-      },
-      {
-        "title": "農業界奧斯卡第34屆頒獎，十大神農獲殊榮，有機苦瓜、平埔黑豬、肉鵝創新升級 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ISjZDNmpvQWFpRDBaVDJtYzM2TTJTTkVCdFRBSmVNcmZ1LV9TNmY4clNwNGktbFNlM3Z3QWVpRXRwMEdpcWE2UklsUElvc2hMNU9WeQ?oc=5",
-        "source": "上下游",
-        "date": "2025-01-07",
-        "tag": "market"
-      },
-      {
-        "title": "勇敢面對台灣農業現況－鹽埔鄉蔬菜產銷第二班與班長張技生-茄子主題館 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QUHZENmczR01mSmk2aU9hc2dHczhmelJWdXM0QXhZaVhwTXNtYW5lSnloaWhodk1fcVF3bVFQekYyelpMcGYtbG5GajhCSFgwSTZDUG9kVTVMdzZ1T2lVaFN2VQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-03",
-        "tag": "market"
-      }
-    ],
-    "蔥": [
-      {
-        "title": "三星蔥罕見價低剩39元，農糧署將補助機器提升青蔥品質 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tZURnQm0wcjJVQ3ZFWWJZQkZQakRmQXJ6SUNMd2hzaDBhR29MLWlSbXBTOUtxdmJKNE5renpaM0FaS09nLWtiNFh0a3lBblZ6eC1Scg?oc=5",
-        "source": "農傳媒",
-        "date": "2026-01-01",
-        "tag": "policy"
-      },
-      {
-        "title": "蔥價飆高！靠這科技不怕青蔥泡水 青農穩賺 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKcVdncXBtMzR1R3VtYXNkX2xkTEhZZGdraUNfb2hGVC1tdV9GMzBtUEYxcVBpYmlzc3lINnFXSHh3em1Sd2psNlVjYjlaOUdGcHA4ZGJmT256NHPSAWBBVV95cUxNQ09nVUtyUjhvUFo1dXdkek9ZcG9JRWZSR2QycnhDbDZhQ0ozSTVCMWozaktjNzVHVXFGZmRVUDBhVDFOSDM3RVNKXzMxXzVLaW1XTm81ZkxYSGNTdUx6YU0?oc=5",
-        "source": "經濟日報",
-        "date": "2025-09-05",
-        "tag": "market"
-      },
-      {
-        "title": "青蔥台農選1號 夏季也能穩定生產：兼具耐熱與細緻口感 生長勢強全年可栽培 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PNFM2LU1MT0NkUDVjZzVxTHptWnVtZ2o1WWlxU2xSZE0xcDg2SGdMX196T0FlQ1dsYTF2U1hacm5IcUJxbllTWW45N0hPLVNaVjRxWkFn?oc=5",
-        "source": "農傳媒",
-        "date": "2025-12-31",
-        "tag": "market"
-      },
-      {
-        "title": "【中央社】三星日蔥價漲大甲玉蔥便宜賣-青蔥主題館 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zS0ZxcjRVV2V4Um9pZVA3dk9fMGgxQnBzZTYwZkNJUTlUR0VTRnNGZmZnTVNfYkhVWWNsZnBSUlF5bFY0ME9jWV9WYjRJbFRObUVNcmdVRk0yLUllSUdzTVUxSQ?oc=5",
-        "source": "農業知識入口網",
-        "date": "2023-08-06",
-        "tag": "price"
-      }
-    ]
+    "青花菜": [],
+    "茄子": [],
+    "黃瓜": [],
+    "蘿蔔": [],
+    "洋蔥": [],
+    "大蒜": [],
+    "玉米": [],
+    "南瓜": [],
+    "苦瓜": [],
+    "蔥": []
   }
 }

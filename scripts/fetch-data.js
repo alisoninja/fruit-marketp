@@ -67,7 +67,10 @@ function guessTag(title) {
 
 /* 從 Google News RSS 抓新聞（免費，無需 API key） */
 async function fetchNewsRSS(cropName) {
-  const q   = encodeURIComponent(`台灣 ${cropName} 農業 批發`);
+  /* after: 限制只抓近 30 天，避免 Google 返回太舊的文章 */
+  const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000);
+  const afterDate     = thirtyDaysAgo.toISOString().slice(0, 10);
+  const q   = encodeURIComponent(`台灣 ${cropName} 農業 批發 after:${afterDate}`);
   const url = `https://news.google.com/rss/search?q=${q}&hl=zh-TW&gl=TW&ceid=TW:zh-TW`;
   const res = await fetch(url, {
     headers: { 'User-Agent': 'fruit-marketp-bot/2.0' },
