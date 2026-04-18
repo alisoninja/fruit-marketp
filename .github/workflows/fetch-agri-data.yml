@@ -22,6 +22,9 @@ on:
     - cron: '0 7  * * *'   # 15:00 TST
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
@@ -29,13 +32,11 @@ jobs:
     steps:
       - name: 取出程式碼
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 設定 Node.js 18
+      - name: 設定 Node.js 20
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: 執行資料與新聞抓取腳本
         run: node scripts/fetch-data.js
