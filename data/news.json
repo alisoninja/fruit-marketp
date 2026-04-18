@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:57:38.893Z",
+  "updatedAt": "2026-04-18T16:46:44.407Z",
   "news": {
     "鳳梨": [
       {
@@ -48,7 +48,15 @@
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "從影像創作到田間革命 田尾青農梁勝智打造七彩番茄品牌 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYVJFUmVqWlhlX3FFcXRuVXpJWWQ2ZUNIR2I1X0RWTFAtbF9TLW1IZ3dlUkZrdFphYWJzZVdRR2xoNVpOOVBwTXVuN2wtaG5jVGJGTlZ3?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-03-26",
+        "tag": "market"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [
