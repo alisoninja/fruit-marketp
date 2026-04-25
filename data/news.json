@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-25T08:08:01.149Z",
+  "updatedAt": "2026-04-25T14:21:35.760Z",
   "news": {
     "鳳梨": [
       {
@@ -31,15 +31,7 @@
         "tag": "policy"
       }
     ],
-    "芒果": [
-      {
-        "title": "日本神級芒果2顆台幣11萬　揭「太陽之子」天價原因 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eGgwV3RoNmZITWdPdTZnUDhRdUVKZFdGQUg5WnIwMFBaVG1SYXhERWM4ZVRNQmlqZGJjUkZXNmtEdVEwQV84c1FOaVF2MTlPdEtXUlZxRUtMZDYzb1hjQdIBYEFVX3lxTE51eGgwV3RoNmZITWdPdTZnUDhRdUVKZFdGQUg5WnIwMFBaVG1SYXhERWM4ZVRNQmlqZGJjUkZXNmtEdVEwQV84c1FOaVF2MTlPdEtXUlZxRUtMZDYzb1hjQQ?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-04-23",
-        "tag": "market"
-      }
-    ],
+    "芒果": [],
     "荔枝": [
       {
         "title": "太麻里艷麗荔枝提早上市 批發價每台斤飆破85元 - MSN",
@@ -79,7 +71,7 @@
     "高麗菜": [
       {
         "title": "移工變「頭家」包地種菜致價格崩盤 農業部：將聯合稽查取消補助 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRHZvOGlCckc0VjN1dnh1bkZneHBNVzBrbmpaVHFkNFI1VUUxVXRiTUlDZmREWm40Nm1jSzQ2Wkw1Q3JSU01ucExyY2I3OHFkVnVDVHM5cHU2VjM2ZE5STkNmSnPSAWpBVV95cUxNdmttZkFYV0JDX2hFdW8yUjYwVGM5OFdHSmZBT0FxNmVoMDdnMjhsYy1wbkpHU2hzeHMtNWdYQWFSMDV4RFgzX2ZOR0YwWi1Lald2SlpLSkI1cnl2V0F6MkgyMGtmQW5YeHd3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12a21mQVhXQkNfaEV1bzJSNjBUYzk4V0dKZkFPQXE2ZWgwN2cyOGxjLXBuSkdTaHN4cy01Z1hBYVIwNXhEWDNfZk5HRjBaLUtqV3ZKWktKQjVyeXZXQXoySDIwa2ZBblh4d3fSAWpBVV95cUxNdmttZkFYV0JDX2hFdW8yUjYwVGM5OFdHSmZBT0FxNmVoMDdnMjhsYy1wbkpHU2hzeHMtNWdYQWFSMDV4RFgzX2ZOR0YwWi1Lald2SlpLSkI1cnl2V0F6MkgyMGtmQW5YeHd3?oc=5",
         "source": "自由時報",
         "date": "2026-04-24",
         "tag": "policy"
@@ -94,10 +86,10 @@
     ],
     "番茄": [
       {
-        "title": "從影像創作到田間革命 田尾青農梁勝智打造七彩番茄品牌 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYVJFUmVqWlhlX3FFcXRuVXpJWWQ2ZUNIR2I1X0RWTFAtbF9TLW1IZ3dlUkZrdFphYWJzZVdRR2xoNVpOOVBwTXVuN2wtaG5jVGJGTlZ3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-03-26",
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
         "tag": "market"
       }
     ],
@@ -119,22 +111,38 @@
         "tag": "market"
       }
     ],
-    "青花菜": [],
-    "茄子": [],
+    "青花菜": [
+      {
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
+        "tag": "market"
+      }
+    ],
+    "茄子": [
+      {
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
+        "tag": "market"
+      }
+    ],
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [
+    "玉米": [],
+    "南瓜": [
       {
-        "title": "高雄維豐雪花冰磚批發-玉米冰淇淋冰棒批發 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQbGRJSnNuUGozcHhIQmQ4Rk1NaUVjNWpfdTduWFE1VnpoZTI3Y3pIU1cyWUNWRjJoXzhZODFPZTkyYzNQaWRLNGJkNlZod014VGtLcER3UEZmWjlESGJ3YVBScThod29tVzg4WUNjeElaTUN6MkFJRXlldTdKZ0t6djdLSU5kNzdibExaLVhfRDV5VmxuR2prS0VFWWl6eTFObGp6Q1BwZ2lIcmgwSzAtM2pfOUhXQm9ncjNoaG51a2dOamdxaDFjb3JxQlBocnkzSjV5X1dtRmczVUN4LXFIc3RGNExaa3Q2VGFZM2c4Y2FmZjhSaHpack4xcE1XWmZjY2s4YUs0OUliRFJMYUlyRzRFWGF6Qk1sMXVmb2Q2VjJYZXZCNUdxMDJWc1hSalpxT0VOaE51MTU?oc=5",
-        "source": "Yahoo新聞",
-        "date": "2026-04-24",
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
         "tag": "market"
       }
     ],
-    "南瓜": [],
     "苦瓜": [],
     "蔥": []
   }
