@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T09:23:27.142Z",
+  "updatedAt": "2026-04-27T15:24:29.032Z",
   "news": {
     "鳳梨": [
       {
@@ -54,7 +54,15 @@
     ],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "泰國瓜類蔬菜育種現況介紹--參訪見聞 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51dkEwSDk1MjlDeldBV3BBcks3dkJqS2QtZE5sbElaQy1sdl9nT256ZWc0cUNyREZNWjVsanlTQzhxLXZvdkRXR0tQZDhjdm8yX1M1dTdrZzVqTTdvRHhDbHR3?oc=5",
+        "source": "農業知識入口網",
+        "date": "2023-08-02",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
@@ -96,7 +104,15 @@
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
-    "南瓜": [],
+    "南瓜": [
+      {
+        "title": "泰國瓜類蔬菜育種現況介紹--參訪見聞 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51dkEwSDk1MjlDeldBV3BBcks3dkJqS2QtZE5sbElaQy1sdl9nT256ZWc0cUNyREZNWjVsanlTQzhxLXZvdkRXR0tQZDhjdm8yX1M1dTdrZzVqTTdvRHhDbHR3?oc=5",
+        "source": "農業知識入口網",
+        "date": "2023-08-02",
+        "tag": "market"
+      }
+    ],
     "苦瓜": [],
     "蔥": []
   }
