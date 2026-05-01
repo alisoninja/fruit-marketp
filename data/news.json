@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T02:43:18.586Z",
+  "updatedAt": "2026-05-01T05:46:56.405Z",
   "news": {
     "鳳梨": [
       {
@@ -86,7 +86,15 @@
         "tag": "price"
       }
     ],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "高雄首選「喜番茄」搶鮮上架連鎖超市 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVZFNy1KUllibVh4SHYyRTQ1Z2loa0oxVzVhOUVVRHJ3X0l2TTBGZkRKV0JJbF9kUlFOeHItM29HaVBMcEQ0UUZfUzVhZlVzem43VU9hLU5YV2w5NXo4clJTTVpadmlZem9fQjJ1aTZXVVZTbDJWdWxwcWJMMnA1X3MxMFZWdw?oc=5",
+        "source": "農業知識入口網",
+        "date": "2025-02-18",
+        "tag": "market"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [
