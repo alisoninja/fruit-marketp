@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T02:28:06.473Z",
+  "updatedAt": "2026-05-05T05:19:01.372Z",
   "news": {
     "鳳梨": [
       {
@@ -42,13 +42,6 @@
     ],
     "荔枝": [
       {
-        "title": "台東荔枝早半月成熟 結實纍纍鮮紅欲滴 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OWVNWUMzd2ZIc3BSbC03QTl5V1pNNUdOazgwNG1fWG12RHphemZmdllFcUdqZ0k3Q1MwZUxIN2hHRlNUM2REZnN4R2pFZENQc3REQVNTWkRRUlJPcUxDaHd5bljSAWpBVV95cUxQb1Zqb1RTd1NRVmt5NkdKbi1KYjd4aG1idkZ1ckxfWldiNWZjNjh0WkU2XzJvY2dJSFdVc0RzN09NMUVBTjJHQ1V3QXJLTmNGQUtxMmwtaG93MXpNQlJiLWtYTzQyWHc4YWZR?oc=5",
-        "source": "自由時報",
-        "date": "2026-04-16",
-        "tag": "market"
-      },
-      {
         "title": "太麻里豔荔荔枝提早上市 批發價每台斤飆破85元 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbWJaYklDcmtiSENtRVMzQkthUi1LSUcyWVlmX0pBVjZSbC1oOWplX1R0WkdWdEVhaVJyMGpUSFF1TGlPeWZoS080eTZ4dW8yNzcwajRpRDZtdmExQV8wNzRrWlhCdUo4emdRb2tMcVNNbXp1bEtQSHlHUjBMSkNNZnJja3ZsSVRFWWhQMWp6TFFiTzktdElYNmNhOUVwOUJnMzZlcEdmWjhOUDBfZUVfSWdPNFpNYmZqWVZ6cXRMS0hfRW0xZXVFVllMZXRzOVMxMDYyejg1eW5BMjM0dHVmcWIwSjlGZjVoZzZ4UGFRTVk2V3BtY2F5Z29Ub2ZDR3FzczFJb3FYUzNwT05hYUdFbnNvejR5YUZacmE4MERCdmRjVUZhQU1fM3p0OFJ5aGVneERDTGo0ZkNPbFpBdk10djRTYmNweG8?oc=5",
         "source": "Yahoo新聞",
@@ -69,7 +62,15 @@
     ],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZ3dNRkFDcjdxbjVCUnFmZTdoUl94OFREdU5pQ2xGLVpRS09TcXYtWVNZclh4aDhVQTVzY0tKOEZvbU9vb1VaSnZVTWRwZDZIRWVxbmZXR253LUV6ZDlTeHhVM1l4VGFLa3fSAW9BVV95cUxNWmFYcURmbjZ0NlpVaWRaZmNRZ2padk8teVNlc1dmVHVVVVA3OWMxWk1vN0RoMFBncWtHRGNZaE52WlVYQVZLREFDUjAyNWYwSU5jR3pSRE1lNUV2QXpBMDcyUG1BYzJWZkdGSWFISjQ?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-28",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
