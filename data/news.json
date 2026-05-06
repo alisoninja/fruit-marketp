@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T17:42:57.151Z",
+  "updatedAt": "2026-05-06T22:43:03.239Z",
   "news": {
     "鳳梨": [
       {
@@ -31,7 +31,15 @@
         "tag": "market"
       }
     ],
-    "芒果": [],
+    "芒果": [
+      {
+        "title": "網購罐裝芒果青推薦，好評芒果青批發零售 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNTVFwdTRRSE85d1N4dEg4Yml1X1JKMkJ0RnU5bHoxSlpaaXFmTjE2YkdxTDhMNXFXZHJ0aEtUOTlBQ2R5NkFWWVJIc0ZZRHU5MkRjRHRBb0VlOEdrRUFqbWJORHhlVWgtb29ETHNmb1U3Z0J0MmtUa0p5U0FndHoxaXJQVER2dU00QVBUUWhzLVVadlRUOHBjU01FMy05QXVuMF95XzFqNFprZ0RJcXlST3o2VkdUZC1qMVluMmFmLWZUMzVraF8xNVRPcDl1RnZtN3E0U2pBZ2MzSWd4VDlyeDJPODVubVNXdUhkYlFjZFhldE8zeGlCSjdYSlp2MlZ5QW41WW5CeXVzUE9WV0VDekJOQlVsUnUtcF9qMi1HdDhON2hGYUgzTXJXSTBsaGRBaU9KaW5jbw?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-04-07",
+        "tag": "market"
+      }
+    ],
     "荔枝": [
       {
         "title": "太麻里豔荔荔枝提早上市 批發價每台斤飆破85元 - Yahoo新聞",
@@ -54,7 +62,15 @@
     ],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNGRJbE11SjhzRUNIdEZaWnhhNUFIX1lMWFIzZzViWlVfTDBSbFpuMDYtT2hTLXBON2gxZ01MYVNLOVlidHRnYlVIb3RZYU1QWXlWbGhuRzlCX1JVd01mU0lqVnHSAWpBVV95cUxQV1FNNmVEVHRuendNUmFxZkdDejB3YVVZMmszQnBCUzlMRTNyOFYtQlhfVmdpdDhXaTl6LXQ1TFlqcWtZakdKdFZjRHFTQjZwZnJ4X0VqYWZXUDhRUmNua2w2czIwNlRTX1FR?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-28",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
@@ -62,6 +78,13 @@
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [
+      {
+        "title": "移工變「頭家」包地種菜致價格崩盤 農業部：將聯合稽查取消補助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRHZvOGlCckc0VjN1dnh1bkZneHBNVzBrbmpaVHFkNFI1VUUxVXRiTUlDZmREWm40Nm1jSzQ2Wkw1Q3JSU01ucExyY2I3OHFkVnVDVHM5cHU2VjM2ZE5STkNmSnPSAWpBVV95cUxNdmttZkFYV0JDX2hFdW8yUjYwVGM5OFdHSmZBT0FxNmVoMDdnMjhsYy1wbkpHU2hzeHMtNWdYQWFSMDV4RFgzX2ZOR0YwWi1Lald2SlpLSkI1cnl2V0F6MkgyMGtmQW5YeHd3?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-24",
+        "tag": "policy"
+      },
       {
         "title": "台灣1蔬菜價格斷崖崩盤！能助腸胃修復 2祕訣可保存1個月 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtQUM4d2dPY3hpcHN4aWJTalRpaEN1alpMSENxX29reW5nVXlZZDdlWEp3d2NHV3FtOHhTS1M4UUltN25RbERlMXlqTmo3Zw?oc=5",
