@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T17:17:31.945Z",
+  "updatedAt": "2026-05-09T22:36:43.313Z",
   "news": {
     "鳳梨": [
       {
@@ -54,7 +54,15 @@
     ],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNGRJbE11SjhzRUNIdEZaWnhhNUFIX1lMWFIzZzViWlVfTDBSbFpuMDYtT2hTLXBON2gxZ01MYVNLOVlidHRnYlVIb3RZYU1QWXlWbGhuRzlCX1JVd01mU0lqVnHSAWpBVV95cUxQV1FNNmVEVHRuendNUmFxZkdDejB3YVVZMmszQnBCUzlMRTNyOFYtQlhfVmdpdDhXaTl6LXQ1TFlqcWtZakdKdFZjRHFTQjZwZnJ4X0VqYWZXUDhRUmNua2w2czIwNlRTX1FR?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-28",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
@@ -88,7 +96,15 @@
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "高雄維豐雪花冰磚批發-玉米冰淇淋冰棒批發 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQbGRJSnNuUGozcHhIQmQ4Rk1NaUVjNWpfdTduWFE1VnpoZTI3Y3pIU1cyWUNWRjJoXzhZODFPZTkyYzNQaWRLNGJkNlZod014VGtLcER3UEZmWjlESGJ3YVBScThod29tVzg4WUNjeElaTUN6MkFJRXlldTdKZ0t6djdLSU5kNzdibExaLVhfRDV5VmxuR2prS0VFWWl6eTFObGp6Q1BwZ2lIcmgwSzAtM2pfOUhXQm9ncjNoaG51a2dOamdxaDFjb3JxQlBocnkzSjV5X1dtRmczVUN4LXFIc3RGNExaa3Q2VGFZM2c4Y2FmZjhSaHpack4xcE1XWmZjY2s4YUs0OUliRFJMYUlyRzRFWGF6Qk1sMXVmb2Q2VjJYZXZCNUdxMDJWc1hSalpxT0VOaE51MTU?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-04-23",
+        "tag": "market"
+      }
+    ],
     "南瓜": [],
     "苦瓜": [],
     "蔥": []
