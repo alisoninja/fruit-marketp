@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T18:15:06.180Z",
+  "updatedAt": "2026-05-13T22:59:57.027Z",
   "news": {
     "鳳梨": [
       {
@@ -50,7 +50,7 @@
         "tag": "market"
       },
       {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
+        "title": "香蕉產地價下滑至每公斤8至10元 屏縣農業處：季節性短期波動 | 聯合新聞網 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
         "source": "LINE TODAY",
         "date": "2026-05-13",
@@ -61,7 +61,15 @@
     "葡萄": [],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNGRJbE11SjhzRUNIdEZaWnhhNUFIX1lMWFIzZzViWlVfTDBSbFpuMDYtT2hTLXBON2gxZ01MYVNLOVlidHRnYlVIb3RZYU1QWXlWbGhuRzlCX1JVd01mU0lqVnHSAWpBVV95cUxQV1FNNmVEVHRuendNUmFxZkdDejB3YVVZMmszQnBCUzlMRTNyOFYtQlhfVmdpdDhXaTl6LXQ1TFlqcWtZakdKdFZjRHFTQjZwZnJ4X0VqYWZXUDhRUmNua2w2czIwNlRTX1FR?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-28",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
