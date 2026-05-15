@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T17:49:45.614Z",
+  "updatedAt": "2026-05-15T22:46:48.187Z",
   "news": {
     "鳳梨": [
       {
@@ -61,22 +61,22 @@
     "葡萄": [],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [
-      {
-        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNGRJbE11SjhzRUNIdEZaWnhhNUFIX1lMWFIzZzViWlVfTDBSbFpuMDYtT2hTLXBON2gxZ01MYVNLOVlidHRnYlVIb3RZYU1QWXlWbGhuRzlCX1JVd01mU0lqVnHSAWpBVV95cUxQV1FNNmVEVHRuendNUmFxZkdDejB3YVVZMmszQnBCUzlMRTNyOFYtQlhfVmdpdDhXaTl6LXQ1TFlqcWtZakdKdFZjRHFTQjZwZnJ4X0VqYWZXUDhRUmNua2w2czIwNlRTX1FR?oc=5",
-        "source": "自由時報",
-        "date": "2026-04-28",
-        "tag": "market"
-      }
-    ],
+    "西瓜": [],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
-    "高麗菜": [],
+    "高麗菜": [
+      {
+        "title": "移工變「頭家」包地種菜致價格崩盤 農業部：將聯合稽查取消補助 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRHZvOGlCckc0VjN1dnh1bkZneHBNVzBrbmpaVHFkNFI1VUUxVXRiTUlDZmREWm40Nm1jSzQ2Wkw1Q3JSU01ucExyY2I3OHFkVnVDVHM5cHU2VjM2ZE5STkNmSnPSAWpBVV95cUxNdmttZkFYV0JDX2hFdW8yUjYwVGM5OFdHSmZBT0FxNmVoMDdnMjhsYy1wbkpHU2hzeHMtNWdYQWFSMDV4RFgzX2ZOR0YwWi1Lald2SlpLSkI1cnl2V0F6MkgyMGtmQW5YeHd3?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-24",
+        "tag": "policy"
+      }
+    ],
     "番茄": [],
     "花椰菜": [],
     "地瓜": [],
