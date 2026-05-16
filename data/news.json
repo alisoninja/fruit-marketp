@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T02:35:56.189Z",
+  "updatedAt": "2026-05-16T05:31:30.838Z",
   "news": {
     "鳳梨": [
       {
@@ -77,7 +77,15 @@
         "tag": "policy"
       }
     ],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "他種牛番茄成痴 曾讓老婆大聲抗議：「去跟牛番茄睡覺好了！」 - 信傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wbjhwLThSNWZCX3MyOWlPNDlVaEJsWWJ4azBvZ0VUbDBYVHlGdC1MMTVLTnBsVEJXWU5PZG5wNEZBZTdwWHpTbzB0VkM5WXc1RDhnZW5JUzlkZw?oc=5",
+        "source": "信傳媒",
+        "date": "2019-05-01",
+        "tag": "market"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
