@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T06:18:44.850Z",
+  "updatedAt": "2026-05-18T08:16:51.096Z",
   "news": {
     "鳳梨": [
       {
@@ -28,16 +28,16 @@
     "荔枝": [],
     "香蕉": [
       {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
-        "source": "LINE TODAY",
+        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ydHd1T00xUTZ6dzdGSUJmOWItd0pxdUNzUGJKTklKNkxhaXFqcDRDY25LQmlzX3pTUEVpYWtjWnpBUmgzZU9lR1pidWVEbnBUMDhQZS00YXNTSzgzaEdxU09oaFB2WVVMSXNtb0Vra9IBb0FVX3lxTE9ydHd1T00xUTZ6dzdGSUJmOWItd0pxdUNzUGJKTklKNkxhaXFqcDRDY25LQmlzX3pTUEVpYWtjWnpBUmgzZU9lR1pidWVEbnBUMDhQZS00YXNTSzgzaEdxU09oaFB2WVVMSXNtb0Vraw?oc=5",
+        "source": "自由時報",
         "date": "2026-05-13",
         "tag": "market"
       },
       {
-        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
-        "source": "自由時報",
+        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-05-13",
         "tag": "market"
       }
@@ -46,7 +46,15 @@
     "葡萄": [],
     "蓮霧": [],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜如何挑？達人絕招「拍肚子」剖開裂痕像「特斯拉」 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNGRJbE11SjhzRUNIdEZaWnhhNUFIX1lMWFIzZzViWlVfTDBSbFpuMDYtT2hTLXBON2gxZ01MYVNLOVlidHRnYlVIb3RZYU1QWXlWbGhuRzlCX1JVd01mU0lqVnHSAWpBVV95cUxQV1FNNmVEVHRuendNUmFxZkdDejB3YVVZMmszQnBCUzlMRTNyOFYtQlhfVmdpdDhXaTl6LXQ1TFlqcWtZakdKdFZjRHFTQjZwZnJ4X0VqYWZXUDhRUmNua2w2czIwNlRTX1FR?oc=5",
+        "source": "自由時報",
+        "date": "2026-04-28",
+        "tag": "market"
+      }
+    ],
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
