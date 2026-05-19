@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T10:42:29.941Z",
+  "updatedAt": "2026-05-19T16:33:34.997Z",
   "news": {
     "鳳梨": [
       {
@@ -25,27 +25,35 @@
       }
     ],
     "芒果": [],
-    "荔枝": [],
-    "香蕉": [
+    "荔枝": [
       {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-05-13",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12WndQejlHLXhJalR6S0RIeXFkVHVVUm5xeU85WmRRaWczamM5ZU1JdHdYVEpZeTVRVWFmZllUUWlabE0weDdOTkx1UFJtTFk3SDZHN2FiTV9vRzlyNEJpM2V6WU1tRTI4VHfSAW9BVV95cUxPcnR3dU9NMVE2enc3RklCZjliLXdKcXVDc1BiSk5JSjZMYWlxanA0Q2NuS0Jpc196U1BFaWFrY1p6QVJoM2VPZUdaYnVlRG5wVDA4UGUtNGFzU0s4M2hHcVNPaGhQdllVTElzbW9Fa2s?oc=5",
+        "title": "別搞混！本土椿象、外來種荔枝椿象 農業局授分辨與處理方式 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XRHNUbFBrMmtiZkY4QlFnOTBNcnFmdFdvWUtnUXRydGlIOFIwZ1pYckhteGFFVUtMemI1VHdlOGxxNEV1a0pwRThFSGlKa0c0a0YtV1RKVENqV21IWUxGQWlPSDTSAWpBVV95cUxNcFllSDhtcU9kS3A2c0l6cVQ2R2l3M294MGVINkxJQ05RX0dBTVhIMC1JTFZadmUxbVNtVUpycjdYSHYxLXVILWJkYUw0U0NzaHMyZFRfVzJyV19QdlF3Wml6VlgwOWhYYjN3?oc=5",
         "source": "自由時報",
-        "date": "2026-05-13",
+        "date": "2026-05-09",
         "tag": "market"
-      },
+      }
+    ],
+    "香蕉": [
       {
         "title": "南部香蕉供應增加！市場價格下跌 | EBC 東森新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VY2lUUThMYjNMT1dyTDlFeG52cW5felV6RUliUTcwT2RQa2c5bjJfa2xpc1U2cFNLNnNmeFR4SUhycXRadWZSeVAyT1ptX3VYbmVoLWpB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-05-18",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-05-13",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-05-13",
         "tag": "market"
       }
     ],
@@ -60,15 +68,7 @@
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
-    "高麗菜": [
-      {
-        "title": "移工變「頭家」包地種菜致價格崩盤 農業部：將聯合稽查取消補助 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LRHZvOGlCckc0VjN1dnh1bkZneHBNVzBrbmpaVHFkNFI1VUUxVXRiTUlDZmREWm40Nm1jSzQ2Wkw1Q3JSU01ucExyY2I3OHFkVnVDVHM5cHU2VjM2ZE5STkNmSnPSAWpBVV95cUxNdmttZkFYV0JDX2hFdW8yUjYwVGM5OFdHSmZBT0FxNmVoMDdnMjhsYy1wbkpHU2hzeHMtNWdYQWFSMDV4RFgzX2ZOR0YwWi1Lald2SlpLSkI1cnl2V0F6MkgyMGtmQW5YeHd3?oc=5",
-        "source": "自由時報",
-        "date": "2026-04-24",
-        "tag": "policy"
-      }
-    ],
+    "高麗菜": [],
     "番茄": [
       {
         "title": "他種牛番茄成痴 曾讓老婆大聲抗議：「去跟牛番茄睡覺好了！」 - 信傳媒",
