@@ -1,21 +1,14 @@
 {
-  "updatedAt": "2026-05-22T16:01:16.171Z",
+  "updatedAt": "2026-05-22T18:03:31.696Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
     "荔枝": [],
     "香蕉": [
       {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-05-13",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
-        "source": "自由時報",
+        "title": "香蕉產地價下滑至每公斤8至10元 屏縣農業處：季節性短期波動 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQzF3RlROVk9KMnhaX2VYUFlMRmVNVUl0b0E1elhfVGdYMkl4WXZzNDlRdVNSTjZMdGZza0ZzRHE1U3VPV1NpZFdkOGdBSjdyU0lxUkRIR090UdIBX0FVX3lxTE1uV2Z5aFBfRk1TbGVCMXUtbkwtWjVncUdkSDdkYndvbGJPZEMyVi1uVkJZNi1YU2VmbGlfV3NQeXY0eGFCZGVWZVJNVXl5UzBPVElKV2g3YUhydkxCd3kw?oc=5",
+        "source": "經濟日報",
         "date": "2026-05-13",
         "tag": "market"
       },
@@ -24,6 +17,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VY2lUUThMYjNMT1dyTDlFeG52cW5felV6RUliUTcwT2RQa2c5bjJfa2xpc1U2cFNLNnNmeFR4SUhycXRadWZSeVAyT1ptX3VYbmVoLWpB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-05-18",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-05-13",
         "tag": "market"
       }
     ],
