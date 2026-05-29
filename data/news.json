@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T23:10:15.014Z",
+  "updatedAt": "2026-05-29T02:53:15.882Z",
   "news": {
     "鳳梨": [
       {
@@ -8,6 +8,13 @@
         "source": "自由時報",
         "date": "2026-05-24",
         "tag": "policy"
+      },
+      {
+        "title": "台灣鳳梨甜進日本校園!茨城108校供餐創紀錄 3.8萬學童吃得到 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNYWk2N1E2YnB3alpLd0UyWnhBRmVLOWxXYnJRQkFIQTBoclN5dS12QWcxN3k5UExIaWhLUTIxSS0tbFVERGk0c1E5akZNdjc0QXNGQ1gySThzUU8yMGh1c3JPdk9ranhrbnFQUzA5RGhINnlQN01BeDVpRHljZ0wyUGhnSXJDQ3k1OG12aXQxU0Yzem4tb1FCOERDUGdoaVFCVl9ISTZVOU12MGtRMEZvdVVHVGFXWnJad1dZSWRRM0swMDNkLVpxVWh1ajB6dGk1NW9kM2stUU9VdWhFSXFVcGplX3g0UVFMenkyVGtjNDMxb280aWc5aUphXzBDWTZnNnQ3a0VKN1R6VFZEWWhydjhMT1lTR0lIR3dnSTE5VUZycHREak85d2IyX2kxbnVzanl3YXU5V1hESTQzc2s4THVKYk9rdm56NFBIYjEzUTRvUVBHQzlsWXV6d0RPRlZrQUIwV1V4ZDc0eEFydjVCNEFPZ1NQQ0dkNld2OEFyd3ZaLW4wbWtpQldPVkxFcWpiWnMxVUpHcnp4OEFScXotNWcxdlFjWkhnYnpxQWw1UTZiRnpZN284dDAyRzVLdGF3Q1FlSlY2Y2VxUGpyWDJjYzRzNFJVMjAyeFhQaU1Bd01TM1hIQVUxMmVLOFNrdDRrYlhZWUZYQ0Q3NE9yY1RYTVV3aUFydzF5Vzd1OXVpV2hiZDUxMTR2ejBXNlNSbTlk?oc=5",
+        "source": "MSN",
+        "date": "2026-05-21",
+        "tag": "market"
       }
     ],
     "芒果": [
@@ -16,13 +23,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
         "source": "風傳媒",
         "date": "2026-05-28",
-        "tag": "market"
-      },
-      {
-        "title": "芒果盛產 農糧署啟動通路行銷、用金煌做情人果 國聯社：今年價格有望持穩 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RG9SU0ZDMUttR1FDSlhGMy14c2FUWkVtdGxMQ3JtT25hY3EwYTVMT0N4S29jUEFOVVNqcFlsNG9PLVBqSlBWbTlWTTFtWHMyRmNtOW13?oc=5",
-        "source": "農傳媒",
-        "date": "2026-05-27",
         "tag": "market"
       },
       {
@@ -38,6 +38,13 @@
         "source": "自由時報",
         "date": "2026-05-24",
         "tag": "policy"
+      },
+      {
+        "title": "台灣1水果降價了！價格大跌3成、產量狂增67%，更香甜美味、 現在買正便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MUFNZc2VQdzNWV2JCc3JJQjZvYi03RlRvU21sM3JVcGZkbUFEV19FSUtTbkVaMmZVSjA5cUdrRU1QYW81YVhoVkF2dkExbmdJ?oc=5",
+        "source": "風傳媒",
+        "date": "2026-05-24",
+        "tag": "price"
       }
     ],
     "荔枝": [
@@ -57,13 +64,6 @@
       }
     ],
     "香蕉": [
-      {
-        "title": "斥資7千多萬設香蕉種苗科研中心 拚蕉苗產量翻倍 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TOUQteHZSdWJjVlhUbGN1MzJhLWxoT0lGanJfZ1lWdEtEOW5Fd2lldENJNHBkYm9MVTRSR3lmNEpTeDVueUI0MDlQc2cxTHlr0gFWQVVfeXFMTmRoVzZxcGxCSWhEc2pGUW12clF4bmJ5SEFhbHBrbHlWSnRvbVd5Q1NCLTJRUTl6ZXk1bW9ndUM0UnBMbm1kejZzaW9GeTJmSjIyU3FKTmc?oc=5",
-        "source": "UDN",
-        "date": "2026-05-22",
-        "tag": "market"
-      },
       {
         "title": "台灣香蕉研究所啟用「種苗科研中心」年供應量預計增至500 萬株 - MSN",
         "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPbFVETkZvS1p2d2NWWWF1bjJXNjNpcUQ3a3J3SVNTVmZVVmtsYjZybzBuZWlkc1paVWZwaDVPZ0xSS1N5QVJITk5tNUlydHVBUVNpUlpJYWhWSDNqeThRYkZjUzM4LU03VG9DM2xDMFZ4ak1VQ1N1YUFZeDFHSHVfTFFYTHEwMnhWNk1Dc2dGT3RNdjdQRldEWlZrZE04UHc4LW5Sc3pfYzdWbVFlQUQxWXZQcnRtTmIwS1RwSFlpOW5jU3hGNno1LXh5b20yWXVTb1ByM0NNei05UTJlQ2FlTEcxc28yMjBqX3h3cXVtY0pldXZreGV4Z0NfTnJHVTBpMm1BcncwVmZDcUo1Slgzc0ZPWGVjbEJuNHRZZFFDYmRaRDE5YlNZVG5QVWUzZGtYc2cwN2libkozOUZvNnJqLXVoNm5kUG5xOWNidTJpdFJVQlptOVZHQng2R0F2NTJtZDQwV0RIZTREY3VPcS00MEZUb0tUc1JoMWpXdTMwc1V1a1M5ZENnZVlrcGs5eGlGQm9NUTAwQlNjdHlFLU5fTG9lUW8weTY1UURwaTZPa2xQNVNyNHJpanZhbnlzZ092WGx6dDJoVlMybm50a1NRQ1dFal9OVVVMWk5pV1NLVjVScEJjS3dpdkZURVhkX3VWTEktYkFLa0NXSmhLcUJZdGJjZWwwVjRUSjh6QnBDbnBaZFpTOXRpeGdZcTlacFRJUThBOGg2a1k?oc=5",
