@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-05-29T10:51:25.805Z",
+  "updatedAt": "2026-05-29T16:45:44.581Z",
   "news": {
-    "鳳梨": [
-      {
-        "title": "今年芒果質優、價格親民 農業部祭加碼外銷獎勵 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtM1ltcVRUbV9EWGtqbUJKMDBubWtsTzgtWjFKdW13Z3hkdDJSSk51MzlFb1djSVFoSWtuX0hXTlBOOVJpNzdFUHVRV1VsQVpVMUVwOXo3bHFSUmdZX0RnMkdGMULSAWpBVV95cUxQYWtQTExnZjk1RE5DSlhpSzdURC1PbFN5djN5bThNdGxGSG5WU2FhMnJOZVlDb2RDdWQ1N2lJSFhDUG5mMjRQSXpGRXpVLVg4UW9OYjBDRWxjWHczZzBXTEZvSlB5blJoRTZ3?oc=5",
-        "source": "自由時報",
-        "date": "2026-05-24",
-        "tag": "policy"
-      },
-      {
-        "title": "台灣鳳梨甜進日本校園!茨城108校供餐創紀錄 3.8萬學童吃得到 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNYWk2N1E2YnB3alpLd0UyWnhBRmVLOWxXYnJRQkFIQTBoclN5dS12QWcxN3k5UExIaWhLUTIxSS0tbFVERGk0c1E5akZNdjc0QXNGQ1gySThzUU8yMGh1c3JPdk9ranhrbnFQUzA5RGhINnlQN01BeDVpRHljZ0wyUGhnSXJDQ3k1OG12aXQxU0Yzem4tb1FCOERDUGdoaVFCVl9ISTZVOU12MGtRMEZvdVVHVGFXWnJad1dZSWRRM0swMDNkLVpxVWh1ajB6dGk1NW9kM2stUU9VdWhFSXFVcGplX3g0UVFMenkyVGtjNDMxb280aWc5aUphXzBDWTZnNnQ3a0VKN1R6VFZEWWhydjhMT1lTR0lIR3dnSTE5VUZycHREak85d2IyX2kxbnVzanl3YXU5V1hESTQzc2s4THVKYk9rdm56NFBIYjEzUTRvUVBHQzlsWXV6d0RPRlZrQUIwV1V4ZDc0eEFydjVCNEFPZ1NQQ0dkNld2OEFyd3ZaLW4wbWtpQldPVkxFcWpiWnMxVUpHcnp4OEFScXotNWcxdlFjWkhnYnpxQWw1UTZiRnpZN284dDAyRzVLdGF3Q1FlSlY2Y2VxUGpyWDJjYzRzNFJVMjAyeFhQaU1Bd01TM1hIQVUxMmVLOFNrdDRrYlhZWUZYQ0Q3NE9yY1RYTVV3aUFydzF5Vzd1OXVpV2hiZDUxMTR2ejBXNlNSbTlk?oc=5",
-        "source": "MSN",
-        "date": "2026-05-21",
-        "tag": "market"
-      }
-    ],
+    "鳳梨": [],
     "芒果": [
       {
         "title": "芒果盛產 農糧署啟動通路行銷、用金煌做情人果 國聯社：今年價格有望持穩 - 農傳媒",
@@ -66,7 +51,7 @@
     "香蕉": [
       {
         "title": "台灣香蕉研究所啟用「種苗科研中心」年供應量預計增至500 萬株 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPbFVETkZvS1p2d2NWWWF1bjJXNjNpcUQ3a3J3SVNTVmZVVmtsYjZybzBuZWlkc1paVWZwaDVPZ0xSS1N5QVJITk5tNUlydHVBUVNpUlpJYWhWSDNqeThRYkZjUzM4LU03VG9DM2xDMFZ4ak1VQ1N1YUFZeDFHSHVfTFFYTHEwMnhWNk1Dc2dGT3RNdjdQRldEWlZrZE04UHc4LW5Sc3pfYzdWbVFlQUQxWXZQcnRtTmIwS1RwSFlpOW5jU3hGNno1LXh5b20yWXVTb1ByM0NNei05UTJlQ2FlTEcxc28yMjBqX3h3cXVtY0pldXZreGV4Z0NfTnJHVTBpMm1BcncwVmZDcUo1Slgzc0ZPWGVjbEJuNHRZZFFDYmRaRDE5YlNZVG5QVWUzZGtYc2cwN2libkozOUZvNnJqLXVoNm5kUG5xOWNidTJpdFJVQlptOVZHQng2R0F2NTJtZDQwV0RIZTREY3VPcS00MEZUb0tUc1JoMWpXdTMwc1V1a1M5ZENnZVlrcGs5eGlGQm9NUTAwQlNjdHlFLU5fTG9lUW8weTY1UURwaTZPa2xQNVNyNHJpanZhbnlzZ092WGx6dDJoVlMybm50a1NRQ1dFal9OVVVMWk5pV1NLVjVScEJjS3dpdkZURVhkX3VWTEktYkFLa0NXSmhLcUJZdGJjZWwwVjRUSjh6QnBDbnBaZFpTOXRpeGdZcTlacFRJUThBOGg2a1k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPOHNUdWxKWXp4c3dqRTNSOXFYQ1hMbkxBVFdEdURhTmdheHRmeTB5Z1U3RVlwWUNtd3o4cjNCTHNCY05IUExCYXJ2U2pVaHFQOVJFb2hmb1BINjduSXFqMS1FZUhXdEFRNzB6RjhEcVFUc0w1V3FOQ1B5akpqNzh1SWpqYWtNRTVuVFNrQVNfS2E0VFg5WW81THdBTVdDbzdVUTd3d0phLU1xMHRIUGRpME9rWm9SNWRyRENQU01Nc0JJM2xjelRXS1VmalY2OW5vYjlvcVFwYTZsd3BraUxWMEZ2NTRMc0Y5QWVMYjlXZFJ0S2U1dXhfOHJPb0kwUkpJelhCQWxqczRVYmV1R1RqMzRyOUwzRV9SbWxqR2JJcExMa1Y5a2t2Z0NUVTJHMGRJX0RuQ3BQc3RuY2ZzejlqdFZycEdQbHNiaUhUdGR5Y0JUYVRYaS1qMlZOSk9yY3p2MTJkTWdGbzIxeEpCSTFSMDBwV2kwcG1rV0Zfd1BBZE5hZXM4MGdTQUJHZDE1NU9NZmc?oc=5",
         "source": "MSN",
         "date": "2026-05-22",
         "tag": "market"
@@ -116,7 +101,15 @@
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "乾旱、暴雨接連襲台：稻米5年漲4.2元、玉米16年貴10元，氣候正讓主食變貴 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNFgyT0dxa0t0OXRvWnJMVlVZN3lZZlpDUjNxbWNoRHNTNWVvQXB2UTNZN1BXYk0wWEJweERaNExzNmN1WDNXbTVMWFd2YnBGODdXNTg2eUNtTzUxcWk5d1ZDelNiZ2FQYXFScFhYdXJ5dw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-05-26",
+        "tag": "weather"
+      }
+    ],
     "南瓜": [],
     "苦瓜": [],
     "蔥": []
