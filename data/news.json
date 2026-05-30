@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T14:51:00.026Z",
+  "updatedAt": "2026-05-30T17:22:12.445Z",
   "news": {
     "鳳梨": [
       {
@@ -18,13 +18,20 @@
       },
       {
         "title": "台灣鳳梨甜進日本校園!茨城108校供餐創紀錄 3.8萬學童吃得到 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNYWk2N1E2YnB3alpLd0UyWnhBRmVLOWxXYnJRQkFIQTBoclN5dS12QWcxN3k5UExIaWhLUTIxSS0tbFVERGk0c1E5akZNdjc0QXNGQ1gySThzUU8yMGh1c3JPdk9ranhrbnFQUzA5RGhINnlQN01BeDVpRHljZ0wyUGhnSXJDQ3k1OG12aXQxU0Yzem4tb1FCOERDUGdoaVFCVl9ISTZVOU12MGtRMEZvdVVHVGFXWnJad1dZSWRRM0swMDNkLVpxVWh1ajB6dGk1NW9kM2stUU9VdWhFSXFVcGplX3g0UVFMenkyVGtjNDMxb280aWc5aUphXzBDWTZnNnQ3a0VKN1R6VFZEWWhydjhMT1lTR0lIR3dnSTE5VUZycHREak85d2IyX2kxbnVzanl3YXU5V1hESTQzc2s4THVKYk9rdm56NFBIYjEzUTRvUVBHQzlsWXV6d0RPRlZrQUIwV1V4ZDc0eEFydjVCNEFPZ1NQQ0dkNld2OEFyd3ZaLW4wbWtpQldPVkxFcWpiWnMxVUpHcnp4OEFScXotNWcxdlFjWkhnYnpxQWw1UTZiRnpZN284dDAyRzVLdGF3Q1FlSlY2Y2VxUGpyWDJjYzRzNFJVMjAyeFhQaU1Bd01TM1hIQVUxMmVLOFNrdDRrYlhZWUZYQ0Q3NE9yY1RYTVV3aUFydzF5Vzd1OXVpV2hiZDUxMTR2ejBXNlNSbTlk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQZUJLX0FNbHBsWXVVWkJBcDdYNlpLdUpqc0JYVEo5NzRZdkdidU5PcU5oRUFMWW5CUDRqNGNiR1N4X2N6aXRycnpldFJOWThWSkw4VXJOUGFhd1RVeklDS0lKck82TWZoUDJabTAxWmV6ck1hNlJCbjFOQXc5QW9MLUdmbXNJaW1KeWNDaTNiRVpueXZlWGV0N2s1ZE5vYldFWlNkdGRrM2RFSEpZVWg2OU9McUtIb093b1MxRURyaU5BUzB6Q2twNGFzSW4yY0NpdTdKclFTS0RRYTBLMHh5d3o4ektSZWxodmRQNXZCMGhCOHpEU3pSek5VSW10bVFBSnV6SHl0UkptMF9GTmszVlAzaXM0cmRwUzlfckw1UnU5czREYXptZXBQVEdmdnFPcmZuOUxfM2JwTWdTZFlIaTBmQklFS2JwUXhjaVBVZzBzRzhfZVp2NDZoMjRnNEt1Vmt0WmhoUnNBVU1LMnZHUnhIbXU0blJka211cnlMQmRwcS1BWnM1QkVB?oc=5",
         "source": "MSN",
         "date": "2026-05-21",
         "tag": "market"
       }
     ],
     "芒果": [
+      {
+        "title": "台灣1水果價格崩跌！產量暴增、價錢狂降3成「全聯只賣10元」， 農民急採收大出清 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zY0J4dkdsLUZuS1dYRjJRM1ZFazkzQk1rYTdCNDNuRGl6ejZZVGx6MzM3Q0xiaXA0ZzlLZDNvcXczM1ZrMjNGdkpQdnVyS3ph?oc=5",
+        "source": "風傳媒",
+        "date": "2026-05-30",
+        "tag": "price"
+      },
       {
         "title": "芒果盛產 農糧署啟動通路行銷、用金煌做情人果 國聯社：今年價格有望持穩 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RG9SU0ZDMUttR1FDSlhGMy14c2FUWkVtdGxMQ3JtT25hY3EwYTVMT0N4S29jUEFOVVNqcFlsNG9PLVBqSlBWbTlWTTFtWHMyRmNtOW13?oc=5",
@@ -37,13 +44,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOWWhpcTdoVUhCX0dUeGtkSWxSRXExX0ZBQzJ5UW9LTFV2cmtJMGJFYWlUYlJ4OXpDYm1Wa1ViWC1ZY19GQ3BUdEFkYTdyeGpKN3ZiYmVhVFRjbFlYdENWUkNVSXpSM3JFQlI1a0pPSVFDTHZ4YmdpZkZPTjlnZ3laaGFPaEt6YU43c2wxYzZBYUlGdXBRYnc0MThVNkxubzNjbXkybXJ5MGJHRUtMb3FaWmR4dERlWUwwR1Q3QnBXaFhCZU14UGt6MnZjLVFfYVRlMFlTSkY1X1o0dUlGbk9IR0lZVHNBamRaRGhKbzN3aWUtSXE5Q3FwWTZaSmE1Tl9zSzlRY3lDSFRBOWVicjZ6ZnhoUFBHN2JyelEtRjhqVTh2bFY1bUFIMDBNMUFJTmFWMlZXSFdMbUtaLTljS1ZRcHVjZDZldkFBUEVOb3BnR1VBZVVzVnpjeDV0WE5oNUk2V0FQZ0diUUllTTRQZHFXc2dubWo3dGd2TUFjcXlib2kxWl9wa00wUzBoa1h1NG9OVHNUUFZnUU8zOTQ2YS1zN09KYTVibVduNWNMTkpLT01aMVRFSm4tbXhTLUx2alZPWlEwR2lscjRuZWpXbTRZbHNKcVlrRUlET2xpV3JXNk1Xc1l3Z3dVOTJR?oc=5",
         "source": "MSN",
         "date": "2026-05-27",
-        "tag": "market"
-      },
-      {
-        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-28",
         "tag": "market"
       },
       {
@@ -63,10 +63,10 @@
         "tag": "market"
       },
       {
-        "title": "產量翻倍 玉荷包、 愛文芒果批發價腰斬 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOWWhpcTdoVUhCX0dUeGtkSWxSRXExX0ZBQzJ5UW9LTFV2cmtJMGJFYWlUYlJ4OXpDYm1Wa1ViWC1ZY19GQ3BUdEFkYTdyeGpKN3ZiYmVhVFRjbFlYdENWUkNVSXpSM3JFQlI1a0pPSVFDTHZ4YmdpZkZPTjlnZ3laaGFPaEt6YU43c2wxYzZBYUlGdXBRYnc0MThVNkxubzNjbXkybXJ5MGJHRUtMb3FaWmR4dERlWUwwR1Q3QnBXaFhCZU14UGt6MnZjLVFfYVRlMFlTSkY1X1o0dUlGbk9IR0lZVHNBamRaRGhKbzN3aWUtSXE5Q3FwWTZaSmE1Tl9zSzlRY3lDSFRBOWVicjZ6ZnhoUFBHN2JyelEtRjhqVTh2bFY1bUFIMDBNMUFJTmFWMlZXSFdMbUtaLTljS1ZRcHVjZDZldkFBUEVOb3BnR1VBZVVzVnpjeDV0WE5oNUk2V0FQZ0diUUllTTRQZHFXc2dubWo3dGd2TUFjcXlib2kxWl9wa00wUzBoa1h1NG9OVHNUUFZnUU8zOTQ2YS1zN09KYTVibVduNWNMTkpLT01aMVRFSm4tbXhTLUx2alZPWlEwR2lscjRuZWpXbTRZbHNKcVlrRUlET2xpV3JXNk1Xc1l3Z3dVOTJR?oc=5",
-        "source": "MSN",
-        "date": "2026-05-27",
+        "title": "產量翻倍 玉荷包、愛文芒果批發價腰斬 - 中時新聞網",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjRk5XV3pqRHZiek1aX3oydDlIZ0ZtQlhuUEVxV0E1Wm9xMGdoYTFPaWliYnk4Z3BzQ0ZXQnBNMFZXdDBycENVVlk2QVRGWVoyTG5QTWNROGx6Y2diWDVvVUVuZXc4UGRoa3Bz?oc=5",
+        "source": "中時新聞網",
+        "date": "2026-05-26",
         "tag": "market"
       }
     ],
@@ -79,16 +79,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣香蕉研究所啟用「種苗科研中心」年供應量預計增至500 萬株 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPbFVETkZvS1p2d2NWWWF1bjJXNjNpcUQ3a3J3SVNTVmZVVmtsYjZybzBuZWlkc1paVWZwaDVPZ0xSS1N5QVJITk5tNUlydHVBUVNpUlpJYWhWSDNqeThRYkZjUzM4LU03VG9DM2xDMFZ4ak1VQ1N1YUFZeDFHSHVfTFFYTHEwMnhWNk1Dc2dGT3RNdjdQRldEWlZrZE04UHc4LW5Sc3pfYzdWbVFlQUQxWXZQcnRtTmIwS1RwSFlpOW5jU3hGNno1LXh5b20yWXVTb1ByM0NNei05UTJlQ2FlTEcxc28yMjBqX3h3cXVtY0pldXZreGV4Z0NfTnJHVTBpMm1BcncwVmZDcUo1Slgzc0ZPWGVjbEJuNHRZZFFDYmRaRDE5YlNZVG5QVWUzZGtYc2cwN2libkozOUZvNnJqLXVoNm5kUG5xOWNidTJpdFJVQlptOVZHQng2R0F2NTJtZDQwV0RIZTREY3VPcS00MEZUb0tUc1JoMWpXdTMwc1V1a1M5ZENnZVlrcGs5eGlGQm9NUTAwQlNjdHlFLU5fTG9lUW8weTY1UURwaTZPa2xQNVNyNHJpanZhbnlzZ092WGx6dDJoVlMybm50a1NRQ1dFal9OVVVMWk5pV1NLVjVScEJjS3dpdkZURVhkX3VWTEktYkFLa0NXSmhLcUJZdGJjZWwwVjRUSjh6QnBDbnBaZFpTOXRpeGdZcTlacFRJUThBOGg2a1k?oc=5",
-        "source": "MSN",
-        "date": "2026-05-22",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
-        "source": "LINE TODAY",
+        "title": "香蕉產地價下滑至每公斤8至10元 屏縣農業處：季節性短期波動 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQzF3RlROVk9KMnhaX2VYUFlMRmVNVUl0b0E1elhfVGdYMkl4WXZzNDlRdVNSTjZMdGZza0ZzRHE1U3VPV1NpZFdkOGdBSjdyU0lxUkRIR090UdIBX0FVX3lxTE1uV2Z5aFBfRk1TbGVCMXUtbkwtWjVncUdkSDdkYndvbGJPZEMyVi1uVkJZNi1YU2VmbGlfV3NQeXY0eGFCZGVWZVJNVXl5UzBPVElKV2g3YUhydkxCd3kw?oc=5",
+        "source": "經濟日報",
         "date": "2026-05-13",
         "tag": "market"
       }
