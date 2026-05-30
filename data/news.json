@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T17:22:12.445Z",
+  "updatedAt": "2026-05-30T22:48:36.705Z",
   "news": {
     "鳳梨": [
       {
@@ -79,9 +79,16 @@
         "tag": "market"
       },
       {
-        "title": "香蕉產地價下滑至每公斤8至10元 屏縣農業處：季節性短期波動 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQzF3RlROVk9KMnhaX2VYUFlMRmVNVUl0b0E1elhfVGdYMkl4WXZzNDlRdVNSTjZMdGZza0ZzRHE1U3VPV1NpZFdkOGdBSjdyU0lxUkRIR090UdIBX0FVX3lxTE1uV2Z5aFBfRk1TbGVCMXUtbkwtWjVncUdkSDdkYndvbGJPZEMyVi1uVkJZNi1YU2VmbGlfV3NQeXY0eGFCZGVWZVJNVXl5UzBPVElKV2g3YUhydkxCd3kw?oc=5",
-        "source": "經濟日報",
+        "title": "台灣香蕉研究所啟用「種苗科研中心」年供應量預計增至500 萬株 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPOHNUdWxKWXp4c3dqRTNSOXFYQ1hMbkxBVFdEdURhTmdheHRmeTB5Z1U3RVlwWUNtd3o4cjNCTHNCY05IUExCYXJ2U2pVaHFQOVJFb2hmb1BINjduSXFqMS1FZUhXdEFRNzB6RjhEcVFUc0w1V3FOQ1B5akpqNzh1SWpqYWtNRTVuVFNrQVNfS2E0VFg5WW81THdBTVdDbzdVUTd3d0phLU1xMHRIUGRpME9rWm9SNWRyRENQU01Nc0JJM2xjelRXS1VmalY2OW5vYjlvcVFwYTZsd3BraUxWMEZ2NTRMc0Y5QWVMYjlXZFJ0S2U1dXhfOHJPb0kwUkpJelhCQWxqczRVYmV1R1RqMzRyOUwzRV9SbWxqR2JJcExMa1Y5a2t2Z0NUVTJHMGRJX0RuQ3BQc3RuY2ZzejlqdFZycEdQbHNiaUhUdGR5Y0JUYVRYaS1qMlZOSk9yY3p2MTJkTWdGbzIxeEpCSTFSMDBwV2kwcG1rV0Zfd1BBZE5hZXM4MGdTQUJHZDE1NU9NZmc?oc=5",
+        "source": "MSN",
+        "date": "2026-05-22",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-05-13",
         "tag": "market"
       }
@@ -116,7 +123,15 @@
     ],
     "番茄": [],
     "花椰菜": [],
-    "地瓜": [],
+    "地瓜": [
+      {
+        "title": "台中果菜批發市場遷場30週年 冷鏈配銷中心邁向現代化農產新里程 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nM2N5ajdTTF8xc3dLWjVPNFdaMUhrRFJQalctVC1UOGpNcWRUTENncGplQnVRdFI0UzU1NFFWU1Jla21NWVo4bmEyUHVCZlhlVndUOE5n?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-05-24",
+        "tag": "market"
+      }
+    ],
     "菠菜": [],
     "青花菜": [],
     "茄子": [],
