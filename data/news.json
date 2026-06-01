@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-01T03:38:35.056Z",
+  "updatedAt": "2026-06-01T07:01:27.975Z",
   "news": {
     "鳳梨": [
+      {
+        "title": "蘭考甜妞一號源自台灣 瓜農分享交流故事 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BeTR2N05SVmlPTFA0V29CNzhHN2VpTFdYUkkwbHF0aGticC1rNFJaS2FsMW9Ha1MtTnNZaUxYZ2pSTUc1TFlUekVzbnBHWFo0aG1XN3lDcnUwekdUOWpkSGEzSkpTR2xaQ05IUA?oc=5",
+        "source": "中國評論新聞",
+        "date": "2026-05-31",
+        "tag": "market"
+      },
       {
         "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
@@ -66,7 +73,7 @@
     "香蕉": [
       {
         "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12WndQejlHLXhJalR6S0RIeXFkVHVVUm5xeU85WmRRaWczamM5ZU1JdHdYVEpZeTVRVWFmZllUUWlabE0weDdOTkx1UFJtTFk3SDZHN2FiTV9vRzlyNEJpM2V6WU1tRTI4VHfSAW9BVV95cUxPcnR3dU9NMVE2enc3RklCZjliLXdKcXVDc1BiSk5JSjZMYWlxanA0Q2NuS0Jpc196U1BFaWFrY1p6QVJoM2VPZUdaYnVlRG5wVDA4UGUtNGFzU0s4M2hHcVNPaGhQdllVTElzbW9Fa2s?oc=5",
         "source": "自由時報",
         "date": "2026-05-13",
         "tag": "market"
@@ -94,7 +101,15 @@
     ],
     "柳橙": [],
     "文旦": [],
-    "釋迦": [],
+    "釋迦": [
+      {
+        "title": "蘭考甜妞一號源自台灣 瓜農分享交流故事 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZnlwYmJ1Vks5ZjFEakxCU213bzFZT2JnTkRma1FwZTJqOEt5Y3JoUmZWZE5OcHlodllZcXFBMVhZMW9xN1JxaElJb0MwQjNCODZNRjFnbVdqSU9XdkM4dm8zX2l3NUU?oc=5",
+        "source": "中國評論新聞",
+        "date": "2026-05-31",
+        "tag": "market"
+      }
+    ],
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
