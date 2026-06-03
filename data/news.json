@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-03T12:00:12.611Z",
+  "updatedAt": "2026-06-03T18:16:22.670Z",
   "news": {
     "鳳梨": [
       {
-        "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
+        "title": "農業部輔導團隊解決鳳梨「黑心」、病蟲害 布局新品種 助攻鳳梨外銷每年2萬公噸 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5bEozc1REa05XS3dpM193N1lwMFEyWVR4Mm4tZWJ4dFYyN1FBTXJjM2NzVmRsbE91aFppUEpIYXpEakNRQ3hCU3hIam9NOE1YNUFFN3R3?oc=5",
         "source": "農傳媒",
-        "date": "2026-06-02",
-        "tag": "market"
+        "date": "2026-06-03",
+        "tag": "policy"
       },
       {
         "title": "臺灣精品水果克服檢疫障礙 芒果荔枝及紅龍果首度外銷歐洲高端市場 - 蕃新聞",
@@ -17,17 +17,17 @@
         "tag": "market"
       },
       {
+        "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-02",
+        "tag": "market"
+      },
+      {
         "title": "蘭考甜妞一號源自台灣 瓜農分享交流故事 - 中國評論新聞",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZnlwYmJ1Vks5ZjFEakxCU213bzFZT2JnTkRma1FwZTJqOEt5Y3JoUmZWZE5OcHlodllZcXFBMVhZMW9xN1JxaElJb0MwQjNCODZNRjFnbVdqSU9XdkM4dm8zX2l3NUU?oc=5",
         "source": "中國評論新聞",
         "date": "2026-05-31",
-        "tag": "market"
-      },
-      {
-        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-28",
         "tag": "market"
       }
     ],
@@ -93,6 +93,13 @@
     ],
     "香蕉": [
       {
+        "title": "斥資7千多萬設香蕉種苗科研中心 拚蕉苗產量翻倍 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TOUQteHZSdWJjVlhUbGN1MzJhLWxoT0lGanJfZ1lWdEtEOW5Fd2lldENJNHBkYm9MVTRSR3lmNEpTeDVueUI0MDlQc2cxTHlr0gFWQVVfeXFMTmRoVzZxcGxCSWhEc2pGUW12clF4bmJ5SEFhbHBrbHlWSnRvbVd5Q1NCLTJRUTl6ZXk1bW9ndUM0UnBMbm1kejZzaW9GeTJmSjIyU3FKTmc?oc=5",
+        "source": "UDN",
+        "date": "2026-05-23",
+        "tag": "market"
+      },
+      {
         "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
         "source": "LINE TODAY",
@@ -111,13 +118,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
         "source": "農傳媒",
         "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉研究所種苗中心落成 健康蕉苗產量倍增減少黃葉病傳播 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzU2paSjZ6bWNjeUZLbU84UU5VSlFyNmRZRExFY2pLZTBjaHBYakd0dlFVWTJRVlNBZE5WQ2lPWEFNZlhwMFlnR3dUS0tDSTND0gFWQVVfeXFMUFNzZF94b1R5dURrMzBXZ0xfVDZWb0lTYVVRc2l6aDM0aGszMV9UcFFCZy10YjRQWVd2NDVpTzRTZTJWd3ZBdTZCV1IyT2ptT3ZycVVFNFE?oc=5",
-        "source": "UDN",
-        "date": "2026-05-22",
         "tag": "market"
       }
     ],
@@ -154,17 +154,24 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [],
-    "檸檬": [],
-    "高麗菜": [
+    "番石榴": [
       {
-        "title": "台灣1水果降價了！價格大跌3成、產量狂增67%，更香甜美味、 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MUFNZc2VQdzNWV2JCc3JJQjZvYi03RlRvU21sM3JVcGZkbUFEV19FSUtTbkVaMmZVSjA5cUdrRU1QYW81YVhoVkF2dkExbmdJ?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-24",
-        "tag": "price"
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ1lPTlBrVlYzSFc4VDU3TjFiOC1ORmxnc3BLQmE5dlp0MFJPdTZ6UmdSallhVVJQVEdBX09icl9LNjNSNEdXUDdqcy1zQURtZHU1WkE4NkgtZ2pURWttN3RPSDLSAWRBVV95cUxQVkNZT05Qa1ZWM0hXOFQ1N04xYjgtTkZsZ3NwS0JhOXZadDBST3U2elJnUmpZYVVSUFRHQV9PYnJfSzYzUjRHV1A3anMtc0FEbWR1NVpBODZILWdqVEVrbTd0T0gy?oc=5",
+        "source": "自由財經",
+        "date": "2026-06-03",
+        "tag": "policy"
+      },
+      {
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-02",
+        "tag": "policy"
       }
     ],
+    "檸檬": [],
+    "高麗菜": [],
     "番茄": [
       {
         "title": "埤頭鄉農會自動化礱穀機械設備啟用 全面展現農業多元發展成果 | 台灣好新聞 - LINE TODAY",
