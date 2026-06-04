@@ -1,18 +1,11 @@
 {
-  "updatedAt": "2026-06-04T03:34:07.221Z",
+  "updatedAt": "2026-06-04T06:47:09.545Z",
   "news": {
     "鳳梨": [
       {
         "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
         "source": "農傳媒",
-        "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "臺灣精品水果克服檢疫障礙 芒果荔枝及紅龍果首度外銷歐洲高端市場 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05alVVLXlEeVJXT1d6QW1VOEU3RWlYOXc0OGZycWU5LWtNcWFiRDYzZE81U3ZLVXB2LXVvYl9qWDlyWDNBNmd2dC11Qkc0V0YzdWc?oc=5",
-        "source": "蕃新聞",
         "date": "2026-06-02",
         "tag": "market"
       },
@@ -29,6 +22,13 @@
         "source": "風傳媒",
         "date": "2026-05-28",
         "tag": "market"
+      },
+      {
+        "title": "今年芒果質優、價格親民 農業部祭加碼外銷獎勵 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtM1ltcVRUbV9EWGtqbUJKMDBubWtsTzgtWjFKdW13Z3hkdDJSSk51MzlFb1djSVFoSWtuX0hXTlBOOVJpNzdFUHVRV1VsQVpVMUVwOXo3bHFSUmdZX0RnMkdGMULSAWpBVV95cUxQYWtQTExnZjk1RE5DSlhpSzdURC1PbFN5djN5bThNdGxGSG5WU2FhMnJOZVlDb2RDdWQ1N2lJSFhDUG5mMjRQSXpGRXpVLVg4UW9OYjBDRWxjWHczZzBXTEZvSlB5blJoRTZ3?oc=5",
+        "source": "自由時報",
+        "date": "2026-05-24",
+        "tag": "policy"
       }
     ],
     "芒果": [
@@ -84,9 +84,9 @@
         "tag": "policy"
       },
       {
-        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 | 中華日報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55bFlJb2tjbDUxSlRQY1MwUHhGVGNXcTl1OFhJVk1VWnotc2VCSUlwQk9PdC1hUmZKeFFSdVNtOXFld3hveGY1bEhnSGRFeFdJRko4bFdB?oc=5",
-        "source": "LINE TODAY",
+        "title": "通過高規格檢疫 屏東愛文芒果銷歐 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xS2VPM3FuNjQ5WlVaVGtVczVDTWJwZTk5N25RSFFPSTFOaWdwN2lFcWJ0dzRsczdtMnVKYXRwWnRORGJVMHNQOG10RWpINHRa0gFWQVVfeXFMTWEtZDdaVjBkWGtjY3NfUXlXbUtHYXpHZFBMdUI3aUZBVEJmZVpGb0NZcjMxSUdReUI3c2MtMHlwN050VFpmVVg4Ti04c3NGandQNm1FMHc?oc=5",
+        "source": "UDN",
         "date": "2026-06-02",
         "tag": "market"
       }
