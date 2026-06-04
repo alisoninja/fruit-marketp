@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T16:29:38.393Z",
+  "updatedAt": "2026-06-04T18:16:36.527Z",
   "news": {
     "鳳梨": [
       {
@@ -84,14 +84,43 @@
         "tag": "market"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "title": "屏東愛文芒果銷歐 首批封櫃進軍法國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MT1NUQlBoZ3Z5andma1ZiRmJXRElwRFBTeU5fTDd1Y2I5Ui1xSEpTa21EXzU3WnVROGJ6dThKd0g1LS1hZkZNUEhDWjdMTkJBaDQzWWlNTy1Hemp4V1Y1Y9IBYEFVX3lxTE5MT1NUQlBoZ3Z5andma1ZiRmJXRElwRFBTeU5fTDd1Y2I5Ui1xSEpTa21EXzU3WnVROGJ6dThKd0g1LS1hZkZNUEhDWjdMTkJBaDQzWWlNTy1Hemp4V1Y1Yw?oc=5",
         "source": "自由時報",
-        "date": "2026-06-03",
-        "tag": "policy"
+        "date": "2026-06-02",
+        "tag": "market"
       }
     ],
-    "香蕉": [],
+    "香蕉": [
+      {
+        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-04",
+        "tag": "policy"
+      },
+      {
+        "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-02",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-05-13",
+        "tag": "market"
+      },
+      {
+        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-05-13",
+        "tag": "market"
+      }
+    ],
     "木瓜": [],
     "葡萄": [],
     "蓮霧": [
@@ -127,16 +156,16 @@
     "龍眼": [],
     "番石榴": [
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ1lPTlBrVlYzSFc4VDU3TjFiOC1ORmxnc3BLQmE5dlp0MFJPdTZ6UmdSallhVVJQVEdBX09icl9LNjNSNEdXUDdqcy1zQURtZHU1WkE4NkgtZ2pURWttN3RPSDLSAWRBVV95cUxQVkNZT05Qa1ZWM0hXOFQ1N04xYjgtTkZsZ3NwS0JhOXZadDBST3U2elJnUmpZYVVSUFRHQV9PYnJfSzYzUjRHV1A3anMtc0FEbWR1NVpBODZILWdqVEVrbTd0T0gy?oc=5",
+        "source": "自由財經",
         "date": "2026-06-03",
         "tag": "policy"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ1lPTlBrVlYzSFc4VDU3TjFiOC1ORmxnc3BLQmE5dlp0MFJPdTZ6UmdSallhVVJQVEdBX09icl9LNjNSNEdXUDdqcy1zQURtZHU1WkE4NkgtZ2pURWttN3RPSDLSAWRBVV95cUxQVkNZT05Qa1ZWM0hXOFQ1N04xYjgtTkZsZ3NwS0JhOXZadDBST3U2elJnUmpZYVVSUFRHQV9PYnJfSzYzUjRHV1A3anMtc0FEbWR1NVpBODZILWdqVEVrbTd0T0gy?oc=5",
-        "source": "自由財經",
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
         "date": "2026-06-03",
         "tag": "policy"
       }
