@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T10:43:13.582Z",
+  "updatedAt": "2026-06-04T16:29:38.393Z",
   "news": {
     "鳳梨": [
       {
@@ -77,50 +77,21 @@
         "tag": "market"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
-        "tag": "policy"
-      },
-      {
         "title": "通過高規格檢疫 屏東愛文芒果銷歐 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xS2VPM3FuNjQ5WlVaVGtVczVDTWJwZTk5N25RSFFPSTFOaWdwN2lFcWJ0dzRsczdtMnVKYXRwWnRORGJVMHNQOG10RWpINHRa0gFWQVVfeXFMTWEtZDdaVjBkWGtjY3NfUXlXbUtHYXpHZFBMdUI3aUZBVEJmZVpGb0NZcjMxSUdReUI3c2MtMHlwN050VFpmVVg4Ti04c3NGandQNm1FMHc?oc=5",
         "source": "UDN",
         "date": "2026-06-02",
         "tag": "market"
-      }
-    ],
-    "香蕉": [
-      {
-        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
-        "source": "農傳媒",
-        "date": "2026-06-04",
-        "tag": "policy"
       },
       {
-        "title": "斥資7千多萬設香蕉種苗科研中心 拚蕉苗產量翻倍 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TOUQteHZSdWJjVlhUbGN1MzJhLWxoT0lGanJfZ1lWdEtEOW5Fd2lldENJNHBkYm9MVTRSR3lmNEpTeDVueUI0MDlQc2cxTHlr0gFWQVVfeXFMTmRoVzZxcGxCSWhEc2pGUW12clF4bmJ5SEFhbHBrbHlWSnRvbVd5Q1NCLTJRUTl6ZXk1bW9ndUM0UnBMbm1kejZzaW9GeTJmSjIyU3FKTmc?oc=5",
-        "source": "UDN",
-        "date": "2026-05-23",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉產地價下滑至每公斤8至10元屏縣農業處：季節性短期波動| 聯合新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNXdCUFJCSEd1SG9PNDctZ3ZUUFVWckpCWkJLdGN5RWdYdlJxQnNTMmI0ekx0c2NnRXdSVnJNNnJCUzlyQWpGdWNVUUR3Zk8xeUpaTExn?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-05-13",
-        "tag": "market"
-      },
-      {
-        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
         "source": "自由時報",
-        "date": "2026-05-13",
-        "tag": "market"
+        "date": "2026-06-03",
+        "tag": "policy"
       }
     ],
+    "香蕉": [],
     "木瓜": [],
     "葡萄": [],
     "蓮霧": [
@@ -216,18 +187,18 @@
     "大蒜": [],
     "玉米": [
       {
-        "title": "乾旱、暴雨接連襲台：稻米5年漲4.2元、玉米16年貴10元，氣候正讓主食變貴 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNFgyT0dxa0t0OXRvWnJMVlVZN3lZZlpDUjNxbWNoRHNTNWVvQXB2UTNZN1BXYk0wWEJweERaNExzNmN1WDNXbTVMWFd2YnBGODdXNTg2eUNtTzUxcWk5d1ZDelNiZ2FQYXFScFhYdXJ5dw?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-05-26",
-        "tag": "weather"
-      },
-      {
         "title": "埤頭鄉農會自動化礱穀機械設備啟用 全面展現農業多元發展成果 | 台灣好新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wVkJfNDFlV0lXWHJiS0VWUkp3ZmdWWi1fdnlZQUxxeWFNZERrbkFQV3RjNHp0WDBscHBKNWhJMHRzb1dlaU9ObUdiTU9waUxGbE5vTkh3?oc=5",
         "source": "LINE TODAY",
         "date": "2026-05-30",
         "tag": "market"
+      },
+      {
+        "title": "乾旱、暴雨接連襲台：稻米5年漲4.2元、玉米16年貴10元，氣候正讓主食變貴 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNFgyT0dxa0t0OXRvWnJMVlVZN3lZZlpDUjNxbWNoRHNTNWVvQXB2UTNZN1BXYk0wWEJweERaNExzNmN1WDNXbTVMWFd2YnBGODdXNTg2eUNtTzUxcWk5d1ZDelNiZ2FQYXFScFhYdXJ5dw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-05-26",
+        "tag": "weather"
       }
     ],
     "南瓜": [],
