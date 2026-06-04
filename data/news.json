@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T06:47:09.545Z",
+  "updatedAt": "2026-06-04T08:24:59.322Z",
   "news": {
     "鳳梨": [
       {
@@ -171,7 +171,15 @@
       }
     ],
     "檸檬": [],
-    "高麗菜": [],
+    "高麗菜": [
+      {
+        "title": "台灣6.5噸水果銷往巴黎！內行人曝農民超會「魔改」，不靠政府也能創造農業革命| 特魯瓦通訊| 風生活 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KTVl5dnY1bnRoVlYzcElaRVZDYjlLWEN2VmVJdFVoUHFSU0RFWVpuLUdpLUJHUmRzd1pHcklDVEhrcmdudVdKMkxUcTg1b0JP?oc=5",
+        "source": "風傳媒",
+        "date": "2026-06-04",
+        "tag": "market"
+      }
+    ],
     "番茄": [
       {
         "title": "埤頭鄉農會自動化礱穀機械設備啟用 全面展現農業多元發展成果 | 台灣好新聞 - LINE TODAY",
@@ -208,18 +216,18 @@
     "大蒜": [],
     "玉米": [
       {
-        "title": "乾旱、暴雨接連襲台：稻米5年漲4.2元、玉米16年貴10元，氣候正讓主食變貴 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNFgyT0dxa0t0OXRvWnJMVlVZN3lZZlpDUjNxbWNoRHNTNWVvQXB2UTNZN1BXYk0wWEJweERaNExzNmN1WDNXbTVMWFd2YnBGODdXNTg2eUNtTzUxcWk5d1ZDelNiZ2FQYXFScFhYdXJ5dw?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-05-26",
-        "tag": "weather"
-      },
-      {
         "title": "埤頭鄉農會自動化礱穀機械設備啟用 全面展現農業多元發展成果 | 台灣好新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wVkJfNDFlV0lXWHJiS0VWUkp3ZmdWWi1fdnlZQUxxeWFNZERrbkFQV3RjNHp0WDBscHBKNWhJMHRzb1dlaU9ObUdiTU9waUxGbE5vTkh3?oc=5",
         "source": "LINE TODAY",
         "date": "2026-05-30",
         "tag": "market"
+      },
+      {
+        "title": "乾旱、暴雨接連襲台：稻米5年漲4.2元、玉米16年貴10元，氣候正讓主食變貴 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oNFgyT0dxa0t0OXRvWnJMVlVZN3lZZlpDUjNxbWNoRHNTNWVvQXB2UTNZN1BXYk0wWEJweERaNExzNmN1WDNXbTVMWFd2YnBGODdXNTg2eUNtTzUxcWk5d1ZDelNiZ2FQYXFScFhYdXJ5dw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-05-26",
+        "tag": "weather"
       }
     ],
     "南瓜": [],
