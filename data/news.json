@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T02:46:08.123Z",
+  "updatedAt": "2026-06-06T05:55:08.053Z",
   "news": {
     "鳳梨": [
       {
@@ -84,11 +84,11 @@
         "tag": "market"
       },
       {
-        "title": "台灣芒果.荔枝.紅龍果進軍歐洲上架法國市場- 國際 - 華視新聞網",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRUIwMjBCTGp3aDVOeVV0LUVjVmVOVXBkNEo2Z3Nlb09qZWY3WG1JdmFaNXhIYjlWZEs1NmlGNkZabUxya0gtNFRMS01BekxPb1pJaFpaVVZITURUWUV0LXRIWUluNGJTVDk1UG54aFhRblBFeW45aQ?oc=5",
-        "source": "華視新聞網",
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
         "date": "2026-06-03",
-        "tag": "market"
+        "tag": "policy"
       }
     ],
     "香蕉": [
@@ -100,9 +100,9 @@
         "tag": "policy"
       },
       {
-        "title": "屏東愛文芒果銷歐 首批封櫃進軍法國 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSFp5dl9CSDYyRGk3cW1qajY5N2RjVExWVjVYNzFVRTZMNFBmdlBUbExHUFVrT214TG5aUzN6d3dsZy1Qa2ZpQ01OQU5JbVlqVVQ0VzY3ZEpXQTjSAWBBVV95cUxOTE9TVEJQaGd2eWp3ZmtWYkZiV0RJcERQU3lOX0w3dWNiOVItcUhKU2ttRF81N1p1UThienU4SndINS0tYWZGTVBIQ1o3TE5CQWg0M1lpTU8tR3pqeFdWNWM?oc=5",
-        "source": "自由時報",
+        "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
+        "source": "農傳媒",
         "date": "2026-06-02",
         "tag": "market"
       },
@@ -170,13 +170,6 @@
     ],
     "龍眼": [],
     "番石榴": [
-      {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWQ1lPTlBrVlYzSFc4VDU3TjFiOC1ORmxnc3BLQmE5dlp0MFJPdTZ6UmdSallhVVJQVEdBX09icl9LNjNSNEdXUDdqcy1zQURtZHU1WkE4NkgtZ2pURWttN3RPSDLSAWRBVV95cUxQVkNZT05Qa1ZWM0hXOFQ1N04xYjgtTkZsZ3NwS0JhOXZadDBST3U2elJnUmpZYVVSUFRHQV9PYnJfSzYzUjRHV1A3anMtc0FEbWR1NVpBODZILWdqVEVrbTd0T0gy?oc=5",
-        "source": "自由財經",
-        "date": "2026-06-03",
-        "tag": "policy"
-      },
       {
         "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
