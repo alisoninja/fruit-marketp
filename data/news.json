@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-07T10:09:30.174Z",
+  "updatedAt": "2026-06-07T15:11:18.548Z",
   "news": {
     "鳳梨": [
-      {
-        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQMjBDeTZ4ZlNGMXJyazBrejlFS3ljRWNPWlRJekIwRWtpbHp4SHJ2M1JaOVRiTmgtZHpIQV9EdkllZXlRYkIwcFlaNG1zQmtSV2VjYTB2Z2wyN0xxRGZIRmN5YVJuOFhRU0l6N1hsV2F1RUtTMGZvSzktdXI4ZFFQSUQ2cnpUdnFtVG1SWDlRMWRGck00UUhYY0ZzQXhpalpxc3FoUGk4Y0ZqcWNyeFJBSS1qZWd6OUpQV2tGS3ZGQm1pUjNNUzNZX2kyTVgxMUE2b2ZJcmdwMWRpdjBoMndRVjJDeW9SZWtZZUJfZFlVcUNxVW8zdU1HdmZ2TEEyd3Y2c0JNblpBbklHNk9NQlBraEVRZmNZTE9xT3BpNlk0UjR6azJoUHVkV3BSeFhsUWJXWFc0SzRxNXVFZUd5Z2gtVzBYdFkwZ0tfZW4wck9WSXFjbU9mWkFOOC0zMDZxcWlqRk1Hd0s0MmhOaDlhYVh6Si15dVhJNjR6T0pEWUZQMW1pbGxEVUdEX2VETENSWFlzYk9lMllobkgzMWszVFRGSDQ5R28xOEJhVlFMNEdOR2hpeHhtVFhTZXNHWklTYVpERlRTamxPM3JabEI1RkJFaWNKaVRDQXJhT3UtbGNxdjI1M3NydjhfZUNwUUItUTdpUHJ3aHhXZzJkanF1WkwzUjIzMFhEODZ2WHZFYVBibnA4a09Ma3JtZnhZRElacGFQRDlhclh6UVRLN0s5ejE3bzBmc0FCaFAx?oc=5",
-        "source": "MSN",
-        "date": "2026-06-07",
-        "tag": "price"
-      },
       {
         "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
@@ -22,6 +15,13 @@
         "source": "自由時報",
         "date": "2026-06-06",
         "tag": "market"
+      },
+      {
+        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQMjBDeTZ4ZlNGMXJyazBrejlFS3ljRWNPWlRJekIwRWtpbHp4SHJ2M1JaOVRiTmgtZHpIQV9EdkllZXlRYkIwcFlaNG1zQmtSV2VjYTB2Z2wyN0xxRGZIRmN5YVJuOFhRU0l6N1hsV2F1RUtTMGZvSzktdXI4ZFFQSUQ2cnpUdnFtVG1SWDlRMWRGck00UUhYY0ZzQXhpalpxc3FoUGk4Y0ZqcWNyeFJBSS1qZWd6OUpQV2tGS3ZGQm1pUjNNUzNZX2kyTVgxMUE2b2ZJcmdwMWRpdjBoMndRVjJDeW9SZWtZZUJfZFlVcUNxVW8zdU1HdmZ2TEEyd3Y2c0JNblpBbklHNk9NQlBraEVRZmNZTE9xT3BpNlk0UjR6azJoUHVkV3BSeFhsUWJXWFc0SzRxNXVFZUd5Z2gtVzBYdFkwZ0tfZW4wck9WSXFjbU9mWkFOOC0zMDZxcWlqRk1Hd0s0MmhOaDlhYVh6Si15dVhJNjR6T0pEWUZQMW1pbGxEVUdEX2VETENSWFlzYk9lMllobkgzMWszVFRGSDQ5R28xOEJhVlFMNEdOR2hpeHhtVFhTZXNHWklTYVpERlRTamxPM3JabEI1RkJFaWNKaVRDQXJhT3UtbGNxdjI1M3NydjhfZUNwUUItUTdpUHJ3aHhXZzJkanF1WkwzUjIzMFhEODZ2WHZFYVBibnA4a09Ma3JtZnhZRElacGFQRDlhclh6UVRLN0s5ejE3bzBmc0FCaFAx?oc=5",
+        "source": "MSN",
+        "date": "2026-06-07",
+        "tag": "price"
       },
       {
         "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
@@ -47,9 +47,9 @@
         "tag": "market"
       },
       {
-        "title": "通過高規格檢疫 屏東愛文芒果銷歐 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xS2VPM3FuNjQ5WlVaVGtVczVDTWJwZTk5N25RSFFPSTFOaWdwN2lFcWJ0dzRsczdtMnVKYXRwWnRORGJVMHNQOG10RWpINHRa0gFWQVVfeXFMTWEtZDdaVjBkWGtjY3NfUXlXbUtHYXpHZFBMdUI3aUZBVEJmZVpGb0NZcjMxSUdReUI3c2MtMHlwN050VFpmVVg4Ti04c3NGandQNm1FMHc?oc=5",
-        "source": "UDN",
+        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
+        "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
       },
@@ -179,13 +179,6 @@
         "tag": "market"
       },
       {
-        "title": "鮮享在地好滋味 綻放花漾小確幸 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRZ2cwdUFvV0RHM3puOVpWeFFIc2twZGFzY2pWNmtuT1AyY3NuS2tLd1FhTnllZWNJYk9vZzFvemh6VmxXeTE1b1Z0T3g4cXRMdnc?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-06",
-        "tag": "market"
-      },
-      {
         "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
         "source": "自由時報",
@@ -197,6 +190,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MbEdIZjJSWnlrYVJTa0VETDJtRTdveUdQNk11OWUtbXRMdnFHQVVvUm5PMjJKTTNVb0lQSVdLcUh2aXV3UHpBaVR6MHZMbjM5M3FHNV9R?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-06",
+        "tag": "market"
+      },
+      {
+        "title": "鮮享在地好滋味 綻放花漾小確幸 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04clB5WjBqTGdiTkM2b1NKNEZqX3h5YTc1STR4eFZ3Wnk5Yl9qOG1hdDQwQlQ0T3dKSGJTdFdYYVZEYVl4OGE5MGtqUFZ1NjZERGc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-06-07",
         "tag": "market"
       }
     ],
