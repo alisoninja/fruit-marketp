@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-08T12:04:55.992Z",
+  "updatedAt": "2026-06-08T16:57:24.535Z",
   "news": {
     "鳳梨": [
+      {
+        "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-08",
+        "tag": "market"
+      },
       {
         "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
@@ -10,24 +17,17 @@
         "tag": "policy"
       },
       {
-        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxQMjBDeTZ4ZlNGMXJyazBrejlFS3ljRWNPWlRJekIwRWtpbHp4SHJ2M1JaOVRiTmgtZHpIQV9EdkllZXlRYkIwcFlaNG1zQmtSV2VjYTB2Z2wyN0xxRGZIRmN5YVJuOFhRU0l6N1hsV2F1RUtTMGZvSzktdXI4ZFFQSUQ2cnpUdnFtVG1SWDlRMWRGck00UUhYY0ZzQXhpalpxc3FoUGk4Y0ZqcWNyeFJBSS1qZWd6OUpQV2tGS3ZGQm1pUjNNUzNZX2kyTVgxMUE2b2ZJcmdwMWRpdjBoMndRVjJDeW9SZWtZZUJfZFlVcUNxVW8zdU1HdmZ2TEEyd3Y2c0JNblpBbklHNk9NQlBraEVRZmNZTE9xT3BpNlk0UjR6azJoUHVkV3BSeFhsUWJXWFc0SzRxNXVFZUd5Z2gtVzBYdFkwZ0tfZW4wck9WSXFjbU9mWkFOOC0zMDZxcWlqRk1Hd0s0MmhOaDlhYVh6Si15dVhJNjR6T0pEWUZQMW1pbGxEVUdEX2VETENSWFlzYk9lMllobkgzMWszVFRGSDQ5R28xOEJhVlFMNEdOR2hpeHhtVFhTZXNHWklTYVpERlRTamxPM3JabEI1RkJFaWNKaVRDQXJhT3UtbGNxdjI1M3NydjhfZUNwUUItUTdpUHJ3aHhXZzJkanF1WkwzUjIzMFhEODZ2WHZFYVBibnA4a09Ma3JtZnhZRElacGFQRDlhclh6UVRLN0s5ejE3bzBmc0FCaFAx?oc=5",
-        "source": "MSN",
-        "date": "2026-06-08",
-        "tag": "price"
+        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
+        "source": "風傳媒",
+        "date": "2026-05-28",
+        "tag": "market"
       },
       {
         "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
         "source": "農傳媒",
         "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-28",
         "tag": "market"
       }
     ],
@@ -77,18 +77,18 @@
         "tag": "market"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
-        "tag": "policy"
-      },
-      {
         "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
+      },
+      {
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-03",
+        "tag": "policy"
       }
     ],
     "香蕉": [
