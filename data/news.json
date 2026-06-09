@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T18:17:47.851Z",
+  "updatedAt": "2026-06-09T23:09:43.625Z",
   "news": {
     "鳳梨": [
       {
@@ -77,18 +77,18 @@
         "tag": "market"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
-        "tag": "policy"
-      },
-      {
         "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
+      },
+      {
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-03",
+        "tag": "policy"
       }
     ],
     "香蕉": [
@@ -192,13 +192,6 @@
         "source": "風傳媒",
         "date": "2026-06-04",
         "tag": "market"
-      },
-      {
-        "title": "台灣1水果降價了！價格大跌3成、產量狂增67%，更香甜美味、 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MUFNZc2VQdzNWV2JCc3JJQjZvYi03RlRvU21sM3JVcGZkbUFEV19FSUtTbkVaMmZVSjA5cUdrRU1QYW81YVhoVkF2dkExbmdJ?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-24",
-        "tag": "price"
       }
     ],
     "番茄": [
@@ -211,15 +204,7 @@
       }
     ],
     "花椰菜": [],
-    "地瓜": [
-      {
-        "title": "台中果菜批發市場遷場30週年 冷鏈配銷中心邁向現代化農產新里程 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nM2N5ajdTTF8xc3dLWjVPNFdaMUhrRFJQalctVC1UOGpNcWRUTENncGplQnVRdFI0UzU1NFFWU1Jla21NWVo4bmEyUHVCZlhlVndUOE5n?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-05-24",
-        "tag": "market"
-      }
-    ],
+    "地瓜": [],
     "菠菜": [],
     "青花菜": [],
     "茄子": [],
