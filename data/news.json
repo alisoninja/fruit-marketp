@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-06-09T02:46:09.744Z",
+  "updatedAt": "2026-06-09T06:10:39.029Z",
   "news": {
-    "鳳梨": [],
+    "鳳梨": [
+      {
+        "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-08",
+        "tag": "market"
+      },
+      {
+        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-04",
+        "tag": "policy"
+      },
+      {
+        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPWmlNU09ib3BKV2VQSmg0NTlNaXNnTWR3NndKdEF0WWRLaHdrRkhHQ3dJb0ZUUy1kYTZSNklZem9IUzNEYy1oTEJCOTFiaWNEWlJreUh2YmlPT0tlWUZac1FrdTg0cl9xVGFnWXM4OENJTDdRNzFkdEdJTzFBeTk0NGNMOGU3SjUxSmlma1EydGtXeE1QWVFLck1XWFNNMmYzZFladjhkeUNaMHNoVWNFYUt5T0lwbmhldDlhOWJDczJpV1VOVFFXcGwyY1o4Q0dLa3Fxclg1YlJybzdqa2F6dzU0OFhXMVpJMnBJejdnUThDTU9wMHFBaWhjLU51S1VaWnZ6Y2pxMVY2NlJwZEJjMEdycGRIYjR1VWZyVy1kbVRTU05qTHFoWlZsc2hpQVJQMGQwQVUtdFRZSmFEN0xsQ3U2bHFFNVA2YkZVNEM4dm5iUm11bGxnOEpJRzFUUW1ZVTBpMnBaN1ZRZXNMajR2S1dWdUM4d083VVlCNUZKa3VfSGROS1ZGZDFOTWdoODZkS3pqWlRaZGZKeWR6UnlkV0pZWHdYU01UMGpabjJTM2pBbXVmWGJoQ2Y2T0w5WmtSZ3VMUUtiYzE4RU85b0JZaTVpY1pfWEVydEw4Q1pfbmFnS095ekJnUkZpSEdNUzJnODJYNmlOemFTXzZGRF9ENk1OY1g0MUZqVUJVc0tlNEdRRkFBU0FsZg?oc=5",
+        "source": "MSN",
+        "date": "2026-06-07",
+        "tag": "price"
+      },
+      {
+        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
+        "source": "風傳媒",
+        "date": "2026-05-28",
+        "tag": "market"
+      }
+    ],
     "芒果": [
       {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
@@ -25,9 +54,9 @@
         "tag": "market"
       },
       {
-        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - cdns.com.tw",
+        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
-        "source": "cdns.com.tw",
+        "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
       }
@@ -85,22 +114,14 @@
         "tag": "price"
       },
       {
-        "title": "香蕉產地價一度落至每公斤8元 屏縣府：市場價格本週已回穩 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hODNEcklIZFNBdjZOVFB6NWVldURMLVJIQ1ZlVVdFTW9Qa0huNjc1SGhCSG9NYVhSbjN1XzNncEYwTFFscHZzd2E2V3NPVXU2U2VzMUd4eHJYYm1WZl9BSFRvUXbSAWpBVV95cUxNTGxNbTA4MEtJYXpNNXpUZFo0RWFOVDdJSTEwcWJaTmEyck1DUnRnMGh2UmxCbU5DMEhKS3NXX1NsSVpOdkR2dmZxaGh6cXF3Zi1Bb2t4RGFNQ2JSZTRtbzBQdlpvVVZnSkJR?oc=5",
-        "source": "自由時報",
-        "date": "2026-05-13",
-        "tag": "market"
-      }
-    ],
-    "木瓜": [
-      {
-        "title": "享受夏日新鮮好滋味 農糧署「蕉甜安心清爽一夏」活動6/6~6/7登場 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYlhBbUtJMDFxcjF0RGdiM3pEV0t2d2E4YU5DNTRXZExrUE5MV29sTzNaVmZUUk5tSGhiT0RNQWFvMUZ6QTVQYWZxanItZS1MZTBwaHdNV2VFbXhET3FpUmRWalMyMktzRVdiYjBVR1BUblNXS3pwNU5jWkUtdEVoMDFlSEw0YXdJQlJmUjBoaw?oc=5",
-        "source": "PChome Online 新聞",
+        "title": "鮮享在地好滋味 綻放花漾小確幸 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MWTRWXy1FZWt1Q3k5YjJsaHZFRlNhVW1LWHFBa21KT0pMdG1QYzl6YkhOOGJQRjU0WVBFUy1lbjhtTkFJTEEyZWpOdXpwdnIyZFhtRmpB?oc=5",
+        "source": "中央社 CNA",
         "date": "2026-06-06",
         "tag": "market"
       }
     ],
+    "木瓜": [],
     "葡萄": [],
     "蓮霧": [
       {
@@ -138,7 +159,7 @@
         "title": "享受夏日新鮮好滋味 農糧署「蕉甜安心清爽一夏」活動6/6~6/7登場 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PdG80c19wSDQ3aHpQTEFLdkV5VXZsZjVPS05lYmg1aVNhX0g4TE5HbGtzV2hHNjV3VnZRNlJuY3FUZ1I0LWNXbUhnZGFjLWlyVkRWZHNn?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-06-07",
+        "date": "2026-06-06",
         "tag": "market"
       },
       {
@@ -156,9 +177,9 @@
         "tag": "market"
       },
       {
-        "title": "鮮享在地好滋味 綻放花漾小確幸 - cdns.com.tw",
+        "title": "鮮享在地好滋味 綻放花漾小確幸 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZ3RsOVdscWNQMXZoemZRbVQ0c2hNMEpUNkZDRjItQWlJeTBWbTBIYm9lVDl0dkN6VFJSMXhLV25IdkpIN3hmcDk0aC1kM1RsMEE?oc=5",
-        "source": "cdns.com.tw",
+        "source": "中華新聞雲／中華日報",
         "date": "2026-06-06",
         "tag": "market"
       }
