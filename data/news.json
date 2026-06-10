@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T02:57:26.874Z",
+  "updatedAt": "2026-06-10T06:25:10.502Z",
   "news": {
     "鳳梨": [
       {
@@ -107,18 +107,18 @@
         "tag": "price"
       },
       {
-        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
-        "source": "農傳媒",
-        "date": "2026-06-04",
-        "tag": "policy"
-      },
-      {
         "title": "鮮享在地好滋味 綻放花漾小確幸 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MWTRWXy1FZWt1Q3k5YjJsaHZFRlNhVW1LWHFBa21KT0pMdG1QYzl6YkhOOGJQRjU0WVBFUy1lbjhtTkFJTEEyZWpOdXpwdnIyZFhtRmpB?oc=5",
         "source": "中央社 CNA",
         "date": "2026-06-06",
         "tag": "market"
+      },
+      {
+        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-04",
+        "tag": "policy"
       }
     ],
     "木瓜": [],
@@ -187,6 +187,13 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
+        "source": "上下游",
+        "date": "2026-06-10",
+        "tag": "policy"
+      },
+      {
         "title": "台灣6.5噸水果銷往巴黎！內行人曝農民超會「魔改」，不靠政府也能創造農業革命| 特魯瓦通訊| 風生活 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KTVl5dnY1bnRoVlYzcElaRVZDYjlLWEN2VmVJdFVoUHFSU0RFWVpuLUdpLUJHUmRzd1pHcklDVEhrcmdudVdKMkxUcTg1b0JP?oc=5",
         "source": "風傳媒",
@@ -236,7 +243,15 @@
         "tag": "weather"
       }
     ],
-    "南瓜": [],
+    "南瓜": [
+      {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
+        "source": "上下游",
+        "date": "2026-06-10",
+        "tag": "policy"
+      }
+    ],
     "苦瓜": [],
     "蔥": []
   }
