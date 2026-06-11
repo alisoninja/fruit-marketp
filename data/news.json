@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-11T06:53:12.993Z",
+  "updatedAt": "2026-06-11T08:47:00.088Z",
   "news": {
     "鳳梨": [
       {
-        "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
+        "title": "美國鳳梨市場開放在即：臺灣準備好了嗎？ - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4OUxFaFo2WWZMSzdGRkNuNV9pTXVlUUlHRXBDZmJkX1ZnckNsbkdTR0pkRXJIZUhneXpKZVpBR1BKQzdraDZhaEtuV21CWnpOYTE1Q3ZB?oc=5",
         "source": "農傳媒",
-        "date": "2026-06-08",
+        "date": "2026-06-11",
         "tag": "market"
       },
       {
+        "title": "水果好便宜！芒果、鳳梨價格腰斬 農糧署揭原因 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQVml1RVhxckZlbGVXcURKek5TNEVDWVlKaGFoVldtS2V4RVlOTkZLMllaRkV3Z3htR2lXTENIRmdOZncxNDFzU0lhbkZQbmN4ZF8xc2RmbEpSUDBPS3VPQWNYTTBiZTlfYXJEd0dXckhDV0daNlVPNC16cEwySThfQU1NaFpnSEZPWWlINjAycHBqS09BS3FQa2xUakhYb052ajEyekN0QndBa0RGcFlGZlFQZnpMcXBkWkNZWC1fOGJSYXVsdURRck9MY0taTmxQaWNncHVCNWIyTEpnQ18zek5TUXNzaWNXTTU1T21DNV9FYjFUTDNZZXQwdkdITV9yb0RuTlh5SG9ZdjR6ZTNTQUxna0ZGTERreEI0UThneGMxVG5HMmxNZjNtUDJhVDBpYkpFUEZkZXFyT2s?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-06-07",
+        "tag": "price"
+      },
+      {
         "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPaWFJaGo0alhrOUR6czV4R2JPOFdqUDY1N0VlU1BNYUQ1ODhGdmFOSjlRc2NWNUYxbW5HOU11Q2YzcGlaQXpvbTV2QUplYTRRRkNzbTFJV0ZfV0lrZUVVNmVaajYyREs3MUVpZXItRUREYkdUYUNmNzRxY09CZG1vM3RreHdVakRWcHFrcUx2bkNBTGNvODN5RXdRMERwbnhhQWlIX2xXbHpnak9tZUFlbVNneVJzTGplcUxDTnU0emNMVzlWSnRUUW9hLXk4UC1tYVJmczluZ1BOM0paRzVoQ09kUHB6OFZQNkZJVzlTTjV4cTlJX3I3d3FMazBUbkFOZUp1SnZPa25hRThWUERZUmp0M0Z6ZjZVYkpqeWplNDF3LXB1amcxR3hHay1ndFlobWhzMmlIUThGa3BPc1FyOVlIeTFUbkZZSkNPTWVjV0I3MzZPLVk2NEdYc05ianJWMW1wQWhZaXh4andMTlpYSWwxZE5lVVc2N0FodTFvUlZieXN6UGV5eVRFNVY3RlBQRU9BOXF5WUpTYWdTMkdRc0hnSWtBcU5nNEN0ckx0ODVLd0tuUEJkREhpV1F6QktGVTVFQVViNS1MOHVGU0VpUXVGNnJCcWl3Q3R2c2ZaNzM5TU9GNkZreUJYNENDRDk3TnJKUm9IenVUSUU3OEFjQVp5ZlFrV0hXZnRacEhpdjNoRWplb2ZGQTJR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxPWmlNU09ib3BKV2VQSmg0NTlNaXNnTWR3NndKdEF0WWRLaHdrRkhHQ3dJb0ZUUy1kYTZSNklZem9IUzNEYy1oTEJCOTFiaWNEWlJreUh2YmlPT0tlWUZac1FrdTg0cl9xVGFnWXM4OENJTDdRNzFkdEdJTzFBeTk0NGNMOGU3SjUxSmlma1EydGtXeE1QWVFLck1XWFNNMmYzZFladjhkeUNaMHNoVWNFYUt5T0lwbmhldDlhOWJDczJpV1VOVFFXcGwyY1o4Q0dLa3Fxclg1YlJybzdqa2F6dzU0OFhXMVpJMnBJejdnUThDTU9wMHFBaWhjLU51S1VaWnZ6Y2pxMVY2NlJwZEJjMEdycGRIYjR1VWZyVy1kbVRTU05qTHFoWlZsc2hpQVJQMGQwQVUtdFRZSmFEN0xsQ3U2bHFFNVA2YkZVNEM4dm5iUm11bGxnOEpJRzFUUW1ZVTBpMnBaN1ZRZXNMajR2S1dWdUM4d083VVlCNUZKa3VfSGROS1ZGZDFOTWdoODZkS3pqWlRaZGZKeWR6UnlkV0pZWHdYU01UMGpabjJTM2pBbXVmWGJoQ2Y2T0w5WmtSZ3VMUUtiYzE4RU85b0JZaTVpY1pfWEVydEw4Q1pfbmFnS095ekJnUkZpSEdNUzJnODJYNmlOemFTXzZGRF9ENk1OY1g0MUZqVUJVc0tlNEdRRkFBU0FsZg?oc=5",
         "source": "MSN",
         "date": "2026-06-07",
         "tag": "price"
       },
       {
-        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
         "source": "農傳媒",
-        "date": "2026-06-04",
-        "tag": "policy"
-      },
-      {
-        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-28",
+        "date": "2026-06-08",
         "tag": "market"
       }
     ],
@@ -84,10 +84,10 @@
         "tag": "market"
       },
       {
-        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
-        "source": "風傳媒",
-        "date": "2026-05-28",
+        "title": "台灣之光!「3大水果」突破歐盟超嚴門檻 將登米其林、星級飯店餐桌 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQek5ramN5bDFKZjdUVHBVcm9uNlZVSng0X2NoWkh3bkZ5b0hFN2JuWF92UzlCaHJ3Y1FxMW9OelZidVZ2c3BsVHhQRGNwa0Z2U1F2Mlh0ZzFUQVphZDZSWFpENFBERkRkSGQxdmtDWnRfNzN5c0VKUDlqQThBUmJLQkE5VUl1THFLQWNqUmdIRWswTHBpZDNMd2lLd0tMOFFCU2RMV1VEalBVdFo0ZVc1VDROUm1YMjNMUlhRdkM3ZkNTREJVV2lwdm1xcmFIZ1Nic1l0OXRZb3EwZUdEdVpCUWhSMGgtQ3l4YXdaT29CMnRwRm5mdEpWRThBRWdxSGxud3lNN21TczdkMmN1U2tDUkhBSEhvV281d3BUeFladjBvRmFMNlp5ejV2bHB4dGFvUzNFejRjWkU3dm9xMEpCSF9jMUJ4MHZBVmVGNjJtVTBPQTluY2NWTWxaTGRmWFlaR1I1eXVfSXRFZU9yejVvRWU3V0dKcDEzZDVvM2tlN3FwTU9FUi1NRHdfYkZIX0p4dUNROGdMR2hZMkFYZVE?oc=5",
+        "source": "MSN",
+        "date": "2026-06-02",
         "tag": "market"
       }
     ],
