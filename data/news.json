@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T07:50:43.226Z",
+  "updatedAt": "2026-06-13T09:59:14.206Z",
   "news": {
     "鳳梨": [
       {
@@ -8,6 +8,13 @@
         "source": "農傳媒",
         "date": "2026-06-11",
         "tag": "market"
+      },
+      {
+        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPaWFJaGo0alhrOUR6czV4R2JPOFdqUDY1N0VlU1BNYUQ1ODhGdmFOSjlRc2NWNUYxbW5HOU11Q2YzcGlaQXpvbTV2QUplYTRRRkNzbTFJV0ZfV0lrZUVVNmVaajYyREs3MUVpZXItRUREYkdUYUNmNzRxY09CZG1vM3RreHdVakRWcHFrcUx2bkNBTGNvODN5RXdRMERwbnhhQWlIX2xXbHpnak9tZUFlbVNneVJzTGplcUxDTnU0emNMVzlWSnRUUW9hLXk4UC1tYVJmczluZ1BOM0paRzVoQ09kUHB6OFZQNkZJVzlTTjV4cTlJX3I3d3FMazBUbkFOZUp1SnZPa25hRThWUERZUmp0M0Z6ZjZVYkpqeWplNDF3LXB1amcxR3hHay1ndFlobWhzMmlIUThGa3BPc1FyOVlIeTFUbkZZSkNPTWVjV0I3MzZPLVk2NEdYc05ianJWMW1wQWhZaXh4andMTlpYSWwxZE5lVVc2N0FodTFvUlZieXN6UGV5eVRFNVY3RlBQRU9BOXF5WUpTYWdTMkdRc0hnSWtBcU5nNEN0ckx0ODVLd0tuUEJkREhpV1F6QktGVTVFQVViNS1MOHVGU0VpUXVGNnJCcWl3Q3R2c2ZaNzM5TU9GNkZreUJYNENDRDk3TnJKUm9IenVUSUU3OEFjQVp5ZlFrV0hXZnRacEhpdjNoRWplb2ZGQTJR?oc=5",
+        "source": "MSN",
+        "date": "2026-06-07",
+        "tag": "price"
       },
       {
         "title": "水果好便宜！芒果、鳳梨價格腰斬 農糧署揭原因 - Yahoo新聞",
@@ -22,16 +29,16 @@
         "source": "農傳媒",
         "date": "2026-06-08",
         "tag": "market"
-      },
-      {
-        "title": "芒果、鳳梨水果價格大跳水！農糧署揭原因 | EBC 東森新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jalVJUmNUOUJTVWU4UHNlZEx2M0c3QmgzMzlRMTRQaElfalNYWXhXRFdtSVVSX3NLaVIwVWVHRDRIdG5xclQtQnJJaFFsVlF2MzktdzdB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-07",
-        "tag": "price"
       }
     ],
     "芒果": [
+      {
+        "title": "台灣芒果沒得輸！登陸法國Rungis市場 開啟歐洲行銷新局 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMUEzVmtKb2lxa18xS3NLYkhKcFE3Nm5JYURUa3FUOUhMTjVKVjAzSndFam85OWplcTM5OF9rcnBMTEJKam9RZlp6bER3XzFtZVg1RTVB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-13",
+        "tag": "market"
+      },
       {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
@@ -43,13 +50,6 @@
         "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
         "source": "農傳媒",
-        "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
-        "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
       },
@@ -93,6 +93,13 @@
     ],
     "香蕉": [
       {
+        "title": "台灣人愛吃1水果「價格大跳水」 保存妙招曝 - 東森新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb2xPT29SMkVVbTVucVNOWE15bC1WeDVyNjVYYi1NWHRpZ2R3TFdwT25qcjQyT3RUVTljOE5JLUFYbGl5T0FsQ2FQWDduVnRLdFVhTQ?oc=5",
+        "source": "東森新聞",
+        "date": "2026-06-13",
+        "tag": "price"
+      },
+      {
         "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
         "source": "農傳媒",
@@ -112,13 +119,6 @@
         "source": "知新聞",
         "date": "2026-06-07",
         "tag": "price"
-      },
-      {
-        "title": "外銷獎勵、多元通路、 鼓勵加工穩定產銷香蕉批發市場價格已回穩 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNVnVhMDdFR1pnUll1MWNIaGNZUHBnUzB0dnpvRmE4QjIzSkVSVjhJTThuMktqdURERGFGQWhBNS1SdWhiR0QzR180SVZsXy1MOGxHdTlfNDQ4QnF1Qi1DanRXVjhpeGppREJFTjVnWmFIMWM5TUI3dGlQUThRY2NkZXBENm84SFNCSExlUFd2SklybjJXeWoyNTg0WFVheFdBQkdIOWJUX0swX3RBcWlhazNvYUtTTjhndHZ6SlNrY3FEd1RjbVlWckVENEJZdnlWcDZMMGRaNk90OGc0VVZ4OXc1R3ZXS3ZHMVo3aXZHMWhVeWdGLUZzNGNOblRGbnZmVG9Melhxb3BPZ3BxZjZzZ2tWMElHQlIwTVRIZVIxcnNvSDhzaDNtYkhlZVlVRWV6OEJaamVrdXJWM0h6Q0pFQnUyS0NtZWtLNW9GUGVfbzRzbXd1RzdYY3g0Unc5Zml5MGV1NXgwOERzcGlmRjJiRm9GRDVpa0pTanJiRGVmdHBoTkwwMERKbHc5UTBiUXhreUdib1YtalZZQ1BzWTREQXB3VVJMZw?oc=5",
-        "source": "MSN",
-        "date": "2026-06-11",
-        "tag": "market"
       }
     ],
     "木瓜": [
