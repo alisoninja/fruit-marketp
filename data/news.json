@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T14:56:24.630Z",
+  "updatedAt": "2026-06-13T17:42:29.006Z",
   "news": {
     "鳳梨": [
       {
@@ -24,14 +24,21 @@
         "tag": "market"
       },
       {
-        "title": "芒果、鳳梨水果價格大跳水！農糧署揭原因 | EBC 東森新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jalVJUmNUOUJTVWU4UHNlZEx2M0c3QmgzMzlRMTRQaElfalNYWXhXRFdtSVVSX3NLaVIwVWVHRDRIdG5xclQtQnJJaFFsVlF2MzktdzdB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-07",
-        "tag": "price"
+        "title": "屏東愛文芒果銷歐 首批封櫃進軍法國 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSFp5dl9CSDYyRGk3cW1qajY5N2RjVExWVjVYNzFVRTZMNFBmdlBUbExHUFVrT214TG5aUzN6d3dsZy1Qa2ZpQ01OQU5JbVlqVVQ0VzY3ZEpXQTjSAWBBVV95cUxOTE9TVEJQaGd2eWp3ZmtWYkZiV0RJcERQU3lOX0w3dWNiOVItcUhKU2ttRF81N1p1UThienU4SndINS0tYWZGTVBIQ1o3TE5CQWg0M1lpTU8tR3pqeFdWNWM?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-03",
+        "tag": "market"
       }
     ],
     "芒果": [
+      {
+        "title": "台灣芒果沒得輸！登陸法國Rungis市場 開啟歐洲行銷新局 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMUEzVmtKb2lxa18xS3NLYkhKcFE3Nm5JYURUa3FUOUhMTjVKVjAzSndFam85OWplcTM5OF9rcnBMTEJKam9RZlp6bER3XzFtZVg1RTVB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-13",
+        "tag": "market"
+      },
       {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
@@ -50,13 +57,6 @@
         "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
-        "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "甜度19.3！屏東愛文芒果驚艷歐洲人 登法國最大批發市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LVkpKWFJDU29nTDJJTmltSnctZWQ5bEcyRGxsYnROTUUxNnhkOW1Ra3doSlE1VW43bVBoaWQxc2hUODRnYXhsLXZMYVpxTFFwd2d6TU9jR3RTWDJaM2djYVpibELSAWpBVV95cUxOMndkbTlfTEZ6NkFtaUNWczdoWl9CbXhOOUswQVE5cEo3TjVLcklLbmY5azcyVHRZTVE0S19Rd2JiSVRPYVFBMzNNakpmYWFfbWF2bFZVdTZBcVlUM1dFeDNUTVBaVFE0OUhR?oc=5",
-        "source": "自由時報",
         "date": "2026-06-02",
         "tag": "market"
       }
@@ -107,18 +107,18 @@
         "tag": "market"
       },
       {
+        "title": "外銷獎勵、多元通路、 鼓勵加工穩定產銷香蕉批發市場價格已回穩 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNVnVhMDdFR1pnUll1MWNIaGNZUHBnUzB0dnpvRmE4QjIzSkVSVjhJTThuMktqdURERGFGQWhBNS1SdWhiR0QzR180SVZsXy1MOGxHdTlfNDQ4QnF1Qi1DanRXVjhpeGppREJFTjVnWmFIMWM5TUI3dGlQUThRY2NkZXBENm84SFNCSExlUFd2SklybjJXeWoyNTg0WFVheFdBQkdIOWJUX0swX3RBcWlhazNvYUtTTjhndHZ6SlNrY3FEd1RjbVlWckVENEJZdnlWcDZMMGRaNk90OGc0VVZ4OXc1R3ZXS3ZHMVo3aXZHMWhVeWdGLUZzNGNOblRGbnZmVG9Melhxb3BPZ3BxZjZzZ2tWMElHQlIwTVRIZVIxcnNvSDhzaDNtYkhlZVlVRWV6OEJaamVrdXJWM0h6Q0pFQnUyS0NtZWtLNW9GUGVfbzRzbXd1RzdYY3g0Unc5Zml5MGV1NXgwOERzcGlmRjJiRm9GRDVpa0pTanJiRGVmdHBoTkwwMERKbHc5UTBiUXhreUdib1YtalZZQ1BzWTREQXB3VVJMZw?oc=5",
+        "source": "MSN",
+        "date": "2026-06-11",
+        "tag": "market"
+      },
+      {
         "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-10",
         "tag": "market"
-      },
-      {
-        "title": "香蕉價格下滑42%、芒果也跌38％ 農糧署曝原因 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RME83S1ZWczhhYlBZZDE1Z1RDZWdmRERQN0R5R0kyTFJjaEVjbnNob0txSDJNTWYzRGRHYjJTdU9tQndEQmFUTFlCNDR1RkdNWVpSU25RQnhLU0tzWUNCanZNbi1KbWs2WEI4QXlocw?oc=5",
-        "source": "知新聞",
-        "date": "2026-06-07",
-        "tag": "price"
       }
     ],
     "木瓜": [
