@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:59:14.206Z",
+  "updatedAt": "2026-06-13T14:56:24.630Z",
   "news": {
     "鳳梨": [
       {
@@ -8,13 +8,6 @@
         "source": "農傳媒",
         "date": "2026-06-11",
         "tag": "market"
-      },
-      {
-        "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPaWFJaGo0alhrOUR6czV4R2JPOFdqUDY1N0VlU1BNYUQ1ODhGdmFOSjlRc2NWNUYxbW5HOU11Q2YzcGlaQXpvbTV2QUplYTRRRkNzbTFJV0ZfV0lrZUVVNmVaajYyREs3MUVpZXItRUREYkdUYUNmNzRxY09CZG1vM3RreHdVakRWcHFrcUx2bkNBTGNvODN5RXdRMERwbnhhQWlIX2xXbHpnak9tZUFlbVNneVJzTGplcUxDTnU0emNMVzlWSnRUUW9hLXk4UC1tYVJmczluZ1BOM0paRzVoQ09kUHB6OFZQNkZJVzlTTjV4cTlJX3I3d3FMazBUbkFOZUp1SnZPa25hRThWUERZUmp0M0Z6ZjZVYkpqeWplNDF3LXB1amcxR3hHay1ndFlobWhzMmlIUThGa3BPc1FyOVlIeTFUbkZZSkNPTWVjV0I3MzZPLVk2NEdYc05ianJWMW1wQWhZaXh4andMTlpYSWwxZE5lVVc2N0FodTFvUlZieXN6UGV5eVRFNVY3RlBQRU9BOXF5WUpTYWdTMkdRc0hnSWtBcU5nNEN0ckx0ODVLd0tuUEJkREhpV1F6QktGVTVFQVViNS1MOHVGU0VpUXVGNnJCcWl3Q3R2c2ZaNzM5TU9GNkZreUJYNENDRDk3TnJKUm9IenVUSUU3OEFjQVp5ZlFrV0hXZnRacEhpdjNoRWplb2ZGQTJR?oc=5",
-        "source": "MSN",
-        "date": "2026-06-07",
-        "tag": "price"
       },
       {
         "title": "水果好便宜！芒果、鳳梨價格腰斬 農糧署揭原因 - Yahoo新聞",
@@ -29,16 +22,16 @@
         "source": "農傳媒",
         "date": "2026-06-08",
         "tag": "market"
+      },
+      {
+        "title": "芒果、鳳梨水果價格大跳水！農糧署揭原因 | EBC 東森新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jalVJUmNUOUJTVWU4UHNlZEx2M0c3QmgzMzlRMTRQaElfalNYWXhXRFdtSVVSX3NLaVIwVWVHRDRIdG5xclQtQnJJaFFsVlF2MzktdzdB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-07",
+        "tag": "price"
       }
     ],
     "芒果": [
-      {
-        "title": "台灣芒果沒得輸！登陸法國Rungis市場 開啟歐洲行銷新局 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMUEzVmtKb2lxa18xS3NLYkhKcFE3Nm5JYURUa3FUOUhMTjVKVjAzSndFam85OWplcTM5OF9rcnBMTEJKam9RZlp6bER3XzFtZVg1RTVB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-13",
-        "tag": "market"
-      },
       {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
@@ -50,6 +43,13 @@
         "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
         "source": "農傳媒",
+        "date": "2026-06-02",
+        "tag": "market"
+      },
+      {
+        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
+        "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
       },
@@ -77,25 +77,25 @@
         "tag": "market"
       },
       {
-        "title": "台灣之光!「3大水果」突破歐盟超嚴門檻 將登米其林、 星級飯店餐桌 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNSHFmdjZFSV9BSG1pekR2TXRmUlBtRkZ2TnIxTm9MbnBwYzJycGFTalQwcmpURHF2MlQyN2U4XzZHYmtsdUJSSmJGcHRTSDJjN2I0SUpKSVZQenhhd2lUaXpWQnRfSmhSUEVNc3FsdWlYNWZiLXR1Q2dOZGZPYjVvWXREWWF2T295Zk5SSlZDdmhJcmpDcW5EdkR6NGNkVzlRZkU4VXZqZkEwc2RoZ0x5Ti1lNkdBeHdqWnN3WThTMEY5a1RaV3duUHdVRFZfbXpoRUZtMTB3ZGpnQ28zX29nREU1RWNjZHBfM01UdldnNHJCNWNpcmJtZ195cGFRa0I1YklTLVRvV3Rqb1pDejJfTzdDS3lDRWNmYVJxWnJVd0c1dk5qT25BVThTaW1kb2JZOXF1aU1Samd6SWllX0dUaDd3VFY4ZzJ1OTlLOENkU0tLeFNkdUV6WnBaYzVvWHk3cUs3NzRIaS1oQkJ1b3o3SW5mWW9Vc0ludUJQUk5OZk1uRnNpYk94YkVvX3gxZVpFajRNaTNiaW5YVzYydTNYSVdtZXRXVG5TTWdXa2R3YXgwUGhvTkt4U3FCQVVvNWR0cDBNSVZWYjVPVFkxRXFJaEtEQ1k3SWZFV1FaWTZISQ?oc=5",
-        "source": "MSN",
-        "date": "2026-06-12",
-        "tag": "market"
-      },
-      {
         "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
         "tag": "market"
+      },
+      {
+        "title": "台灣人愛吃的「1水果」大降價！產量破紀錄、批發價崩跌50％， 現在買正便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0enNaSlJ3M2QtdW8wTkVpd0hzZnFtVEhNNnpJVzVEeFZkbTQ0MkRlU0oxWVIyaVJuaTZoa3hDRFUySm91TDR0aHNYTE9aZ0ct?oc=5",
+        "source": "風傳媒",
+        "date": "2026-05-28",
+        "tag": "market"
       }
     ],
     "香蕉": [
       {
-        "title": "台灣人愛吃1水果「價格大跳水」 保存妙招曝 - 東森新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb2xPT29SMkVVbTVucVNOWE15bC1WeDVyNjVYYi1NWHRpZ2R3TFdwT25qcjQyT3RUVTljOE5JLUFYbGl5T0FsQ2FQWDduVnRLdFVhTQ?oc=5",
-        "source": "東森新聞",
+        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 | EBC 東森新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOXo2VEh1ZC15MUpTQTgydkFFWmxlTmV2WFVmZDNSTl9zNFRsUFNyMEJTRnkteTlTYXdyOXZoNmoxcUFRTnBZQzBfd3d5aUgtdS1KTjJ3?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-06-13",
         "tag": "price"
       },
@@ -187,13 +187,6 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
-        "source": "上下游",
-        "date": "2026-06-10",
-        "tag": "market"
-      },
-      {
         "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
         "source": "上下游",
@@ -213,6 +206,13 @@
         "source": "MSN",
         "date": "2026-06-10",
         "tag": "policy"
+      },
+      {
+        "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
+        "source": "上下游",
+        "date": "2026-06-10",
+        "tag": "market"
       }
     ],
     "番茄": [
