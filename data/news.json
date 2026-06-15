@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T10:27:12.990Z",
+  "updatedAt": "2026-06-15T13:15:43.986Z",
   "news": {
     "鳳梨": [
       {
@@ -47,17 +47,17 @@
         "tag": "market"
       },
       {
+        "title": "台灣1水果被買爆！「1顆賣到700元」進軍國外超市，香甜多汁可口、 外國人超愛 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUZV93dVdRNUhld0t6QnNQR3RyTXVhUTdnTVBZV05feWF1M2oxODRvSzRsUGp5VmVNMUNtRjAyLWI3a0xFNF91aXRqaEtLMUNB?oc=5",
+        "source": "風傳媒",
+        "date": "2026-06-14",
+        "tag": "market"
+      },
+      {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
         "source": "公視新聞網PNN",
         "date": "2026-06-03",
-        "tag": "market"
-      },
-      {
-        "title": "屏東芒果、紅龍果、荔枝首銷法最大批發市場Rungis 建立臺灣水果與歐洲市場橋梁 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFNHJGVUNUbEN2OURrSHRvOFl0NGY4dTNNdkVnOVhyb3FjdmVFZFJmdkdjZllUNGxPdVZZcHdmcFZWdk1PYURqYnVUd1V4SGczWmFlcWx3?oc=5",
-        "source": "農傳媒",
-        "date": "2026-06-02",
         "tag": "market"
       }
     ],
@@ -93,17 +93,17 @@
     ],
     "香蕉": [
       {
-        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 | EBC 東森新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOXo2VEh1ZC15MUpTQTgydkFFWmxlTmV2WFVmZDNSTl9zNFRsUFNyMEJTRnkteTlTYXdyOXZoNmoxcUFRTnBZQzBfd3d5aUgtdS1KTjJ3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-13",
-        "tag": "price"
-      },
-      {
         "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
         "source": "農傳媒",
         "date": "2026-06-08",
+        "tag": "market"
+      },
+      {
+        "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-10",
         "tag": "market"
       },
       {
@@ -114,11 +114,11 @@
         "tag": "market"
       },
       {
-        "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-10",
-        "tag": "market"
+        "title": "香蕉價格下滑42%、芒果也跌38％ 農糧署曝原因 - 知新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RME83S1ZWczhhYlBZZDE1Z1RDZWdmRERQN0R5R0kyTFJjaEVjbnNob0txSDJNTWYzRGRHYjJTdU9tQndEQmFUTFlCNDR1RkdNWVpSU25RQnhLU0tzWUNCanZNbi1KbWs2WEI4QXlocw?oc=5",
+        "source": "知新聞",
+        "date": "2026-06-07",
+        "tag": "price"
       }
     ],
     "木瓜": [
@@ -168,6 +168,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hek5neHdVNzltV3pPUHhkY3NQRW9OVEw1RkhZTE9hcm1qUjNWeG5vdmR5akhQU0ZMbGh5WVRURXVSNXoxQkNIZGFEVnRLQjRDVWfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
+        "source": "NOWnews今日新聞",
+        "date": "2026-06-14",
+        "tag": "policy"
+      },
+      {
         "title": "海峽論壇提採購台產品 農業部：中國市場風險高 - 信吉衛視+",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRUM5VzRESkYydWtxSlBhanRxbUJIU2dSOFBPdXFhVlJ5WmlERUdLd3VNQ2tydlNJdG84MFBBRlJVaFlBMVIxWkZ2WjFnVWc?oc=5",
         "source": "信吉衛視+",
@@ -175,9 +182,9 @@
         "tag": "policy"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hek5neHdVNzltV3pPUHhkY3NQRW9OVEw1RkhZTE9hcm1qUjNWeG5vdmR5akhQU0ZMbGh5WVRURXVSNXoxQkNIZGFEVnRLQjRDVWfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
-        "source": "NOWnews今日新聞",
+        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-06-14",
         "tag": "policy"
       },
