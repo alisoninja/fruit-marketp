@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T09:30:24.793Z",
+  "updatedAt": "2026-06-16T12:12:37.219Z",
   "news": {
     "鳳梨": [
       {
@@ -100,13 +100,6 @@
         "tag": "market"
       },
       {
-        "title": "外銷獎勵、多元通路、 鼓勵加工穩定產銷香蕉批發市場價格已回穩 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNVnVhMDdFR1pnUll1MWNIaGNZUHBnUzB0dnpvRmE4QjIzSkVSVjhJTThuMktqdURERGFGQWhBNS1SdWhiR0QzR180SVZsXy1MOGxHdTlfNDQ4QnF1Qi1DanRXVjhpeGppREJFTjVnWmFIMWM5TUI3dGlQUThRY2NkZXBENm84SFNCSExlUFd2SklybjJXeWoyNTg0WFVheFdBQkdIOWJUX0swX3RBcWlhazNvYUtTTjhndHZ6SlNrY3FEd1RjbVlWckVENEJZdnlWcDZMMGRaNk90OGc0VVZ4OXc1R3ZXS3ZHMVo3aXZHMWhVeWdGLUZzNGNOblRGbnZmVG9Melhxb3BPZ3BxZjZzZ2tWMElHQlIwTVRIZVIxcnNvSDhzaDNtYkhlZVlVRWV6OEJaamVrdXJWM0h6Q0pFQnUyS0NtZWtLNW9GUGVfbzRzbXd1RzdYY3g0Unc5Zml5MGV1NXgwOERzcGlmRjJiRm9GRDVpa0pTanJiRGVmdHBoTkwwMERKbHc5UTBiUXhreUdib1YtalZZQ1BzWTREQXB3VVJMZw?oc=5",
-        "source": "MSN",
-        "date": "2026-06-11",
-        "tag": "market"
-      },
-      {
         "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
         "source": "LINE TODAY",
@@ -119,6 +112,13 @@
         "source": "東森新聞",
         "date": "2026-06-13",
         "tag": "price"
+      },
+      {
+        "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷 香蕉批發市場價格已回穩 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaQUtmeERuNVBKVmxsRW5renNKV3MxcDRvelg4R2hxcVFUYXNkUHdzUjhlMzdjYVUyLTc0UjloMGJxb3o1RDFtWFJjMWxjUDVWWnc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-06-11",
+        "tag": "market"
       }
     ],
     "木瓜": [
@@ -160,15 +160,15 @@
         "tag": "market"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Hek5neHdVNzltV3pPUHhkY3NQRW9OVEw1RkhZTE9hcm1qUjNWeG5vdmR5akhQU0ZMbGh5WVRURXVSNXoxQkNIZGFEVnRLQjRDVWfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-06-14",
+        "title": "中國提將採購鳳梨釋迦、 石斑魚農業部回應 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPN0xSampTVkNqT25Gemh1NHFzZE9uSXRPa051MWJNLWxPTkdMVFNTS3A2emIxUTBkLUFKZ1IxM2NkaDdmQ0hoQzJxLXkyb1dmOUJoejltYUFxdGxzdlIxRG9NdkJ3RlN1NTMxM0hzeUJwS01hTjZLWEY0ajNPR0ZXY1ZveGViOVljQjFZMGoxeEhEY3o3N0ZOWklrMEpQV0NJVGNfZnNSbHM4VDJiRS1hZm5jQ1J6cVQ3YkhVMm0ydHk1ZTRPMjYxWGVHLTgxZ1JFb3hLWHF6RGpleE5YN0w2bG1MTmdZRUZWVVpXeUZBVmdVUGhnUjlveHhyYmI5OUtzamFKRUtHSVhwaGNHMXlUd0YtdGpxRkY4X2hOOTJ3OVJXcGVSZDBEaWlMU1I3TUluVU5zSG5famhMYTBuNjl5NXBKdFNNbXhLM2h6MTRHY3BtTTl1MkJGSERfRnhhWktDb3pDeTdlaExlODRWeGVKRXBuRkI1SzluTTRPazdnQUM3TU1kS3pmRFdKWXc3SWtWbldtZ21BdjhNWmNQWFZrbUlKeVFoWGN2aklDdzdnenFfUjhaNmJaZFRkYTZka1JRR25IeFNkMmpjM3lXd2JDdXg5UQ?oc=5",
+        "source": "MSN",
+        "date": "2026-06-15",
         "tag": "policy"
       },
       {
         "title": "海峽論壇提採購台產品　農業部：中國市場風險高 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVBhRmo1ODJGQjJJbkQxUkctZzh3VW1UQ3RDRzI1U2lvYkxFOElVcEVCRE1mbG5yWFVIVXJYd3QwUXhWc1pYZldFZ1REZU5mMy15bk43Y2k5SlhueUtFRHhPOWxEQWt0V2xVTUdEbzRqNTBQVjkwUGxOQlFTQTVHSmp30gFfQVVfeXFMTnVnOGptQTdGLXoxLW5Wc3NCazU2aFcxdVY4MDc4UW5qbEdMZWs3MXF1dU9EU09wSjVRRDV1SnpCTVRkSzRwYUFpTDlfazhfRWhxWEhHYXd3YTdFc25TQnM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tOUViYmdLLTFjRnpXTWZ2MXJlNk1aTnowOW0wQ2dqWlJZME1VdW1vQXZrVzhvRENmZWpHeEZ3YnpjQjZVcDl6VmdPRWo4bEhhYk95c1N1N3FGdWR0VnBfS3VVMjhVU2VBOEFEalV2VU9Tb1YyNlZVVlZMaEjSAV9BVV95cUxOdWc4am1BN0YtejEtblZzc0JrNTZoVzF1VjgwNzhRbmpsR0xlazcxcXV1T0RTT3BKNVFENXVKekJNVGRLNHBhQWlMOV9rOF9FaHFYSEdhd3dhN0VzblNCcw?oc=5",
         "source": "經濟日報",
         "date": "2026-06-14",
         "tag": "policy"
