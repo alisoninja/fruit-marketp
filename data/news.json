@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T07:10:43.662Z",
+  "updatedAt": "2026-06-17T09:06:55.797Z",
   "news": {
     "鳳梨": [
       {
@@ -7,6 +7,13 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93eC1PRVE2QTM2MWFLN0MxNXJHU3FkeDJpcWJHNG0zcnpJMTFSYWdQeWVkQ3VJQ3hpUUNBUnY1QkhvNlMwOXFkdl9GT21SWENiYVlEVWpKYl9FdHNqLWEtX0V30gFiQVVfeXFMT3d4LU9FUTZBMzYxYUs3QzE1ckdTcWR4MmlxYkc0bTNyekkxMVJhZ1B5ZWRDdUlDeGlRQ0FSdjVCSG82UzA5cWR2X0ZPbVJYQ2JhWURVakpiX0V0c2otYS1fRXc?oc=5",
         "source": "鏡週刊Mirror Media",
         "date": "2026-06-16",
+        "tag": "market"
+      },
+      {
+        "title": "美國鳳梨市場開放在即：臺灣準備好了嗎？ - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4OUxFaFo2WWZMSzdGRkNuNV9pTXVlUUlHRXBDZmJkX1ZnckNsbkdTR0pkRXJIZUhneXpKZVpBR1BKQzdraDZhaEtuV21CWnpOYTE1Q3ZB?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-11",
         "tag": "market"
       },
       {
@@ -22,13 +29,6 @@
         "source": "蕃新聞",
         "date": "2026-06-15",
         "tag": "market"
-      },
-      {
-        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
-        "source": "壹蘋新聞網",
-        "date": "2026-06-14",
-        "tag": "policy"
       }
     ],
     "芒果": [
@@ -36,13 +36,6 @@
         "title": "台灣水果進軍法國！林楚茵：別再依賴中國 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93eC1PRVE2QTM2MWFLN0MxNXJHU3FkeDJpcWJHNG0zcnpJMTFSYWdQeWVkQ3VJQ3hpUUNBUnY1QkhvNlMwOXFkdl9GT21SWENiYVlEVWpKYl9FdHNqLWEtX0V30gFiQVVfeXFMT3d4LU9FUTZBMzYxYUs3QzE1ckdTcWR4MmlxYkc0bTNyekkxMVJhZ1B5ZWRDdUlDeGlRQ0FSdjVCSG82UzA5cWR2X0ZPbVJYQ2JhWURVakpiX0V0c2otYS1fRXc?oc=5",
         "source": "鏡週刊Mirror Media",
-        "date": "2026-06-16",
-        "tag": "market"
-      },
-      {
-        "title": "屏東愛文芒果「登陸」法國最大批發市場 一顆要價1180元台幣 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSlFQQ3J0YmJhOTQ5VG1Ic0ViaUFOMGNOZW5UXzExUndYelFKNGRDZWtFMF9kdWpmUzBTUTNkOFFvaThCVGlfT2ZZSDBNQWxL0gFWQVVfeXFMTU0wV3VtSENMT25XZ1YzaDhCeFYtRE9fNy1rc3Q2aDRvUWlfUnBWTkpualhpYlR0bG5yTmZSbXFfSEowQmhJbzlTeDJfUVVrSV9yS1JORFE?oc=5",
-        "source": "UDN",
         "date": "2026-06-16",
         "tag": "market"
       },
@@ -58,6 +51,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMUEzVmtKb2lxa18xS3NLYkhKcFE3Nm5JYURUa3FUOUhMTjVKVjAzSndFam85OWplcTM5OF9rcnBMTEJKam9RZlp6bER3XzFtZVg1RTVB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-14",
+        "tag": "market"
+      },
+      {
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
+        "source": "公視新聞網PNN",
+        "date": "2026-06-03",
         "tag": "market"
       }
     ],
@@ -77,17 +77,17 @@
         "tag": "market"
       },
       {
-        "title": "台灣不只台積電！1水果進軍法國 價格曝光 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MTG01Z3Y5eWdzMWs5akxLN2JPeWM0OUlJT09jRF9NQkw2OFI1VkJSVFp6a0o3NnhtdGNFNlptcDY0UnVYNHBKWkVQZzdYYzhJczFoSzVYRWI2Y2w4UUNjdjlR0gFiQVVfeXFMT0xMbTVndjl5Z3MxazlqTEs3Yk95YzQ5SUlPT2NEX01CTDY4UjVWQlJUWnprSjc2eG10Y0U2Wm1wNjRSdVg0cEpaRVBnN1hjOElzMWhLNVhFYjZjbDhRQ2N2OVE?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-06-15",
-        "tag": "price"
-      },
-      {
         "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
+        "tag": "market"
+      },
+      {
+        "title": "台灣芒果.荔枝.紅龍果進軍歐洲上架法國市場- 國際 - 華視新聞網",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRUIwMjBCTGp3aDVOeVV0LUVjVmVOVXBkNEo2Z3Nlb09qZWY3WG1JdmFaNXhIYjlWZEs1NmlGNkZabUxya0gtNFRMS01BekxPb1pJaFpaVVZITURUWUV0LXRIWUluNGJTVDk1UG54aFhRblBFeW45aQ?oc=5",
+        "source": "華視新聞網",
+        "date": "2026-06-03",
         "tag": "market"
       }
     ],
@@ -130,15 +130,7 @@
         "tag": "market"
       }
     ],
-    "葡萄": [
-      {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwYkdkLW9hT3VDUWRGUGRscmp3MFZBTGUxOExfNWdkc2ZsbXRHNHlXci05WHJzOGJwUFNrbVNRQ3hqUllYUzBObm9sNHMwaVNGMHBfWnhjMHhUS09vVmd30gFkQVVfeXFMUFZDWU9OUGtWVjNIVzhUNTdOMWI4LU5GbGdzcEtCYTl2WnQwUk91NnpSZ1JqWWFVUlBUR0FfT2JyX0s2M1I0R1dQN2pzLXNBRG1kdTVaQTg2SC1nalRFa203dE9IMg?oc=5",
-        "source": "自由財經",
-        "date": "2026-06-03",
-        "tag": "policy"
-      }
-    ],
+    "葡萄": [],
     "蓮霧": [
       {
         "title": "中共重提採購台灣農產 過往禁令引市場疑慮 - 大纪元",
@@ -259,9 +251,9 @@
         "tag": "policy"
       },
       {
-        "title": "台灣6.5噸水果銷往巴黎！內行人曝農民超會「魔改」，不靠政府也能創造農業革命| 特魯瓦通訊| 風生活 - Storm.mg",
+        "title": "台灣6.5噸水果銷往巴黎！內行人曝農民超會「魔改」，不靠政府也能創造農業革命| 特魯瓦通訊| 風生活 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KTVl5dnY1bnRoVlYzcElaRVZDYjlLWEN2VmVJdFVoUHFSU0RFWVpuLUdpLUJHUmRzd1pHcklDVEhrcmdudVdKMkxUcTg1b0JP?oc=5",
-        "source": "Storm.mg",
+        "source": "風傳媒",
         "date": "2026-06-04",
         "tag": "market"
       }
@@ -291,6 +283,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
         "source": "上下游",
         "date": "2026-06-10",
+        "tag": "policy"
+      },
+      {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆， 吞噬台灣產地行情 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNQ1lOdGhUZFFuX2tiejBTMVJZeXNjZThSVl9lSzdXaTBvRmFhaUgxV2lNSUhfSmdFcXBidWdXSDNPSGhWUDhSbVVWeWpiZW1DU0drc3NtTGI3cG9TemU0Z2tpckJVLW95ZF9jZm50dGs5cU5fb2E5VGpEWFlEYWZaczNmRzVTUG9Vbko1aVhhRFpBSHBzQVFmRkp0dW0tajlvamFWbzFhVHVLYWktVDJHRjVaUVlCT2x2M0psSlFfRG1PSnpqZFFaaGxyaEtablk2VFpZZG9CVUlxeUhxNlRKRUtGUV9KMWFHVzU3MVh1ZFVsTkx2dm05dUxfRENQWlB1ZnBDMUh3SU5DdGtvbEtQM0x3N2FyYWxPTXpaU0hjaEJ0VlFCZ2RBTEdfTHdIVHljTThyWDVLZkFTX0FBbW1NVlNrbndvMUxtSUNWbVNWWnhHMTNmNlE3NGdBRGlmN1FtTXhqUFU5ckExNGZmRFVXSjFrVF9kSFl0WlgxeFl4YjFPc0I0MTdrZi1yVzJWaFEtaHZ0RGJpaHlic05UdzFvdHhucFk0V3BFZU9hY0g1TFRwRXhDdEhRYmtBdzhMSFNteWRsaFVfTnBheUxNRU83Z3FiVWw5M2ZzZ0xpQllENURwSklrQXhGaTJpd1Y5YVlLN2dFWkdkZVBTcDNhcXp0bDhZVFFtQTFsUHU1ZGlBRFZWcmtxQXJPXzN5anpLdUhfYkJlM3I3RnBsQnBMRVRSRUJfX0JXT2hpR29MNlVCV1hKZ3lBSi1QdHk2R1FaOGRKY2pibjlHbmxtbUJoSndlVU4zWnBmRHJnRkV0WU1GQkJkV3VzaWQ2d3FqRDhqZkU2aUQ2RHZfYllQY2lDcXFYWTBneGZwY3hiQjdqRVc4OVRtQQ?oc=5",
+        "source": "MSN",
+        "date": "2026-06-15",
         "tag": "policy"
       }
     ],
