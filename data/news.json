@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T16:53:14.213Z",
+  "updatedAt": "2026-06-17T18:26:44.311Z",
   "news": {
     "鳳梨": [
       {
@@ -100,6 +100,13 @@
         "tag": "market"
       },
       {
+        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 - 東森新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb2xPT29SMkVVbTVucVNOWE15bC1WeDVyNjVYYi1NWHRpZ2R3TFdwT25qcjQyT3RUVTljOE5JLUFYbGl5T0FsQ2FQWDduVnRLdFVhTQ?oc=5",
+        "source": "東森新聞",
+        "date": "2026-06-13",
+        "tag": "price"
+      },
+      {
         "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
         "source": "LINE TODAY",
@@ -112,13 +119,6 @@
         "source": "知新聞",
         "date": "2026-06-07",
         "tag": "price"
-      },
-      {
-        "title": "外銷獎勵、多元通路、 鼓勵加工穩定產銷香蕉批發市場價格已回穩 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNVnVhMDdFR1pnUll1MWNIaGNZUHBnUzB0dnpvRmE4QjIzSkVSVjhJTThuMktqdURERGFGQWhBNS1SdWhiR0QzR180SVZsXy1MOGxHdTlfNDQ4QnF1Qi1DanRXVjhpeGppREJFTjVnWmFIMWM5TUI3dGlQUThRY2NkZXBENm84SFNCSExlUFd2SklybjJXeWoyNTg0WFVheFdBQkdIOWJUX0swX3RBcWlhazNvYUtTTjhndHZ6SlNrY3FEd1RjbVlWckVENEJZdnlWcDZMMGRaNk90OGc0VVZ4OXc1R3ZXS3ZHMVo3aXZHMWhVeWdGLUZzNGNOblRGbnZmVG9Melhxb3BPZ3BxZjZzZ2tWMElHQlIwTVRIZVIxcnNvSDhzaDNtYkhlZVlVRWV6OEJaamVrdXJWM0h6Q0pFQnUyS0NtZWtLNW9GUGVfbzRzbXd1RzdYY3g0Unc5Zml5MGV1NXgwOERzcGlmRjJiRm9GRDVpa0pTanJiRGVmdHBoTkwwMERKbHc5UTBiUXhreUdib1YtalZZQ1BzWTREQXB3VVJMZw?oc=5",
-        "source": "MSN",
-        "date": "2026-06-11",
-        "tag": "market"
       }
     ],
     "木瓜": [
@@ -228,17 +228,17 @@
         "tag": "policy"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
-        "tag": "policy"
-      },
-      {
         "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckFfRi04WXMzdTBBTUlxU2ZRUHVjZjczakJfR2wwX0NOOFFldW1BN1NBR1FlbklQR0NtY2V5YjhxekxXQWhRZHJCMjBGQjNhWlZlWkZneGw2bTkxRVBYR2NMMUVNNnNDWmh0X0tnc3pUVmVHaXNUUXc2S3VtaWZHUQ?oc=5",
         "source": "壹蘋新聞網",
         "date": "2026-06-14",
+        "tag": "policy"
+      },
+      {
+        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-03",
         "tag": "policy"
       }
     ],
