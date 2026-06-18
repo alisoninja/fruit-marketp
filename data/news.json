@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T16:39:17.878Z",
+  "updatedAt": "2026-06-18T18:46:18.823Z",
   "news": {
     "鳳梨": [
       {
@@ -54,11 +54,11 @@
         "tag": "market"
       },
       {
-        "title": "甜度19.3！屏東愛文芒果驚艷歐洲人 登法國最大批發市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LVkpKWFJDU29nTDJJTmltSnctZWQ5bEcyRGxsYnROTUUxNnhkOW1Ra3doSlE1VW43bVBoaWQxc2hUODRnYXhsLXZMYVpxTFFwd2d6TU9jR3RTWDJaM2djYVpibELSAWpBVV95cUxOMndkbTlfTEZ6NkFtaUNWczdoWl9CbXhOOUswQVE5cEo3TjVLcklLbmY5azcyVHRZTVE0S19Rd2JiSVRPYVFBMzNNakpmYWFfbWF2bFZVdTZBcVlUM1dFeDNUTVBaVFE0OUhR?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-02",
-        "tag": "market"
+        "title": "台灣不只有台積電！「1水果」進軍法國被買爆 驚人價格曝光 | 三立新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZndQSjV0SG1QcEEtRHl3dTlyXzlHYkNaSlhSREprNGRGakk5MjNBejJsXzBMeF95RGRiSTFZc0tCSGxYRHBsdXFFZzRXRVRhN2duSTFB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-15",
+        "tag": "price"
       }
     ],
     "荔枝": [
@@ -93,6 +93,13 @@
     ],
     "香蕉": [
       {
+        "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-08",
+        "tag": "market"
+      },
+      {
         "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷 香蕉批發市場價格已回穩 - 農業知識入口網",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0tuQVBHMC02QmVOcXYwTExra0pzYjdUZ194TTVZaDA1b083enRrQm1OYWVPZ0V2bnZvMWE2b0JMTjFMamV3SmFNVVJZUXg1UFkwS2t4Ti12VWh6Z0VNOXVfVjdzajJWLXZsWGVod29tX01tY1FqcFBETW9CWVVQOGR5MUJpdw?oc=5",
         "source": "農業知識入口網",
@@ -105,13 +112,6 @@
         "source": "LINE TODAY",
         "date": "2026-06-10",
         "tag": "market"
-      },
-      {
-        "title": "香蕉價格下滑42%、芒果也跌38％ 農糧署曝原因 - 知新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RME83S1ZWczhhYlBZZDE1Z1RDZWdmRERQN0R5R0kyTFJjaEVjbnNob0txSDJNTWYzRGRHYjJTdU9tQndEQmFUTFlCNDR1RkdNWVpSU25RQnhLU0tzWUNCanZNbi1KbWs2WEI4QXlocw?oc=5",
-        "source": "知新聞",
-        "date": "2026-06-07",
-        "tag": "price"
       },
       {
         "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 - 東森新聞",
@@ -160,16 +160,16 @@
         "tag": "policy"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BQlc1SjlpYTVhRE1sMmU0Z0QzVmZ3dmp0cldlS19ld3d2QzNoaUZTZUN3bzY1RG5hMWprMGdFLXBRS1F3WlpmYWR4TnfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
-        "source": "NOWnews今日新聞",
+        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
+        "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
       },
       {
-        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
-        "source": "壹蘋新聞網",
+        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BQlc1SjlpYTVhRE1sMmU0Z0QzVmZ3dmp0cldlS19ld3d2QzNoaUZTZUN3bzY1RG5hMWprMGdFLXBRS1F3WlpmYWR4TnfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
+        "source": "NOWnews今日新聞",
         "date": "2026-06-14",
         "tag": "policy"
       }
