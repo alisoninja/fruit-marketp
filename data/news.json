@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-20T17:39:50.104Z",
+  "updatedAt": "2026-06-20T23:00:31.783Z",
   "news": {
     "鳳梨": [
-      {
-        "title": "台灣愛文芒果外銷法國！蔡英文曝關鍵原因 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MQ2ZsQThNUnZad19KdE1sQ2QxbnBwdDJmS0g3aFVualJUNmJvQVR3dW5FUVpTeTlGeE1BN2pvUEliLWUtQ3dGY2N5WXBVc0VzR0hpbjhBbTNLUm1jazh2YVJR0gFiQVVfeXFMTUxDZmxBOE1Sdlp3X0p0TWxDZDFucHB0MmZLSDdoVW5qUlQ2Ym9BVHd1bkVRWlN5OUZ4TUE3am9QSWItZS1Dd0ZjY3lZcFVzRXNHSGluOEFtM0tSbWNrOHZhUlE?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-06-20",
-        "tag": "market"
-      },
       {
         "title": "數據說話！2025年鳳梨釋迦內銷逾50% 9000噸產量僅3631噸外銷| 政治 - Newtalk新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRE55Q3J4bG5lNFdfX19HYTJiTTVpTmNpX2d0WEYyQU80VVI4eVUzaE5aYldlT2EzU241YmVncVFOQ1VnRWsxSlN1WG1Lb0xPZUNOeE4xQUEzeHc?oc=5",
         "source": "Newtalk新聞",
+        "date": "2026-06-20",
+        "tag": "market"
+      },
+      {
+        "title": "台灣愛文芒果外銷法國！蔡英文曝關鍵原因 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MQ2ZsQThNUnZad19KdE1sQ2QxbnBwdDJmS0g3aFVualJUNmJvQVR3dW5FUVpTeTlGeE1BN2pvUEliLWUtQ3dGY2N5WXBVc0VzR0hpbjhBbTNLUm1jazh2YVJR0gFiQVVfeXFMTUxDZmxBOE1Sdlp3X0p0TWxDZDFucHB0MmZLSDdoVW5qUlQ2Ym9BVHd1bkVRWlN5OUZ4TUE3am9QSWItZS1Dd0ZjY3lZcFVzRXNHSGluOEFtM0tSbWNrOHZhUlE?oc=5",
+        "source": "鏡週刊Mirror Media",
         "date": "2026-06-20",
         "tag": "market"
       },
@@ -24,11 +24,11 @@
         "tag": "market"
       },
       {
-        "title": "持續開拓多元、有穩定需求且尊重國際規範的農產品外銷市場 確保農民收益 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52ZGdVWXR5QXMxT1RfTG96a3A2QzRIaWhqMTYyN2tvclpvd3UyQzJremIzZVpfX0RkMHpmanFQMXpDWks1QnFzMmlFSXczUkNFU1E?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-15",
-        "tag": "market"
+        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-04",
+        "tag": "policy"
       }
     ],
     "芒果": [
@@ -121,15 +121,7 @@
         "tag": "market"
       }
     ],
-    "木瓜": [
-      {
-        "title": "享受夏日新鮮好滋味 農糧署「蕉甜安心清爽一夏」活動6/6~6/7登場 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYlhBbUtJMDFxcjF0RGdiM3pEV0t2d2E4YU5DNTRXZExrUE5MV29sTzNaVmZUUk5tSGhiT0RNQWFvMUZ6QTVQYWZxanItZS1MZTBwaHdNV2VFbXhET3FpUmRWalMyMktzRVdiYjBVR1BUblNXS3pwNU5jWkUtdEVoMDFlSEw0YXdJQlJmUjBoaw?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-06-06",
-        "tag": "market"
-      }
-    ],
+    "木瓜": [],
     "葡萄": [],
     "蓮霧": [
       {
@@ -145,6 +137,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-14",
+        "tag": "policy"
+      },
+      {
         "title": "海峽論壇提採購台產品　農業部：中國市場風險高 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TW1uemtxWlFqNHRUQ2tBNC1uMEJSU0lzUXU2TmFMRHc0UDJlQWVsZUhPR1lyMUNmMnJnbVZTWUVQeDFtRUtwenkzVTFfRmFkeEhTZEdXXzM3QdIBX0FVX3lxTE51ZzhqbUE3Ri16MS1uVnNzQms1NmhXMXVWODA3OFFuamxHTGVrNzFxdXVPRFNPcEo1UUQ1dUp6Qk1UZEs0cGFBaUw5X2s4X0VocVhIR2F3d2E3RXNuU0Jz?oc=5",
         "source": "經濟日報",
@@ -152,16 +151,16 @@
         "tag": "policy"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚　農業部籲儘速恢復、開拓多元市場 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BQlc1SjlpYTVhRE1sMmU0Z0QzVmZ3dmp0cldlS19ld3d2QzNoaUZTZUN3bzY1RG5hMWprMGdFLXBRS1F3WlpmYWR4TnfSAVJBVV95cUxPR3pOZ3h3VTc5bVd6T1B4ZGNzUEVvTlRMNUZIWUxPYXJtalIzVnhub3ZkeWpIUFNGTGxoeVlUVEV1UjV6MUJDSGRhRFZ0S0I0Q1Vn?oc=5",
-        "source": "NOWnews今日新聞",
+        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
+        "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
       },
       {
-        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
-        "source": "壹蘋新聞網",
+        "title": "中國提將採購鳳梨釋迦、 石斑魚農業部回應 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQN0tXSnFjRjVZNUdTY0JWNC1nQ19meENpTmFlcHpZdnBxS3NyekRQY2tPS1lILXRRN2czM29CbDVIaE52MVhCLXQxZXBMclFOY0lQMGk2OWZFMkQ3S1dsTlF4bk9aYnpnRWtJZmxldng1YkNqc2wxeVdvUXRlOVdpWXZhdjNFb1VTWnY2Rlhwd3FlZ1E4ZXdHcVdNU05LQmdHY3E3TTdOaVZiSUM1Tk1QMFUtcWFtYVVzX0tULW1nNy1DTC0taXRmRlZpMHBzc0xoTUpzUXVwMWw0TUtEZ2VFSDJUT0c0TjRJRnVydkJwd3JwRG5OVlhzUEtFNTBCSnY0bVpwam1LenZLZUkycHRrRVNELTdMUUdZdTBuUHpvVU9VVTVyTkN2dE9PVGJ5ZGoyVzZHWjQ4ZlRrU2dt?oc=5",
+        "source": "MSN",
         "date": "2026-06-14",
         "tag": "policy"
       }
@@ -220,10 +219,10 @@
         "tag": "policy"
       },
       {
-        "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
+        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
+        "source": "壹蘋新聞網",
+        "date": "2026-06-14",
         "tag": "policy"
       }
     ],
@@ -233,7 +232,7 @@
         "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
         "source": "上下游",
-        "date": "2026-06-10",
+        "date": "2026-06-11",
         "tag": "market"
       },
       {
@@ -249,13 +248,6 @@
         "source": "Storm.mg",
         "date": "2026-06-04",
         "tag": "market"
-      },
-      {
-        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆， 吞噬台灣產地行情 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNQ1lOdGhUZFFuX2tiejBTMVJZeXNjZThSVl9lSzdXaTBvRmFhaUgxV2lNSUhfSmdFcXBidWdXSDNPSGhWUDhSbVVWeWpiZW1DU0drc3NtTGI3cG9TemU0Z2tpckJVLW95ZF9jZm50dGs5cU5fb2E5VGpEWFlEYWZaczNmRzVTUG9Vbko1aVhhRFpBSHBzQVFmRkp0dW0tajlvamFWbzFhVHVLYWktVDJHRjVaUVlCT2x2M0psSlFfRG1PSnpqZFFaaGxyaEtablk2VFpZZG9CVUlxeUhxNlRKRUtGUV9KMWFHVzU3MVh1ZFVsTkx2dm05dUxfRENQWlB1ZnBDMUh3SU5DdGtvbEtQM0x3N2FyYWxPTXpaU0hjaEJ0VlFCZ2RBTEdfTHdIVHljTThyWDVLZkFTX0FBbW1NVlNrbndvMUxtSUNWbVNWWnhHMTNmNlE3NGdBRGlmN1FtTXhqUFU5ckExNGZmRFVXSjFrVF9kSFl0WlgxeFl4YjFPc0I0MTdrZi1yVzJWaFEtaHZ0RGJpaHlic05UdzFvdHhucFk0V3BFZU9hY0g1TFRwRXhDdEhRYmtBdzhMSFNteWRsaFVfTnBheUxNRU83Z3FiVWw5M2ZzZ0xpQllENURwSklrQXhGaTJpd1Y5YVlLN2dFWkdkZVBTcDNhcXp0bDhZVFFtQTFsUHU1ZGlBRFZWcmtxQXJPXzN5anpLdUhfYkJlM3I3RnBsQnBMRVRSRUJfX0JXT2hpR29MNlVCV1hKZ3lBSi1QdHk2R1FaOGRKY2pibjlHbmxtbUJoSndlVU4zWnBmRHJnRkV0WU1GQkJkV3VzaWQ2d3FqRDhqZkU2aUQ2RHZfYllQY2lDcXFYWTBneGZwY3hiQjdqRVc4OVRtQQ?oc=5",
-        "source": "MSN",
-        "date": "2026-06-15",
-        "tag": "policy"
       }
     ],
     "番茄": [],
@@ -269,7 +261,7 @@
         "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
         "source": "上下游",
-        "date": "2026-06-10",
+        "date": "2026-06-11",
         "tag": "market"
       }
     ],
@@ -283,13 +275,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
         "source": "上下游",
         "date": "2026-06-10",
-        "tag": "policy"
-      },
-      {
-        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆， 吞噬台灣產地行情 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNQ1lOdGhUZFFuX2tiejBTMVJZeXNjZThSVl9lSzdXaTBvRmFhaUgxV2lNSUhfSmdFcXBidWdXSDNPSGhWUDhSbVVWeWpiZW1DU0drc3NtTGI3cG9TemU0Z2tpckJVLW95ZF9jZm50dGs5cU5fb2E5VGpEWFlEYWZaczNmRzVTUG9Vbko1aVhhRFpBSHBzQVFmRkp0dW0tajlvamFWbzFhVHVLYWktVDJHRjVaUVlCT2x2M0psSlFfRG1PSnpqZFFaaGxyaEtablk2VFpZZG9CVUlxeUhxNlRKRUtGUV9KMWFHVzU3MVh1ZFVsTkx2dm05dUxfRENQWlB1ZnBDMUh3SU5DdGtvbEtQM0x3N2FyYWxPTXpaU0hjaEJ0VlFCZ2RBTEdfTHdIVHljTThyWDVLZkFTX0FBbW1NVlNrbndvMUxtSUNWbVNWWnhHMTNmNlE3NGdBRGlmN1FtTXhqUFU5ckExNGZmRFVXSjFrVF9kSFl0WlgxeFl4YjFPc0I0MTdrZi1yVzJWaFEtaHZ0RGJpaHlic05UdzFvdHhucFk0V3BFZU9hY0g1TFRwRXhDdEhRYmtBdzhMSFNteWRsaFVfTnBheUxNRU83Z3FiVWw5M2ZzZ0xpQllENURwSklrQXhGaTJpd1Y5YVlLN2dFWkdkZVBTcDNhcXp0bDhZVFFtQTFsUHU1ZGlBRFZWcmtxQXJPXzN5anpLdUhfYkJlM3I3RnBsQnBMRVRSRUJfX0JXT2hpR29MNlVCV1hKZ3lBSi1QdHk2R1FaOGRKY2pibjlHbmxtbUJoSndlVU4zWnBmRHJnRkV0WU1GQkJkV3VzaWQ2d3FqRDhqZkU2aUQ2RHZfYllQY2lDcXFYWTBneGZwY3hiQjdqRVc4OVRtQQ?oc=5",
-        "source": "MSN",
-        "date": "2026-06-15",
         "tag": "policy"
       }
     ],
