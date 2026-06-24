@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:11:40.292Z",
+  "updatedAt": "2026-06-24T07:45:01.878Z",
   "news": {
     "鳳梨": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "title": "稱賣水果無需到海峽論壇 台當局遭批不知民間疾苦 - hkcna.hk",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudTI5Q3hpb0xHcS1fSFRvQ0NZVGVoUTA0MGIzYkNJOENJZS1SOTQ4NjRiMnV1MmZBd3lPT0xlSTQ1WG02azZzOHdSanU1bk11eThPck5SV29zcmNLU25PZEpENDNQWWF6R2k3dnBHSXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwMjVRaC02ZkJDZktiZkhMQ0JJeDk5d0hHTW9JSGdBOF9BVzhPV2xEWnFfcy1oREFOOU9uci1ZM29KZUpJTmdRZWRXSEJmRUF6RWRJd25EdjhyTnI4ZGloaXU5djZ0dw?oc=5",
         "source": "hkcna.hk",
         "date": "2026-06-18",
         "tag": "market"
@@ -114,11 +114,11 @@
         "tag": "market"
       },
       {
-        "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-10",
-        "tag": "market"
+        "title": "台灣1水果價格斷崖式暴跌！產量過剩大崩盤「每公斤賣8元」，農糧署教1 招延長保存期限 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TZC13NjFCQkFlQmhsNWZ1cG9CdWEtY0thTjlPQzNDZTk0SnhQVFEtNUFyQlBFWTJLTjVXNFRYWlNwbzA2dE9vMlM4S1hPS3Nj?oc=5",
+        "source": "Storm.mg",
+        "date": "2026-06-13",
+        "tag": "price"
       }
     ],
     "木瓜": [],
@@ -152,6 +152,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "海峽論壇提採購台產品 農業部：中國市場風險高 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aU0ltS0VKZ1pZMi1yMUgzMDZLTGhNdExDbjdPLWRXNjVyejFJXzFrN3kzaHF5M0V5S3lSQnZIeDBKNWJaLVJmYk5QZXFudlV4X1VVUjU3SQ?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-06-14",
+        "tag": "policy"
+      },
+      {
         "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
         "source": "LINE TODAY",
@@ -159,15 +166,8 @@
         "tag": "policy"
       },
       {
-        "title": "海峽論壇提採購台產品 農業部：中國市場風險高 - 信吉衛視+",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XRUM5VzRESkYydWtxSlBhanRxbUJIU2dSOFBPdXFhVlJ5WmlERUdLd3VNQ2tydlNJdG84MFBBRlJVaFlBMVIxWkZ2WjFnVWc?oc=5",
-        "source": "信吉衛視+",
-        "date": "2026-06-13",
-        "tag": "policy"
-      },
-      {
         "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckFfRi04WXMzdTBBTUlxU2ZRUHVjZjczakJfR2wwX0NOOFFldW1BN1NBR1FlbklQR0NtY2V5YjhxekxXQWhRZHJCMjBGQjNhWlZlWkZneGw2bTkxRVBYR2NMMUVNNnNDWmh0X0tnc3pUVmVHaXNUUXc2S3VtaWZHUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDBVVW8zX0pHeTZ4T2VCOGhJOVliZl9ubWRxcmEyQzljS3hlZWlRblBKZVRrVlZsbEVvNlR2dm1Hcmk2MzN1WTJlSjNYMEZRR1NNSFU1YUcwTUQ4N0FfNVRJNkNiTnM2UVBJTGxlWV9vb29meUdSUFpCM0NoY0RjTVBB?oc=5",
         "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
@@ -244,10 +244,10 @@
         "tag": "market"
       },
       {
-        "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
-        "source": "上下游",
-        "date": "2026-06-11",
+        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-22",
         "tag": "market"
       },
       {
