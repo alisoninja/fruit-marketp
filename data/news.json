@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T02:51:33.357Z",
+  "updatedAt": "2026-06-24T06:11:40.292Z",
   "news": {
     "鳳梨": [
       {
@@ -84,26 +84,26 @@
         "tag": "market"
       },
       {
-        "title": "通過高規格檢疫 屏東愛文芒果銷歐 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xS2VPM3FuNjQ5WlVaVGtVczVDTWJwZTk5N25RSFFPSTFOaWdwN2lFcWJ0dzRsczdtMnVKYXRwWnRORGJVMHNQOG10RWpINHRa0gFWQVVfeXFMTWEtZDdaVjBkWGtjY3NfUXlXbUtHYXpHZFBMdUI3aUZBVEJmZVpGb0NZcjMxSUdReUI3c2MtMHlwN050VFpmVVg4Ti04c3NGandQNm1FMHc?oc=5",
-        "source": "UDN",
-        "date": "2026-06-03",
+        "title": "臺灣三水果首度銷歐洲 首批六噸封櫃啟航 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-06-02",
         "tag": "market"
       }
     ],
     "香蕉": [
       {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
         "title": "香蕉產地價跌破每公斤10元 農糧署祭產銷調節三箭 批發市場拍賣價已回升 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBINGVvdFBjdl9HOVM2aUFyY09OQ2FxdFJvSWpWemZ3a0k5TnVubzg0aW04cGNnQkZheTZMaGg1cXNFRnpIQy03dVRBNnZsXzZEVHpXRlZR?oc=5",
         "source": "農傳媒",
         "date": "2026-06-08",
+        "tag": "market"
+      },
+      {
+        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-22",
         "tag": "market"
       },
       {
@@ -114,11 +114,11 @@
         "tag": "market"
       },
       {
-        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 | EBC 東森新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOXo2VEh1ZC15MUpTQTgydkFFWmxlTmV2WFVmZDNSTl9zNFRsUFNyMEJTRnkteTlTYXdyOXZoNmoxcUFRTnBZQzBfd3d5aUgtdS1KTjJ3?oc=5",
+        "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-06-13",
-        "tag": "price"
+        "date": "2026-06-10",
+        "tag": "market"
       }
     ],
     "木瓜": [],
@@ -130,6 +130,13 @@
         "source": "鏡週刊Mirror Media",
         "date": "2026-06-21",
         "tag": "market"
+      },
+      {
+        "title": "中共重提採購台灣農產 過往禁令引市場疑慮 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaeEZOSk5ENEpDUWFBYTlGbjhKOEQwRXpVNVIyWVBOc05OQmwzV0lSY2c1WkxieEtwTnl5bHJaekFEYTRMc0ZOaldhcXFnY2piZUpHZ3FNRm1MZkxmclNlUtIBZkFVX3lxTE0tTXhhWTNJS3NOdTV4RldKdUxtV18yeTVpcUEyeGZmSVdGUXhjU1cwRG9TTDhFdHQySWNKYmVzRVNaaUp5UENIM1E5MmlVcDVGUDhWQ1o0elVxUjlLQ3FPdmxubTB6QQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-14",
+        "tag": "policy"
       }
     ],
     "草莓": [],
@@ -189,10 +196,10 @@
         "tag": "market"
       },
       {
-        "title": "吳音寧還原鳳梨釋迦逾20年興衰始末 批饒慶鈴藉農產品進行政治操作 - 鉅聞天下",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ucGgxbDBybTlXQ0dSMXpadm02UVRrTkxfS1FCRU50TmFqTW4yMjJ5YWNSeDVrUDRyVHhMWnJCdFNYQk5NcWJOb055RWtLb25hZG9xNTEzaWRaRVJxRWc?oc=5",
-        "source": "鉅聞天下",
-        "date": "2026-06-21",
+        "title": "饒慶鈴推銷鳳梨釋迦到中國 她批「技術已經外流」：台東官員自食惡果！ - 鏡報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45NWo5RURUQjVydW4tNXJ2d1lXUWFWOFUxdVA0SkZVNGR1STdVOU11MzlTOElwOEJaeVJuMzJBRnU1WERyNEhZVmk2WnJ2V19Hbmc?oc=5",
+        "source": "鏡報",
+        "date": "2026-06-20",
         "tag": "market"
       }
     ],
@@ -237,13 +244,6 @@
         "tag": "market"
       },
       {
-        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
         "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
         "source": "上下游",
@@ -255,6 +255,13 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KTVl5dnY1bnRoVlYzcElaRVZDYjlLWEN2VmVJdFVoUHFSU0RFWVpuLUdpLUJHUmRzd1pHcklDVEhrcmdudVdKMkxUcTg1b0JP?oc=5",
         "source": "Storm.mg",
         "date": "2026-06-04",
+        "tag": "market"
+      },
+      {
+        "title": "中國疑洗產地！台灣菜農難敵傾銷：寧可送人也不出貨 | EBC 東森新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXN4WFNyc1QwcmtXbTlNZE9XUndjWmI1bTgxRl9lYlNyc3pRVEhjbGZEeWRtOTJUVkZlaEhJNzhrWV90amd2NnYtV19QdlIyNUh0WFJR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-21",
         "tag": "market"
       }
     ],
@@ -279,15 +286,7 @@
     "菠菜": [],
     "青花菜": [],
     "茄子": [],
-    "黃瓜": [
-      {
-        "title": "台灣蔬菜生存戰02》夏季菜價跌到不敷成本，拍賣制度出問題，需求下滑、移工擴張種植 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
-        "source": "上下游",
-        "date": "2026-06-11",
-        "tag": "market"
-      }
-    ],
+    "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
