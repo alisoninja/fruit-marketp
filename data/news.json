@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T06:11:42.402Z",
+  "updatedAt": "2026-06-25T07:45:05.355Z",
   "news": {
     "鳳梨": [
       {
@@ -100,13 +100,6 @@
         "tag": "market"
       },
       {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
         "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷 香蕉批發市場價格已回穩 - 農業知識入口網",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0tuQVBHMC02QmVOcXYwTExra0pzYjdUZ194TTVZaDA1b083enRrQm1OYWVPZ0V2bnZvMWE2b0JMTjFMamV3SmFNVVJZUXg1UFkwS2t4Ti12VWh6Z0VNOXVfVjdzajJWLXZsWGVod29tX01tY1FqcFBETW9CWVVQOGR5MUJpdw?oc=5",
         "source": "農業知識入口網",
@@ -114,11 +107,18 @@
         "tag": "market"
       },
       {
-        "title": "台灣1水果價格斷崖式暴跌！產量過剩大崩盤「每公斤賣8元」，農糧署教1 招延長保存期限 - Storm.mg",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TZC13NjFCQkFlQmhsNWZ1cG9CdWEtY0thTjlPQzNDZTk0SnhQVFEtNUFyQlBFWTJLTjVXNFRYWlNwbzA2dE9vMlM4S1hPS3Nj?oc=5",
-        "source": "Storm.mg",
+        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 | EBC 東森新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOXo2VEh1ZC15MUpTQTgydkFFWmxlTmV2WFVmZDNSTl9zNFRsUFNyMEJTRnkteTlTYXdyOXZoNmoxcUFRTnBZQzBfd3d5aUgtdS1KTjJ3?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-06-13",
         "tag": "price"
+      },
+      {
+        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-22",
+        "tag": "market"
       }
     ],
     "木瓜": [],
@@ -206,11 +206,11 @@
         "tag": "policy"
       },
       {
-        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0HSAWBBVV95cUxQN3lGUDdtMkZhNVgyd2JDUW1xanZubVN0cFVfYU5aTklTVXNMMUVpT1oyUUprZlgtNXRJUFF5QjRrUU1QR2xyU3ZMcWNmVkxHaC1haUU2aUcyMW1KaFI2UnE?oc=5",
-        "source": "經濟日報",
-        "date": "2026-06-14",
-        "tag": "policy"
+        "title": "持續開拓多元、有穩定需求且尊重國際規範的農產品外銷市場 確保農民收益 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yTjhJWElIQlczUFJvNFY4UlVMS2ZfeE5JMHYtcURvWS1Lb1hVX0R4ZFBBTF9zNWREVlZpcnhDb1dvTVBvc2lZdERkSVhYY0V5NXc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-06-15",
+        "tag": "market"
       },
       {
         "title": "台灣首次大規模向歐洲出口夏季水果 「3水果」搶攻巴黎市場 - 自由時報",
@@ -300,6 +300,13 @@
     "大蒜": [],
     "玉米": [],
     "南瓜": [
+      {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆， 吞噬台灣產地行情 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQb20yaEI3Mk1GVjV1bEdQeThsa0VvS3k2VUswNlVmTWlWQjU2UlM2LXhjTS1vc2VPU2JiT3YxcWNsX1hfM2tQamdTbksycXRwZk9ETHVkMXZaV01vank1T2VKbXV1X0lLRUhsbDRDODJsNVJXTGJ4X0VKUlFSeUxwSHRGQXR3UzNNd0tQUVUzN2ZFaHVXYVRxb1YwSXZGVUgxaEx5WFZZSGQ3U1BqQVA0MHh0aFdtQTFZZ29BYTVvbHducjdPNWh6YVBKSUl5c2tEUWdYN3Nic0tWeGdiMEs0dzVXbUs1S1YyVmpRMHZTaFpVUGJ3aUpXUDNHc3JFbU54VjBqc3l5VUpCV0hlb2NPclc1d2htTWFXY1kzRkFoNGlmeFN6NVlZVTVYUU9XZjNNcldlR3BoZktKM3ZSX0RST3VRQkdubkpUNEhQZk0zYnFBWERFSmNJcU9XQTJ1VWZBUGNLMU5fdlJlN1ZtTllPTHFFb0hMU3prVUtQdkdmR3AtNEZ5NjlyWUtneVNob2V1ek5fMWprZUN6ZWhzR0RhNDFKYlllSXBWWmtmREprcUNSUUh5TmJsa25DckR3bjNXUEswZ1RzZjhyXzFUV3Q4MnJrampJX2Q2ZXNZei1MNHpnQ0owU3BDNEliaE8xZDAtVmF1OFVuV2JhYjNQZnNVaTI1ZGxyMVRoSGdR?oc=5",
+        "source": "MSN",
+        "date": "2026-06-10",
+        "tag": "policy"
+      },
       {
         "title": "中國疑洗產地！台灣菜農難敵傾銷：寧可送人也不出貨 | EBC 東森新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXN4WFNyc1QwcmtXbTlNZE9XUndjWmI1bTgxRl9lYlNyc3pRVEhjbGZEeWRtOTJUVkZlaEhJNzhrWV90amd2NnYtV19QdlIyNUh0WFJR?oc=5",
