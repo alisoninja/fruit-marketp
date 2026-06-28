@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T14:50:31.634Z",
+  "updatedAt": "2026-06-28T17:17:56.094Z",
   "news": {
     "鳳梨": [
       {
@@ -237,6 +237,13 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUdIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-28",
+        "tag": "price"
+      },
+      {
         "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
         "source": "中央社 CNA",
@@ -255,13 +262,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXN4WFNyc1QwcmtXbTlNZE9XUndjWmI1bTgxRl9lYlNyc3pRVEhjbGZEeWRtOTJUVkZlaEhJNzhrWV90amd2NnYtV19QdlIyNUh0WFJR?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-21",
-        "tag": "market"
-      },
-      {
-        "title": "梅雨影響供應 北農出手穩菜價 冷凍蔬菜首度加入供應行列 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zZ3gxYzEwZXlLVjRCVHYtMlFIYnZXcW5IVUljSWVTSnE3NEpHWlRrMlBpNUFnTUJrNkVsQ3ZPQnN5amRwb3dWdTlNcFlsREhZR1E?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-25",
         "tag": "market"
       }
     ],
@@ -287,7 +287,7 @@
     "青花菜": [
       {
         "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUdIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
         "source": "大纪元",
         "date": "2026-06-28",
         "tag": "price"
