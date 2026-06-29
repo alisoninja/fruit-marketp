@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T03:04:26.399Z",
+  "updatedAt": "2026-06-29T06:51:58.858Z",
   "news": {
     "鳳梨": [
       {
@@ -33,18 +33,18 @@
     ],
     "芒果": [
       {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - 僑務電子報",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54VTF0OUlrV1ZyNk5SRk1BMUc1V0N5MUliclRReGhldWM4ZHRtV2stTmhLR2d5V2pQbjlLMDdUMURlcF9NQVlwSVJpNA?oc=5",
-        "source": "僑務電子報",
-        "date": "2026-06-28",
-        "tag": "policy"
-      },
-      {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
         "source": "公視新聞網PNN",
         "date": "2026-06-03",
         "tag": "market"
+      },
+      {
+        "title": "台灣首批芒果出口英國 6/28空運500公斤 - 信吉衛視+",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SajFHTmpkb3BTU0xJQWtmbWZfLWIzX0RJeE1ndlZZeDQ4X3FNa0hxS2xNeHBObmRJVEN0d2lWa3FaZnlqSk5Wb3l3QzhTcEtSMFloNzVqLVdNdw?oc=5",
+        "source": "信吉衛視+",
+        "date": "2026-06-26",
+        "tag": "policy"
       },
       {
         "title": "屏東愛文芒果「登陸」法國最大批發市場 一顆要價1180元台幣 - UDN",
@@ -70,6 +70,13 @@
         "tag": "market"
       },
       {
+        "title": "台灣「1物」進軍法國！單顆「破千」仍秒殺 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SWJic2hfd1FsQ0ZOM2FHSlV1TW1uZl9ERmF3SGIwN0RUZHhYYU1DRFFuZDRmLVY0blhkakpzR0lYdjMtVDZWVjYtZ3Qtc3ZSd0ZDN0RB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-21",
+        "tag": "market"
+      },
+      {
         "title": "台灣芒果.荔枝.紅龍果進軍歐洲上架法國市場- 國際 - 華視新聞網",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRUIwMjBCTGp3aDVOeVV0LUVjVmVOVXBkNEo2Z3Nlb09qZWY3WG1JdmFaNXhIYjlWZEs1NmlGNkZabUxya0gtNFRMS01BekxPb1pJaFpaVVZITURUWUV0LXRIWUluNGJTVDk1UG54aFhRblBFeW45aQ?oc=5",
         "source": "華視新聞網",
@@ -81,13 +88,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
-        "tag": "market"
-      },
-      {
-        "title": "屏東愛文芒果銷歐 首批封櫃進軍法國 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96Tjh5QnRXMWllUG05b1F1U0drUnpzVHViNkpLdHVQNHdqTDBQczB3alU3eFZJYmpFcVpqNmJSSlFOVlZIMEhKd2NGZWo4V2hIUTdKZzRkYjNmMnR1c001UNIBZkFVX3lxTE9wVV9CT1ZvckZKa0E4bmRZdTAxTUxudzNXMm0xYWtoZnBYZUF5QWM5ZE5UeGRGVGZSajVXWUU1SWpVMU5yOGpoR2I3RWVzcEFWc0NVOUlzYXBQakZnLXREWElKNlExZw?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-03",
         "tag": "market"
       }
     ],
@@ -213,13 +213,6 @@
         "tag": "policy"
       },
       {
-        "title": "持續開拓多元、有穩定需求且尊重國際規範的農產品外銷市場 確保農民收益 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yTjhJWElIQlczUFJvNFY4UlVMS2ZfeE5JMHYtcURvWS1Lb1hVX0R4ZFBBTF9zNWREVlZpcnhDb1dvTVBvc2lZdERkSVhYY0V5NXc?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-15",
-        "tag": "market"
-      },
-      {
         "title": "大陸喊「採購台灣農漁產」！農業部回應了 - 中天新聞網",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iMlI0TFlXSzdBN2dnRDRTVG5SQVp1bS1RWUxfWGpES1hzSFQzaF9qMGZOYjlQM2pBdWh5bWVVNTdncVJOOXgxUjZkNkFJYzFzUHNj?oc=5",
         "source": "中天新聞網",
@@ -231,6 +224,13 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTU1JM1hNd01HVlNtbmhwdWxMWXluUzlqalcxQnVpQk9jRlF3VHNKN09EUHgxUHJwT1dHYkRtX3pNTng2ZnJVVnJodk1CM3RNTWFMZTFfeGU?oc=5",
         "source": "自由時報",
         "date": "2026-06-03",
+        "tag": "policy"
+      },
+      {
+        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0HSAWBBVV95cUxQN3lGUDdtMkZhNVgyd2JDUW1xanZubVN0cFVfYU5aTklTVXNMMUVpT1oyUUprZlgtNXRJUFF5QjRrUU1QR2xyU3ZMcWNmVkxHaC1haUU2aUcyMW1KaFI2UnE?oc=5",
+        "source": "經濟日報",
+        "date": "2026-06-14",
         "tag": "policy"
       }
     ],
@@ -251,17 +251,17 @@
         "tag": "market"
       },
       {
-        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
         "title": "中國疑洗產地！台灣菜農難敵傾銷：寧可送人也不出貨 | EBC 東森新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXN4WFNyc1QwcmtXbTlNZE9XUndjWmI1bTgxRl9lYlNyc3pRVEhjbGZEeWRtOTJUVkZlaEhJNzhrWV90amd2NnYtV19QdlIyNUh0WFJR?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-21",
+        "tag": "market"
+      },
+      {
+        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-22",
         "tag": "market"
       }
     ],
