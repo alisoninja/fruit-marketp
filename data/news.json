@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T10:35:48.192Z",
+  "updatedAt": "2026-06-30T15:34:23.172Z",
   "news": {
     "鳳梨": [
       {
@@ -114,11 +114,11 @@
         "tag": "market"
       },
       {
-        "title": "香蕉雪崩式跌價！「一根不到2元」農民快哭　神人教放1周還是黃色 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByaTRFSEJOcVlsTjNSbkZhbjVwajAyZUh0T2Y1bGM2RDhlTjRIbkRGQ1hqM3pCMVNzOENGUGhidkl6TmVoUGVZUHdMYTbSAVJBVV95cUxQRndPbVloZWFhSUNWeGlia094bGNyeUR0V1A0T21OX3lZY0NQUF8zZnVvTWQ4YjNyMkNZSng3M2p2Q0JCVTA5QzZrdWpUcDB1S3pR?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-06-07",
-        "tag": "price"
+        "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷香蕉批發市場價格已回穩- 生活新聞- PChome Online 新聞 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzRxT1BzaXVoUXBMbUpKWVBQSHZOTExlY0FkOE9OODhUSEFIbjRCZ0JKS3pYVk1ZUXV4OW1iNHV4MDJoR0xRYnZsb1YtbTh1Q3oyQ19sRlB0SUVIaFl4X1lpOTdKT19ZMTIyR3dVWEp1M2JEWTZvSV9PV183aHhEOXhKZHk?oc=5",
+        "source": "PChome Online 新聞",
+        "date": "2026-06-11",
+        "tag": "market"
       }
     ],
     "木瓜": [],
@@ -195,15 +195,7 @@
         "tag": "policy"
       }
     ],
-    "龍眼": [
-      {
-        "title": "0608豪雨 農業部點名落花生、水稻、芒果、荔枝、龍眼等留意防災 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Rd0t4TXJxbjNTQVRTRFJCSkFsMndzTkQ3czh0eGphZF9nOUZVMUR0YlIyNjlqY0FCeExwUjBQdFh4Q1psMHlmNE5aS3RqMm000gFWQVVfeXFMT3JRNG1fYzBOcHRtcFBjYWNYZC1sNVU0V29OOWEyNzVSVFBKalprSWkyUnFFSWthRGxuZHBwZUp4NEdYd1dxSHBKTFlzVFRnM05KNzBXUmc?oc=5",
-        "source": "UDN",
-        "date": "2026-06-09",
-        "tag": "weather"
-      }
-    ],
+    "龍眼": [],
     "番石榴": [
       {
         "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
@@ -298,7 +290,15 @@
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "因應0625豪雨災情 農業部公告南市硬質玉米、食用玉米及蘆筍為農災現金救助地區 | 台灣好新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TWnA4QnFQN3prMktQU1lkcEdwSGx4YUxzUkJvSlFCU0xLRU9jd2RqSFRwWWtXLW5qSXRiZGRUZHVJLXRkSUpmODRSUGhSd2k3a1pFZGln?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-30",
+        "tag": "weather"
+      }
+    ],
     "南瓜": [
       {
         "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
