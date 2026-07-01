@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T08:17:37.980Z",
+  "updatedAt": "2026-07-01T10:45:32.714Z",
   "news": {
     "鳳梨": [
       {
@@ -33,9 +33,9 @@
     ],
     "芒果": [
       {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - 僑務電子報",
+        "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - OCACnews",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54VTF0OUlrV1ZyNk5SRk1BMUc1V0N5MUliclRReGhldWM4ZHRtV2stTmhLR2d5V2pQbjlLMDdUMURlcF9NQVlwSVJpNA?oc=5",
-        "source": "僑務電子報",
+        "source": "OCACnews",
         "date": "2026-06-28",
         "tag": "policy"
       },
@@ -70,13 +70,6 @@
         "tag": "market"
       },
       {
-        "title": "台灣「1物」進軍法國！單顆「破千」仍秒殺 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SWJic2hfd1FsQ0ZOM2FHSlV1TW1uZl9ERmF3SGIwN0RUZHhYYU1DRFFuZDRmLVY0blhkakpzR0lYdjMtVDZWVjYtZ3Qtc3ZSd0ZDN0RB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-21",
-        "tag": "market"
-      },
-      {
         "title": "台灣芒果.荔枝.紅龍果進軍歐洲上架法國市場- 國際 - 華視新聞網",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRUIwMjBCTGp3aDVOeVV0LUVjVmVOVXBkNEo2Z3Nlb09qZWY3WG1JdmFaNXhIYjlWZEs1NmlGNkZabUxya0gtNFRMS01BekxPb1pJaFpaVVZITURUWUV0LXRIWUluNGJTVDk1UG54aFhRblBFeW45aQ?oc=5",
         "source": "華視新聞網",
@@ -88,6 +81,13 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2TlpVMHh6akJ0OGwwR0ZGZ3V3ZTRhQVhwQWRadndzZFEtc0dqeTRiaXplcGlSa1pZdGhZbHlOc0tHLXdVRG5Sc2F2VjMtSEVzdEE?oc=5",
         "source": "中華新聞雲／中華日報",
         "date": "2026-06-02",
+        "tag": "market"
+      },
+      {
+        "title": "屏東愛文芒果銷歐 首批封櫃進軍法國 - news.ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSFp5dl9CSDYyRGk3cW1qajY5N2RjVExWVjVYNzFVRTZMNFBmdlBUbExHUFVrT214TG5aUzN6d3dsZy1Qa2ZpQ01OQU5JbVlqVVQ0VzY3ZEpXQTjSAWBBVV95cUxOTE9TVEJQaGd2eWp3ZmtWYkZiV0RJcERQU3lOX0w3dWNiOVItcUhKU2ttRF81N1p1UThienU4SndINS0tYWZGTVBIQ1o3TE5CQWg0M1lpTU8tR3pqeFdWNWM?oc=5",
+        "source": "news.ltn.com.tw",
+        "date": "2026-06-03",
         "tag": "market"
       }
     ],
@@ -140,7 +140,15 @@
       }
     ],
     "草莓": [],
-    "西瓜": [],
+    "西瓜": [
+      {
+        "title": "西瓜價格大跳水 河南部分產區跌到一毛一斤 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KY1ZURm1TaW53bmhPdGZrbGJ2d2tJNVZxSnZnNFA5TXdGLTFIR0s3QU1URGlobURPeV9zUXNlVzRkZWNzMm1fc0dmMzB4UW95Vk9Ec3h6ZFVUN0c0OEc1Yk5vcWTSAWRBVV95cUxOSmNWVEZtU2lud25oT3Rma2xidndrSTVWcUp2ZzRQOU13Ri0xSEdLN0FNVERpaG1ET3lfc1FzZVc0ZGVjczJtX3NHZjMweFFveVZPRHN4emRVVDdHNDhHNWJOb3Fk?oc=5",
+        "source": "大纪元",
+        "date": "2026-07-01",
+        "tag": "price"
+      }
+    ],
     "柳橙": [],
     "文旦": [
       {
@@ -219,9 +227,9 @@
         "tag": "policy"
       },
       {
-        "title": "海峽論壇提採購台產品　農業部：中國市場風險高 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TW1uemtxWlFqNHRUQ2tBNC1uMEJSU0lzUXU2TmFMRHc0UDJlQWVsZUhPR1lyMUNmMnJnbVZTWUVQeDFtRUtwenkzVTFfRmFkeEhTZEdXXzM3QdIBX0FVX3lxTE51ZzhqbUE3Ri16MS1uVnNzQms1NmhXMXVWODA3OFFuamxHTGVrNzFxdXVPRFNPcEo1UUQ1dUp6Qk1UZEs0cGFBaUw5X2s4X0VocVhIR2F3d2E3RXNuU0Jz?oc=5",
-        "source": "經濟日報",
+        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGSmJOdHUzdk5FTGlkRjljZUdiQnluRzF6RXRGazUtTl9NSmdBaFJKTUVNVGJzQ1lhVjNsb29ScHVTMG1LYWpxXzZlTG5VQmQ0bGREUEdqaVFWeU1CR1hBV19GbzByb2tRMDdscmlmNUFxeHQ2b2gtNkYzdEtXZw?oc=5",
+        "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
       }
@@ -243,9 +251,9 @@
         "tag": "market"
       },
       {
-        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
+        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - news.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
-        "source": "自由時報",
+        "source": "news.ltn.com.tw",
         "date": "2026-06-22",
         "tag": "market"
       },
@@ -300,7 +308,15 @@
         "tag": "policy"
       }
     ],
-    "苦瓜": [],
+    "苦瓜": [
+      {
+        "title": "花蓮2號山苦瓜：結合有機農業與生物科技的健康守護者 - 藍雀新傳媒",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTllnWEg2M0V3Um1Kem5ZYUgyaml2UU4wX1owZndYNEFEc2JlN1FodGlxZDhfUkZRVk9ZLV9VdFBYZEYtU2E1clNBRzVJRzJfS1lzcXI3LWM0ZENyRlJ1TFNoMTBDZHZmbmFyYlhtZ2pkSXM0RkJWV0FRaUJvTXN0dVFUMFQxWFlBV05xSXpOYjlEeWhoNWhrYjdZU3ljVGVRUTRUQ3BPaFpkNkVRanRKUFFjektXREZ3amFPOUFhcTFPRkM3VFI2aWtvUU5hSkZKZVo0NjIza2h4YlNQTkNTSTMxdjVqNWlWRGpTdlpTSXpnMkkxS1YyLVdBV1kxcTFhTmUxaC1KUERETExIX3Y5bElQZnh3bHMwZ1F2ZUhRS3RSVDFaZFdkZUNUaTdYenA1QV9SbFhXdm1WMjExVndzajlWLUIwZ3pPZW9Zdmt4THlQRkJwd1lj?oc=5",
+        "source": "藍雀新傳媒",
+        "date": "2026-06-27",
+        "tag": "market"
+      }
+    ],
     "蔥": []
   }
 }
