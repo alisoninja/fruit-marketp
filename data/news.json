@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T15:21:56.513Z",
+  "updatedAt": "2026-07-02T17:57:38.394Z",
   "news": {
     "鳳梨": [
       {
@@ -40,6 +40,13 @@
         "tag": "market"
       },
       {
+        "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - OCACnews",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54VTF0OUlrV1ZyNk5SRk1BMUc1V0N5MUliclRReGhldWM4ZHRtV2stTmhLR2d5V2pQbjlLMDdUMURlcF9NQVlwSVJpNA?oc=5",
+        "source": "OCACnews",
+        "date": "2026-06-28",
+        "tag": "policy"
+      },
+      {
         "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
         "source": "公視新聞網PNN",
@@ -52,13 +59,6 @@
         "source": "UDN",
         "date": "2026-06-16",
         "tag": "market"
-      },
-      {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤 - 信吉衛視+",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SajFHTmpkb3BTU0xJQWtmbWZfLWIzX0RJeE1ndlZZeDQ4X3FNa0hxS2xNeHBObmRJVEN0d2lWa3FaZnlqSk5Wb3l3QzhTcEtSMFloNzVqLVdNdw?oc=5",
-        "source": "信吉衛視+",
-        "date": "2026-06-26",
-        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -107,18 +107,18 @@
         "tag": "price"
       },
       {
+        "title": "鳳梨、芒果已銷日近1.5萬公噸 福岡AEON MALL「臺灣展」今開幕 農業部次長化身推銷員 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yME8yUUU5SVE3cTdIYWJjOG9yZ25OejNnLXlzdl8wY2pWZjJXQjh3VDlZbGNwSlJlSkhEbHFGNnFLY0FWZUpJbERueUcyOGJDd0ZURld3?oc=5",
+        "source": "農傳媒",
+        "date": "2026-06-04",
+        "tag": "policy"
+      },
+      {
         "title": "香蕉雪崩式跌價！「一根不到2元」農民快哭　神人教放1周還是黃色 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByaTRFSEJOcVlsTjNSbkZhbjVwajAyZUh0T2Y1bGM2RDhlTjRIbkRGQ1hqM3pCMVNzOENGUGhidkl6TmVoUGVZUHdMYTbSAVJBVV95cUxQRndPbVloZWFhSUNWeGlia094bGNyeUR0V1A0T21OX3lZY0NQUF8zZnVvTWQ4YjNyMkNZSng3M2p2Q0JCVTA5QzZrdWpUcDB1S3pR?oc=5",
         "source": "NOWnews今日新聞",
         "date": "2026-06-07",
         "tag": "price"
-      },
-      {
-        "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷 香蕉批發市場價格已回穩 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96RjNQSWx2ejF5eEFZQUFGLXMxS2xDLUd0TU5TcHF6NTVPTnQ2VW1fSlNBRHBYa3dEeHhwdWVhUmM1Sk0yeWpPdUZuamZXcnduRGphRUJR?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-11",
-        "tag": "market"
       }
     ],
     "木瓜": [
@@ -170,13 +170,6 @@
         "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-06-14",
-        "tag": "policy"
-      },
-      {
-        "title": "海峽論壇提採購台產品　農業部：中國市場風險高 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TW1uemtxWlFqNHRUQ2tBNC1uMEJSU0lzUXU2TmFMRHc0UDJlQWVsZUhPR1lyMUNmMnJnbVZTWUVQeDFtRUtwenkzVTFfRmFkeEhTZEdXXzM3QdIBX0FVX3lxTE51ZzhqbUE3Ri16MS1uVnNzQms1NmhXMXVWODA3OFFuamxHTGVrNzFxdXVPRFNPcEo1UUQ1dUp6Qk1UZEs0cGFBaUw5X2s4X0VocVhIR2F3d2E3RXNuU0Jz?oc=5",
-        "source": "經濟日報",
         "date": "2026-06-14",
         "tag": "policy"
       },
@@ -242,8 +235,8 @@
         "tag": "policy"
       },
       {
-        "title": "海峽論壇提採購台產品　農業部：中國市場風險高 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4TW1uemtxWlFqNHRUQ2tBNC1uMEJSU0lzUXU2TmFMRHc0UDJlQWVsZUhPR1lyMUNmMnJnbVZTWUVQeDFtRUtwenkzVTFfRmFkeEhTZEdXXzM3QdIBX0FVX3lxTE51ZzhqbUE3Ri16MS1uVnNzQms1NmhXMXVWODA3OFFuamxHTGVrNzFxdXVPRFNPcEo1UUQ1dUp6Qk1UZEs0cGFBaUw5X2s4X0VocVhIR2F3d2E3RXNuU0Jz?oc=5",
+        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0HSAWBBVV95cUxQN3lGUDdtMkZhNVgyd2JDUW1xanZubVN0cFVfYU5aTklTVXNMMUVpT1oyUUprZlgtNXRJUFF5QjRrUU1QR2xyU3ZMcWNmVkxHaC1haUU2aUcyMW1KaFI2UnE?oc=5",
         "source": "經濟日報",
         "date": "2026-06-14",
         "tag": "policy"
@@ -251,13 +244,6 @@
     ],
     "檸檬": [],
     "高麗菜": [
-      {
-        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
-        "source": "大纪元",
-        "date": "2026-06-28",
-        "tag": "price"
-      },
       {
         "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
@@ -270,6 +256,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOR2ZoS2VvdGJNX0JJbVZERFpXSkRMamhVbE9URnRaeFZvNGtzd3ozN3hkLXVYbWNCSTg0dXFoR0xmZmdkbFljRWI1Y1NpT01SLVhFRA?oc=5",
         "source": "上下游",
         "date": "2026-06-10",
+        "tag": "market"
+      },
+      {
+        "title": "農糧署攜手超商推微波即食高麗菜 口感彷彿現燙現炒 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SDd2eFBzNzg3NUc3dWJpWEo5ZVRJTFYyVzd4anNGZ3lNemFDOUEyV3JnbzlmbVBlTFNnNWRhVGNDNm1kNWY2a0sydWcxUzJsaU1VYkt5bk9YMTg5QlFCWV9kSlrSAWpBVV95cUxPcGNRel9icnRHNFNwZ0RjU1hyOEdKUnVEcWxvSzJzaHRCbWpkQmNnbXVMMTRuZVNtZUZJY1JaWU5WUWVVVUduWVZQU2htRkMwU3FGR0lvWkVwcEJxdU95RG83dTgwR2Q5dnJR?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-22",
         "tag": "market"
       },
       {
@@ -286,13 +279,6 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
-        "source": "大纪元",
-        "date": "2026-06-28",
-        "tag": "price"
-      },
-      {
         "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
         "source": "上下游",
@@ -305,6 +291,13 @@
         "source": "蕃新聞",
         "date": "2026-06-25",
         "tag": "market"
+      },
+      {
+        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-28",
+        "tag": "price"
       }
     ],
     "茄子": [],
