@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-02T22:59:15.152Z",
+  "updatedAt": "2026-07-03T02:49:00.209Z",
   "news": {
     "鳳梨": [
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英　有野心打入中高端百貨 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfa9IBYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfaw?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-07-02",
-        "tag": "market"
-      },
       {
         "title": "前進鳳山車站！台鐵便當體驗館開箱國產水果特色加工品 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04NEdtcERiaFBSX0FTSmE1S3JwcDU0QzlCellNREdzempOREFFYVhxb1ppTXZZUlVnNVBDZmdKUVpEZEtVVTg3RHBtRXQ1bC1MVXl1Vnh3?oc=5",
         "source": "中央社 CNA",
         "date": "2026-06-30",
+        "tag": "market"
+      },
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英　有野心打入中高端百貨 - 鏡週刊Mirror Media",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfa9IBYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfaw?oc=5",
+        "source": "鏡週刊Mirror Media",
+        "date": "2026-07-02",
         "tag": "market"
       },
       {
@@ -32,13 +32,6 @@
       }
     ],
     "芒果": [
-      {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - OCACnews",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54VTF0OUlrV1ZyNk5SRk1BMUc1V0N5MUliclRReGhldWM4ZHRtV2stTmhLR2d5V2pQbjlLMDdUMURlcF9NQVlwSVJpNA?oc=5",
-        "source": "OCACnews",
-        "date": "2026-06-28",
-        "tag": "policy"
-      },
       {
         "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英　有野心打入中高端百貨 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfa9IBYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfaw?oc=5",
@@ -59,6 +52,13 @@
         "source": "UDN",
         "date": "2026-06-16",
         "tag": "market"
+      },
+      {
+        "title": "台灣芒果沒得輸！登陸法國Rungis市場 開啟歐洲行銷新局 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YMUEzVmtKb2lxa18xS3NLYkhKcFE3Nm5JYURUa3FUOUhMTjVKVjAzSndFam85OWplcTM5OF9rcnBMTEJKam9RZlp6bER3XzFtZVg1RTVB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-13",
+        "tag": "market"
       }
     ],
     "荔枝": [
@@ -77,18 +77,18 @@
         "tag": "market"
       },
       {
+        "title": "台灣「1物」進軍法國！單顆「破千」仍秒殺 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SWJic2hfd1FsQ0ZOM2FHSlV1TW1uZl9ERmF3SGIwN0RUZHhYYU1DRFFuZDRmLVY0blhkakpzR0lYdjMtVDZWVjYtZ3Qtc3ZSd0ZDN0RB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-21",
+        "tag": "market"
+      },
+      {
         "title": "台灣芒果.荔枝.紅龍果進軍歐洲上架法國市場- 國際 - 華視新聞網",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLRUIwMjBCTGp3aDVOeVV0LUVjVmVOVXBkNEo2Z3Nlb09qZWY3WG1JdmFaNXhIYjlWZEs1NmlGNkZabUxya0gtNFRMS01BekxPb1pJaFpaVVZITURUWUV0LXRIWUluNGJTVDk1UG54aFhRblBFeW45aQ?oc=5",
         "source": "華視新聞網",
         "date": "2026-06-03",
         "tag": "market"
-      },
-      {
-        "title": "台灣芒果、荔枝、紅龍果首度外銷歐洲 農業部：成功走向「國際高端化」 | 華視新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xRW5BQjhiNUhVSklmTzE5dlQ4Mms4YndlRTBxOTc1eEdKbzE1Ny05Z2pNNUU4blZKZVZENHQ5REp4Ynp2V1dmdkNNVkVfdk9GVEtobTln?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-02",
-        "tag": "policy"
       }
     ],
     "香蕉": [
@@ -167,18 +167,18 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-14",
-        "tag": "policy"
-      },
-      {
         "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英　有野心打入中高端百貨 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfa9IBYEFVX3lxTE1nYUJsUEVBbGg0b3RQTXVFVk1CSTI0bFdDelZWS0dIREl6Z3hUWllOU0hiM1hxUmwyTG40YU1HOXBadzR4dzczZDFsZ3lsNVNrbERJdGZhYmxqSVZUU2Zfaw?oc=5",
         "source": "鏡週刊Mirror Media",
         "date": "2026-07-02",
         "tag": "market"
+      },
+      {
+        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-14",
+        "tag": "policy"
       },
       {
         "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
@@ -221,16 +221,16 @@
     "龍眼": [],
     "番石榴": [
       {
-        "title": "大陸喊「採購台灣農漁產」！農業部回應了 - 中天新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iMlI0TFlXSzdBN2dnRDRTVG5SQVp1bS1RWUxfWGpES1hzSFQzaF9qMGZOYjlQM2pBdWh5bWVVNTdncVJOOXgxUjZkNkFJYzFzUHNj?oc=5",
-        "source": "中天新聞網",
+        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-06-14",
         "tag": "policy"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
-        "source": "LINE TODAY",
+        "title": "大陸喊「採購台灣農漁產」！農業部回應了 - 中天新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iMlI0TFlXSzdBN2dnRDRTVG5SQVp1bS1RWUxfWGpES1hzSFQzaF9qMGZOYjlQM2pBdWh5bWVVNTdncVJOOXgxUjZkNkFJYzFzUHNj?oc=5",
+        "source": "中天新聞網",
         "date": "2026-06-14",
         "tag": "policy"
       },
@@ -317,7 +317,15 @@
         "tag": "market"
       }
     ],
-    "蘿蔔": [],
+    "蘿蔔": [
+      {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
+        "source": "上下游",
+        "date": "2026-06-10",
+        "tag": "policy"
+      }
+    ],
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
