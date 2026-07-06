@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T08:25:22.563Z",
+  "updatedAt": "2026-07-06T11:30:58.810Z",
   "news": {
     "鳳梨": [
       {
@@ -33,6 +33,13 @@
     ],
     "芒果": [
       {
+        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-06",
+        "tag": "market"
+      },
+      {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
         "source": "NOWnews今日新聞",
@@ -40,24 +47,17 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-02",
-        "tag": "market"
-      },
-      {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZVlYalNNbnRQZmoyRVEwc3BBcDBlQXVER3p5dmZ0NDRwR1BvRjJha0NXUmp5ejRYMEZFdk8wSFpPcGVQN09ldUJ6eXVFUWxMOGZ6SVpmWklvWWRSS2w3MTZIa29PaUR3VUY0NnhFTjNaZ0c1M09qY2g2V0xaY0lURWNtMHFkNVgxbnhwVlhFN1REVDlJcndUM1dSc2dvckgyLTNQdXZ0NjBldTBzNDEwU1hTMklGblBvdHVSVmhxZlNKUXcyOVRQdkxrdXBzVWdrVU1Obk9XUlhhM0QzRU1CQjRQalhFd3dhREFzN3BEQjFnQVk0UVpIbmNMajRJX0FxeXNyaWZhd0h1d3RTdFVpUm5n?oc=5",
-        "source": "MSN",
-        "date": "2026-07-05",
-        "tag": "policy"
-      },
-      {
         "title": "屏東愛文芒果「登陸」法國最大批發市場 一顆要價1180元台幣 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSlFQQ3J0YmJhOTQ5VG1Ic0ViaUFOMGNOZW5UXzExUndYelFKNGRDZWtFMF9kdWpmUzBTUTNkOFFvaThCVGlfT2ZZSDBNQWxL0gFWQVVfeXFMTU0wV3VtSENMT25XZ1YzaDhCeFYtRE9fNy1rc3Q2aDRvUWlfUnBWTkpualhpYlR0bG5yTmZSbXFfSEowQmhJbzlTeDJfUVVrSV9yS1JORFE?oc=5",
         "source": "UDN",
         "date": "2026-06-16",
+        "tag": "market"
+      },
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-02",
         "tag": "market"
       }
     ],
@@ -276,13 +276,6 @@
         "source": "上下游",
         "date": "2026-06-10",
         "tag": "policy"
-      },
-      {
-        "title": "梅雨影響供應 北農出手穩菜價 冷凍蔬菜首度加入供應行列 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zZ3gxYzEwZXlLVjRCVHYtMlFIYnZXcW5IVUljSWVTSnE3NEpHWlRrMlBpNUFnTUJrNkVsQ3ZPQnN5amRwb3dWdTlNcFlsREhZR1E?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-25",
-        "tag": "market"
       }
     ],
     "茄子": [],
