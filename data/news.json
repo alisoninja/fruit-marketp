@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T11:30:58.810Z",
+  "updatedAt": "2026-07-06T16:26:45.004Z",
   "news": {
     "鳳梨": [
       {
@@ -54,11 +54,11 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-02",
-        "tag": "market"
+        "title": "台灣首批芒果出口英國 6/28空運500公斤 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZElwUE9OOThrVjZyeFlySWplU3cxYXNGTmNkZWhmY3lIWm9RckY2bGV3S3hjaGJjVW9fLTZKMW8xUE9FdmJKcV9vZVRZempyYU1VOWlGQjJhVnZFcWRpaHF5d2NDV3NoWmNUX1o0djBacXN6NGdmUXZEdmFQeTVKQTlfYU5jV184ZGF6SmM2bTFMSjRNeHBKZlE0T2hJbmo4SG8yaUVHbWpBNVpZTEpiVlNaaWw5TGlwNGtrWkZ5VGZZaXFyUzFUckZEazZBUlcwcXR2dTZuc1RKd0lfUE1HOWdhcEVhT2ZQUVZ6NXJZMVZGMWszNlREdGRjSFlubGtDSGd0c1ZEYkNwTlpRdGc?oc=5",
+        "source": "MSN",
+        "date": "2026-07-05",
+        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -84,11 +84,11 @@
         "tag": "market"
       },
       {
-        "title": "台灣不只有台積電！「1水果」進軍法國被買爆驚人價格曝光| 三立新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZndQSjV0SG1QcEEtRHl3dTlyXzlHYkNaSlhSREprNGRGakk5MjNBejJsXzBMeF95RGRiSTFZc0tCSGxYRHBsdXFFZzRXRVRhN2duSTFB?oc=5",
+        "title": "台灣「這水果」出頭天了！法國市場猛出高價買爆 國內產地曝光 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aYU40UGZHUVc4NU9sS3RkZ3FuNV9WUXdDb0tnOGdJZWNjVFRsSUJVVjAwNFRGTlFHalp4WjZLRUR0TENqaktVTEV5djg2UFVaWFhickZB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-14",
-        "tag": "price"
+        "tag": "market"
       }
     ],
     "香蕉": [
@@ -258,7 +258,15 @@
         "tag": "market"
       }
     ],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
+        "source": "上下游",
+        "date": "2026-06-10",
+        "tag": "policy"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
@@ -288,15 +296,7 @@
         "tag": "market"
       }
     ],
-    "蘿蔔": [
-      {
-        "title": "台灣蔬菜生存戰01》從越南白菜到中國南瓜，低價進口菜擠爆，吞噬台灣產地行情 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T0Z1RjFsQmdVRmNwYVc1NXc4OWJDeGM5Q1JZbWg3bU50c2VBYUpxa3R6dU5uaGdjYW0yUXN2cl9Nd1lIdF80Zzd1NUpNOU5pTDlLeg?oc=5",
-        "source": "上下游",
-        "date": "2026-06-10",
-        "tag": "policy"
-      }
-    ],
+    "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
