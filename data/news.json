@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T10:28:58.700Z",
+  "updatedAt": "2026-07-09T16:14:15.568Z",
   "news": {
     "鳳梨": [
       {
@@ -100,11 +100,18 @@
         "tag": "market"
       },
       {
-        "title": "台人愛吃1水果價格崩跌「每公斤剩8元」 保存妙招曝 | EBC 東森新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFOXo2VEh1ZC15MUpTQTgydkFFWmxlTmV2WFVmZDNSTl9zNFRsUFNyMEJTRnkteTlTYXdyOXZoNmoxcUFRTnBZQzBfd3d5aUgtdS1KTjJ3?oc=5",
-        "source": "LINE TODAY",
+        "title": "台灣人愛吃1水果「價格大跳水」 保存妙招曝 - 東森新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnb2xPT29SMkVVbTVucVNOWE15bC1WeDVyNjVYYi1NWHRpZ2R3TFdwT25qcjQyT3RUVTljOE5JLUFYbGl5T0FsQ2FQWDduVnRLdFVhTQ?oc=5",
+        "source": "東森新聞",
         "date": "2026-06-13",
         "tag": "price"
+      },
+      {
+        "title": "農糧署持續推動產銷調節措施 香蕉批發市場價格已回穩 | 勁報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUlFHNFpwWUVaYVdWWjhveFFhNlJMRm40UGctRTIydk9OZTgxVW1rNXVRaS1mVDA5Y205NjZya3pSQXF0YmVRUkZQM1o2NjdGUFlPUGR3?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-10",
+        "tag": "market"
       },
       {
         "title": "外銷獎勵、多元通路、鼓勵加工穩定產銷 香蕉批發市場價格已回穩 - 中央社 CNA",
@@ -112,13 +119,6 @@
         "source": "中央社 CNA",
         "date": "2026-06-11",
         "tag": "market"
-      },
-      {
-        "title": "台灣1水果價格斷崖式暴跌！產量過剩大崩盤「每公斤賣8元」，農糧署教1 招延長保存期限 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TZC13NjFCQkFlQmhsNWZ1cG9CdWEtY0thTjlPQzNDZTk0SnhQVFEtNUFyQlBFWTJLTjVXNFRYWlNwbzA2dE9vMlM4S1hPS3Nj?oc=5",
-        "source": "風傳媒",
-        "date": "2026-06-13",
-        "tag": "price"
       }
     ],
     "木瓜": [],
@@ -130,6 +130,13 @@
         "source": "thinkingtaiwan.net",
         "date": "2026-06-26",
         "tag": "market"
+      },
+      {
+        "title": "中共重提採購台灣農產 過往禁令引市場疑慮 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaeEZOSk5ENEpDUWFBYTlGbjhKOEQwRXpVNVIyWVBOc05OQmwzV0lSY2c1WkxieEtwTnl5bHJaekFEYTRMc0ZOaldhcXFnY2piZUpHZ3FNRm1MZkxmclNlUtIBZkFVX3lxTE0tTXhhWTNJS3NOdTV4RldKdUxtV18yeTVpcUEyeGZmSVdGUXhjU1cwRG9TTDhFdHQySWNKYmVzRVNaaUp5UENIM1E5MmlVcDVGUDhWQ1o0elVxUjlLQ3FPdmxubTB6QQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-14",
+        "tag": "policy"
       }
     ],
     "草莓": [],
@@ -271,13 +278,6 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - 聯合新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "聯合新聞網",
-        "date": "2026-07-05",
-        "tag": "weather"
-      },
-      {
         "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
         "source": "大纪元",
@@ -290,6 +290,20 @@
         "source": "中央社 CNA",
         "date": "2026-07-08",
         "tag": "market"
+      },
+      {
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "聯合新聞網",
+        "date": "2026-07-05",
+        "tag": "weather"
+      },
+      {
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ONjU5MHllUGNIdG5xbFFkcnJVRjRoUHhiSGdDb0VBa25LZDlGa21kT3phMFZRTVdRYkN2dG1yR29mV0xNWUVtQ01laklYUVdyWF8tY3Yzal92T1kyQ3FLR09QZGvSAWRBVV95cUxPTjY1OTB5ZVBjSHRucWxRZHJyVUY0aFB4YkhnQ29FQWtuS2Q5RmttZE96YTBWUU1XUWJDdnRtckdvZldMTVlFbUNNZWpJWFFXclhfLWN2M2pfdk9ZMkNxS0dPUGRr?oc=5",
+        "source": "大纪元",
+        "date": "2026-07-09",
+        "tag": "weather"
       }
     ],
     "茄子": [],
@@ -302,7 +316,15 @@
         "tag": "market"
       }
     ],
-    "蘿蔔": [],
+    "蘿蔔": [
+      {
+        "title": "嚴防強颱「巴威」來襲 桃園全面整備農漁防災 蔬菜滾動倉儲95公噸待命 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2xqbmVjNEVyMkhVTG1xNzRqZzdhb0trZFhZNmFLSTFrbFZEVnQ0WHN3aFE2NG5udldmMHYyTGF1RTM3bU1YUFMwbHdLa2QwTDVIbmpxclFWMHRSQzY0VmFxTnhreFA2V3o1ekEyam9qcFNIaDBZYTQxRFB6eGhrOEJJUHltRE1hWlhFZw?oc=5",
+        "source": "PChome Online 新聞",
+        "date": "2026-07-09",
+        "tag": "weather"
+      }
+    ],
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
