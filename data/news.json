@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T15:36:30.977Z",
+  "updatedAt": "2026-07-10T18:02:10.927Z",
   "news": {
     "鳳梨": [
       {
@@ -271,11 +271,11 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-07-08",
-        "tag": "market"
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "聯合新聞網",
+        "date": "2026-07-05",
+        "tag": "weather"
       },
       {
         "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
@@ -283,6 +283,13 @@
         "source": "大纪元",
         "date": "2026-06-28",
         "tag": "price"
+      },
+      {
+        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-08",
+        "tag": "market"
       },
       {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
