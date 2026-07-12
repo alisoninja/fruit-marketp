@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T02:17:19.011Z",
+  "updatedAt": "2026-07-12T05:31:17.483Z",
   "news": {
     "鳳梨": [
       {
@@ -152,6 +152,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
+        "tag": "market"
+      },
+      {
         "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
         "source": "LINE TODAY",
@@ -164,13 +171,6 @@
         "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
-      },
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-01",
-        "tag": "market"
       }
     ],
     "釋迦": [
@@ -189,8 +189,8 @@
         "tag": "market"
       },
       {
-        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0HSAWBBVV95cUxQN3lGUDdtMkZhNVgyd2JDUW1xanZubVN0cFVfYU5aTklTVXNMMUVpT1oyUUprZlgtNXRJUFF5QjRrUU1QR2xyU3ZMcWNmVkxHaC1haUU2aUcyMW1KaFI2UnE?oc=5",
+        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 | 綜合產業 | 產業 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0E?oc=5",
         "source": "經濟日報",
         "date": "2026-06-14",
         "tag": "policy"
@@ -213,9 +213,9 @@
         "tag": "policy"
       },
       {
-        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcVY1TzRBUzdTVlB4OHdDSnpvNTJGeDhQdmlvTkE2d2NtQUlWQ01MZFJyMkxrY0VKbFZmSXRFU3BkSUlOb3JobjViSGFfQ0FtWV95d1EwNmFoc0HSAWBBVV95cUxQN3lGUDdtMkZhNVgyd2JDUW1xanZubVN0cFVfYU5aTklTVXNMMUVpT1oyUUprZlgtNXRJUFF5QjRrUU1QR2xyU3ZMcWNmVkxHaC1haUU2aUcyMW1KaFI2UnE?oc=5",
-        "source": "經濟日報",
+        "title": "海峽論壇提採購台產品農業部：中國市場風險高| 生活 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xYTQ5WWMzOW5fQmJKVHNYYUJLNldmZllGRnpPMzdkYm1DSHVoT3lZVGNPNm5RWnVIM1BXNjluSEpBZWZ4MnQ5QjVGbF9KbUpHQ2pYWlNzRldzVG5uOVJV?oc=5",
+        "source": "中央社 CNA",
         "date": "2026-06-14",
         "tag": "policy"
       },
@@ -251,18 +251,18 @@
         "tag": "market"
       },
       {
+        "title": "外傳疫情造成高麗菜滯銷台南市府澄清：純屬個案| 生活 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VbDJselMzUnYwYjRrR1FaS3I5X2UzOE5peHBYdDFaOGhMU25JNlM5c0RrSXhLM3Mya2g1ME5qbkFueGxjSkVr?oc=5",
+        "source": "三立新聞",
+        "date": "2026-07-09",
+        "tag": "market"
+      },
+      {
         "title": "國產貨爆崩盤危機 - 東森新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yVnMtUktKeXJObFZTYTFDQVFwZ2pkaVRabHZQYnVlZkd5LV9RTElSNGpzM1FxZGY3OEc1T3hIRzFnaGpPX3ZBX1k0d2UzQ09tUmxNYg?oc=5",
         "source": "東森新聞",
         "date": "2026-06-21",
         "tag": "market"
-      },
-      {
-        "title": "颱風前夕菜價聞聲見漲 農糧署：高麗菜、根莖類庫存充裕 可調節供應市場需求 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wVS1zMU1mVVBuZGMxbGV6blBaSmtxa1IwSWFSMm9PSGd1RGFIWFJocFdPSU94NXJxQmN1NDl5dVRoYmFaQnRVTVN5SkxhamxEMEhEa2lB?oc=5",
-        "source": "農傳媒",
-        "date": "2026-07-08",
-        "tag": "weather"
       }
     ],
     "番茄": [],
