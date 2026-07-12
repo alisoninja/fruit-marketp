@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:35:55.439Z",
+  "updatedAt": "2026-07-12T09:04:59.864Z",
   "news": {
     "鳳梨": [
       {
@@ -152,6 +152,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
+        "tag": "market"
+      },
+      {
         "title": "中國提將採購鳳梨釋迦、石斑魚 農業部回應 | NOWNEWS今日新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNXJ2OTM5a2pjVWFCV1VnMlNFX0E2dDl5R0VrSHRaVkhLU3NjdkdOaDg0TF9zcjYwandpQmY5LWF5SDFGY1JnSWdKS3FCOUpXay1YU0JB?oc=5",
         "source": "LINE TODAY",
@@ -164,13 +171,6 @@
         "source": "壹蘋新聞網",
         "date": "2026-06-14",
         "tag": "policy"
-      },
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-01",
-        "tag": "market"
       }
     ],
     "釋迦": [
@@ -196,11 +196,11 @@
         "tag": "policy"
       },
       {
-        "title": "饒慶鈴推銷鳳梨釋迦到中國 她批「技術已經外流」：台東官員自食惡果！ - 鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45NWo5RURUQjVydW4tNXJ2d1lXUWFWOFUxdVA0SkZVNGR1STdVOU11MzlTOElwOEJaeVJuMzJBRnU1WERyNEhZVmk2WnJ2V19Hbmc?oc=5",
-        "source": "鏡報",
-        "date": "2026-06-20",
-        "tag": "market"
+        "title": "中喊採購鳳梨釋迦、石斑魚　農業部：過去莫須有禁令市場風險高 - 鏡新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MNFk0b1ZfUmIydUdhQnRqUXcyZ0dNc0dubmpERFVobzVpb3JWdGJ4WnpmZUZPYmc5ZlJrck05UXZwN25qRVlOay14dWJpWTN6V1HSAVdBVV95cUxQeFRoZVR1ZTRISjlfWUJrZjlMbEVoOWt6UXI4RmJ2TUFPcUlqVkE2LWgwZFNzRFkxLVpQdEJfSU1xUzlmR2YyQXJBT0E0cHVLVm1uZFdmQU0?oc=5",
+        "source": "鏡新聞",
+        "date": "2026-06-14",
+        "tag": "policy"
       }
     ],
     "龍眼": [],
@@ -244,17 +244,17 @@
         "tag": "weather"
       },
       {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
         "title": "外傳疫情造成高麗菜滯銷台南市府澄清：純屬個案| 生活 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VbDJselMzUnYwYjRrR1FaS3I5X2UzOE5peHBYdDFaOGhMU25JNlM5c0RrSXhLM3Mya2g1ME5qbkFueGxjSkVr?oc=5",
         "source": "三立新聞",
         "date": "2026-07-09",
+        "tag": "market"
+      },
+      {
+        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-22",
         "tag": "market"
       },
       {
@@ -290,6 +290,13 @@
         "source": "聯合新聞網",
         "date": "2026-07-05",
         "tag": "weather"
+      },
+      {
+        "title": "颱風導致到貨量減少 桃園蔬菜批發市場平均交易價格上漲34% - Life 生活網",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNRDhkRUpvTFZ2OEo3S0hRYkxfc0pyWnhBbnVDaHR1eUVNWVVjcjJpQmRMZGZQTm1YNmUwY1drVktYRGVFejhydjFkanlNdjdpcUotSVVUWXdhY0hUSzdCeldjMFlUYnR2R2pUeWlQTjFIYVJoYU1GTGhfQWE2OUtRbUM1OGM1VWtxTFZLZVRHUFo0STh4TlY2VmFyT0hrYnc1eHk3Z296QlBrTzM5bGZxWVgtYUNwT0hQZFFjVjRrT291QXRiM0V1UzVRb1VhSU81RVlvTkEtTzVJVmRiM0VBQzEtaXh4T2hZZUY2VllNLUwtYkxpak5hbjFTNDUzeWh3eXp2YlFadmFNSTFnMGV2U3BjV0pEcjktbWFwVjNsVUtCOURJM2d6aVdFRkVLMzhxb25mMDRUcC1xbXN6dks3SmMtRklZZDhLcTR1RnlYX1BJUExnc01ZX01iMFZWSmhFblFHUFE0dEVpbjFVRTJwSlNXSnRFNlE?oc=5",
+        "source": "Life 生活網",
+        "date": "2026-07-12",
+        "tag": "weather"
       }
     ],
     "茄子": [],
@@ -305,7 +312,15 @@
     ],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "巴威颱風襲桃園零星水稻倒伏災損 農業局會勘爭取天然災害救助 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rU1hrTDlPR1oyTEV0SUVsYXZiRnpwTWFpWEpiaWdtZnhvb3lnU1BuZVlKZDJNZ3dwbExDaE9LX0dmWEF1SFkxM1NLaXZ0eEtvRnc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-07-12",
+        "tag": "weather"
+      }
+    ],
     "南瓜": [
       {
         "title": "中國疑洗產地！台灣菜農難敵傾銷：寧可送人也不出貨 | EBC 東森新聞 - LINE TODAY",
