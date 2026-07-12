@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T09:04:59.864Z",
+  "updatedAt": "2026-07-12T14:43:07.617Z",
   "news": {
     "鳳梨": [
       {
@@ -227,9 +227,9 @@
         "tag": "policy"
       },
       {
-        "title": "中國再喊採購鳳梨釋迦、石斑魚 農業部喊：市場要穩定不能只靠單一國家 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ZndLYTZPUTZldTdVZXpoSG1oVEI1Umgwa0I0QjlQMWNlMW03eVZQajBXNHdKenpDa0FvcXdfdlFQZlE2TFZJd2ZKY2c2OFpBVmc2M0M1VW00YUhBSFJnVXVpM241WTJaRjRnZEk1YmQ2YTJyQWoxLXBIdUhiTWc?oc=5",
-        "source": "壹蘋新聞網",
+        "title": "大陸提採購我鳳梨釋迦石斑魚 兩岸農產貿易有望正常化？農業部回應了 - 聯合新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkUy1TRHVRVE44cUlFOXI4dmdURnRMd2JNNkhBbmY1ZFpVamJFbWxGWm9ETl9ZSE02QkFXM2NSMEVQbk1LY2tBWWJnTDRHZU950gFWQVVfeXFMTmZVeTEzS0pLRy03bWtqWWVDZlJYTzVEWHRjb1BtVGZpekRBekN4LWNZMGFNVFlVTXZhakh0RW1xRmNXNC1GVWx2WkRyS0RTbks5UDI4enc?oc=5",
+        "source": "聯合新聞網",
         "date": "2026-06-14",
         "tag": "policy"
       }
@@ -237,18 +237,18 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
+        "source": "民報",
+        "date": "2026-07-12",
+        "tag": "market"
+      },
+      {
         "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - TVBS 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
         "source": "TVBS 健康2.0",
         "date": "2026-07-09",
         "tag": "weather"
-      },
-      {
-        "title": "外傳疫情造成高麗菜滯銷台南市府澄清：純屬個案| 生活 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VbDJselMzUnYwYjRrR1FaS3I5X2UzOE5peHBYdDFaOGhMU25JNlM5c0RrSXhLM3Mya2g1ME5qbkFueGxjSkVr?oc=5",
-        "source": "三立新聞",
-        "date": "2026-07-09",
-        "tag": "market"
       },
       {
         "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
@@ -258,10 +258,10 @@
         "tag": "market"
       },
       {
-        "title": "國產貨爆崩盤危機 - 東森新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yVnMtUktKeXJObFZTYTFDQVFwZ2pkaVRabHZQYnVlZkd5LV9RTElSNGpzM1FxZGY3OEc1T3hIRzFnaGpPX3ZBX1k0d2UzQ09tUmxNYg?oc=5",
-        "source": "東森新聞",
-        "date": "2026-06-21",
+        "title": "外傳疫情造成高麗菜滯銷台南市府澄清：純屬個案| 生活 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VbDJselMzUnYwYjRrR1FaS3I5X2UzOE5peHBYdDFaOGhMU25JNlM5c0RrSXhLM3Mya2g1ME5qbkFueGxjSkVr?oc=5",
+        "source": "三立新聞",
+        "date": "2026-07-09",
         "tag": "market"
       }
     ],
@@ -292,11 +292,11 @@
         "tag": "weather"
       },
       {
-        "title": "颱風導致到貨量減少 桃園蔬菜批發市場平均交易價格上漲34% - Life 生活網",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNRDhkRUpvTFZ2OEo3S0hRYkxfc0pyWnhBbnVDaHR1eUVNWVVjcjJpQmRMZGZQTm1YNmUwY1drVktYRGVFejhydjFkanlNdjdpcUotSVVUWXdhY0hUSzdCeldjMFlUYnR2R2pUeWlQTjFIYVJoYU1GTGhfQWE2OUtRbUM1OGM1VWtxTFZLZVRHUFo0STh4TlY2VmFyT0hrYnc1eHk3Z296QlBrTzM5bGZxWVgtYUNwT0hQZFFjVjRrT291QXRiM0V1UzVRb1VhSU81RVlvTkEtTzVJVmRiM0VBQzEtaXh4T2hZZUY2VllNLUwtYkxpak5hbjFTNDUzeWh3eXp2YlFadmFNSTFnMGV2U3BjV0pEcjktbWFwVjNsVUtCOURJM2d6aVdFRkVLMzhxb25mMDRUcC1xbXN6dks3SmMtRklZZDhLcTR1RnlYX1BJUExnc01ZX01iMFZWSmhFblFHUFE0dEVpbjFVRTJwSlNXSnRFNlE?oc=5",
-        "source": "Life 生活網",
+        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
+        "source": "民報",
         "date": "2026-07-12",
-        "tag": "weather"
+        "tag": "market"
       }
     ],
     "茄子": [],
