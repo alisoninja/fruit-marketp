@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:40:14.590Z",
+  "updatedAt": "2026-07-13T02:23:23.858Z",
   "news": {
     "鳳梨": [
       {
@@ -54,11 +54,11 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 - FTNN 新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FeGw0VFFpcE1IVnhtalZWT21rM0F0bUZqLTRkc0h1aXE4LTlZaW9kWW1mUDFnVGlxYkxxTnFCVGRMUzVDUEJRdVRXSQ?oc=5",
-        "source": "FTNN 新聞網",
-        "date": "2026-07-02",
-        "tag": "market"
+        "title": "台灣首批芒果出口英國 6/28空運500公斤 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lczNMQjhzaVd4Slp5ZVdhd0piei1IaEw1WWZ6NzNVX0hrM1IxdnU1SFc2R1ZaOGdVY1p6STJ1ZGpEODcwbGM0eFNQVktjZXM2ZWNyWjFjVHdzUEZyMVln?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-27",
+        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -93,6 +93,13 @@
     ],
     "香蕉": [
       {
+        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yTFdocnE2MmFxNk5tWUtfWExSVFhGbGlDVG5PWTlmZWxHSVdkMG00elJmVnRxYlNmVks5Vm15WEdEenU4ajBxbUFORzVrdkVGdldOSzJqV1RCR2NXNHVYSUdfc1RjdUNvTUHSAUxBVV95cUxNR2NNWUkwWjdxYkpyeW9CMHl4YzA1M0hzYWQzMzBkSzlpWDFLdWp5TV9FNWxNUHVGZEtRRElwUURKWUtoT241aHB6ZlZ4?oc=5",
+        "source": "三立新聞",
+        "date": "2026-07-08",
+        "tag": "price"
+      },
+      {
         "title": "前進鳳山車站！台鐵便當體驗館開箱國產水果特色加工品 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04NEdtcERiaFBSX0FTSmE1S3JwcDU0QzlCellNREdzempOREFFYVhxb1ppTXZZUlVnNVBDZmdKUVpEZEtVVTg3RHBtRXQ1bC1MVXl1Vnh3?oc=5",
         "source": "中央社 CNA",
@@ -112,13 +119,6 @@
         "source": "風傳媒",
         "date": "2026-06-13",
         "tag": "price"
-      },
-      {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
       }
     ],
     "木瓜": [],
@@ -271,6 +271,13 @@
     "菠菜": [],
     "青花菜": [
       {
+        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
+        "source": "民報",
+        "date": "2026-07-12",
+        "tag": "market"
+      },
+      {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
@@ -290,13 +297,6 @@
         "source": "聯合新聞網",
         "date": "2026-07-05",
         "tag": "weather"
-      },
-      {
-        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
-        "source": "民報",
-        "date": "2026-07-12",
-        "tag": "market"
       }
     ],
     "茄子": [],
