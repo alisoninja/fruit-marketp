@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T02:06:59.158Z",
+  "updatedAt": "2026-07-14T04:57:22.170Z",
   "news": {
     "鳳梨": [
       {
@@ -140,15 +140,7 @@
       }
     ],
     "草莓": [],
-    "西瓜": [
-      {
-        "title": "好貴！北海道「黑皮西瓜」拍賣 1顆快要14萬元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZXptanVQVjdsT3ozSEpOYTFybVVoS2Y0TDdCUDQ5RU8tTEhMWW9sM1RwTExfdDEyd3NRZ3ZBWF9GaWpjSS12TnlaT0ZQNnZ1S3gzVnl4Z2NOejRZVTI3ZE95UzNhUdIBa0FVX3lxTE1nazRKRm9uTU5KNi0yc082cUVWOWJMWjRIclNQOVVpb2xKbTFNMnhIdGJlVkFycTZqdGY3WkZaSUt3bTRVWEtmTm9rSDE4dHlYWEhMY0Mxd09Bd1VZc19GdUxSVjlOQ0ZpSUFv?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-20",
-        "tag": "market"
-      }
-    ],
+    "西瓜": [],
     "柳橙": [],
     "文旦": [
       {
@@ -271,13 +263,6 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
-        "source": "民報",
-        "date": "2026-07-12",
-        "tag": "market"
-      },
-      {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
@@ -292,20 +277,35 @@
         "tag": "market"
       },
       {
-        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
-        "source": "大纪元",
-        "date": "2026-06-28",
-        "tag": "price"
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "UDN",
+        "date": "2026-07-05",
+        "tag": "weather"
+      },
+      {
+        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
+        "source": "民報",
+        "date": "2026-07-12",
+        "tag": "market"
       }
     ],
-    "茄子": [],
+    "茄子": [
+      {
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
+        "tag": "market"
+      }
+    ],
     "黃瓜": [],
     "蘿蔔": [
       {
-        "title": "嚴防強颱「巴威」來襲 桃園全面整備農漁防災 蔬菜滾動倉儲95公噸待命 - PChome Online 新聞",
+        "title": "嚴防強颱「巴威」來襲 桃園全面整備農漁防災 蔬菜滾動倉儲95公噸待命 - PChome Online新聞",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2xqbmVjNEVyMkhVTG1xNzRqZzdhb0trZFhZNmFLSTFrbFZEVnQ0WHN3aFE2NG5udldmMHYyTGF1RTM3bU1YUFMwbHdLa2QwTDVIbmpxclFWMHRSQzY0VmFxTnhreFA2V3o1ekEyam9qcFNIaDBZYTQxRFB6eGhrOEJJUHltRE1hWlhFZw?oc=5",
-        "source": "PChome Online 新聞",
+        "source": "PChome Online新聞",
         "date": "2026-07-09",
         "tag": "weather"
       }
