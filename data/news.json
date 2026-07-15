@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T09:14:58.244Z",
+  "updatedAt": "2026-07-15T14:57:17.982Z",
   "news": {
     "鳳梨": [
       {
@@ -114,11 +114,11 @@
         "tag": "policy"
       },
       {
-        "title": "端午包粽需求激增 農業部加強糯米、豬肉、香菇市場調配 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cGdSam5BRmhGcUQwcF8yY2xQWTFYVENGbnR1U0VmcXczME9ybXY2YUZNLVhuN2RaUWJScjNSNHR5TF9JUl90bnBDVnk4WXBDcFZ2ODh2OV9ueks3UFhhLTVsUmbSAWpBVV95cUxNNzZfVFFpb3J4clZtYmdzZFRPR2s5aW1pYW1IZlBwN2RNT0M2SDBYT0dTMDNuYXNSRi14Y1FNUXBSQmJ4Q2xBdXV3QTdLd2JzTU9RSUtuQUV2Zlh2R2ZFaUlaZXJTbkNOU0h3?oc=5",
-        "source": "自由時報",
-        "date": "2026-06-18",
-        "tag": "policy"
+        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-22",
+        "tag": "market"
       }
     ],
     "木瓜": [],
@@ -167,9 +167,9 @@
         "tag": "market"
       },
       {
-        "title": "憶鳳梨釋迦20年外銷起伏 吳音寧：政治掛帥市場不可靠 | CTWANT - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa2k5OTN3NFhwNHJNdnNEUGs0ZVRnSTZXZl80M2JtOTR6WWFyaUFMOTNxTGVIcHdhbGNYR3JLRGZVVlVqbXlPT2xGVldpaVFhVjF0anhB?oc=5",
-        "source": "LINE TODAY",
+        "title": "吳音寧曝打臉梁文傑！鳳梨釋迦內銷數據曝光 凌濤：他踢到鐵板 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQOG95SVlwdWtWS0Z2RjZNYXFFMmtTN3pzYUcxbGJoWFNUOGVjdHFVRF9SamtDN1EzLTRmd1R5MGNUc3hvZEczQUdESG9IYVQ1Ymp1MDdTS2t4R2p6SlNBSHVhbDg0X3JVTHlueVpGZFVfcHdtYzExVjBncmxIQ1A0YXBoNjF5LU14eUhTRzhTb1JGTmsyWTlxTEs4TElqcVhCRDduM0g4VEUzWjY4QzdkLTVEdUpHREZWY29YT2dUcTI0WUlWM1lTbVYtdTkxUXcwZ1otMnNHUTBYeTc2NmZIb0pVd2FteWNDRmhPdnY1N2ZyblVDQXFuMUwtN0JIOVBEYnhPQWFmWmVaOGk4Qmdpa0VPWXBxcDJnU0p4N2tjcmV0T1RxVERvakcybWtic09lMFo0S0lpbjc1NlpvcG1oa3J2ZGFleHU3eHFCZjQ0RFVldl9oYWg2RDZGUlZvdjJQQnhCaWc5N3lPY1dOU0tVSHBNbzBWLW1fSHloVF9TWlZhT2gza2lWMURTLVJicEE?oc=5",
+        "source": "Yahoo新聞",
         "date": "2026-06-21",
         "tag": "market"
       }
@@ -264,7 +264,15 @@
     "大蒜": [],
     "玉米": [],
     "南瓜": [],
-    "苦瓜": [],
+    "苦瓜": [
+      {
+        "title": "花蓮2號山苦瓜：結合有機農業與生物科技的健康守護者 - 藍雀新傳媒",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTllnWEg2M0V3Um1Kem5ZYUgyaml2UU4wX1owZndYNEFEc2JlN1FodGlxZDhfUkZRVk9ZLV9VdFBYZEYtU2E1clNBRzVJRzJfS1lzcXI3LWM0ZENyRlJ1TFNoMTBDZHZmbmFyYlhtZ2pkSXM0RkJWV0FRaUJvTXN0dVFUMFQxWFlBV05xSXpOYjlEeWhoNWhrYjdZU3ljVGVRUTRUQ3BPaFpkNkVRanRKUFFjektXREZ3amFPOUFhcTFPRkM3VFI2aWtvUU5hSkZKZVo0NjIza2h4YlNQTkNTSTMxdjVqNWlWRGpTdlpTSXpnMkkxS1YyLVdBV1kxcTFhTmUxaC1KUERETExIX3Y5bElQZnh3bHMwZ1F2ZUhRS3RSVDFaZFdkZUNUaTdYenA1QV9SbFhXdm1WMjExVndzajlWLUIwZ3pPZW9Zdmt4THlQRkJwd1lj?oc=5",
+        "source": "藍雀新傳媒",
+        "date": "2026-06-27",
+        "tag": "market"
+      }
+    ],
     "蔥": []
   }
 }
