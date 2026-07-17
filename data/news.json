@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-17T14:36:37.307Z",
+  "updatedAt": "2026-07-17T17:21:13.994Z",
   "news": {
     "鳳梨": [
       {
         "title": "水果大降價！芒果、鳳梨跌幅最高逾5 成農糧署曝原因 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxOaXZ6cWhsYkxrcF9XbG9welY5YjB5MDJ4VUU4dVJQSHVFZHotM25TdXl1N3JuZEE1amNidm9rUWdLWkdISWpRY2dBSDJrY2dEUVBhWUxKdFhVSHkyNFFNSjAzMEx3QVAxa0RPNGd1VWswVEZEdk92clFQUF9PNUxWNGRFMlhVcWI1MHhaNU5SOWlWSHJYcW56d1VXV2ZvQjFyNFNUN1J3S185eEFPd2R5X3lPTHQxMjNYbW1iZDB3eXdVSHRnNXkyWXJIUU15bW11bkEwM1Z2S2Flb01LTUNibG9xSHBTNFNJVkRyXzFqd3VtWHFZTkNwNlQtdFdDSlNOY3pTMHBTNHJJcDh2N1g5RmpGTm9TWmlnNlBQV00zT2kybzVKRlExQWVKdjN3dm1BbXMxeElueUVKT2ZETExiRGU3MS1CTlVrR2VkazRELWtIb3FLMDJVamxjRl9RRTQyZUgtNDdxTjVEVFh2NXFjcU1rTm5oaDJmeGg5TnN6c09mSzZrLWxlVkJYX0xybG1wR1RBcHo1Y0RDMGZSUGhpV1NvbGZGcV9VNzlZQW1kN0ZwYmNuSzJrSXdFaXVrYVhXSEFvTl9xY21POHNFQmhBQzdnelBraDdvWGtmUnpac2VhY3Q0VTNVWkotNHM3X2RTa3hRcENINnFiR2c5QjlzSUpTUm1MY2M?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQbUhPYVN1WUJsdktiZEx3dUE5WkJ2LXFneFFmN1RhVUNWUmlEaGtNTUxobTY2bm5VMkZMY2lBTU5FLURJYmxjQnRhSkpHTnlZRXZvb3EtMmRlc3N0bFFQQzk0c1ZvQVpBcTRGT1ZidlNhXzJSM0I3Z1hYbVhzcGxtbGw3QzVycU9YQnZrMkxEWktNOUJRUFRuUmNKV3NORjRpRnhvem4yNHdKMzlQX0VXMzU0NGl0WWd3ejNEYWpFQUpoN3RMNkhFa3JEOTd5Y3JLblAxNENkX0xKN1F5SER1VlJEMjlsS1cwNjc2YkZUUlB1X1FMakwwVllIdGxGeFlzdkM5UnpDMEU1bEs0YkZYRDFxRnFNUHVLU1JJRlhKTmYtZkk2WC13NGlhQThySlRQclg3ZVJiY3ZtdjRKakY3cWNNcW85ZXdjdF9HWEJaTUlRSHdQNmphNUt0ekNKNXUtQWNPODNxOTk4MlQzWlJpd2VR?oc=5",
         "source": "MSN",
         "date": "2026-07-17",
         "tag": "price"
@@ -93,13 +93,6 @@
     ],
     "香蕉": [
       {
-        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TdFVFUFFIZHI1SE85eHhvZ2wxTVRTVk1GUGdFRTJQN1F2elk2MGpuVVBXQ3NVM0pSY0ZraVU2VHZQUXBnM2lWU9IBTEFVX3lxTE1HY01ZSTBaN3FiSnJ5b0IweXhjMDUzSHNhZDMzMGRLOWlYMUt1anlNX0U1bE1QdUZkS1FESXBRREpZS2hPbjVocHpmVng?oc=5",
-        "source": "三立新聞",
-        "date": "2026-07-12",
-        "tag": "price"
-      },
-      {
         "title": "前進鳳山車站！台鐵便當體驗館開箱國產水果特色加工品 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04NEdtcERiaFBSX0FTSmE1S3JwcDU0QzlCellNREdzempOREFFYVhxb1ppTXZZUlVnNVBDZmdKUVpEZEtVVTg3RHBtRXQ1bC1MVXl1Vnh3?oc=5",
         "source": "中央社 CNA",
@@ -119,6 +112,13 @@
         "source": "中央社 CNA",
         "date": "2026-06-22",
         "tag": "market"
+      },
+      {
+        "title": "端午包粽需求激增 農業部加強糯米、豬肉、香菇市場調配 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cGdSam5BRmhGcUQwcF8yY2xQWTFYVENGbnR1U0VmcXczME9ybXY2YUZNLVhuN2RaUWJScjNSNHR5TF9JUl90bnBDVnk4WXBDcFZ2ODh2OV9ueks3UFhhLTVsUmbSAWpBVV95cUxNNzZfVFFpb3J4clZtYmdzZFRPR2s5aW1pYW1IZlBwN2RNT0M2SDBYT0dTMDNuYXNSRi14Y1FNUXBSQmJ4Q2xBdXV3QTdLd2JzTU9RSUtuQUV2Zlh2R2ZFaUlaZXJTbkNOU0h3?oc=5",
+        "source": "自由時報",
+        "date": "2026-06-18",
+        "tag": "policy"
       }
     ],
     "木瓜": [],
@@ -168,17 +168,17 @@
         "tag": "market"
       },
       {
-        "title": "憶鳳梨釋迦20年外銷起伏 吳音寧：政治掛帥市場不可靠 | CTWANT - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa2k5OTN3NFhwNHJNdnNEUGs0ZVRnSTZXZl80M2JtOTR6WWFyaUFMOTNxTGVIcHdhbGNYR3JLRGZVVlVqbXlPT2xGVldpaVFhVjF0anhB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-21",
-        "tag": "market"
-      },
-      {
         "title": "台灣到底還要被「鳳梨釋迦」多少次？ - 鏡報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xU3RNUlA2VEJaaFc1OUhMT0lCY21nUEVJeXFpS2l1czdhVnVFTEpNMERHZDBoV1JpaFF5dXJLQ05ZcU13WlNNYnY0a0M0bFNkQkE?oc=5",
         "source": "鏡報",
         "date": "2026-06-22",
+        "tag": "market"
+      },
+      {
+        "title": "憶鳳梨釋迦20年外銷起伏 吳音寧：政治掛帥市場不可靠 | CTWANT - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa2k5OTN3NFhwNHJNdnNEUGs0ZVRnSTZXZl80M2JtOTR6WWFyaUFMOTNxTGVIcHdhbGNYR3JLRGZVVlVqbXlPT2xGVldpaVFhVjF0anhB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-21",
         "tag": "market"
       }
     ],
@@ -235,18 +235,18 @@
         "tag": "market"
       },
       {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-05",
-        "tag": "weather"
-      },
-      {
         "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
         "source": "大纪元",
         "date": "2026-06-28",
         "tag": "price"
+      },
+      {
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "UDN",
+        "date": "2026-07-05",
+        "tag": "weather"
       }
     ],
     "茄子": [],
