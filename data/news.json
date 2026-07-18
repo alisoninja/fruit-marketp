@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T14:24:01.785Z",
+  "updatedAt": "2026-07-18T17:06:58.137Z",
   "news": {
     "鳳梨": [
       {
@@ -168,17 +168,17 @@
         "tag": "market"
       },
       {
-        "title": "憶鳳梨釋迦20年外銷起伏 吳音寧：政治掛帥市場不可靠 | CTWANT - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa2k5OTN3NFhwNHJNdnNEUGs0ZVRnSTZXZl80M2JtOTR6WWFyaUFMOTNxTGVIcHdhbGNYR3JLRGZVVlVqbXlPT2xGVldpaVFhVjF0anhB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-06-21",
-        "tag": "market"
-      },
-      {
         "title": "台灣到底還要被「鳳梨釋迦」多少次？ - 鏡報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xU3RNUlA2VEJaaFc1OUhMT0lCY21nUEVJeXFpS2l1czdhVnVFTEpNMERHZDBoV1JpaFF5dXJLQ05ZcU13WlNNYnY0a0M0bFNkQkE?oc=5",
         "source": "鏡報",
         "date": "2026-06-22",
+        "tag": "market"
+      },
+      {
+        "title": "憶鳳梨釋迦20年外銷起伏 吳音寧：政治掛帥市場不可靠 | CTWANT - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa2k5OTN3NFhwNHJNdnNEUGs0ZVRnSTZXZl80M2JtOTR6WWFyaUFMOTNxTGVIcHdhbGNYR3JLRGZVVlVqbXlPT2xGVldpaVFhVjF0anhB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-06-21",
         "tag": "market"
       }
     ],
