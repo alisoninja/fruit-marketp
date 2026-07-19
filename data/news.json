@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T09:07:58.392Z",
+  "updatedAt": "2026-07-19T14:40:11.353Z",
   "news": {
     "鳳梨": [
       {
@@ -33,6 +33,13 @@
     ],
     "芒果": [
       {
+        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOR0pKVzhXSUNJQ2F0bnVSc2RrbmpTSnVhSHZndm8zLUdkS01PdzlwQW9ha0tWbzNPanRhMXpsX3NoT2VjQzFUb1Z5M0tyVXhLcnVPTXhGWGlfWlV2UjlhMzVNbDBLZzVFOFpRTHQ1U3BuUWx4MGJBRzd2RXZYYUI5R3dTdUgxVndvVTJNbmxRSGw5YlpEbU1WcXFIcnpNVlQtVy1mV2hoeEY5cjFwb1RkYi1TT1BnWm9MSzZSQURDTGpTaFhoMXVOQ2NhMjV2TUw0bS00V3UwaHFOQ3ZoeG9CSHVmSm9HNVc4WDRla1d5TXoweFVnLWczaVFIU1AxdWpoYUZPMzJyM3kzZ0dQcTFwVE5uRmt6X3F3blloc251eGtnaFJubHhRR205b2ZQcE9wWjBhNTVzaE9IWkNod0hrcUVSa0tINTFWeGFyTDZBOEN6Wlg2cV9EcXB5a2NsT2V3dmFmMUk2YjU5TWg1WnN2U01uNVltRC1LRGoyU25UeHpLNFFtdHVaaDVnWXNtZnQ4dnNJZ08wVlFIX3dBLVRqVDhIT2RqdTF5TmVZa2RiVFhSaXpOcHk3SjlXaVJUSC1zYnVyNEFSR044blNSN24xeQ?oc=5",
+        "source": "MSN",
+        "date": "2026-07-19",
+        "tag": "market"
+      },
+      {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
         "source": "NOWnews今日新聞",
@@ -47,33 +54,19 @@
         "tag": "market"
       },
       {
-        "title": "謝龍介轟芒果外銷600元攏係假! 市府回應了 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNNkdmSXZSV0oyMi1CYldlUHdlVUE4V1RaVzV6eTQ5ZEFoV0tDYTNFaXhtUjlnbEFNVWNjTWktVWhLZ1hGbTBncGxmZVV5R2g3ZGdZLVVSX3ZNaFlka1hKTWdQRUdxYlM5N0dWb0cxU2taWlBMY1lGeDk5aEpSQWtQR2ZiT2kxcXpyTG1LZzZEb2llaGdIVzdpdXo1LXBhTTJSYlhoU3FuYzBZYUdnZHR1VmZPQXdPc1RyT1R0Q1A1MGJTWGdObkhoWkpkZTYyR0lrWlFILXQ3ZGpERkFIeUdUb1RPNVN4Z04tZG1oUmhVYVlRNkg1Y21IUTItU0xzTEcwMms3Vm9RSUxOaTRpSERkcVFzVTVVNGljNFN6S2NYeUU1X2RMdE9DbFJGSzZiOG52Zk5aR0F1TmtaQVpMRWhqRy1rb2YzeWRtUW84Uk5jZEUwM0lMcXBvTGVydEw4YTl0Q0tRVW5DdF91ZW1EemY2d2dfcGVhMFpHUVVwMmtUcDN3SWY5YWVLZjRhcjZlWDZvaFNxOFh5c3ZaZVl1ZHctRFNya0libEtlLTVuMVc0OXQ2WF9kNHVORGxpdFVrdGdhVUVtaGM1QzROTnNuWXBkTXJ2LU5WU0k?oc=5",
-        "source": "MSN",
-        "date": "2026-07-17",
-        "tag": "market"
-      },
-      {
-        "title": "台灣芒果到法國「1顆飆破1000元」仍秒殺 旅歐台人：吃的是鄉愁 - 壹蘋新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1JMOXBXcmc1Y2hwMXBDZ0Q2Y1BVWTNvWVo1MGR0NHVYNktjaFNkTl9ZcUxFclpJUW9BNURvV1JtWHVONnNhT1hPU2otUmRjMnBDTU5vM3gwWkdJb051N0dVVjVCanFZLTNxXzMyRFl3Y0dzeWw1cndPUXNDOHFRN1hPTF84eFozSmc?oc=5",
-        "source": "壹蘋新聞網",
-        "date": "2026-06-21",
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
         "tag": "market"
       }
     ],
     "荔枝": [
       {
-        "title": "產量翻倍 玉荷包、 愛文芒果批發價腰斬 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWk44RktHb29QOXlfNHllVzdUTTRZcEQyeG5Ka2kyZmtfRVA0ZFVEc0hFc0lhcjgzOFJzOElMdHg0MllHQ19kUVlBMTZlYXpGV1ZDcnp3Mm1KWWJlNnhZc0hCclVEcGxlLUdRZVhfS0ZYMUczUEd1UUdERU45TDMxd2Ywal9mSzlKQ01KVXNHd2tJVVB5WEpXcFF0a3kxUGwwbUFxV2FaRHc3QmUxLUV1dUdkUjVvOGY3MS1sWVNsclBZd1Y0ajU1YVo5N3FUVkkwdHp0U1hYVVdvVmZ3Sk8xNkRjc1I3M3Rla2ptdF84Rm9TZzgxNzFfNjF3V0hrem5uaF8zUFJuM25zdTMwNHZOQjRyVGhuRXpqUU9tUDIzOUhqeEphWWJCQ1J2bGM2UnUxckZJ?oc=5",
+        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOR0pKVzhXSUNJQ2F0bnVSc2RrbmpTSnVhSHZndm8zLUdkS01PdzlwQW9ha0tWbzNPanRhMXpsX3NoT2VjQzFUb1Z5M0tyVXhLcnVPTXhGWGlfWlV2UjlhMzVNbDBLZzVFOFpRTHQ1U3BuUWx4MGJBRzd2RXZYYUI5R3dTdUgxVndvVTJNbmxRSGw5YlpEbU1WcXFIcnpNVlQtVy1mV2hoeEY5cjFwb1RkYi1TT1BnWm9MSzZSQURDTGpTaFhoMXVOQ2NhMjV2TUw0bS00V3UwaHFOQ3ZoeG9CSHVmSm9HNVc4WDRla1d5TXoweFVnLWczaVFIU1AxdWpoYUZPMzJyM3kzZ0dQcTFwVE5uRmt6X3F3blloc251eGtnaFJubHhRR205b2ZQcE9wWjBhNTVzaE9IWkNod0hrcUVSa0tINTFWeGFyTDZBOEN6Wlg2cV9EcXB5a2NsT2V3dmFmMUk2YjU5TWg1WnN2U01uNVltRC1LRGoyU25UeHpLNFFtdHVaaDVnWXNtZnQ4dnNJZ08wVlFIX3dBLVRqVDhIT2RqdTF5TmVZa2RiVFhSaXpOcHk3SjlXaVJUSC1zYnVyNEFSR044blNSN24xeQ?oc=5",
         "source": "MSN",
-        "date": "2026-07-17",
-        "tag": "market"
-      },
-      {
-        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-06",
+        "date": "2026-07-19",
         "tag": "market"
       },
       {
@@ -81,6 +74,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81SWJic2hfd1FsQ0ZOM2FHSlV1TW1uZl9ERmF3SGIwN0RUZHhYYU1DRFFuZDRmLVY0blhkakpzR0lYdjMtVDZWVjYtZ3Qtc3ZSd0ZDN0RB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-06-21",
+        "tag": "market"
+      },
+      {
+        "title": "產量翻倍 玉荷包、 愛文芒果批發價腰斬 - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWk44RktHb29QOXlfNHllVzdUTTRZcEQyeG5Ka2kyZmtfRVA0ZFVEc0hFc0lhcjgzOFJzOElMdHg0MllHQ19kUVlBMTZlYXpGV1ZDcnp3Mm1KWWJlNnhZc0hCclVEcGxlLUdRZVhfS0ZYMUczUEd1UUdERU45TDMxd2Ywal9mSzlKQ01KVXNHd2tJVVB5WEpXcFF0a3kxUGwwbUFxV2FaRHc3QmUxLUV1dUdkUjVvOGY3MS1sWVNsclBZd1Y0ajU1YVo5N3FUVkkwdHp0U1hYVVdvVmZ3Sk8xNkRjc1I3M3Rla2ptdF84Rm9TZzgxNzFfNjF3V0hrem5uaF8zUFJuM25zdTMwNHZOQjRyVGhuRXpqUU9tUDIzOUhqeEphWWJCQ1J2bGM2UnUxckZJ?oc=5",
+        "source": "MSN",
+        "date": "2026-07-17",
         "tag": "market"
       },
       {
