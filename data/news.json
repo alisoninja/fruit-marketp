@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:43:44.710Z",
+  "updatedAt": "2026-07-19T02:15:09.680Z",
   "news": {
     "鳳梨": [
       {
@@ -40,10 +40,10 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-07-01",
+        "date": "2026-07-06",
         "tag": "market"
       },
       {
@@ -54,9 +54,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣芒果成功打進法國市場！媒體人反嗆大外宣：僅佔整體外銷份額0.1% | 張大任 | 新聞 - 風傳媒",
+        "title": "台灣芒果成功打進法國市場！媒體人反嗆大外宣：僅佔整體外銷份額0.1% | 張大任 | 新聞 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKUEUwSE45dTBwRlJmelRrNEdjRzNUUlNuenV5NTlNbS1CcVE2WWR0dldRd2hiS095aFByandJS1g4cHBUdGJyOExubzRnQQ?oc=5",
-        "source": "風傳媒",
+        "source": "Storm.mg",
         "date": "2026-06-21",
         "tag": "market"
       }
@@ -194,13 +194,6 @@
         "tag": "market"
       },
       {
-        "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - TVBS 健康2.0",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
-        "source": "TVBS 健康2.0",
-        "date": "2026-07-09",
-        "tag": "weather"
-      },
-      {
         "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
         "source": "中央社 CNA",
@@ -213,6 +206,13 @@
         "source": "東森新聞",
         "date": "2026-06-21",
         "tag": "market"
+      },
+      {
+        "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - TVBS 健康2.0",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
+        "source": "TVBS 健康2.0",
+        "date": "2026-07-09",
+        "tag": "weather"
       }
     ],
     "番茄": [],
@@ -251,15 +251,7 @@
     ],
     "茄子": [],
     "黃瓜": [],
-    "蘿蔔": [
-      {
-        "title": "嚴防強颱「巴威」來襲 桃園全面整備農漁防災 蔬菜滾動倉儲95公噸待命 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2xqbmVjNEVyMkhVTG1xNzRqZzdhb0trZFhZNmFLSTFrbFZEVnQ0WHN3aFE2NG5udldmMHYyTGF1RTM3bU1YUFMwbHdLa2QwTDVIbmpxclFWMHRSQzY0VmFxTnhreFA2V3o1ekEyam9qcFNIaDBZYTQxRFB6eGhrOEJJUHltRE1hWlhFZw?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-07-09",
-        "tag": "weather"
-      }
-    ],
+    "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
