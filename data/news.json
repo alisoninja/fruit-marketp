@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:11:01.574Z",
+  "updatedAt": "2026-07-20T18:03:54.684Z",
   "news": {
     "鳳梨": [
       {
@@ -208,16 +208,16 @@
         "tag": "market"
       },
       {
-        "title": "國產貨爆崩盤危機 - 東森新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yVnMtUktKeXJObFZTYTFDQVFwZ2pkaVRabHZQYnVlZkd5LV9RTElSNGpzM1FxZGY3OEc1T3hIRzFnaGpPX3ZBX1k0d2UzQ09tUmxNYg?oc=5",
-        "source": "東森新聞",
-        "date": "2026-06-21",
-        "tag": "market"
-      },
-      {
         "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - TVBS 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
         "source": "TVBS 健康2.0",
+        "date": "2026-07-09",
+        "tag": "weather"
+      },
+      {
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
+        "source": "大纪元",
         "date": "2026-07-09",
         "tag": "weather"
       }
@@ -227,13 +227,6 @@
     "地瓜": [],
     "菠菜": [],
     "青花菜": [
-      {
-        "title": "菜價還沒穩！北農推13款平穩蔬菜 把菜、玉米筍35元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1USUZaVWpuWTl0bGJ4OVJnTm5CTHpiQWF2UXZHdmlIWTFkN0hiMUZOcXFzNkVxYXg4R3ZWaWk1VkJLd0gxcXB4OW9Mc3BSN2lFUWV3dXU5UjA2LXdlalNKc21QZTnSAWpBVV95cUxPR2dyemZkVlVuV1poUl9ZZFhUR2xGdGxaLWhVWjd4NFJmQnpibW1uaUg3NGxLeXNjOGlVbWl4ei1aTWlGRG5adlR3NHJPZFU1ejh2Smk0T3lhM094WS1Oa1ZnQnAyS0xfMDF3?oc=5",
-        "source": "自由時報",
-        "date": "2026-07-16",
-        "tag": "market"
-      },
       {
         "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
@@ -246,6 +239,13 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
         "date": "2026-07-09",
+        "tag": "weather"
+      },
+      {
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "UDN",
+        "date": "2026-07-05",
         "tag": "weather"
       },
       {
