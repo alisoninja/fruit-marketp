@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T02:11:23.159Z",
+  "updatedAt": "2026-07-22T05:22:47.462Z",
   "news": {
     "鳳梨": [
       {
@@ -213,13 +213,6 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-07-08",
-        "tag": "market"
-      },
-      {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
@@ -232,6 +225,13 @@
         "source": "大纪元",
         "date": "2026-06-28",
         "tag": "price"
+      },
+      {
+        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-13",
+        "tag": "weather"
       },
       {
         "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
