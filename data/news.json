@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T17:29:10.444Z",
+  "updatedAt": "2026-07-22T22:55:31.640Z",
   "news": {
     "鳳梨": [
       {
@@ -17,17 +17,17 @@
         "tag": "policy"
       },
       {
-        "title": "中國提將採購鳳梨釋迦、 石斑魚農業部回應 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNkM5UEx5VEhoTWpJVU9xNEVDbV9faV96a1ZWcjRZZVp5ZndoY25PRVFGUm1MMFV5LXBUVFB1VDNsTWhPMi1UTGo2bldScFM2bFJjcEdYaTRzbzJENWhaaXRmd092WHNrUUNXODk2SmhYdDMxZGRiZUNUTno5SkFneDdwZEcwNHRDTndRMVdxM3Q1LWFKQU1mRl9YUmVMRUdMaGNGOVNBYTY4MkFvSXdVQmNKOEY3SVFnRnZnUVBTXzNtTldadnQyYzVBTVhPeWwyWWlCYzRkTmFIZndidEM2Q1VacGxfSFZteURHMUNkMW9kRGwyNTdOMWNfcHZRTEVDYVNaLXVjdWlrbWdyOWlmM3VlQmIyVFVZMTBZdHFlWGEzV1plOUVzSnNEVGZZdUZEN1VHamlGSDM3UG1EWVZfVG5fdTQtaVBtS29N?oc=5",
-        "source": "MSN",
-        "date": "2026-07-20",
-        "tag": "policy"
-      },
-      {
         "title": "前進鳳山車站！台鐵便當體驗館開箱國產水果特色加工品 - 中央社 CNA",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04NEdtcERiaFBSX0FTSmE1S3JwcDU0QzlCellNREdzempOREFFYVhxb1ppTXZZUlVnNVBDZmdKUVpEZEtVVTg3RHBtRXQ1bC1MVXl1Vnh3?oc=5",
         "source": "中央社 CNA",
         "date": "2026-06-30",
+        "tag": "market"
+      },
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-02",
         "tag": "market"
       }
     ],
@@ -54,10 +54,10 @@
         "tag": "market"
       },
       {
-        "title": "台灣出名了！傳歐盟饕客超愛我國「這水果」 竟橫掃法國高端市場 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OSk44aEY2V1ZTd25rQUk0SThnSEJwdmViQU1NOXNTWktWWjBocjRoajl5MWtvZWg3NkMtTVZiYWlhT09aeng0Q0RxNG5EbjlacGpmbDlR?oc=5",
+        "title": "不只法國買得到！台灣芒果順利通過英國檢疫 正式進軍倫敦知名超商 | Newtalk - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kbHAtY05ibGhMbEVzZ2t3aFlyRHh6ZU1kRFh4azJVRVdMRWpGb1hhLVpfQVRpQnpPZy1hSnp0T2lUQzJReGJwY1lBMVhfanpES1dhbGFB?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-06-23",
+        "date": "2026-06-25",
         "tag": "market"
       }
     ],
@@ -70,9 +70,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - MSN",
+        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - msn.com",
         "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxObVdwSmMzSnJ5ZDU5WjktUDZVLWNmWEkydTl0TTBvcEVsUUg0RlR4dmZCTFBjbzdRSE5lTHczdUFuOGJrNEkxQ2tPMHdYQkpONElvMFh1N0xFNW45M0lFRkVTZU1zdXhpb2hpOFV0dmNQNGNrbWY2N1AzRzJYQmwtX21aS3o1ZHQ5R0l6M3RhdDMzTXFrWlFJUGxVSHkySkNKS1ZfaUdnTVNIWmZMX28zemFUSFdfS3lxWHdzeUFQalhlUGtfb1A4VVdLSUhyaGxXQ2VxZFJvXzlHTFdVbVBKamhORVhCb2k1anhNeXdDWEtwSEFabjJGZUV2bklnZEcwQzJCbnRPenhGZDZOOUlVNnFUeTZMem5GUm9LMzZvaFlxODEyQVFBbXFRWklnV0dYX2RsbDQ1YUx3QXkwWG1nZHBsbjJ0SU1VUFBlckxmcE82ZER6dmVjWWltNmhLbTNNb2tMbWJSeWhFZ3FTeUpYUTlDRmRtd3VPMDhzQWhzX1JXWDVKNVhWX2VVMlRXbFVzdU5wSEx5Ty03WkpjbEFlWnM1SjNYVzMwWDRNTTBYelFSYXI2Zmo1WTlJNXlNZkV3YjF2ZUpPOExsRXhqUmxJRGlBYWtqX0VhcFdfV05WM182c2x0UmFVWDdKdWs1QVIwTVRLc3hSZHYzbW95dEZpQ3I3Y09hSVNGcUR5MzUwS1VuTzRPYzYzcHJsTTgxOE5oT29rZ2RBUzFzb1I1bnZRZlMzMlhWUUhPWXFQVE9OOXNvQ2VRQVg0c0J6WTY4X0laZWd2dS1kWVJQaGlJQ2JGZE80SGQ4UQ?oc=5",
-        "source": "MSN",
+        "source": "msn.com",
         "date": "2026-07-19",
         "tag": "market"
       },
@@ -135,15 +135,7 @@
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
-    "文旦": [
-      {
-        "title": "中國提將採購鳳梨釋迦、 石斑魚農業部回應 - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNkM5UEx5VEhoTWpJVU9xNEVDbV9faV96a1ZWcjRZZVp5ZndoY25PRVFGUm1MMFV5LXBUVFB1VDNsTWhPMi1UTGo2bldScFM2bFJjcEdYaTRzbzJENWhaaXRmd092WHNrUUNXODk2SmhYdDMxZGRiZUNUTno5SkFneDdwZEcwNHRDTndRMVdxM3Q1LWFKQU1mRl9YUmVMRUdMaGNGOVNBYTY4MkFvSXdVQmNKOEY3SVFnRnZnUVBTXzNtTldadnQyYzVBTVhPeWwyWWlCYzRkTmFIZndidEM2Q1VacGxfSFZteURHMUNkMW9kRGwyNTdOMWNfcHZRTEVDYVNaLXVjdWlrbWdyOWlmM3VlQmIyVFVZMTBZdHFlWGEzV1plOUVzSnNEVGZZdUZEN1VHamlGSDM3UG1EWVZfVG5fdTQtaVBtS29N?oc=5",
-        "source": "MSN",
-        "date": "2026-07-20",
-        "tag": "policy"
-      }
-    ],
+    "文旦": [],
     "釋迦": [
       {
         "title": "海峽論壇中共重提採購台灣農產品 但農業部認為中國市場易對農民形成「養套殺」一顆鳳梨釋迦如何引爆抗中保台爭議？ - RFI",
