@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T06:33:12.848Z",
+  "updatedAt": "2026-07-23T09:27:44.643Z",
   "news": {
     "鳳梨": [
       {
@@ -54,11 +54,11 @@
         "tag": "market"
       },
       {
-        "title": "擴大冷鏈系統 讓台灣農產走向全世界 - 想想Thinking Taiwan - 想想台灣，想想未來 - thinkingtaiwan.net",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53dndzYzdkX3JDYmNnMGRLYkdXSkRMOU0xMUJkdnlDbjJXUFowWEJnTnJPZmIwbnVVeU13bFNsM2lHMWlPeGtONkFmMHExR1otQWxSeWEwYWk?oc=5",
-        "source": "thinkingtaiwan.net",
-        "date": "2026-06-26",
-        "tag": "market"
+        "title": "每顆破千元！台灣愛文芒果首銷法國 從產銷佔比、補助金到進口商， 3 疑點一次看 - 全民查假會社",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZNUhmcDJRWFN4T2h2b0prQXl3elZkYi1pN2xscVIxSXppN0c0ZzVIYlZ3ckdCaWIwM0RBWlFQVk05UFZpeEN1U0hSQQ?oc=5",
+        "source": "全民查假會社",
+        "date": "2026-06-25",
+        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -217,7 +217,15 @@
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "菜價還沒穩！北農推13款平穩蔬菜 把菜、玉米筍35元 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1USUZaVWpuWTl0bGJ4OVJnTm5CTHpiQWF2UXZHdmlIWTFkN0hiMUZOcXFzNkVxYXg4R3ZWaWk1VkJLd0gxcXB4OW9Mc3BSN2lFUWV3dXU5UjA2LXdlalNKc21QZTnSAWpBVV95cUxPR2dyemZkVlVuV1poUl9ZZFhUR2xGdGxaLWhVWjd4NFJmQnpibW1uaUg3NGxLeXNjOGlVbWl4ei1aTWlGRG5adlR3NHJPZFU1ejh2Smk0T3lhM094WS1Oa1ZnQnAyS0xfMDF3?oc=5",
+        "source": "自由時報",
+        "date": "2026-07-16",
+        "tag": "market"
+      }
+    ],
     "南瓜": [],
     "苦瓜": [],
     "蔥": []
