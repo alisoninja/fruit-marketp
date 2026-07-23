@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T17:23:06.636Z",
+  "updatedAt": "2026-07-23T22:48:47.219Z",
   "news": {
     "鳳梨": [
       {
@@ -100,9 +100,9 @@
         "tag": "market"
       },
       {
-        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞",
+        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TdFVFUFFIZHI1SE85eHhvZ2wxTVRTVk1GUGdFRTJQN1F2elk2MGpuVVBXQ3NVM0pSY0ZraVU2VHZQUXBnM2lWU9IBTEFVX3lxTE1HY01ZSTBaN3FiSnJ5b0IweXhjMDUzSHNhZDMzMGRLOWlYMUt1anlNX0U1bE1QdUZkS1FESXBRREpZS2hPbjVocHpmVng?oc=5",
-        "source": "三立新聞",
+        "source": "三立新聞網SETN.com",
         "date": "2026-07-12",
         "tag": "price"
       },
@@ -128,7 +128,15 @@
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
-    "文旦": [],
+    "文旦": [
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
+        "tag": "market"
+      }
+    ],
     "釋迦": [
       {
         "title": "海峽論壇中共重提採購台灣農產品 但農業部認為中國市場易對農民形成「養套殺」一顆鳳梨釋迦如何引爆抗中保台爭議？ - RFI",
