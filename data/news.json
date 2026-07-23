@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T22:55:31.640Z",
+  "updatedAt": "2026-07-23T02:18:12.101Z",
   "news": {
     "鳳梨": [
       {
@@ -33,24 +33,10 @@
     ],
     "芒果": [
       {
-        "title": "台灣首批芒果出口英國 6/28空運500公斤 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lczNMQjhzaVd4Slp5ZVdhd0piei1IaEw1WWZ6NzNVX0hrM1IxdnU1SFc2R1ZaOGdVY1p6STJ1ZGpEODcwbGM0eFNQVktjZXM2ZWNyWjFjVHdzUEZyMVln?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-27",
-        "tag": "policy"
-      },
-      {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
         "source": "NOWnews今日新聞",
         "date": "2026-07-06",
-        "tag": "market"
-      },
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-02",
         "tag": "market"
       },
       {
@@ -59,6 +45,20 @@
         "source": "LINE TODAY",
         "date": "2026-06-25",
         "tag": "market"
+      },
+      {
+        "title": "台灣首批芒果出口英國 6/28空運500公斤 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lczNMQjhzaVd4Slp5ZVdhd0piei1IaEw1WWZ6NzNVX0hrM1IxdnU1SFc2R1ZaOGdVY1p6STJ1ZGpEODcwbGM0eFNQVktjZXM2ZWNyWjFjVHdzUEZyMVln?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-06-27",
+        "tag": "policy"
+      },
+      {
+        "title": "每顆破千元！台灣愛文芒果首銷法國 從產銷佔比、補助金到進口商， 3 疑點一次看 - 全民查假會社",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZNUhmcDJRWFN4T2h2b0prQXl3elZkYi1pN2xscVIxSXppN0c0ZzVIYlZ3ckdCaWIwM0RBWlFQVk05UFZpeEN1U0hSQQ?oc=5",
+        "source": "全民查假會社",
+        "date": "2026-06-25",
+        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -70,9 +70,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - msn.com",
+        "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - MSN",
         "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxObVdwSmMzSnJ5ZDU5WjktUDZVLWNmWEkydTl0TTBvcEVsUUg0RlR4dmZCTFBjbzdRSE5lTHczdUFuOGJrNEkxQ2tPMHdYQkpONElvMFh1N0xFNW45M0lFRkVTZU1zdXhpb2hpOFV0dmNQNGNrbWY2N1AzRzJYQmwtX21aS3o1ZHQ5R0l6M3RhdDMzTXFrWlFJUGxVSHkySkNKS1ZfaUdnTVNIWmZMX28zemFUSFdfS3lxWHdzeUFQalhlUGtfb1A4VVdLSUhyaGxXQ2VxZFJvXzlHTFdVbVBKamhORVhCb2k1anhNeXdDWEtwSEFabjJGZUV2bklnZEcwQzJCbnRPenhGZDZOOUlVNnFUeTZMem5GUm9LMzZvaFlxODEyQVFBbXFRWklnV0dYX2RsbDQ1YUx3QXkwWG1nZHBsbjJ0SU1VUFBlckxmcE82ZER6dmVjWWltNmhLbTNNb2tMbWJSeWhFZ3FTeUpYUTlDRmRtd3VPMDhzQWhzX1JXWDVKNVhWX2VVMlRXbFVzdU5wSEx5Ty03WkpjbEFlWnM1SjNYVzMwWDRNTTBYelFSYXI2Zmo1WTlJNXlNZkV3YjF2ZUpPOExsRXhqUmxJRGlBYWtqX0VhcFdfV05WM182c2x0UmFVWDdKdWs1QVIwTVRLc3hSZHYzbW95dEZpQ3I3Y09hSVNGcUR5MzUwS1VuTzRPYzYzcHJsTTgxOE5oT29rZ2RBUzFzb1I1bnZRZlMzMlhWUUhPWXFQVE9OOXNvQ2VRQVg0c0J6WTY4X0laZWd2dS1kWVJQaGlJQ2JGZE80SGQ4UQ?oc=5",
-        "source": "msn.com",
+        "source": "MSN",
         "date": "2026-07-19",
         "tag": "market"
       },
@@ -100,18 +100,11 @@
         "tag": "market"
       },
       {
-        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞",
+        "title": "高雄香蕉價格回穩！高市農業局籲民眾多吃在地好蕉挺農友 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TdFVFUFFIZHI1SE85eHhvZ2wxTVRTVk1GUGdFRTJQN1F2elk2MGpuVVBXQ3NVM0pSY0ZraVU2VHZQUXBnM2lWU9IBTEFVX3lxTE1HY01ZSTBaN3FiSnJ5b0IweXhjMDUzSHNhZDMzMGRLOWlYMUt1anlNX0U1bE1QdUZkS1FESXBRREpZS2hPbjVocHpmVng?oc=5",
-        "source": "三立新聞",
+        "source": "三立新聞網SETN.com",
         "date": "2026-07-12",
         "tag": "price"
-      },
-      {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
       },
       {
         "title": "落花生豪雨受災有救助、受損莢果有去處 農糧署協助農友減輕損失 - 中央社 CNA",
@@ -150,20 +143,6 @@
         "source": "風傳媒",
         "date": "2026-06-25",
         "tag": "market"
-      },
-      {
-        "title": "台灣到底還要被「鳳梨釋迦」多少次？ - 鏡報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xU3RNUlA2VEJaaFc1OUhMT0lCY21nUEVJeXFpS2l1czdhVnVFTEpNMERHZDBoV1JpaFF5dXJLQ05ZcU13WlNNYnY0a0M0bFNkQkE?oc=5",
-        "source": "鏡報",
-        "date": "2026-06-22",
-        "tag": "market"
-      },
-      {
-        "title": "國民黨釋迦兵敗中國vs民進黨芒果揚威法國 關鍵在於農業部的大小眼 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DLVl2OFVHejhpcUhEeF9sOWRDaWpnOGFNYmYtVk04U0IzVjZUeEkxRzZ5QUx1a245X0FmTU5zVm5KQXRKU3JsQkJPSG9iVDBBSnc?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-06-22",
-        "tag": "policy"
       }
     ],
     "龍眼": [],
@@ -185,11 +164,11 @@
         "tag": "weather"
       },
       {
-        "title": "科技鎖住鮮甜 農糧署攜手產業推出液態氮冷凍高麗菜 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT1ZhaXY4eDZxZmM1MFJaMkp4NmdOYk1HTUczZGlPRTI0a3FyY25VV0JRZnpxRUhFR3NfMmxVdkI1LXNLa1lWRUR4RDA5SDlXdUhZXzVn?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-22",
-        "tag": "market"
+        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-28",
+        "tag": "price"
       },
       {
         "title": "前進鳳山車站！台鐵便當體驗館開箱國產水果特色加工品 - 中央社 CNA",
@@ -212,11 +191,11 @@
         "tag": "weather"
       },
       {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-05",
-        "tag": "weather"
+        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
+        "source": "大纪元",
+        "date": "2026-06-28",
+        "tag": "price"
       },
       {
         "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
