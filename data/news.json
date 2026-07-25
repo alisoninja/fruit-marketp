@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T06:20:25.969Z",
+  "updatedAt": "2026-07-25T09:03:11.094Z",
   "news": {
     "鳳梨": [
       {
@@ -26,13 +26,6 @@
     ],
     "芒果": [
       {
-        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-06",
-        "tag": "market"
-      },
-      {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
         "source": "NOWnews今日新聞",
@@ -45,6 +38,13 @@
         "source": "中央社 CNA",
         "date": "2026-06-27",
         "tag": "policy"
+      },
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
+        "tag": "market"
       },
       {
         "title": "台灣水果進軍法國!林楚茵嗆藍：別再逼農民依賴「說禁就禁的中國市場」 - MSN",
@@ -172,6 +172,20 @@
     "菠菜": [],
     "青花菜": [
       {
+        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-13",
+        "tag": "weather"
+      },
+      {
+        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
+        "source": "民報",
+        "date": "2026-07-12",
+        "tag": "market"
+      },
+      {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
@@ -179,25 +193,11 @@
         "tag": "weather"
       },
       {
-        "title": "菜價還沒穩！北農推13款平穩蔬菜 把菜、玉米筍35元 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1USUZaVWpuWTl0bGJ4OVJnTm5CTHpiQWF2UXZHdmlIWTFkN0hiMUZOcXFzNkVxYXg4R3ZWaWk1VkJLd0gxcXB4OW9Mc3BSN2lFUWV3dXU5UjA2LXdlalNKc21QZTnSAWpBVV95cUxPR2dyemZkVlVuV1poUl9ZZFhUR2xGdGxaLWhVWjd4NFJmQnpibW1uaUg3NGxLeXNjOGlVbWl4ei1aTWlGRG5adlR3NHJPZFU1ejh2Smk0T3lhM094WS1Oa1ZnQnAyS0xfMDF3?oc=5",
-        "source": "自由時報",
-        "date": "2026-07-16",
-        "tag": "market"
-      },
-      {
-        "title": "農糧署因應巴威颱風來襲：已輔導農民團體加強調配與分流供應 | 勁報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNlhfSFVJdW5FeHFfRk1GUFhBMEJFWTJhMnQxVGZUdnlsY3VERHF4WVhzRXFKN005bDYtNm9NWnFwNkJFd0NKYzRWZ1NfUjUzUFlwMHNn?oc=5",
-        "source": "LINE TODAY",
+        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
+        "source": "中央社 CNA",
         "date": "2026-07-08",
-        "tag": "weather"
-      },
-      {
-        "title": "連日強降雨衝擊蔬菜產區 蔬菜價格漲逾5成 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FWTVqbHhCLVpwWFhoSDFGWW4wRHJwbV8yV2h0S0ZRZEIwUUFHclZkeE04MGpMTk5GU19ac0tqRllwdHBwWG1ZX2tZNmY3b25SbUpleERwRHY3SWlVcUhMZtIBZkFVX3lxTE1ia21aclZVckZuUHh4ckM1Yk5yeTRydnJrV1JldVZvVGxIcVNaN0ZaRUtCUkF1Tm5EbFFTYW5vdFJlUXgyX2wzdWRDX3hFVGg0RWx6V1pjeC1CTUZiVnI4eXhlWGxiUQ?oc=5",
-        "source": "大纪元",
-        "date": "2026-06-28",
-        "tag": "price"
+        "tag": "market"
       }
     ],
     "茄子": [],
