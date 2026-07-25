@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T02:13:30.787Z",
+  "updatedAt": "2026-07-25T05:18:06.598Z",
   "news": {
     "鳳梨": [
       {
@@ -179,6 +179,13 @@
         "tag": "weather"
       },
       {
+        "title": "菜價還沒穩！北農推13款平穩蔬菜 把菜、玉米筍35元 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1USUZaVWpuWTl0bGJ4OVJnTm5CTHpiQWF2UXZHdmlIWTFkN0hiMUZOcXFzNkVxYXg4R3ZWaWk1VkJLd0gxcXB4OW9Mc3BSN2lFUWV3dXU5UjA2LXdlalNKc21QZTnSAWpBVV95cUxPR2dyemZkVlVuV1poUl9ZZFhUR2xGdGxaLWhVWjd4NFJmQnpibW1uaUg3NGxLeXNjOGlVbWl4ei1aTWlGRG5adlR3NHJPZFU1ejh2Smk0T3lhM094WS1Oa1ZnQnAyS0xfMDF3?oc=5",
+        "source": "自由時報",
+        "date": "2026-07-16",
+        "tag": "market"
+      },
+      {
         "title": "農糧署因應巴威颱風來襲：已輔導農民團體加強調配與分流供應 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNlhfSFVJdW5FeHFfRk1GUFhBMEJFWTJhMnQxVGZUdnlsY3VERHF4WVhzRXFKN005bDYtNm9NWnFwNkJFd0NKYzRWZ1NfUjUzUFlwMHNn?oc=5",
         "source": "LINE TODAY",
@@ -191,13 +198,6 @@
         "source": "大纪元",
         "date": "2026-06-28",
         "tag": "price"
-      },
-      {
-        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-07-13",
-        "tag": "weather"
       }
     ],
     "茄子": [],
