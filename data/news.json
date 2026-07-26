@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:45:31.781Z",
+  "updatedAt": "2026-07-26T02:24:06.030Z",
   "news": {
     "鳳梨": [
       {
@@ -14,13 +14,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-07-01",
-        "tag": "market"
-      },
-      {
-        "title": "鳳梨釋迦種植技術被中國學走！農試所歷時13年改良出新品種「綠翡翠」，皮薄籽少搶攻高端市場、 年底就買的到 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UWndGYWp4Q2NrV2tObjlZUm01MnF4ekFzZWVsNW9ZbTBrVDVLb0lHakhyVGNLZU1SSFJ1ZzBqYUY4UFQ5NzJXd0l6QlhMSGFv?oc=5",
-        "source": "風傳媒",
-        "date": "2026-06-25",
         "tag": "market"
       }
     ],
@@ -84,15 +77,7 @@
         "tag": "market"
       }
     ],
-    "香蕉": [
-      {
-        "title": "落花生豪雨受災有救助、受損莢果有去處 農糧署協助農友減輕損失 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMklNVUEzLXdrUS1vQ2V1aERsRi1sYzlHdW1ZZkM3ZS10MkRwYjJ4MEJmVDdzNkNnZ3BPa1JBOVQ2SWF6eDAyeU1nSmJMNTVkcHMwWXNR?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-06-25",
-        "tag": "weather"
-      }
-    ],
+    "香蕉": [],
     "木瓜": [],
     "葡萄": [],
     "蓮霧": [
@@ -116,15 +101,7 @@
         "tag": "market"
       }
     ],
-    "釋迦": [
-      {
-        "title": "鳳梨釋迦種植技術被中國學走！農試所歷時13年改良出新品種「綠翡翠」，皮薄籽少搶攻高端市場、 年底就買的到 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UWndGYWp4Q2NrV2tObjlZUm01MnF4ekFzZWVsNW9ZbTBrVDVLb0lHakhyVGNLZU1SSFJ1ZzBqYUY4UFQ5NzJXd0l6QlhMSGFv?oc=5",
-        "source": "風傳媒",
-        "date": "2026-06-25",
-        "tag": "market"
-      }
-    ],
+    "釋迦": [],
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
