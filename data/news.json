@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T15:54:19.557Z",
+  "updatedAt": "2026-07-27T18:02:05.699Z",
   "news": {
     "鳳梨": [
       {
@@ -19,10 +19,17 @@
     ],
     "芒果": [
       {
-        "title": "謝龍介轟芒果外銷600元攏係假！市府回應了 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zUVYwakRINl9pVjJzMEtrZTNBMy14QW1FdzF2VGlZWDhzeWNjUk1ENW4tR3NyUmFFTVc5RjZTTUJ5LTNsaDZpT2wycU5TYUM1d2kwVENn?oc=5",
+        "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
+        "source": "NOWnews今日新聞",
+        "date": "2026-07-06",
+        "tag": "market"
+      },
+      {
+        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-07-05",
+        "date": "2026-07-06",
         "tag": "market"
       },
       {
@@ -31,13 +38,6 @@
         "source": "中央社 CNA",
         "date": "2026-06-27",
         "tag": "policy"
-      },
-      {
-        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-06",
-        "tag": "market"
       },
       {
         "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
@@ -106,13 +106,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43UWJ3WElwTmRkMnMxU0laUFFxa1Z0OUFxRzlpSW5IRFZnaE5wSjEzSWxmWVAxUUd0NlpYWE9aYVFWS3d3S1cwSHY5OFJJVGdPeDhPR0Nobnl0cUFfUmZxV0ZfZW1lRWYyQ2fSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
         "source": "自由時報",
         "date": "2026-07-26",
-        "tag": "market"
-      },
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-01",
         "tag": "market"
       }
     ],
