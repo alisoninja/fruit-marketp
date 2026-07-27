@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T05:59:16.781Z",
+  "updatedAt": "2026-07-27T07:40:07.083Z",
   "news": {
     "鳳梨": [
       {
@@ -184,7 +184,15 @@
         "tag": "weather"
       }
     ],
-    "茄子": [],
+    "茄子": [
+      {
+        "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRUpKRk12clRfMFY1dFBVdy0xSi1WcDVjekwxa0N0bk5TbTNxU2lpQklZNXRZMzFZem5CQzZEM3RUSnZqZDlkNS1JOW5XQ3czWFVya3dB?oc=5",
+        "source": "TVBS 健康2.0",
+        "date": "2026-07-23",
+        "tag": "policy"
+      }
+    ],
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
