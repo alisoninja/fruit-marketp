@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T15:18:07.747Z",
+  "updatedAt": "2026-07-28T17:27:25.790Z",
   "news": {
     "鳳梨": [
       {
@@ -19,13 +19,6 @@
     ],
     "芒果": [
       {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43UWJ3WElwTmRkMnMxU0laUFFxa1Z0OUFxRzlpSW5IRFZnaE5wSjEzSWxmWVAxUUd0NlpYWE9aYVFWS3d3S1cwSHY5OFJJVGdPeDhPR0Nobnl0cUFfUmZxV0ZfZW1lRWYyQ2fSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
-        "source": "自由時報",
-        "date": "2026-07-26",
-        "tag": "market"
-      },
-      {
         "title": "台灣首批芒果出口英國 6/28空運500公斤|農業 - 僑新聞",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54VTF0OUlrV1ZyNk5SRk1BMUc1V0N5MUliclRReGhldWM4ZHRtV2stTmhLR2d5V2pQbjlLMDdUMURlcF9NQVlwSVJpNA?oc=5",
         "source": "僑新聞",
@@ -44,6 +37,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
         "source": "LINE TODAY",
         "date": "2026-07-06",
+        "tag": "market"
+      },
+      {
+        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英 有野心打入中高端百貨 | 鏡週刊 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DXzBYNDRQckstaEFvXzJkRDlrMzdhMVV2TTlFUENKMm1YN3JxR29KUHZDNDlfaDlTbTZWbXpONVNRVTMzZTBaS2YwbXY1OG0yU0VhQXBB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-01",
         "tag": "market"
       }
     ],
@@ -115,11 +115,11 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "台北果菜市場菜價大漲3成 農糧署揭漲價真相「這時間」將回穩 - 民報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94WnR1MU9aeTgyejFnOHBhSFJkQTRkWW9fa1FVeUxEcDN2YzU2Y1JvakFLR1hTYU9xdGVCNEYzbWM4bnhtUnAtbnIzT3FMeUxrNzAtRmtva1E4RXBhU29j?oc=5",
-        "source": "民報",
-        "date": "2026-07-12",
-        "tag": "market"
+        "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - 健康2.0",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
+        "source": "健康2.0",
+        "date": "2026-07-09",
+        "tag": "weather"
       },
       {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
