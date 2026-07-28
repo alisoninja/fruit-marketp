@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T02:08:10.336Z",
+  "updatedAt": "2026-07-28T05:17:52.537Z",
   "news": {
     "鳳梨": [
       {
@@ -19,13 +19,6 @@
     ],
     "芒果": [
       {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-26",
-        "tag": "market"
-      },
-      {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43UWJ3WElwTmRkMnMxU0laUFFxa1Z0OUFxRzlpSW5IRFZnaE5wSjEzSWxmWVAxUUd0NlpYWE9aYVFWS3d3S1cwSHY5OFJJVGdPeDhPR0Nobnl0cUFfUmZxV0ZfZW1lRWYyQ2fSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
         "source": "自由時報",
@@ -43,6 +36,13 @@
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
         "source": "NOWnews今日新聞",
+        "date": "2026-07-06",
+        "tag": "market"
+      },
+      {
+        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
+        "source": "LINE TODAY",
         "date": "2026-07-06",
         "tag": "market"
       }
@@ -122,9 +122,9 @@
         "tag": "market"
       },
       {
-        "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - TVBS 健康2.0",
+        "title": "颱風前搶菜潮！高麗菜1顆飆200元 全聯平價菜、小7冷凍高麗菜曝光 - 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbjlKRWh1d25CWjZMSzFuX200SHM3VEV4YWtOZlJGTTVpbnI2ZVVEa2VCWGtoaWFRRUItV19XRXM0NURwUmtMNWFodDJXQk0?oc=5",
-        "source": "TVBS 健康2.0",
+        "source": "健康2.0",
         "date": "2026-07-09",
         "tag": "weather"
       },
@@ -170,18 +170,18 @@
         "tag": "weather"
       },
       {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-05",
-        "tag": "weather"
+        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-08",
+        "tag": "market"
       }
     ],
     "茄子": [
       {
-        "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
+        "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRUpKRk12clRfMFY1dFBVdy0xSi1WcDVjekwxa0N0bk5TbTNxU2lpQklZNXRZMzFZem5CQzZEM3RUSnZqZDlkNS1JOW5XQ3czWFVya3dB?oc=5",
-        "source": "TVBS 健康2.0",
+        "source": "健康2.0",
         "date": "2026-07-23",
         "tag": "policy"
       }
