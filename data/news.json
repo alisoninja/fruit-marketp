@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T17:12:34.966Z",
+  "updatedAt": "2026-08-02T22:47:04.877Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -18,18 +18,18 @@
         "tag": "market"
       },
       {
-        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-07-18",
-        "tag": "market"
-      },
-      {
         "title": "芒果削皮驚見「黑毛」網友嚇壞！農業部曝原因 2種狀況別吃了 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmdXd2Z000RFV6WV9VcDhGVGNocFc1UGJYQ2phNmxUcXlOS2wwU3hHcEpDbDdERmIzUnkxNGtUYUdmclVqTUsyX1pUaEdFc1Ry0gFWQVVfeXFMTW45RVBIbWdveUJnbFNlOHEzZGUxUkdOY0d5NmN0MDlPYWZuSW1mZ1JWODN6UENGZFFic2JyeW50bXhYSnhHbHVHeTVZWUhneXZIYllpYkE?oc=5",
         "source": "UDN",
         "date": "2026-07-04",
         "tag": "policy"
+      },
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-26",
+        "tag": "market"
       }
     ],
     "荔枝": [
@@ -50,9 +50,9 @@
     ],
     "香蕉": [
       {
-        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - agriharvest.tw",
+        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iY1BITHNpdzUxRDVUTzI2bGNQbllVWDBYeVRBb2RidUtwLW9GTm5hV29EWkpIbUh0aDg1YjY3ampRY19zTVlpQk13Q3RHbmtaV0JxQWNn?oc=5",
-        "source": "agriharvest.tw",
+        "source": "農傳媒",
         "date": "2026-07-29",
         "tag": "market"
       }
@@ -75,12 +75,27 @@
     "釋迦": [],
     "龍眼": [],
     "番石榴": [],
-    "檸檬": [],
+    "檸檬": [
+      {
+        "title": "檸檬、萊姆怎麼分？專家教3技巧不怕認錯 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBITFVPRlhKN1BJQXU1OWxfc2RtOEdUemVfbjNuajJfYk5GRE10QUs1cC1HNV9MVms4eUxCeDZwQ2JzOVZHSVNnRkdBcHMzMDkx0gFWQVVfeXFMTXRyVGNiNnpHZWp3MERSdUk0cnZPa1VOSUZPNTBEN3dxOHFZbmEtbXN1VlFRTXRXTnlwUFljZk1saFZuR0F5ZW1saHZZRVBZbEk1S1VOeGc?oc=5",
+        "source": "UDN",
+        "date": "2026-07-14",
+        "tag": "market"
+      }
+    ],
     "高麗菜": [
       {
-        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - epochtimes.com",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
-        "source": "大纪元",
+        "source": "epochtimes.com",
+        "date": "2026-07-09",
+        "tag": "weather"
+      },
+      {
+        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - mirrormedia.mg",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZUdnc2dzdE1fWDZxcXNhZjdTZ19OWTRKb0RLRjNLRXV2NExYS2dKVWE5b0ViRndSNW9xQkdCYjZXaE1RenUyckx5SUY3LVNLTUdyaFY4UzE0Szkw0gFiQVVfeXFMTTBKS2xyZ010SXlFWDQwTUpoT00xWklnX1NNV2xlM1U2LWxtNDJJNVlvZU1mT1ZHcmZhZTdURVVncE0zSXFaV0tZLUdtSHRuQnlSRmZod3hXN3ZUcEdvZks2bHc?oc=5",
+        "source": "mirrormedia.mg",
         "date": "2026-07-09",
         "tag": "weather"
       },
@@ -92,11 +107,11 @@
         "tag": "market"
       },
       {
-        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZUdnc2dzdE1fWDZxcXNhZjdTZ19OWTRKb0RLRjNLRXV2NExYS2dKVWE5b0ViRndSNW9xQkdCYjZXaE1RenUyckx5SUY3LVNLTUdyaFY4UzE0Szkw0gFiQVVfeXFMTTBKS2xyZ010SXlFWDQwTUpoT00xWklnX1NNV2xlM1U2LWxtNDJJNVlvZU1mT1ZHcmZhZTdURVVncE0zSXFaV0tZLUdtSHRuQnlSRmZod3hXN3ZUcEdvZks2bHc?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-07-09",
-        "tag": "weather"
+        "title": "新北分享惜食經驗 國際視訊推動永續 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CbWpDMkVRUC1DUkRSVzdpM3VlLW1rcVRnRFFRbUJmWW9HWEt3LWlIRU9RM2theC00VnZtbjJnVWkxSTluUy1HRVd2TlBYbFY2X3c?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-07-21",
+        "tag": "market"
       }
     ],
     "番茄": [],
@@ -112,9 +127,9 @@
         "tag": "weather"
       },
       {
-        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - epochtimes.com",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
-        "source": "大纪元",
+        "source": "epochtimes.com",
         "date": "2026-07-09",
         "tag": "weather"
       },
@@ -124,9 +139,24 @@
         "source": "LINE TODAY",
         "date": "2026-07-08",
         "tag": "weather"
+      },
+      {
+        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
+        "source": "UDN",
+        "date": "2026-07-05",
+        "tag": "weather"
       }
     ],
-    "茄子": [],
+    "茄子": [
+      {
+        "title": "北市批發市場蔬果農藥殘留抽驗茄子等4品項不合格| 地方 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVjlzODFXYUxnTGlUUnlLM242TjdfWlJ1WjMxWEhycHVwakxjMmtteUJhaGVzZlFDWHZMb18ydkxQVzhTZWR4c2w1cmdKZzNJYkxONTItZGxsYWtmTEt3?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-16",
+        "tag": "policy"
+      }
+    ],
     "黃瓜": [],
     "蘿蔔": [
       {
