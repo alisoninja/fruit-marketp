@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:46:14.486Z",
+  "updatedAt": "2026-08-02T02:20:48.314Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -25,36 +25,6 @@
         "tag": "market"
       },
       {
-        "title": "台灣芒果荔枝首批空運抵英國多元通路放眼歐洲| 生活 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nRFFZWFZSVkRjN3QycGFYSFQweHZCdF96MC1UMVpoUlhsREFyMkJZSnIzUGYtS0tzcW44N0dBRHZVLXpJUWVPdFJFeWhaTThoVjJtTjRnSDFyQ1VCS2NR?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-07-02",
-        "tag": "market"
-      }
-    ],
-    "荔枝": [
-      {
-        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-06",
-        "tag": "market"
-      },
-      {
-        "title": "台灣水果歐洲開賣！首批芒果荔枝空運抵英　有野心打入中高端百貨 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMFFZdWdiZndZbm9TTHdDS00wR00wWWtBWUZtUEVPSFB5OF9xWDhBTVR1UThma1VYUzQ4Z1BzazQ2SWRCZ2x6dS1YQy1qb1N3OWI5NWhUUk50MWPSAWBBVV95cUxNZ2FCbFBFQWxoNG90UE11RVZNQkkyNGxXQ3pWVktHSERJemd4VFpZTlNIYjNYcVJsMkxuNGFNRzlwWnc0eHc3M2QxbGd5bDVTa2xESXRmYWJsaklWVFNmX2s?oc=5",
-        "source": "鏡週刊Mirror Media",
-        "date": "2026-07-02",
-        "tag": "market"
-      },
-      {
-        "title": "台灣芒果荔枝首批空運抵英國　多元通路放眼歐洲 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DUFhtWVMzV281VmhBdWRDbzdSeE82QUJUSTdTSjZCMWxuMlVMVUMzUmpmWXJIMDA5RUxUbWhrYWRpX2dUZ1VqX3NkYVNhSVZBa3dRd092SzB3aTlS0gFiQVVfeXFMTmRQMXVSWWRnMjlQdGRSVHpjNGZ3RV9zS0dlQzVvSzBOWTA1QmZJZkpqNy1ER0xpTVlablVMN0E4VnhaaTl5aFljeUVjS3JpUzhCbjdJUDE1bU12dmgxLVBTTnc?oc=5",
-        "source": "經濟日報",
-        "date": "2026-07-02",
-        "tag": "market"
-      },
-      {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
         "source": "LINE TODAY",
@@ -62,11 +32,27 @@
         "tag": "market"
       }
     ],
+    "荔枝": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-26",
+        "tag": "market"
+      },
+      {
+        "title": "謝龍介造謠大翻車！竟唱衰台灣「這水果」外銷成績 台南市府震怒回嗆 | 民視新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-06",
+        "tag": "market"
+      }
+    ],
     "香蕉": [
       {
-        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - agriharvest.tw",
+        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iY1BITHNpdzUxRDVUTzI2bGNQbllVWDBYeVRBb2RidUtwLW9GTm5hV29EWkpIbUh0aDg1YjY3ampRY19zTVlpQk13Q3RHbmtaV0JxQWNn?oc=5",
-        "source": "agriharvest.tw",
+        "source": "農傳媒",
         "date": "2026-07-29",
         "tag": "market"
       }
