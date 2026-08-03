@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T22:47:04.877Z",
+  "updatedAt": "2026-08-03T02:26:12.962Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -18,17 +18,17 @@
         "tag": "market"
       },
       {
-        "title": "芒果削皮驚見「黑毛」網友嚇壞！農業部曝原因 2種狀況別吃了 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmdXd2Z000RFV6WV9VcDhGVGNocFc1UGJYQ2phNmxUcXlOS2wwU3hHcEpDbDdERmIzUnkxNGtUYUdmclVqTUsyX1pUaEdFc1Ry0gFWQVVfeXFMTW45RVBIbWdveUJnbFNlOHEzZGUxUkdOY0d5NmN0MDlPYWZuSW1mZ1JWODN6UENGZFFic2JyeW50bXhYSnhHbHVHeTVZWUhneXZIYllpYkE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-04",
-        "tag": "policy"
-      },
-      {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
         "source": "LINE TODAY",
         "date": "2026-07-26",
+        "tag": "market"
+      },
+      {
+        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
+        "source": "NOWnews今日新聞",
+        "date": "2026-07-18",
         "tag": "market"
       }
     ],
@@ -86,16 +86,16 @@
     ],
     "高麗菜": [
       {
-        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - epochtimes.com",
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
-        "source": "epochtimes.com",
+        "source": "大纪元",
         "date": "2026-07-09",
         "tag": "weather"
       },
       {
-        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - mirrormedia.mg",
+        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - 鏡週刊Mirror Media",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZUdnc2dzdE1fWDZxcXNhZjdTZ19OWTRKb0RLRjNLRXV2NExYS2dKVWE5b0ViRndSNW9xQkdCYjZXaE1RenUyckx5SUY3LVNLTUdyaFY4UzE0Szkw0gFiQVVfeXFMTTBKS2xyZ010SXlFWDQwTUpoT00xWklnX1NNV2xlM1U2LWxtNDJJNVlvZU1mT1ZHcmZhZTdURVVncE0zSXFaV0tZLUdtSHRuQnlSRmZod3hXN3ZUcEdvZks2bHc?oc=5",
-        "source": "mirrormedia.mg",
+        "source": "鏡週刊Mirror Media",
         "date": "2026-07-09",
         "tag": "weather"
       },
@@ -127,9 +127,9 @@
         "tag": "weather"
       },
       {
-        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - epochtimes.com",
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
-        "source": "epochtimes.com",
+        "source": "大纪元",
         "date": "2026-07-09",
         "tag": "weather"
       },
