@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T02:26:12.962Z",
+  "updatedAt": "2026-08-03T05:46:39.171Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -93,9 +93,9 @@
         "tag": "weather"
       },
       {
-        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - 鏡週刊Mirror Media",
+        "title": "強颱來襲菜價飆？農糧署出手開賣平價蔬菜 - mirrormedia.mg",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZUdnc2dzdE1fWDZxcXNhZjdTZ19OWTRKb0RLRjNLRXV2NExYS2dKVWE5b0ViRndSNW9xQkdCYjZXaE1RenUyckx5SUY3LVNLTUdyaFY4UzE0Szkw0gFiQVVfeXFMTTBKS2xyZ010SXlFWDQwTUpoT00xWklnX1NNV2xlM1U2LWxtNDJJNVlvZU1mT1ZHcmZhZTdURVVncE0zSXFaV0tZLUdtSHRuQnlSRmZod3hXN3ZUcEdvZks2bHc?oc=5",
-        "source": "鏡週刊Mirror Media",
+        "source": "mirrormedia.mg",
         "date": "2026-07-09",
         "tag": "weather"
       },
@@ -139,13 +139,6 @@
         "source": "LINE TODAY",
         "date": "2026-07-08",
         "tag": "weather"
-      },
-      {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-05",
-        "tag": "weather"
       }
     ],
     "茄子": [
@@ -170,7 +163,15 @@
     "洋蔥": [],
     "大蒜": [],
     "玉米": [],
-    "南瓜": [],
+    "南瓜": [
+      {
+        "title": "淡水南瓜種植面積增10倍 農業局長：青農價值不只在田間 食農教育是強項 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96cDEyRTJ4NEMwd3hYdlEwd1VzbHN2bFJySXlqeklGRElNa1g3dVJveHZ6QTdjVTVNUVFPanlYcTJyVGM4WDF4U0JMZmY2bEY00gFWQVVfeXFMT0dkQWFPVGtqZERWa1Z3VExSYm9XSE14LUFNTWZCSGFDQ1NnWVhIcTRpZlgwYmVHYTAwTk1ZcXRqdjIySkZvbHJyckFoVlVBZGR5SmZNTlE?oc=5",
+        "source": "UDN",
+        "date": "2026-07-15",
+        "tag": "market"
+      }
+    ],
     "苦瓜": [],
     "蔥": []
   }
