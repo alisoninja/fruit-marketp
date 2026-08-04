@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-03T22:53:54.939Z",
+  "updatedAt": "2026-08-04T02:07:08.597Z",
   "news": {
     "鳳梨": [],
     "芒果": [
       {
-        "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - nownews.com",
+        "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
-        "source": "nownews.com",
+        "source": "NOWnews今日新聞",
         "date": "2026-07-06",
         "tag": "market"
       },
@@ -25,9 +25,9 @@
         "tag": "market"
       },
       {
-        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - nownews.com",
+        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
-        "source": "nownews.com",
+        "source": "NOWnews今日新聞",
         "date": "2026-07-18",
         "tag": "market"
       }
@@ -78,6 +78,13 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "颱風前夕菜價聞聲見漲 農糧署：高麗菜、根莖類庫存充裕 可調節供應市場需求 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wVS1zMU1mVVBuZGMxbGV6blBaSmtxa1IwSWFSMm9PSGd1RGFIWFJocFdPSU94NXJxQmN1NDl5dVRoYmFaQnRVTVN5SkxhamxEMEhEa2lB?oc=5",
+        "source": "農傳媒",
+        "date": "2026-07-08",
+        "tag": "weather"
+      },
+      {
         "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
         "source": "大纪元",
@@ -96,13 +103,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
         "source": "中央社 CNA",
         "date": "2026-07-08",
-        "tag": "market"
-      },
-      {
-        "title": "新北分享惜食經驗 國際視訊推動永續 - 中華新聞雲／中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CbWpDMkVRUC1DUkRSVzdpM3VlLW1rcVRnRFFRbUJmWW9HWEt3LWlIRU9RM2theC00VnZtbjJnVWkxSTluUy1HRVd2TlBYbFY2X3c?oc=5",
-        "source": "中華新聞雲／中華日報",
-        "date": "2026-07-21",
         "tag": "market"
       }
     ],
