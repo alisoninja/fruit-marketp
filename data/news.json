@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:50:51.710Z",
+  "updatedAt": "2026-08-04T22:54:39.571Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -110,36 +110,7 @@
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
-    "青花菜": [
-      {
-        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
-        "source": "中央社 CNA",
-        "date": "2026-07-13",
-        "tag": "weather"
-      },
-      {
-        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
-        "source": "大纪元",
-        "date": "2026-07-09",
-        "tag": "weather"
-      },
-      {
-        "title": "農糧署因應巴威颱風來襲：已輔導農民團體加強調配與分流供應 | 勁報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNlhfSFVJdW5FeHFfRk1GUFhBMEJFWTJhMnQxVGZUdnlsY3VERHF4WVhzRXFKN005bDYtNm9NWnFwNkJFd0NKYzRWZ1NfUjUzUFlwMHNn?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-08",
-        "tag": "weather"
-      },
-      {
-        "title": "颱風預期心理菜價略漲3% 農糧署：平價專區、庫存調貨供應 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByUmpVUzVDY0NlNWFpdjZLSU50ai1BMWpXS3hRUHdhTnpRRkpBNy02ZV83ZnBPMHVYbXdiN2xvRmdTX2VhVmFzQzdTNzFUeWp00gFWQVVfeXFMUF9sRnR1VjNkVDN5TmpsV1ZpLXB2MENkTGFkc1podklNQnBUaDJibUYySjRjQzdQQVpFdy1kdmZ6azVDUWxIWU84SWRzTnN3a2RyX3BmdlE?oc=5",
-        "source": "UDN",
-        "date": "2026-07-05",
-        "tag": "weather"
-      }
-    ],
+    "青花菜": [],
     "茄子": [
       {
         "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
@@ -153,7 +124,15 @@
     "蘿蔔": [],
     "洋蔥": [],
     "大蒜": [],
-    "玉米": [],
+    "玉米": [
+      {
+        "title": "颱風又大雨！ 玉米缺貨漲近3倍攤商放無薪假| EBC 東森新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kYV9KVFVRZjFZWkRJYjZpREtma1huRWFoRzN2UFhhbkx2QUhfay1pcTNaZkpQcmRUaXFuVTgyeXBreDV3NzBNQWd1OGNLRjItM0ZqNW1R?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-22",
+        "tag": "weather"
+      }
+    ],
     "南瓜": [
       {
         "title": "淡水南瓜種植面積增10倍 農業局長：青農價值不只在田間 食農教育是強項 - UDN",
