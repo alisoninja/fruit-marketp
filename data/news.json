@@ -1,15 +1,8 @@
 {
-  "updatedAt": "2026-08-05T15:20:04.722Z",
+  "updatedAt": "2026-08-05T17:35:09.240Z",
   "news": {
     "鳳梨": [],
     "芒果": [
-      {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-26",
-        "tag": "market"
-      },
       {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
@@ -29,6 +22,13 @@
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
         "source": "NOWnews今日新聞",
         "date": "2026-07-18",
+        "tag": "market"
+      },
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-26",
         "tag": "market"
       }
     ],
