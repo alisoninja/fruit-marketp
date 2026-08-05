@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-08-04T22:54:39.571Z",
+  "updatedAt": "2026-08-05T02:06:46.191Z",
   "news": {
     "鳳梨": [],
     "芒果": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-26",
+        "tag": "market"
+      },
       {
         "title": "謝龍介開嗆芒果外銷1顆600「攏係假」？農業局：這樣算出來的 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5THJwTU56a1VtVS14cUxRN25SM2dnQXlqN2dZbFM0Q3dPUnFDYjhmVk1IUjNLbmF3VmtiM29YdG95UnZacmtka01QeGLSAVJBVV95cUxQYU51dUU0OEZheEY5QjBSZS1wdlJZemVnMFlERnlCRjg5LTRBLWxRNGduNHY4MElITVNnTGpVR3J5a0w2UGdVbEo1eUdNMjRxU0V3?oc=5",
@@ -15,13 +22,6 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUTBCX2huZnlDYmQwakxWdEwwQ1hmR1VxdTY5NG40a1VRUEdfVjJzVUZDa3NSUHY4LXdfT0MxTGU1QnNYWnlRZjVGelp5S0dmU0U0YktR?oc=5",
         "source": "LINE TODAY",
         "date": "2026-07-06",
-        "tag": "market"
-      },
-      {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-26",
         "tag": "market"
       },
       {
@@ -110,7 +110,29 @@
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
-    "青花菜": [],
+    "青花菜": [
+      {
+        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-13",
+        "tag": "weather"
+      },
+      {
+        "title": "強颱巴威將至 農民搶收蔬果菜價應聲走高 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wRDJvM1Z0RWRlVzh0MmpfTVBCTWhYTFV3MHg4MlpUNmxZdzQwclhtXzh3RzM0ZG55bFhvVHVrOU1fSTlYZzZOWTlfb1VlQ21KTDAwblNoUmtubWV4OVZJ0gFkQVVfeXFMT042NTkweWVQY0h0bnFsUWRyclVGNGhQeGJIZ0NvRUFrbktkOUZrbWRPemEwVlFNV1FiQ3Z0bXJHb2ZXTE1ZRW1DTWVqSVhRV3JYXy1jdjNqX3ZPWTJDcUtHT1Bkaw?oc=5",
+        "source": "大纪元",
+        "date": "2026-07-09",
+        "tag": "weather"
+      },
+      {
+        "title": "農糧署因應巴威颱風來襲：已輔導農民團體加強調配與分流供應 | 勁報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfNlhfSFVJdW5FeHFfRk1GUFhBMEJFWTJhMnQxVGZUdnlsY3VERHF4WVhzRXFKN005bDYtNm9NWnFwNkJFd0NKYzRWZ1NfUjUzUFlwMHNn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-08",
+        "tag": "weather"
+      }
+    ],
     "茄子": [
       {
         "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
@@ -135,9 +157,9 @@
     ],
     "南瓜": [
       {
-        "title": "淡水南瓜種植面積增10倍 農業局長：青農價值不只在田間 食農教育是強項 - UDN",
+        "title": "淡水南瓜種植面積增10倍 農業局長：青農價值不只在田間 食農教育是強項 - udn.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96cDEyRTJ4NEMwd3hYdlEwd1VzbHN2bFJySXlqeklGRElNa1g3dVJveHZ6QTdjVTVNUVFPanlYcTJyVGM4WDF4U0JMZmY2bEY00gFWQVVfeXFMT0dkQWFPVGtqZERWa1Z3VExSYm9XSE14LUFNTWZCSGFDQ1NnWVhIcTRpZlgwYmVHYTAwTk1ZcXRqdjIySkZvbHJyckFoVlVBZGR5SmZNTlE?oc=5",
-        "source": "UDN",
+        "source": "udn.com",
         "date": "2026-07-15",
         "tag": "market"
       }
