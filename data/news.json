@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-06T05:24:24.965Z",
+  "updatedAt": "2026-08-06T06:30:15.444Z",
   "news": {
     "鳳梨": [],
     "芒果": [
-      {
-        "title": "討論牆 | 謝龍介轟芒果外銷600元攏係假！市府回應了 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZdHBYOTgyd00xWVdyNzdaTFlCTHBFeDk5Z244LWo4dkNmYUZiQnZOQWxTMktxbUlIUkJzX3Jpcl9nV3FtcWtrREJSVDZjZmctekQ5MWJDZjRDdXhoQlAxS0xpRFc?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-30",
-        "tag": "market"
-      },
       {
         "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
         "source": "NOWnews今日新聞",
         "date": "2026-07-18",
+        "tag": "market"
+      },
+      {
+        "title": "討論牆 | 謝龍介轟芒果外銷600元攏係假！市府回應了 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZdHBYOTgyd00xWVdyNzdaTFlCTHBFeDk5Z244LWo4dkNmYUZiQnZOQWxTMktxbUlIUkJzX3Jpcl9nV3FtcWtrREJSVDZjZmctekQ5MWJDZjRDdXhoQlAxS0xpRFc?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-30",
         "tag": "market"
       },
       {
@@ -85,9 +85,9 @@
         "tag": "weather"
       },
       {
-        "title": "蔬菜供應充裕 請消費者放心 - 中央社 CNA",
+        "title": "蔬菜供應充裕 請消費者放心 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa2dBUURJS1gzeGVtQWN3RjQ4TnR2elRLZDRRWUE4MURHeF9uaktEZEFQRTRwNURxeFlZWURvSHV3SmNPLURMQXZPNjVKX29qaE5QZWF3?oc=5",
-        "source": "中央社 CNA",
+        "source": "cna.com.tw",
         "date": "2026-07-08",
         "tag": "market"
       }
@@ -98,9 +98,9 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - 中央社 CNA",
+        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - cna.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
-        "source": "中央社 CNA",
+        "source": "cna.com.tw",
         "date": "2026-07-13",
         "tag": "weather"
       },
