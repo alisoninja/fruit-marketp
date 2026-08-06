@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-08-06T06:30:15.444Z",
+  "updatedAt": "2026-08-06T09:40:13.259Z",
   "news": {
     "鳳梨": [],
     "芒果": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-07-26",
+        "tag": "market"
+      },
       {
         "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
@@ -16,13 +23,6 @@
         "source": "LINE TODAY",
         "date": "2026-07-30",
         "tag": "market"
-      },
-      {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-25",
-        "tag": "market"
       }
     ],
     "荔枝": [
@@ -30,15 +30,15 @@
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-07-25",
+        "date": "2026-07-26",
         "tag": "market"
       }
     ],
     "香蕉": [
       {
-        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - 農傳媒",
+        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - agriharvest.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iY1BITHNpdzUxRDVUTzI2bGNQbllVWDBYeVRBb2RidUtwLW9GTm5hV29EWkpIbUh0aDg1YjY3ampRY19zTVlpQk13Q3RHbmtaV0JxQWNn?oc=5",
-        "source": "農傳媒",
+        "source": "agriharvest.tw",
         "date": "2026-07-29",
         "tag": "market"
       }
@@ -64,9 +64,9 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "颱風前夕菜價聞聲見漲 農糧署：高麗菜、根莖類庫存充裕 可調節供應市場需求 - 農傳媒",
+        "title": "颱風前夕菜價聞聲見漲 農糧署：高麗菜、根莖類庫存充裕 可調節供應市場需求 - agriharvest.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wVS1zMU1mVVBuZGMxbGV6blBaSmtxa1IwSWFSMm9PSGd1RGFIWFJocFdPSU94NXJxQmN1NDl5dVRoYmFaQnRVTVN5SkxhamxEMEhEa2lB?oc=5",
-        "source": "農傳媒",
+        "source": "agriharvest.tw",
         "date": "2026-07-08",
         "tag": "weather"
       },
