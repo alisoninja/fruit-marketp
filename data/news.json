@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T15:17:48.214Z",
+  "updatedAt": "2026-08-07T01:31:23.284Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -7,7 +7,7 @@
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-07-26",
+        "date": "2026-07-25",
         "tag": "market"
       },
       {
@@ -16,13 +16,6 @@
         "source": "NOWnews今日新聞",
         "date": "2026-07-18",
         "tag": "market"
-      },
-      {
-        "title": "討論牆 | 謝龍介轟芒果外銷600元攏係假！市府回應了 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZdHBYOTgyd00xWVdyNzdaTFlCTHBFeDk5Z244LWo4dkNmYUZiQnZOQWxTMktxbUlIUkJzX3Jpcl9nV3FtcWtrREJSVDZjZmctekQ5MWJDZjRDdXhoQlAxS0xpRFc?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-30",
-        "tag": "market"
       }
     ],
     "荔枝": [
@@ -30,7 +23,7 @@
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-07-26",
+        "date": "2026-07-25",
         "tag": "market"
       }
     ],
@@ -85,9 +78,9 @@
         "tag": "weather"
       },
       {
-        "title": "新北分享惜食經驗 國際視訊推動永續 - 中華新聞雲／中華日報",
+        "title": "新北分享惜食經驗 國際視訊推動永續 - cdns.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CbWpDMkVRUC1DUkRSVzdpM3VlLW1rcVRnRFFRbUJmWW9HWEt3LWlIRU9RM2theC00VnZtbjJnVWkxSTluUy1HRVd2TlBYbFY2X3c?oc=5",
-        "source": "中華新聞雲／中華日報",
+        "source": "cdns.com.tw",
         "date": "2026-07-21",
         "tag": "market"
       }
@@ -125,6 +118,13 @@
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRUpKRk12clRfMFY1dFBVdy0xSi1WcDVjekwxa0N0bk5TbTNxU2lpQklZNXRZMzFZem5CQzZEM3RUSnZqZDlkNS1JOW5XQ3czWFVya3dB?oc=5",
         "source": "TVBS 健康2.0",
         "date": "2026-07-27",
+        "tag": "policy"
+      },
+      {
+        "title": "北市批發市場蔬果農藥殘留抽驗茄子等4品項不合格| 地方 - 中央社 CNA",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVjlzODFXYUxnTGlUUnlLM242TjdfWlJ1WjMxWEhycHVwakxjMmtteUJhaGVzZlFDWHZMb18ydkxQVzhTZWR4c2w1cmdKZzNJYkxONTItZGxsYWtmTEt3?oc=5",
+        "source": "中央社 CNA",
+        "date": "2026-07-16",
         "tag": "policy"
       }
     ],
