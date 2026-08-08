@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:40:11.201Z",
+  "updatedAt": "2026-08-08T22:20:24.378Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -52,7 +52,15 @@
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
-    "龍眼": [],
+    "龍眼": [
+      {
+        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
+        "source": "食力 foodNEXT",
+        "date": "2026-07-22",
+        "tag": "market"
+      }
+    ],
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [
