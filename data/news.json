@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:46:37.975Z",
+  "updatedAt": "2026-08-09T05:06:12.392Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -68,7 +68,15 @@
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
-    "青花菜": [],
+    "青花菜": [
+      {
+        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - cna.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
+        "source": "cna.com.tw",
+        "date": "2026-07-13",
+        "tag": "weather"
+      }
+    ],
     "茄子": [
       {
         "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
