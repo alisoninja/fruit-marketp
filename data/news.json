@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-09T07:57:27.681Z",
+  "updatedAt": "2026-08-09T13:57:31.445Z",
   "news": {
     "鳳梨": [],
     "芒果": [
-      {
-        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-07-18",
-        "tag": "market"
-      },
       {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3LSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
         "source": "自由時報",
         "date": "2026-07-26",
         "tag": "market"
+      },
+      {
+        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
+        "source": "NOWnews今日新聞",
+        "date": "2026-07-18",
+        "tag": "market"
       }
     ],
     "荔枝": [
       {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-07-25",
         "tag": "market"
       }
@@ -53,6 +53,13 @@
     "文旦": [],
     "釋迦": [],
     "龍眼": [
+      {
+        "title": "龍眼挑選、保存8大撇步　「剪果梗＋噴水」冷藏多放一周 - ETtoday新聞雲",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2bG5YY2NuSWxYM3dpcm1xdWlkLUNXcHljNDRTVXlfWUhKcENFZDZ1UTJHblZ0ZFktN21KZU02OFVUNVBna2VyRmh6aWhYSUdJM1dtYUxybEwyUnh3N0HSAUtBVV95cUxPbjhEZXFsOUkwUGZtRThmUXd5SkJrbTFycjVoanFWb25HS3FKblBwNGthNWh4aEd0QUJ3WldrZ0haangxQUpTblBxaHc?oc=5",
+        "source": "ETtoday新聞雲",
+        "date": "2026-08-08",
+        "tag": "market"
+      },
       {
         "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
