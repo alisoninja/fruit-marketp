@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T08:23:56.776Z",
+  "updatedAt": "2026-08-13T14:36:44.105Z",
   "news": {
     "鳳梨": [
       {
@@ -19,9 +19,9 @@
         "tag": "market"
       },
       {
-        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - nownews.com",
+        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
-        "source": "nownews.com",
+        "source": "NOWnews今日新聞",
         "date": "2026-07-18",
         "tag": "market"
       }
@@ -44,15 +44,30 @@
         "tag": "policy"
       },
       {
-        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - 農傳媒",
+        "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - agriharvest.tw",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iY1BITHNpdzUxRDVUTzI2bGNQbllVWDBYeVRBb2RidUtwLW9GTm5hV29EWkpIbUh0aDg1YjY3ampRY19zTVlpQk13Q3RHbmtaV0JxQWNn?oc=5",
-        "source": "農傳媒",
+        "source": "agriharvest.tw",
         "date": "2026-07-29",
         "tag": "market"
       }
     ],
     "木瓜": [],
-    "葡萄": [],
+    "葡萄": [
+      {
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZzktaDlpa1dveWw5VGpPcUU5NFBCWXl3MEE1aWlGWEVLbnhJOHhpM1VfdUhZVUpvRkdiXzljQVY4VWh2cDhFa1pRV3ljQ0QwNUVJWFgxRzI?oc=5",
+        "source": "自由時報",
+        "date": "2026-08-12",
+        "tag": "market"
+      },
+      {
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KMjFVQUVGaG5RbHNBRFFxaWJldWF0SXZncmoyRy1iUFJxODV5ZGFONU5yRjB1ZkdXd1EwTnVVNjA1R05YNVl0OTBUbVRKRXc0Wi1RV1B0MDhTNWFBT3ZzQzZGZ2s?oc=5",
+        "source": "自由財經",
+        "date": "2026-08-13",
+        "tag": "market"
+      }
+    ],
     "蓮霧": [
       {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
@@ -84,15 +99,7 @@
     "地瓜": [],
     "菠菜": [],
     "青花菜": [],
-    "茄子": [
-      {
-        "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRUpKRk12clRfMFY1dFBVdy0xSi1WcDVjekwxa0N0bk5TbTNxU2lpQklZNXRZMzFZem5CQzZEM3RUSnZqZDlkNS1JOW5XQ3czWFVya3dB?oc=5",
-        "source": "TVBS 健康2.0",
-        "date": "2026-07-27",
-        "tag": "policy"
-      }
-    ],
+    "茄子": [],
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
