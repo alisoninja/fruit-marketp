@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2026-08-12T22:32:35.622Z",
+  "updatedAt": "2026-08-13T01:31:30.002Z",
   "news": {
-    "鳳梨": [],
+    "鳳梨": [
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "風傳媒",
+        "date": "2026-08-12",
+        "tag": "policy"
+      }
+    ],
     "芒果": [
       {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
@@ -29,6 +37,13 @@
     ],
     "香蕉": [
       {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "風傳媒",
+        "date": "2026-08-12",
+        "tag": "policy"
+      },
+      {
         "title": "用真香蕉做食材！ 農糧署推廣7-ELEVEN、聖德科斯做熱壓吐司、香蕉牛奶 - 農傳媒",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iY1BITHNpdzUxRDVUTzI2bGNQbllVWDBYeVRBb2RidUtwLW9GTm5hV29EWkpIbUh0aDg1YjY3ampRY19zTVlpQk13Q3RHbmtaV0JxQWNn?oc=5",
         "source": "農傳媒",
@@ -54,9 +69,9 @@
     "釋迦": [],
     "龍眼": [
       {
-        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - foodnext.net",
+        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
-        "source": "foodnext.net",
+        "source": "食力 foodNEXT",
         "date": "2026-07-22",
         "tag": "market"
       }
@@ -68,28 +83,13 @@
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
-    "青花菜": [
-      {
-        "title": "巴威颱風逐漸遠離 蔬菜產區影響輕微 供應充裕 請消費者放心 - cna.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKV3RKZVY1d0s1c0tycDRCanNoNS0tdk1JbkNCeFFrMzhYTHZqZDJhNlhIWWJ5ak5tbi1ZcERLbllSeTlPajVxZGtEMDNSWUpuREtwamxR?oc=5",
-        "source": "cna.com.tw",
-        "date": "2026-07-13",
-        "tag": "weather"
-      }
-    ],
+    "青花菜": [],
     "茄子": [
       {
         "title": "芥藍、茄子入列！北農6月銷毀8462公斤農藥超標蔬果「四類菜」最常出包- 營養好食 - TVBS 健康2.0",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qRUpKRk12clRfMFY1dFBVdy0xSi1WcDVjekwxa0N0bk5TbTNxU2lpQklZNXRZMzFZem5CQzZEM3RUSnZqZDlkNS1JOW5XQ3czWFVya3dB?oc=5",
         "source": "TVBS 健康2.0",
         "date": "2026-07-27",
-        "tag": "policy"
-      },
-      {
-        "title": "北市批發市場蔬果農藥殘留抽驗茄子等4品項不合格| 地方 - cna.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVjlzODFXYUxnTGlUUnlLM242TjdfWlJ1WjMxWEhycHVwakxjMmtteUJhaGVzZlFDWHZMb18ydkxQVzhTZWR4c2w1cmdKZzNJYkxONTItZGxsYWtmTEt3?oc=5",
-        "source": "cna.com.tw",
-        "date": "2026-07-16",
         "tag": "policy"
       }
     ],
