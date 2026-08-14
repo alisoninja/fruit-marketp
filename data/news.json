@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:31:25.942Z",
+  "updatedAt": "2026-08-14T04:12:32.445Z",
   "news": {
     "鳳梨": [
       {
@@ -16,13 +16,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3LSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
         "source": "自由時報",
         "date": "2026-07-26",
-        "tag": "market"
-      },
-      {
-        "title": "西門町水果攤天價坑人？1顆芒果860元嚇跑韓國人　眾怒：觀光毒瘤 - NOWnews今日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2V1RMdkhiUGdTazlQTWFDcGFnRlVJQzZYdGJFVXhrT1hHWHgtQUNWcjFLbWFza2MyakpyV2ltMFFJb09SRnBmVDBUVGrSAVJBVV95cUxNQ183MDNfUzBqX3NqZGpDbEdtcGhCa05WOXNNcFJuNWl0dnYzcXpUSndoYmRsTU1GWk9jdzh5OEY0dnJrbWkzRlV4aXFnUzQ4WXRB?oc=5",
-        "source": "NOWnews今日新聞",
-        "date": "2026-07-18",
         "tag": "market"
       }
     ],
@@ -54,9 +47,9 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由時報",
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - stock.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZzktaDlpa1dveWw5VGpPcUU5NFBCWXl3MEE1aWlGWEVLbnhJOHhpM1VfdUhZVUpvRkdiXzljQVY4VWh2cDhFa1pRV3ljQ0QwNUVJWFgxRzI?oc=5",
-        "source": "自由時報",
+        "source": "stock.ltn.com.tw",
         "date": "2026-08-12",
         "tag": "market"
       },
@@ -82,7 +75,15 @@
     "柳橙": [],
     "文旦": [],
     "釋迦": [],
-    "龍眼": [],
+    "龍眼": [
+      {
+        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
+        "source": "食力 foodNEXT",
+        "date": "2026-07-22",
+        "tag": "market"
+      }
+    ],
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [],
