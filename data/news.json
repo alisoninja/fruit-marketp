@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2026-08-16T13:36:23.773Z",
+  "updatedAt": "2026-08-16T16:32:06.912Z",
   "news": {
-    "鳳梨": [],
+    "鳳梨": [
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "風傳媒",
+        "date": "2026-08-12",
+        "tag": "policy"
+      }
+    ],
     "芒果": [
       {
         "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
@@ -55,9 +63,9 @@
     "釋迦": [],
     "龍眼": [
       {
-        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - foodnext.net",
+        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
-        "source": "foodnext.net",
+        "source": "食力 foodNEXT",
         "date": "2026-07-22",
         "tag": "market"
       }
