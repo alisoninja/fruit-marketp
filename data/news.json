@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-08-18T04:36:39.684Z",
+  "updatedAt": "2026-08-18T07:43:54.953Z",
   "news": {
-    "鳳梨": [],
+    "鳳梨": [
+      {
+        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
+        "source": "UDN",
+        "date": "2026-08-15",
+        "tag": "market"
+      }
+    ],
     "芒果": [
       {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3LSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸- 生活 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3I?oc=5",
         "source": "自由時報",
         "date": "2026-07-26",
         "tag": "market"
@@ -52,7 +60,15 @@
     "西瓜": [],
     "柳橙": [],
     "文旦": [],
-    "釋迦": [],
+    "釋迦": [
+      {
+        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
+        "source": "UDN",
+        "date": "2026-08-15",
+        "tag": "market"
+      }
+    ],
     "龍眼": [
       {
         "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
