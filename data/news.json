@@ -1,19 +1,83 @@
 {
-  "updatedAt": "2026-08-19T04:41:47.254Z",
+  "updatedAt": "2026-08-19T07:43:21.825Z",
   "news": {
-    "鳳梨": [],
-    "芒果": [],
-    "荔枝": [],
-    "香蕉": [],
+    "鳳梨": [
+      {
+        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
+        "source": "UDN",
+        "date": "2026-08-15",
+        "tag": "market"
+      }
+    ],
+    "芒果": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸- 生活 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3I?oc=5",
+        "source": "自由時報",
+        "date": "2026-07-26",
+        "tag": "market"
+      }
+    ],
+    "荔枝": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
+        "source": "today.line.me",
+        "date": "2026-07-25",
+        "tag": "market"
+      }
+    ],
+    "香蕉": [
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "風傳媒",
+        "date": "2026-08-12",
+        "tag": "policy"
+      }
+    ],
     "木瓜": [],
-    "葡萄": [],
-    "蓮霧": [],
+    "葡萄": [
+      {
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3XzlyWWx3bjlzWHo0a2ZKLXpCZ3F4NDlzNFNUTGdNdDdiS3h1WTZOVDNWWGI4N1R3dDZubUFXbFhCS0N6Zkg5cnNOOTFCNXZoaExKOXQ4cDl5R1g0VXZz?oc=5",
+        "source": "自由財經",
+        "date": "2026-08-13",
+        "tag": "market"
+      }
+    ],
+    "蓮霧": [
+      {
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸- 生活 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3I?oc=5",
+        "source": "自由時報",
+        "date": "2026-07-26",
+        "tag": "market"
+      }
+    ],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
     "文旦": [],
-    "釋迦": [],
-    "龍眼": [],
+    "釋迦": [
+      {
+        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
+        "source": "UDN",
+        "date": "2026-08-15",
+        "tag": "market"
+      }
+    ],
+    "龍眼": [
+      {
+        "title": "從龍眼林到世界舞台：仙湖農場讓台灣農村文化被看見 - 食力 foodNEXT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mczJtVkVQdndfRTlKSThsQmVPQWZaMkFtNUtUMjZJYzZ6c0ZaUndFZ01DVjg5OC1Denhhd0g4Z2NnSDRpUXVOcVFWa1JHSlVoZFBzMWtFRmw1ZXZ4NnV5M2M3cjNScy1icVE?oc=5",
+        "source": "食力 foodNEXT",
+        "date": "2026-07-22",
+        "tag": "market"
+      }
+    ],
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [],
