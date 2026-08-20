@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T16:39:12.681Z",
+  "updatedAt": "2026-08-20T22:19:08.124Z",
   "news": {
     "鳳梨": [
       {
@@ -108,7 +108,15 @@
     ],
     "番石榴": [],
     "檸檬": [],
-    "高麗菜": [],
+    "高麗菜": [
+      {
+        "title": "「白海豚」逼近！ 傳統市場搶菜潮 菜攤：生意變較好 | 華視新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRks0NmZwR0dyaWhobVhfamNBa3o0Z1ZjRGdHUVRFQVZPYVEzckNjd3FiMU44c0NTZGRFTlJCRFhiM3lacmlxaEI3R1l6QmZjZHRVT1lB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-08-07",
+        "tag": "market"
+      }
+    ],
     "番茄": [],
     "花椰菜": [],
     "地瓜": [],
