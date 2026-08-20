@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T13:50:10.350Z",
+  "updatedAt": "2026-08-20T16:39:12.681Z",
   "news": {
     "鳳梨": [
       {
@@ -15,6 +15,13 @@
         "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
         "source": "中華新聞雲／中華日報",
+        "date": "2026-08-20",
+        "tag": "market"
+      },
+      {
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SjlrUTdlRjI2ZFdXY1hWUEhfaUhCUHN3d21salFwRFlXOFUxN3dDTl9JT01KbDVfYXpxZG9LNE5fM3RBTVdNR0JQX2NVVnJUcFE?oc=5",
+        "source": "蕃新聞",
         "date": "2026-08-20",
         "tag": "market"
       },
@@ -60,9 +67,9 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
-        "source": "LINE TODAY",
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00SjlrUTdlRjI2ZFdXY1hWUEhfaUhCUHN3d21salFwRFlXOFUxN3dDTl9JT01KbDVfYXpxZG9LNE5fM3RBTVdNR0JQX2NVVnJUcFE?oc=5",
+        "source": "蕃新聞",
         "date": "2026-08-20",
         "tag": "market"
       },
