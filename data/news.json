@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:34:52.302Z",
+  "updatedAt": "2026-08-22T13:34:04.917Z",
   "news": {
     "鳳梨": [
       {
@@ -35,10 +35,10 @@
     ],
     "荔枝": [
       {
-        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 | 自由電子報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wYnBqTk5CeS00ZWN0dXpRRjF2X0FkTXg1bm0zaUh5RHo4VkVyMWdDUTlDdWtuNzh4djN2VTlkNTRkNUpjaWJCdno4UmJuOFNNM3VXQmpR?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-07-25",
+        "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcHVGcDV5WlV2dnM0ZTR1LXh5ekpuVGlaRDdaeVZSUTVOdkxQNEh6czhURFFhY3N4dGxEbXRQWkpfbnFLbU1vMXNDQ2ZmM2VpSTJDeVBWOWZsaUZVNklRQmNSc3LSAWpBVV95cUxON1Fid1hJcE5kZDJzMVNJWlBRcWtWdDlBcUc5aUluSERWZ2hOcEoxM0lsZllQMVFHdDZaWFhPWmFRVkt3d0tXMEh2OThSSVRnT3g4T0dDaG55dHFBX1JmcVdGX2VtZUVmMkNn?oc=5",
+        "source": "自由時報",
+        "date": "2026-07-26",
         "tag": "market"
       }
     ],
@@ -120,8 +120,24 @@
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
-    "青花菜": [],
-    "茄子": [],
+    "青花菜": [
+      {
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
+        "tag": "market"
+      }
+    ],
+    "茄子": [
+      {
+        "title": "馬來西亞蔬菜產業介紹( 二)~ 消費市場 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUpCMGRsNmtlcHB1M2ppN3VQSzNjT2JWUmlGUDBxSVJlLWxmX1FsVDQ0Nk5paUNuTFVPS1NiQU9uRnpGM2lkVXhUMjZ0ellhbVdaUlh1YmRKRjQ4Y25LYjNwNEF4MVFpRzA0TUlTTzZmQWtaSktfN3EyNnJwREhqeG91aTI?oc=5",
+        "source": "農業知識入口網",
+        "date": "2024-08-13",
+        "tag": "market"
+      }
+    ],
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
