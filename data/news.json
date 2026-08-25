@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:01:49.119Z",
+  "updatedAt": "2026-08-25T04:40:24.413Z",
   "news": {
     "鳳梨": [
       {
@@ -102,18 +102,18 @@
         "tag": "weather"
       },
       {
-        "title": "豪雨致災，高市府籲請受災農友儘速通報，全力爭取「全品項」救助 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTZWVkJZT0VKODF4YWJIdFpDcVhzdFo3Szhwb282MkNpNm42OXlNd21QUHRfMjV2MUN3SXVSdFZ3bTJtOTFhU3N6cHlQS3ZnZ194S3dlZzhIbDQySUpjbFRjQkZJUWV5RjVnYklLVzJqWkt6VVZQNEl3RUJoSGxRa2tBNkhhYUlOVVk2ZQ?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
-      },
-      {
         "title": "「白海豚」逼近！ 傳統市場搶菜潮 菜攤：生意變較好 | 華視新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRks0NmZwR0dyaWhobVhfamNBa3o0Z1ZjRGdHUVRFQVZPYVEzckNjd3FiMU44c0NTZGRFTlJCRFhiM3lacmlxaEI3R1l6QmZjZHRVT1lB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-08-07",
         "tag": "market"
+      },
+      {
+        "title": "豪雨致災，高市府籲請受災農友儘速通報，全力爭取「全品項」救助 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTZWVkJZT0VKODF4YWJIdFpDcVhzdFo3Szhwb282MkNpNm42OXlNd21QUHRfMjV2MUN3SXVSdFZ3bTJtOTFhU3N6cHlQS3ZnZ194S3dlZzhIbDQySUpjbFRjQkZJUWV5RjVnYklLVzJqWkt6VVZQNEl3RUJoSGxRa2tBNkhhYUlOVVk2ZQ?oc=5",
+        "source": "PChome Online 新聞",
+        "date": "2026-08-24",
+        "tag": "weather"
       }
     ],
     "番茄": [],
