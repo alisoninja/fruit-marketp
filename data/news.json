@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:10:27.946Z",
+  "updatedAt": "2026-08-26T17:07:36.761Z",
   "news": {
     "鳳梨": [
       {
@@ -58,11 +58,11 @@
         "tag": "market"
       },
       {
-        "title": "中國公告花蓮文旦柚包裝場及果園註冊可輸入大陸… 農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tbmFZczVUQ1ZnWWh6eVNuSkpGbnMzM2Z4bDhZbC11ekNmYm5CRWNJZ1dXRWI0S0JobkV2QW1yUTFUbWVmdU8wdnhyYlFFVW5WX1hkQ1RPZjN2RUg4dFZfTjRvbFYtRkd6Sm5SMkJKQ0lEZEIt0gFfQVVfeXFMUG9qZHp0UUFES0o5X0VXRDBVU1BmTGpKVzRwMzNhVEV5LVJpaEQtVDZSRlJ5azhlZWM1ZHp2RERsbEl4ZWVSV01mUFZyM3lzY01jb1RJbXExUF9rOXhLVjA?oc=5",
-        "source": "經濟日報",
-        "date": "2026-08-26",
-        "tag": "policy"
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-08-20",
+        "tag": "market"
       }
     ],
     "釋迦": [
@@ -75,7 +75,15 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [],
+    "番石榴": [
+      {
+        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-08-26",
+        "tag": "weather"
+      }
+    ],
     "檸檬": [],
     "高麗菜": [
       {
@@ -93,18 +101,18 @@
         "tag": "weather"
       },
       {
+        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-08-26",
+        "tag": "weather"
+      },
+      {
         "title": "「白海豚」逼近！ 傳統市場搶菜潮 菜攤：生意變較好 | 華視新聞 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRks0NmZwR0dyaWhobVhfamNBa3o0Z1ZjRGdHUVRFQVZPYVEzckNjd3FiMU44c0NTZGRFTlJCRFhiM3lacmlxaEI3R1l6QmZjZHRVT1lB?oc=5",
         "source": "LINE TODAY",
         "date": "2026-08-07",
         "tag": "market"
-      },
-      {
-        "title": "豪雨致災，高市府籲請受災農友儘速通報，全力爭取「全品項」救助 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTZWVkJZT0VKODF4YWJIdFpDcVhzdFo3Szhwb282MkNpNm42OXlNd21QUHRfMjV2MUN3SXVSdFZ3bTJtOTFhU3N6cHlQS3ZnZ194S3dlZzhIbDQySUpjbFRjQkZJUWV5RjVnYklLVzJqWkt6VVZQNEl3RUJoSGxRa2tBNkhhYUlOVVk2ZQ?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
       }
     ],
     "番茄": [],
