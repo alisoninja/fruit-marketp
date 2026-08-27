@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T06:57:15.479Z",
+  "updatedAt": "2026-08-27T12:26:19.157Z",
   "news": {
     "鳳梨": [
       {
@@ -37,6 +37,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13U2lWTXR0dS1JM1pTajRoZ1d4YjBmTVZZaWRWZ09rb0xqeGhHUjNGMnNULTZfQkxISEZOX3llU3MzRUtBeTZETUhPZENtUXJYQ3c?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-08-27",
+        "tag": "market"
+      },
+      {
         "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 | 大陸政經 | 兩岸 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnhYMXYtUGdxUnpCUi1oY1E1TWFHUU0zaEVGOWZGUVQ0M2pCbzRGQ3hUNDNTR1RkTG5faXVJb0FWdHhoWTd0MXpDd0JHTEtveHlvZDFkQ0VnMFNUZGRUclJiZXFJMGxrYnRPVWphTlBST29CVVFnTnBveWZvZWxHXw?oc=5",
         "source": "經濟日報",
@@ -46,13 +53,6 @@
       {
         "title": "中國擬增台灣文旦准入果園　農業部：尚未接獲通知 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnIxMzUweDQ2LWc5UjFPUGMyTUwyZWJFU284cjQwTV9md014QzNBUDJJOU54aUdRbG5tWHhYaC1iOVIteG5qXzc0ZVVBcklpUWxwVVFYVE5qQkxqb0JLcTVnVmZZRzY5ZjVzV1BNTzRuN0NIUnNLQ1BkcFY3NWpFQdIBX0FVX3lxTE1FcmJzdHBrSXpTS0M5YmNaT0UxbmlkaWRmTFVOX0FIREpfbExucXYzSEdKRl9KME9IVjBkVjI5VWx5dmJ2QWdudFdtUHl2UGZUel9IdUhRMjJxcnUxUHZZ?oc=5",
-        "source": "經濟日報",
-        "date": "2026-08-26",
-        "tag": "policy"
-      },
-      {
-        "title": "陸新增79家文旦柚註冊果園、包裝場全在花蓮 農業部籲開放全部產區 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVZDQU0wSTJqUjBhbVJRNzJnWUJaTzhBaE9wX1ZDUWdzZzVrRGlJMldxODRyWjg4N3V0bmxjdHBVaXl0MVk2bkJQeE5OLVlEOGpDMWZ0Y0g5S3lFamRqdWhFTjdDMTVPSVh2WTl6Z2h2Z3VFTy1tQWg5OUEzTUJyTdIBX0FVX3lxTE9qM3V4RUVYWUFRRzFiTGhSbzBYNjNnRHp1cnEwdjIzOU9lam4xS054WXBUZXlvMVNpbU05bHpyWHF1c0Zab3gtSVFZUElIZ3dCb0ZoZnhpb3dveHBYNDFR?oc=5",
         "source": "經濟日報",
         "date": "2026-08-26",
         "tag": "policy"
@@ -87,18 +87,18 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "中國菜疑經越南洗產地輸入 台政府：加強防堵 - 大纪元",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45cmk0Z0NBc1RTT2VVYUxNVTRyMzgwY1JFckZ3U011QjhPTExLVlljalYzNnFMT19McFRBQmxKR0w1R2FoeVYycFF1bXRUSjhGekZXWGlCM3JUbVZqTkV2bDFUb3ZHZ9IBZkFVX3lxTE45cmk0Z0NBc1RTT2VVYUxNVTRyMzgwY1JFckZ3U011QjhPTExLVlljalYzNnFMT19McFRBQmxKR0w1R2FoeVYycFF1bXRUSjhGekZXWGlCM3JUbVZqTkV2bDFUb3ZHZw?oc=5",
+        "source": "大纪元",
+        "date": "2026-08-27",
+        "tag": "market"
+      },
+      {
         "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
         "source": "TVBS新聞網",
         "date": "2026-08-26",
         "tag": "policy"
-      },
-      {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
       },
       {
         "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
@@ -108,11 +108,11 @@
         "tag": "weather"
       },
       {
-        "title": "「白海豚」逼近！ 傳統市場搶菜潮 菜攤：生意變較好 | 華視新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRks0NmZwR0dyaWhobVhfamNBa3o0Z1ZjRGdHUVRFQVZPYVEzckNjd3FiMU44c0NTZGRFTlJCRFhiM3lacmlxaEI3R1l6QmZjZHRVT1lB?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-08-07",
-        "tag": "market"
+        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
+        "source": "PChome Online 新聞",
+        "date": "2026-08-24",
+        "tag": "weather"
       }
     ],
     "番茄": [],
