@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T08:44:26.860Z",
+  "updatedAt": "2026-08-28T14:13:09.424Z",
   "news": {
     "鳳梨": [
       {
@@ -37,6 +37,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "中國擬增台灣文旦准入果園　農業部：尚未接獲通知 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnIxMzUweDQ2LWc5UjFPUGMyTUwyZWJFU284cjQwTV9md014QzNBUDJJOU54aUdRbG5tWHhYaC1iOVIteG5qXzc0ZVVBcklpUWxwVVFYVE5qQkxqb0JLcTVnVmZZRzY5ZjVzV1BNTzRuN0NIUnNLQ1BkcFY3NWpFQdIBX0FVX3lxTE1FcmJzdHBrSXpTS0M5YmNaT0UxbmlkaWRmTFVOX0FIREpfbExucXYzSEdKRl9KME9IVjBkVjI5VWx5dmJ2QWdudFdtUHl2UGZUel9IdUhRMjJxcnUxUHZZ?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-26",
+        "tag": "policy"
+      },
+      {
         "title": "花蓮文旦拓展多元市場花蓮縣政府持續為農友找出路從國內通路到海外市場分散銷售風險、提升產業韌性 - 天晴報媒體",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1WQkFTZE9tTXpDX0U3Ri13NlAwUXNnZGtlRVEtTmc4Yk5YeFVCeDFOMWk4cTNFV0kwSG9sc2dJV3FRSWRL?oc=5",
         "source": "天晴報媒體",
@@ -44,15 +51,8 @@
         "tag": "market"
       },
       {
-        "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VTHh0LXgwT1pqNWJCQmV2alpxTUJVN2VMYXhLTFpFTXRDX08tUDJndlFhNUJMLXVycTM0aW9FRTR4TUptQy12bjJFUFJzNW1KckRQRFlB0gFWQVVfeXFMTVVMeHQteDBPWmo1YkJCZXZqWnFNQlU3ZUxheEtMWkVNdENfTy1QMmd2UWE1QkwtdXJxMzRpb0VFNHhNSm1DLXZuMkVQUnM1bUpyRFBEWUE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-27",
-        "tag": "policy"
-      },
-      {
-        "title": "中國擬增台灣文旦准入果園　農業部：尚未接獲通知 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnIxMzUweDQ2LWc5UjFPUGMyTUwyZWJFU284cjQwTV9md014QzNBUDJJOU54aUdRbG5tWHhYaC1iOVIteG5qXzc0ZVVBcklpUWxwVVFYVE5qQkxqb0JLcTVnVmZZRzY5ZjVzV1BNTzRuN0NIUnNLQ1BkcFY3NWpFQdIBX0FVX3lxTE1FcmJzdHBrSXpTS0M5YmNaT0UxbmlkaWRmTFVOX0FIREpfbExucXYzSEdKRl9KME9IVjBkVjI5VWx5dmJ2QWdudFdtUHl2UGZUel9IdUhRMjJxcnUxUHZZ?oc=5",
+        "title": "陸新增79家文旦柚註冊果園、包裝場全在花蓮 農業部籲開放全部產區 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVZDQU0wSTJqUjBhbVJRNzJnWUJaTzhBaE9wX1ZDUWdzZzVrRGlJMldxODRyWjg4N3V0bmxjdHBVaXl0MVk2bkJQeE5OLVlEOGpDMWZ0Y0g5S3lFamRqdWhFTjdDMTVPSVh2WTl6Z2h2Z3VFTy1tQWg5OUEzTUJyTdIBX0FVX3lxTE9qM3V4RUVYWUFRRzFiTGhSbzBYNjNnRHp1cnEwdjIzOU9lam4xS054WXBUZXlvMVNpbU05bHpyWHF1c0Zab3gtSVFZUElIZ3dCb0ZoZnhpb3dveHBYNDFR?oc=5",
         "source": "經濟日報",
         "date": "2026-08-26",
         "tag": "policy"
@@ -108,9 +108,9 @@
         "tag": "weather"
       },
       {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
+        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online新聞",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "PChome Online 新聞",
+        "source": "PChome Online新聞",
         "date": "2026-08-24",
         "tag": "weather"
       }
