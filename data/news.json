@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2026-08-30T09:48:02.239Z",
+  "updatedAt": "2026-08-30T12:46:13.245Z",
   "news": {
-    "鳳梨": [
-      {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
-        "tag": "market"
-      }
-    ],
+    "鳳梨": [],
     "芒果": [
       {
         "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
@@ -51,23 +43,9 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
-        "source": "經濟日報",
-        "date": "2026-08-27",
-        "tag": "market"
-      },
-      {
         "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
         "source": "LINE TODAY",
-        "date": "2026-08-20",
-        "tag": "market"
-      },
-      {
-        "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
-        "source": "中華新聞雲／中華日報",
         "date": "2026-08-20",
         "tag": "market"
       },
@@ -77,17 +55,23 @@
         "source": "經濟日報",
         "date": "2026-08-26",
         "tag": "policy"
-      }
-    ],
-    "釋迦": [
+      },
       {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
+        "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-08-20",
         "tag": "market"
+      },
+      {
+        "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnZZZmlXY2JtSlpIaDVob2g1RHU2eDZiS0VLakNwbHJ2T1loYTFFRElEdmhWTHRoekZNVEE4N3RFZ2FYRUROb1pIT2tNVWh1eU1PaUlZWUd2Z9IBX0FVX3lxTE00WWFRbEdSREhBR1ZrTzJmZlZuOHNmZWVMajFmVDV6Sk1ORlRqeWR4ajBMelJOdGxxWV9tWXN6MDdzcHAwbDFXZHZWcFBKOVV5TW50ZzNtZDQ5N193dW5r?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-27",
+        "tag": "policy"
       }
     ],
+    "釋迦": [],
     "龍眼": [],
     "番石榴": [
       {
