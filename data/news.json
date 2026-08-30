@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T03:14:53.901Z",
+  "updatedAt": "2026-08-30T07:59:08.573Z",
   "news": {
     "鳳梨": [
       {
@@ -24,10 +24,10 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "大崩盤！越南麝香葡萄產地價1公斤不到7元 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81akNFR3lqY3Rpel94dEJyWm42QWNLR0FBYkdWSC16YzBZcXBncHFqd3EyWmQzN3Bfa2ZLZU95dl83dm1haFpwNVVhSE9KMzJ5eTJaR1hzSXJja3pDNlR1bzktTkk?oc=5",
         "source": "自由財經",
-        "date": "2026-08-30",
+        "date": "2026-08-29",
         "tag": "market"
       },
       {
@@ -51,13 +51,6 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "中國公告花蓮文旦柚包裝場及果園註冊可輸入大陸… 農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdWYxa0c0X0dlSXk2TDR4aU5jOUNjMmticGRMVFI5d3BqWEZnS01MTlMzUHBISEg5aDV5a2J1cDFuSG43YXd2ek9SMUMzYlplUEFlYXA3T0xlUdIBX0FVX3lxTFBvamR6dFFBREtKOV9FV0QwVVNQZkxqSlc0cDMzYVRFeS1SaWhELVQ2UkZSeWs4ZWVjNWR6dkREbGxJeGVlUldNZlBWcjN5c2NNY29USW1xMVBfazl4S1Yw?oc=5",
-        "source": "經濟日報",
-        "date": "2026-08-26",
-        "tag": "policy"
-      },
-      {
         "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
         "source": "經濟日報",
@@ -77,6 +70,13 @@
         "source": "中華新聞雲／中華日報",
         "date": "2026-08-20",
         "tag": "market"
+      },
+      {
+        "title": "中國公告花蓮文旦柚包裝場及果園註冊可輸入大陸… 農業部回應了 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdWYxa0c0X0dlSXk2TDR4aU5jOUNjMmticGRMVFI5d3BqWEZnS01MTlMzUHBISEg5aDV5a2J1cDFuSG43YXd2ek9SMUMzYlplUEFlYXA3T0xlUdIBX0FVX3lxTFBvamR6dFFBREtKOV9FV0QwVVNQZkxqSlc0cDMzYVRFeS1SaWhELVQ2UkZSeWs4ZWVjNWR6dkREbGxJeGVlUldNZlBWcjN5c2NNY29USW1xMVBfazl4S1Yw?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-26",
+        "tag": "policy"
       }
     ],
     "釋迦": [
