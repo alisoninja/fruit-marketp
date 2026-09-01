@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T17:07:55.278Z",
+  "updatedAt": "2026-09-01T19:18:31.421Z",
   "news": {
     "鳳梨": [
       {
@@ -10,7 +10,15 @@
         "tag": "market"
       }
     ],
-    "芒果": [],
+    "芒果": [
+      {
+        "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-08-20",
+        "tag": "market"
+      }
+    ],
     "荔枝": [],
     "香蕉": [],
     "木瓜": [],
@@ -50,29 +58,21 @@
         "tag": "policy"
       },
       {
-        "title": "3貨櫃優質農特產 啟運加拿大 - cdns.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
-        "source": "cdns.com.tw",
-        "date": "2026-08-20",
-        "tag": "market"
-      },
-      {
         "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnZZZmlXY2JtSlpIaDVob2g1RHU2eDZiS0VLakNwbHJ2T1loYTFFRElEdmhWTHRoekZNVEE4N3RFZ2FYRUROb1pIT2tNVWh1eU1PaUlZWUd2Z9IBX0FVX3lxTE00WWFRbEdSREhBR1ZrTzJmZlZuOHNmZWVMajFmVDV6Sk1ORlRqeWR4ajBMelJOdGxxWV9tWXN6MDdzcHAwbDFXZHZWcFBKOVV5TW50ZzNtZDQ5N193dW5r?oc=5",
         "source": "經濟日報",
         "date": "2026-08-27",
         "tag": "policy"
-      }
-    ],
-    "釋迦": [
+      },
       {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-08-27",
         "tag": "market"
       }
     ],
+    "釋迦": [],
     "龍眼": [],
     "番石榴": [
       {
@@ -86,16 +86,16 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - news.tvbs.com.tw",
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-08-26",
         "tag": "policy"
       },
       {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - news.pchome.com.tw",
+        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "news.pchome.com.tw",
+        "source": "PChome Online 新聞",
         "date": "2026-08-24",
         "tag": "weather"
       },
@@ -107,9 +107,9 @@
         "tag": "weather"
       },
       {
-        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - 自由時報",
+        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - news.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abmpFeGpkOWkzWTl3MkRaVm9nSWVGdExScmE0UVJHd0pRbi11THBsQ1ZoakxHUHk0V3FIQXg2bk94ZTZzblh6VTgtSjltWTlWYzByeHVMU0l3Skh3RGY5cDJEcjU?oc=5",
-        "source": "自由時報",
+        "source": "news.ltn.com.tw",
         "date": "2026-08-24",
         "tag": "weather"
       }
