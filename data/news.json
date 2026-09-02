@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T02:38:20.760Z",
+  "updatedAt": "2026-09-02T06:57:07.020Z",
   "news": {
     "鳳梨": [
       {
@@ -8,11 +8,26 @@
         "source": "UDN",
         "date": "2026-08-15",
         "tag": "market"
+      },
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "Storm.mg",
+        "date": "2026-08-13",
+        "tag": "policy"
       }
     ],
     "芒果": [],
     "荔枝": [],
-    "香蕉": [],
+    "香蕉": [
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "Storm.mg",
+        "date": "2026-08-13",
+        "tag": "policy"
+      }
+    ],
     "木瓜": [],
     "葡萄": [
       {
@@ -36,9 +51,9 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-08-20",
         "tag": "market"
       },
@@ -57,9 +72,9 @@
         "tag": "policy"
       },
       {
-        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-08-27",
         "tag": "market"
       }
@@ -81,6 +96,13 @@
         "source": "rti.org.tw",
         "date": "2026-08-26",
         "tag": "weather"
+      },
+      {
+        "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - Storm.mg",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
+        "source": "Storm.mg",
+        "date": "2026-08-13",
+        "tag": "policy"
       }
     ],
     "檸檬": [],
