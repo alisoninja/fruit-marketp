@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T08:40:44.846Z",
+  "updatedAt": "2026-09-03T12:03:13.273Z",
   "news": {
     "鳳梨": [
       {
@@ -22,16 +22,16 @@
       }
     ],
     "木瓜": [],
-    "葡萄": [
+    "葡萄": [],
+    "蓮霧": [
       {
-        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3XzlyWWx3bjlzWHo0a2ZKLXpCZ3F4NDlzNFNUTGdNdDdiS3h1WTZOVDNWWGI4N1R3dDZubUFXbFhCS0N6Zkg5cnNOOTFCNXZoaExKOXQ4cDl5R1g0VXZz?oc=5",
-        "source": "自由財經",
-        "date": "2026-08-13",
-        "tag": "market"
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-09-03",
+        "tag": "weather"
       }
     ],
-    "蓮霧": [],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
@@ -99,6 +99,14 @@
     "玉米": [],
     "南瓜": [],
     "苦瓜": [],
-    "蔥": []
+    "蔥": [
+      {
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-09-03",
+        "tag": "weather"
+      }
+    ]
   }
 }
