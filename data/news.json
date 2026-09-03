@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:11:19.405Z",
+  "updatedAt": "2026-09-03T23:43:50.391Z",
   "news": {
     "鳳梨": [
       {
@@ -10,7 +10,15 @@
         "tag": "policy"
       }
     ],
-    "芒果": [],
+    "芒果": [
+      {
+        "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-08-20",
+        "tag": "market"
+      }
+    ],
     "荔枝": [],
     "香蕉": [
       {
@@ -24,16 +32,16 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "ec.ltn.com.tw",
+        "source": "自由財經",
         "date": "2026-08-29",
         "tag": "market"
       },
       {
-        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - ec.ltn.com.tw",
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3XzlyWWx3bjlzWHo0a2ZKLXpCZ3F4NDlzNFNUTGdNdDdiS3h1WTZOVDNWWGI4N1R3dDZubUFXbFhCS0N6Zkg5cnNOOTFCNXZoaExKOXQ4cDl5R1g0VXZz?oc=5",
-        "source": "ec.ltn.com.tw",
+        "source": "自由財經",
         "date": "2026-08-13",
         "tag": "market"
       }
@@ -52,17 +60,24 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
-        "source": "LINE TODAY",
+        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - money.udn.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
+        "source": "money.udn.com",
         "date": "2026-08-27",
         "tag": "market"
       },
       {
-        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
-        "source": "經濟日報",
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 - 獨家報導",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNUnoxQl9LNXc0Z2FmR055ZVVWZGtsUUs3VFVvbUpaRnc2OWZicmx1c0oyVDhSMFdkN283UFJNdm5Wdmo2cTQyYjdYUXBKQW9uWU5fV1Azak9rUmY1Y3B5V3dSMHNqeUNxd0xqNjdCeEFtRzhhTHRPNHZMNWlmcEJ5cVVQUE9UejY4dGlqMGJHb3dWWml0bVRLUjZwcEw5UHhJVU5vZUY4a0xfS2RNY3Z5Vk45VWlUOTZXc1dJYldhR2pSVUtZZEpFa09BQjJHQWZNZ0ZzaDNxbXFOMnpMclB2RUdYNTVubGE0dmlDdzI5N2l6NHBxbmVNdEFPc3ZkdmZlaGFLQ25HR2xUZGJFZHRUZGxnM1dNaVc1UGhqZjBiTHQ0NXlCYVlKU0pEVzU2akpkbEhCajNxMTNPVWQ5bUpNS0RTZDVTS2I2ZTlWN2xOZEJQV1hNMU1z?oc=5",
+        "source": "獨家報導",
         "date": "2026-08-27",
+        "tag": "market"
+      },
+      {
+        "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
+        "source": "中華新聞雲／中華日報",
+        "date": "2026-08-20",
         "tag": "market"
       },
       {
@@ -87,16 +102,9 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "PChome Online新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
-      },
-      {
-        "title": "台灣年進4.8萬噸越南白菜 民眾憂遭中國洗產地(圖) - 社會民生 - - (移動版) - 看中国网",
+        "title": "台灣年進4.8萬噸越南白菜 民眾憂遭中國洗產地(圖) - 社會民生 - - (移動版) - secretchina.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10dVc1RFp5S041cVJNV29xdlNVTVNiMWtqdUVLd3RKNDZhZHlmdGxUejhhbVp2ZjA0dFlBWm5LYVlqaEJzdGxhVDZoMUhjS1dyQTRuYnBTVmxJcEpoTlN4S2RXc0xTLWZYNGxz?oc=5",
-        "source": "看中国网",
+        "source": "secretchina.com",
         "date": "2026-08-31",
         "tag": "market"
       }
