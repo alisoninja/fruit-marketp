@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:03:13.273Z",
+  "updatedAt": "2026-09-03T16:54:41.607Z",
   "news": {
     "鳳梨": [
       {
@@ -22,24 +22,31 @@
       }
     ],
     "木瓜": [],
-    "葡萄": [],
-    "蓮霧": [
+    "葡萄": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-09-03",
-        "tag": "weather"
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
+        "source": "ec.ltn.com.tw",
+        "date": "2026-08-29",
+        "tag": "market"
+      },
+      {
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZzktaDlpa1dveWw5VGpPcUU5NFBCWXl3MEE1aWlGWEVLbnhJOHhpM1VfdUhZVUpvRkdiXzljQVY4VWh2cDhFa1pRV3ljQ0QwNUVJWFgxRzI?oc=5",
+        "source": "自由時報",
+        "date": "2026-08-13",
+        "tag": "market"
       }
     ],
+    "蓮霧": [],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
     "文旦": [
       {
-        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-08-20",
         "tag": "market"
       },
@@ -51,9 +58,9 @@
         "tag": "market"
       },
       {
-        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-08-27",
         "tag": "market"
       },
@@ -99,14 +106,6 @@
     "玉米": [],
     "南瓜": [],
     "苦瓜": [],
-    "蔥": [
-      {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-09-03",
-        "tag": "weather"
-      }
-    ]
+    "蔥": []
   }
 }
