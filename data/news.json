@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-03T02:43:45.250Z",
+  "updatedAt": "2026-09-03T07:00:35.018Z",
   "news": {
     "鳳梨": [
-      {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
-        "tag": "market"
-      },
       {
         "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
@@ -31,16 +24,9 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3XzlyWWx3bjlzWHo0a2ZKLXpCZ3F4NDlzNFNUTGdNdDdiS3h1WTZOVDNWWGI4N1R3dDZubUFXbFhCS0N6Zkg5cnNOOTFCNXZoaExKOXQ4cDl5R1g0VXZz?oc=5",
         "source": "自由財經",
-        "date": "2026-08-29",
-        "tag": "market"
-      },
-      {
-        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jZzktaDlpa1dveWw5VGpPcUU5NFBCWXl3MEE1aWlGWEVLbnhJOHhpM1VfdUhZVUpvRkdiXzljQVY4VWh2cDhFa1pRV3ljQ0QwNUVJWFgxRzI?oc=5",
-        "source": "自由時報",
         "date": "2026-08-13",
         "tag": "market"
       }
@@ -58,6 +44,13 @@
         "tag": "market"
       },
       {
+        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-27",
+        "tag": "market"
+      },
+      {
         "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
         "source": "LINE TODAY",
@@ -70,24 +63,9 @@
         "source": "Life 生活網",
         "date": "2026-08-28",
         "tag": "policy"
-      },
-      {
-        "title": "中國「有條件」放行花蓮文旦進口 范雲批農產品統戰武器化 - Life 生活網",
-        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxORGpua21EMF8xa0hWU2d1d29jaFpHRG9LeGRYZkJ0UnhwQUF6WThGMVNUMkdKZFUtTjNvYmdXZWp4dTVlWnA5cGk2Mi1QS2t3Y3ZJOFVwc1ZUZ0l0d3BLcFhMWE5MNklPbGxTX2RrLTdRS3dtUGc5anZCMllXT0dDbFBGaUZ6VXFYUGZfN1RjWkxxV2FLVS1RUXltdFpDQk51TjcxaEx0RFozNEo4Z2FhcTdVTEh6VjBjdjMtSnc0bTlYZG9sNzR3RmYwck9iM0V1SElHVWVOR2gxWW4xT0ZUbWRoZzdMb3RtUlhEd2Vlbm40QVBxeVZFeEpEbk1pU0VTbGczY09NQlN3TGhhbnhuVjJLcmNyamxTMUY2R2lsZW55YXlwc1lIbF9MNUtUeDRFSVNVQ3lHdm1GcnZJeDZrVWlFU1lRRXFFWlg0YWFvY0RkS3hwN1R3R3ZOSWRjRG1DV044Tk9OQzdaUGM?oc=5",
-        "source": "Life 生活網",
-        "date": "2026-08-27",
-        "tag": "policy"
       }
     ],
-    "釋迦": [
-      {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
-        "tag": "market"
-      }
-    ],
+    "釋迦": [],
     "龍眼": [],
     "番石榴": [
       {
@@ -104,13 +82,6 @@
         "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
         "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
-      },
-      {
-        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - news.ltn.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abmpFeGpkOWkzWTl3MkRaVm9nSWVGdExScmE0UVJHd0pRbi11THBsQ1ZoakxHUHk0V3FIQXg2bk94ZTZzblh6VTgtSjltWTlWYzByeHVMU0l3Skh3RGY5cDJEcjU?oc=5",
-        "source": "news.ltn.com.tw",
         "date": "2026-08-24",
         "tag": "weather"
       },
