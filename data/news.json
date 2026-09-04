@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T08:35:28.117Z",
+  "updatedAt": "2026-09-04T12:04:18.731Z",
   "news": {
     "鳳梨": [
       {
@@ -39,25 +39,25 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "ec.ltn.com.tw",
+        "source": "自由財經",
         "date": "2026-08-29",
         "tag": "market"
       },
       {
-        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - ec.ltn.com.tw",
+        "title": "台灣會有甜甜價？南韓麝香葡萄驚見破盤價了 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3XzlyWWx3bjlzWHo0a2ZKLXpCZ3F4NDlzNFNUTGdNdDdiS3h1WTZOVDNWWGI4N1R3dDZubUFXbFhCS0N6Zkg5cnNOOTFCNXZoaExKOXQ4cDl5R1g0VXZz?oc=5",
-        "source": "ec.ltn.com.tw",
+        "source": "自由財經",
         "date": "2026-08-13",
         "tag": "market"
       }
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -67,17 +67,10 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - money.udn.com",
+        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
-        "source": "money.udn.com",
+        "source": "經濟日報",
         "date": "2026-08-27",
-        "tag": "market"
-      },
-      {
-        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - today.line.me",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
-        "source": "today.line.me",
-        "date": "2026-08-20",
         "tag": "market"
       },
       {
@@ -93,6 +86,13 @@
         "source": "中華新聞雲／中華日報",
         "date": "2026-08-20",
         "tag": "market"
+      },
+      {
+        "title": "【藍蝴蝶專欄】一顆文旦，三種視角：陸委會喊統戰、農業部要市場、農民只想賣出去 - life.tw",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQN09PVDBvaml2Y0VWVzNGNVlwR2ZRUHZFcU90MmRncHpGdEtCbUw3MGFheDNEbVZLTGFoUVIweXJmZUhhMGJmYm5HWGR6SXNIWVF1QzZ2ZWNpZmhCZkVTTDItQXdnQ1JaWkhxZlVpc3JHeVFyZTJMU2NqekFqQ0RBRWM1WmlnMmRfRjUyMHpQWXJLMUFLUHY0NWVBaXEwc0JEbHNkQ213dUtMTlhrUFBtd2Z4X2RnQWxUNW9teGxiQlk4U2FZNkVPNE5ET0JQRVc4Ri1qN2hTZWgzX2R2OGpnUTlIWlBfLVZWcndaVFJ0bm9KWFZlaHBhQ3ZQMG9rNWVGNWdzY3NMZmVSaV8tQzFZdHd4cGlWd1h2UER4c0Jka3BVOF9IS1FQSG1PeHFydVFaOUdpeUg5cTRMdXZ5OTFsTmNaanBKMkpFZnZ0N1h3MDExTWQyNXRIYzRkNldKVnhLT0JPMi01Nm9ud0UwUzR3WUNCSzcyZzRC?oc=5",
+        "source": "life.tw",
+        "date": "2026-08-28",
+        "tag": "policy"
       }
     ],
     "釋迦": [
@@ -124,6 +124,13 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-08-26",
+        "tag": "policy"
+      },
+      {
         "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
         "source": "rti.org.tw",
@@ -136,13 +143,6 @@
         "source": "自由時報",
         "date": "2026-08-24",
         "tag": "weather"
-      },
-      {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - news.tvbs.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "news.tvbs.com.tw",
-        "date": "2026-08-26",
-        "tag": "policy"
       },
       {
         "title": "台灣年進4.8萬噸越南白菜 民眾憂遭中國洗產地(圖) - 社會民生 - - (移動版) - 看中国网",
@@ -167,9 +167,9 @@
     "苦瓜": [],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
