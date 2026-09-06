@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-06T08:25:52.022Z",
+  "updatedAt": "2026-09-06T11:34:44.319Z",
   "news": {
     "鳳梨": [
-      {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
-        "tag": "market"
-      },
       {
         "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByR1NWYTBjamZWc3QzQndqZWV5eTlKOXRNcWRnak1VNktfN2NUdXNpQzlfeG41cC05aGpZenZBRVZORFA3bXR5WmFaOEEwR0Ny?oc=5",
@@ -39,6 +32,13 @@
     "木瓜": [],
     "葡萄": [
       {
+        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQjQ1aUVjTVVrOFZicWRMZWEtLTBHSk8xUkVpRXFIS2pma3g4ZEFLMlJlbjZNblg0cEJiUUtNQmoyQXVmUkwtTnRDLVdWYnphS3BuV0ZpMVBvVVE4M0RFSVFZeTVyakplZ0l5UWJLSWl6Zmd3cFZ6LXlBUGFEb09na1JPckNicmYzLUlJcC1MMERkZENMelhQaXJEVlRIYUlfa3BqeVMwMXFxTXd3NkxJZmF3dF9Wb0tEU1Z2QzVyRFFPZFdVZjRKTUhFNWN5M0NSTHowVkh3N3p1NDNXYkdROGF0QjZXMEhBcFlxcWlfSHlqWUZyZmNUNllhSmc4NU1WRU1qUlFZTTRDN29CUzJ5cnRTb2FscGpSUU9WWkJndlZQQnF4VzNmSU94VkU5QzYzZzhRTXRYajc?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-09-01",
+        "tag": "price"
+      },
+      {
         "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
         "source": "自由財經",
@@ -62,7 +62,15 @@
         "tag": "weather"
       }
     ],
-    "草莓": [],
+    "草莓": [
+      {
+        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQjQ1aUVjTVVrOFZicWRMZWEtLTBHSk8xUkVpRXFIS2pma3g4ZEFLMlJlbjZNblg0cEJiUUtNQmoyQXVmUkwtTnRDLVdWYnphS3BuV0ZpMVBvVVE4M0RFSVFZeTVyakplZ0l5UWJLSWl6Zmd3cFZ6LXlBUGFEb09na1JPckNicmYzLUlJcC1MMERkZENMelhQaXJEVlRIYUlfa3BqeVMwMXFxTXd3NkxJZmF3dF9Wb0tEU1Z2QzVyRFFPZFdVZjRKTUhFNWN5M0NSTHowVkh3N3p1NDNXYkdROGF0QjZXMEhBcFlxcWlfSHlqWUZyZmNUNllhSmc4NU1WRU1qUlFZTTRDN29CUzJ5cnRTb2FscGpSUU9WWkJndlZQQnF4VzNmSU94VkU5QzYzZzhRTXRYajc?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-09-01",
+        "tag": "price"
+      }
+    ],
     "西瓜": [],
     "柳橙": [],
     "文旦": [
@@ -74,9 +82,9 @@
         "tag": "market"
       },
       {
-        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - LINE TODAY",
+        "title": "三大貨櫃同時啟運直攻加拿大 黃偉哲：台南展現最強農業外銷供應鏈 | Newtalk - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSDFJNUhlM1dfcnNrQ1lQaTh0Z3duWXgyd2V5elk2bnltdmxjMWZBOTZOeC1sa2FoYWJtdGpyMDlwMmRLaDVmOHpRdUxuYlNta1ozNWRn?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-08-20",
         "tag": "market"
       },
@@ -91,19 +99,11 @@
         "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnZZZmlXY2JtSlpIaDVob2g1RHU2eDZiS0VLakNwbHJ2T1loYTFFRElEdmhWTHRoekZNVEE4N3RFZ2FYRUROb1pIT2tNVWh1eU1PaUlZWUd2Z9IBX0FVX3lxTE00WWFRbEdSREhBR1ZrTzJmZlZuOHNmZWVMajFmVDV6Sk1ORlRqeWR4ajBMelJOdGxxWV9tWXN6MDdzcHAwbDFXZHZWcFBKOVV5TW50ZzNtZDQ5N193dW5r?oc=5",
         "source": "經濟日報",
-        "date": "2026-08-27",
+        "date": "2026-08-28",
         "tag": "policy"
       }
     ],
-    "釋迦": [
-      {
-        "title": "梁文傑嗆「管太寬」 蔣萬安反酸可笑：賣鳳梨釋迦變成賣台？ - UDN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTlVpajNiN2sxX3owZHU2dHAxMHdpU0lBQlBOTExxX1RmV0dnNkZ2bTRpOTdwWnF1SXloYXQtd2NqTk44NGpZY0tyMVlVTTFK0gFWQVVfeXFMUEdBa3cxQjQtZ0JDRmFWQ3ZBQ29fQTFma3dhaEZqek1sams1dk41LVRTQUlSU0tma2ZnZUdEdXFaZEQybE9pczlNNG42S2RGR1dJZWZaSFE?oc=5",
-        "source": "UDN",
-        "date": "2026-08-15",
-        "tag": "market"
-      }
-    ],
+    "釋迦": [],
     "龍眼": [],
     "番石榴": [
       {
@@ -131,6 +131,13 @@
         "tag": "policy"
       },
       {
+        "title": "高雄蔬菜、香瓜受損 可釋出60公噸高麗菜穩定市場 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qLWw4d01CbWNmaFhWT05aTlhqc0J5ZW9uRVF0U1hTUmVuVXZHQ01oamdwMDBobzdLRlJoQkJsNWdJSVBkUjFUUjk4ZVFUM2piM1NQT2I5cW40QdIBX0FVX3lxTE5MODltb21ESWRsMHhvNXQ2dmhUOFZ0ZjVzQUkzWWR2Wk9Pd1VrWkhGREVvTVllaV9tQmo5UnZiSmk2aHRLS24wd2FwaVFNRmpxZF9hX0kxYzhra2Nnc1pn?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-24",
+        "tag": "market"
+      },
+      {
         "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
         "source": "rti.org.tw",
@@ -143,13 +150,6 @@
         "source": "自由時報",
         "date": "2026-08-24",
         "tag": "weather"
-      },
-      {
-        "title": "台灣年進4.8萬噸越南白菜 民眾憂遭中國洗產地(圖) - 社會民生 - - (移動版) - 看中国网",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10dVc1RFp5S041cVJNV29xdlNVTVNiMWtqdUVLd3RKNDZhZHlmdGxUejhhbVp2ZjA0dFlBWm5LYVlqaEJzdGxhVDZoMUhjS1dyQTRuYnBTVmxJcEpoTlN4S2RXc0xTLWZYNGxz?oc=5",
-        "source": "看中国网",
-        "date": "2026-08-31",
-        "tag": "market"
       }
     ],
     "番茄": [],
