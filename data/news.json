@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T13:41:29.111Z",
+  "updatedAt": "2026-09-07T18:12:18.610Z",
   "news": {
     "鳳梨": [
       {
@@ -47,9 +47,9 @@
     ],
     "葡萄": [
       {
-        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - tw.news.yahoo.com",
+        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQjQ1aUVjTVVrOFZicWRMZWEtLTBHSk8xUkVpRXFIS2pma3g4ZEFLMlJlbjZNblg0cEJiUUtNQmoyQXVmUkwtTnRDLVdWYnphS3BuV0ZpMVBvVVE4M0RFSVFZeTVyakplZ0l5UWJLSWl6Zmd3cFZ6LXlBUGFEb09na1JPckNicmYzLUlJcC1MMERkZENMelhQaXJEVlRIYUlfa3BqeVMwMXFxTXd3NkxJZmF3dF9Wb0tEU1Z2QzVyRFFPZFdVZjRKTUhFNWN5M0NSTHowVkh3N3p1NDNXYkdROGF0QjZXMEhBcFlxcWlfSHlqWUZyZmNUNllhSmc4NU1WRU1qUlFZTTRDN29CUzJ5cnRTb2FscGpSUU9WWkJndlZQQnF4VzNmSU94VkU5QzYzZzhRTXRYajc?oc=5",
-        "source": "tw.news.yahoo.com",
+        "source": "Yahoo新聞",
         "date": "2026-09-01",
         "tag": "price"
       },
@@ -79,9 +79,9 @@
     ],
     "草莓": [
       {
-        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - tw.news.yahoo.com",
+        "title": "麝香葡萄種到價格崩了！中國又盯上日本草莓 - Yahoo新聞",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQjQ1aUVjTVVrOFZicWRMZWEtLTBHSk8xUkVpRXFIS2pma3g4ZEFLMlJlbjZNblg0cEJiUUtNQmoyQXVmUkwtTnRDLVdWYnphS3BuV0ZpMVBvVVE4M0RFSVFZeTVyakplZ0l5UWJLSWl6Zmd3cFZ6LXlBUGFEb09na1JPckNicmYzLUlJcC1MMERkZENMelhQaXJEVlRIYUlfa3BqeVMwMXFxTXd3NkxJZmF3dF9Wb0tEU1Z2QzVyRFFPZFdVZjRKTUhFNWN5M0NSTHowVkh3N3p1NDNXYkdROGF0QjZXMEhBcFlxcWlfSHlqWUZyZmNUNllhSmc4NU1WRU1qUlFZTTRDN29CUzJ5cnRTb2FscGpSUU9WWkJndlZQQnF4VzNmSU94VkU5QzYzZzhRTXRYajc?oc=5",
-        "source": "tw.news.yahoo.com",
+        "source": "Yahoo新聞",
         "date": "2026-09-01",
         "tag": "price"
       }
@@ -154,13 +154,6 @@
         "tag": "market"
       },
       {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-08-26",
-        "tag": "policy"
-      },
-      {
         "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
         "source": "rti.org.tw",
@@ -173,6 +166,13 @@
         "source": "自由時報",
         "date": "2026-08-24",
         "tag": "weather"
+      },
+      {
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-08-26",
+        "tag": "policy"
       }
     ],
     "番茄": [],
