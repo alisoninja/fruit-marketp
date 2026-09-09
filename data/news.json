@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:12:06.274Z",
+  "updatedAt": "2026-09-09T08:43:22.445Z",
   "news": {
     "鳳梨": [
       {
@@ -26,15 +26,7 @@
         "tag": "market"
       }
     ],
-    "荔枝": [
-      {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "上下游",
-        "date": "2026-09-09",
-        "tag": "market"
-      }
-    ],
+    "荔枝": [],
     "香蕉": [
       {
         "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
@@ -98,9 +90,9 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "花蓮文旦季登場！跨界聯名「艾絲樂小兔」搶攻秋節檔期 買整箱抽黃金 搶攻秋節檔期 - news.ltn.com.tw",
+        "title": "花蓮文旦季登場！跨界聯名「艾絲樂小兔」搶攻秋節檔期 買整箱抽黃金 搶攻秋節檔期 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFlwcUplQnNVN21fZFlQV2g0cVJmTUhZeGsxNTVjcWRNeFdGZklEbVpEYUExX25vS1EyMWdjLVRPaEluLWdnd183OU9aNU5xX09Pa3llYWFyT1lETGd4bGpKUVVHc2JzYjBub2Zn0gFuQVVfeXFMUEIwWXBxSmVCc1U3bV9kWVBXaDRxUmZNSFl4azE1NWNxZE14V0ZmSURtWkRhQTFfbm9LUTIxZ2MtVE9oSW4tZ2d3Xzc5T1o1TnFfT09reWVhYXJPWURMZ3hsakpRVUdzYnNiMG5vZmc?oc=5",
-        "source": "news.ltn.com.tw",
+        "source": "自由時報",
         "date": "2026-09-07",
         "tag": "market"
       },
@@ -176,9 +168,9 @@
         "tag": "weather"
       },
       {
-        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - news.ltn.com.tw",
+        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abmpFeGpkOWkzWTl3MkRaVm9nSWVGdExScmE0UVJHd0pRbi11THBsQ1ZoakxHUHk0V3FIQXg2bk94ZTZzblh6VTgtSjltWTlWYzByeHVMU0l3Skh3RGY5cDJEcjU?oc=5",
-        "source": "news.ltn.com.tw",
+        "source": "自由時報",
         "date": "2026-08-24",
         "tag": "weather"
       }
