@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T17:08:55.346Z",
+  "updatedAt": "2026-09-09T19:13:45.624Z",
   "news": {
     "鳳梨": [
       {
@@ -26,15 +26,7 @@
         "tag": "market"
       }
     ],
-    "荔枝": [
-      {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "上下游",
-        "date": "2026-09-09",
-        "tag": "market"
-      }
-    ],
+    "荔枝": [],
     "香蕉": [
       {
         "title": "台灣人最常吃的水果，哪種最容易價格暴跌？從產量、進口量看「水果崩盤」原因 | 魏甫丞 | 風生活 - 風傳媒",
@@ -78,9 +70,9 @@
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -98,9 +90,9 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "花蓮文旦季登場！跨界聯名「艾絲樂小兔」搶攻秋節檔期 買整箱抽黃金 搶攻秋節檔期 - news.ltn.com.tw",
+        "title": "花蓮文旦季登場！跨界聯名「艾絲樂小兔」搶攻秋節檔期 買整箱抽黃金 搶攻秋節檔期 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCMFlwcUplQnNVN21fZFlQV2g0cVJmTUhZeGsxNTVjcWRNeFdGZklEbVpEYUExX25vS1EyMWdjLVRPaEluLWdnd183OU9aNU5xX09Pa3llYWFyT1lETGd4bGpKUVVHc2JzYjBub2Zn0gFuQVVfeXFMUEIwWXBxSmVCc1U3bV9kWVBXaDRxUmZNSFl4azE1NWNxZE14V0ZmSURtWkRhQTFfbm9LUTIxZ2MtVE9oSW4tZ2d3Xzc5T1o1TnFfT09reWVhYXJPWURMZ3hsakpRVUdzYnNiMG5vZmc?oc=5",
-        "source": "news.ltn.com.tw",
+        "source": "自由時報",
         "date": "2026-09-07",
         "tag": "market"
       },
@@ -155,9 +147,9 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - sjtv.com.tw",
+        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 信吉衛視+",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbG4xRVR1OFR6bVFjUld6ZjVGMmw0WDgtUDBpU0NCUnhLcFJ5SUo1TjBnenV2Zko2Nnl1NzNNbUJQSU5qRXpxYTd6TURudUdz?oc=5",
-        "source": "sjtv.com.tw",
+        "source": "信吉衛視+",
         "date": "2026-09-06",
         "tag": "policy"
       },
@@ -169,17 +161,17 @@
         "tag": "market"
       },
       {
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-08-26",
+        "tag": "policy"
+      },
+      {
         "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
         "source": "rti.org.tw",
         "date": "2026-08-26",
-        "tag": "weather"
-      },
-      {
-        "title": "超大豪雨蔬菜泡水！高市成功爭取爭取全品項救助備60噸高麗菜供釋出穩菜價- 生活 - news.ltn.com.tw",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abmpFeGpkOWkzWTl3MkRaVm9nSWVGdExScmE0UVJHd0pRbi11THBsQ1ZoakxHUHk0V3FIQXg2bk94ZTZzblh6VTgtSjltWTlWYzByeHVMU0l3Skh3RGY5cDJEcjU?oc=5",
-        "source": "news.ltn.com.tw",
-        "date": "2026-08-24",
         "tag": "weather"
       }
     ],
@@ -214,9 +206,9 @@
     "苦瓜": [],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
