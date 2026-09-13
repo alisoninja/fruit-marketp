@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:53:51.811Z",
+  "updatedAt": "2026-09-13T18:41:44.637Z",
   "news": {
     "鳳梨": [
       {
@@ -126,13 +126,6 @@
     ],
     "高麗菜": [
       {
-        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
-        "source": "rti.org.tw",
-        "date": "2026-08-26",
-        "tag": "weather"
-      },
-      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - sjtv.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbG4xRVR1OFR6bVFjUld6ZjVGMmw0WDgtUDBpU0NCUnhLcFJ5SUo1TjBnenV2Zko2Nnl1NzNNbUJQSU5qRXpxYTd6TURudUdz?oc=5",
         "source": "sjtv.com.tw",
@@ -151,6 +144,13 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
         "source": "PChome Online 新聞",
         "date": "2026-08-24",
+        "tag": "weather"
+      },
+      {
+        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-08-26",
         "tag": "weather"
       }
     ],
