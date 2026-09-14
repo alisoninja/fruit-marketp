@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:03:10.074Z",
+  "updatedAt": "2026-09-14T07:40:48.635Z",
   "news": {
     "鳳梨": [
       {
@@ -32,9 +32,9 @@
     "木瓜": [],
     "葡萄": [
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "自由財經",
+        "source": "ec.ltn.com.tw",
         "date": "2026-08-30",
         "tag": "market"
       },
@@ -89,11 +89,11 @@
         "tag": "price"
       },
       {
-        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
+        "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnZZZmlXY2JtSlpIaDVob2g1RHU2eDZiS0VLakNwbHJ2T1loYTFFRElEdmhWTHRoekZNVEE4N3RFZ2FYRUROb1pIT2tNVWh1eU1PaUlZWUd2Z9IBX0FVX3lxTE00WWFRbEdSREhBR1ZrTzJmZlZuOHNmZWVMajFmVDV6Sk1ORlRqeWR4ajBMelJOdGxxWV9tWXN6MDdzcHAwbDFXZHZWcFBKOVV5TW50ZzNtZDQ5N193dW5r?oc=5",
         "source": "經濟日報",
-        "date": "2026-08-27",
-        "tag": "market"
+        "date": "2026-08-28",
+        "tag": "policy"
       }
     ],
     "釋迦": [
@@ -126,13 +126,6 @@
     ],
     "高麗菜": [
       {
-        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
-        "source": "rti.org.tw",
-        "date": "2026-08-26",
-        "tag": "weather"
-      },
-      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 信吉衛視+",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbG4xRVR1OFR6bVFjUld6ZjVGMmw0WDgtUDBpU0NCUnhLcFJ5SUo1TjBnenV2Zko2Nnl1NzNNbUJQSU5qRXpxYTd6TURudUdz?oc=5",
         "source": "信吉衛視+",
@@ -140,25 +133,25 @@
         "tag": "policy"
       },
       {
+        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-08-26",
+        "tag": "weather"
+      },
+      {
         "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
         "source": "TVBS新聞網",
         "date": "2026-08-26",
         "tag": "policy"
-      },
-      {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
       }
     ],
     "番茄": [
       {
-        "title": "櫛瓜漲32%、番茄漲31%！法國熱浪限制農業用水 導致蔬菜大漲價 - 倡議家",
+        "title": "櫛瓜漲32%、番茄漲31%！法國熱浪限制農業用水 導致蔬菜大漲價 - ubrand.udn.com",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eTdRMHZUMXk2VUROa1BmS3d4YkltMUZFQ3dpWG0tS2E2eWVGQmZYT0s4YVNQTDhBRmY4VHZqUXQ1a0NPN0hBa1N3TDhrcnYyVVNkNE5yVUloeENVc1Bn0gFkQVVfeXFMTlExWk5kQmNwVW8tQk0tRWhfQjNLM0lCZ0dTcDQxOEV3djdzeFhpR2NkV2J4aHFFQkNPc1g0YXJ5UUxoeDE0OHFmUjNuVUl1R1pNNjVfUldxeWFNbGs5ZDBvU0h4bA?oc=5",
-        "source": "倡議家",
+        "source": "ubrand.udn.com",
         "date": "2026-09-09",
         "tag": "price"
       }
