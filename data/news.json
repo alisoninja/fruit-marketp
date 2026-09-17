@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-09-17T19:34:23.879Z",
+  "updatedAt": "2026-09-17T23:49:23.948Z",
   "news": {
     "鳳梨": [],
     "芒果": [
+      {
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
+        "source": "公視新聞網PNN",
+        "date": "2026-09-14",
+        "tag": "market"
+      },
       {
         "title": "3貨櫃優質農特產 啟運加拿大 - 中華新聞雲／中華日報",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOVRjekd6NzNoYms4TUhxc3I0Ni1zZ1NiZjhaVktqaWlkZ0gtNzJwWG4wMzdqMXZ6NEZveTJoLVFWbnBGX0I5SjNlczM3eUpBQVE?oc=5",
@@ -13,18 +20,25 @@
     ],
     "荔枝": [
       {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
+        "source": "公視新聞網PNN",
+        "date": "2026-09-14",
+        "tag": "market"
+      },
+      {
+        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - newsmarket.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "上下游",
+        "source": "newsmarket.com.tw",
         "date": "2026-09-09",
         "tag": "market"
       }
     ],
     "香蕉": [
       {
-        "title": "高雄國小免費營養午餐發黑香蕉 議員籲放寬採購規定 - epochtimes.com",
+        "title": "高雄國小免費營養午餐發黑香蕉 議員籲放寬採購規定 - 大纪元",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vZ1FaZHRvTE9iSFRKaXRiejNlUF9USE1FZEV2SnVVazRrYWdWU0RyVlNTanlBOGxFdDdBekJVcFJvZnh0czJ3ZDNOUHRUZk9qdmREY1pCQmNmT3U2bDJOZ3gxZVAxQdIBZkFVX3lxTE9vZ1FaZHRvTE9iSFRKaXRiejNlUF9USE1FZEV2SnVVazRrYWdWU0RyVlNTanlBOGxFdDdBekJVcFJvZnh0czJ3ZDNOUHRUZk9qdmREY1pCQmNmT3U2bDJOZ3gxZVAxQQ?oc=5",
-        "source": "epochtimes.com",
+        "source": "大纪元",
         "date": "2026-09-16",
         "tag": "market"
       }
@@ -94,14 +108,21 @@
     ],
     "檸檬": [
       {
-        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
+        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - tfc-taiwan.org.tw",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkJsd0hCd1J5VktUZHhFV09fMUNhbnVRUjFsYzhCcGlYQUdma1U1akZpSmhqYXJjUWFRa2JfVWlza0FzX3JBNk5zclJZNWc1NjFuOU13eGZsaHQ2c0VTLV9kejNSclk1V0FNSU5vRzlHc0R0ME5VMkQ5c2xTNFBsZ005RUh3dTdmVTFMN2VXemU?oc=5",
-        "source": "台灣事實查核中心",
+        "source": "tfc-taiwan.org.tw",
         "date": "2026-09-11",
         "tag": "market"
       }
     ],
     "高麗菜": [
+      {
+        "title": "中秋將至 農業部蔬菜日供量增36％╱連假疏運 高鐵台鐵加開336班次 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQndSXzk5dWxZQWJlVE1wbml1VGpXUUFpOFhyZ3RsSW5GZ0lSSm9SS2htUmNBNUFvX3hZYW9qaUZ1emp3azh4VERqQnY1VW5xeFNYR2dJZVZ2UFnSAWBBVV95cUxPcUR2UEdXOVFsVE55ZWZUby1uSnRNbmNEbGFLSm0xTG8wUGdiVTV3SkNESk9yWG1TWjhmbVM1aDVnUE9nUDVndzFmRk5hWmdzZGllS2hrZ3E2NlpFX2JkMmo?oc=5",
+        "source": "自由時報",
+        "date": "2026-09-17",
+        "tag": "policy"
+      },
       {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 信吉衛視+",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbG4xRVR1OFR6bVFjUld6ZjVGMmw0WDgtUDBpU0NCUnhLcFJ5SUo1TjBnenV2Zko2Nnl1NzNNbUJQSU5qRXpxYTd6TURudUdz?oc=5",
@@ -122,13 +143,6 @@
         "source": "TVBS新聞網",
         "date": "2026-08-26",
         "tag": "policy"
-      },
-      {
-        "title": "連日豪雨狂炸高雄農田泡水 市府力爭「全品項」救助、籲農友速通報 - PChome Online 新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTdJbUhsWjhvaFNNNmx0b3FYcHd2dm95dGpyX0l6NlB0SXVhZm1ack9tRGc2OEZwVmNGMndQYUtvaHVoeEJnbWtwa19vUGRnelBjd290R2F5Y1dGRE9uRnBpRWFVeXpsRU1XWVhVUDVLLUM5SWdfZVgzV09sWnR6eTBJSS1qd2hma3FhcjBDbV9vQlk?oc=5",
-        "source": "PChome Online 新聞",
-        "date": "2026-08-24",
-        "tag": "weather"
       }
     ],
     "番茄": [],
@@ -152,14 +166,6 @@
     "玉米": [],
     "南瓜": [],
     "苦瓜": [],
-    "蔥": [
-      {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-09-03",
-        "tag": "weather"
-      }
-    ]
+    "蔥": []
   }
 }
