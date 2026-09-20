@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-20T12:10:53.574Z",
+  "updatedAt": "2026-09-20T17:00:02.201Z",
   "news": {
     "鳳梨": [],
     "芒果": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "公視新聞網PNN",
+        "source": "news.pts.org.tw",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -27,9 +27,9 @@
     ],
     "荔枝": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "公視新聞網PNN",
+        "source": "news.pts.org.tw",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -88,6 +88,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "文旦產地價衝破每公斤108元 標準果採收前搶訂一空 - 自由時報",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcXl2ek84bnVfdkFuT0tma2ZzSlo5NjNiVEVTR3k4RmZfWlZDd3BQalk3R2Y3QUFVRF8yS3hkblNvNndFMzdkTFkyYVZGSzFCWFR3eW5tNlVKZGEyWERRaDh6NTDSAWpBVV95cUxPREpFLUxiWEhybFJNLWVUTFByS010NXRHYkJ4Q0VROXR4TDBheFlMcUJWUHpFTThKZEkwYVhVb3M5bXFfWW9Bc2hzX2lOUEpPT1l1WEZZYWpBNzdEclJ3RUVxWXRjWUlJM2xR?oc=5",
+        "source": "自由時報",
+        "date": "2026-09-20",
+        "tag": "market"
+      },
+      {
         "title": "中國擬增台灣文旦准入果園　農業部：尚未接獲通知 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTXRNM1R5SUVrVjdjTl94U0FoYnpJRWNySU5mMkhVMGtXeTZORmEySmZvbUszd2JaVTc3aGpTLVBjVEN5RGhLLUVYWUpYMjZNVkZqVXd5Y2F1UdIBX0FVX3lxTE1FcmJzdHBrSXpTS0M5YmNaT0UxbmlkaWRmTFVOX0FIREpfbExucXYzSEdKRl9KME9IVjBkVjI5VWx5dmJ2QWdudFdtUHl2UGZUel9IdUhRMjJxcnUxUHZZ?oc=5",
         "source": "經濟日報",
@@ -102,17 +109,10 @@
         "tag": "market"
       },
       {
-        "title": "文旦產地價衝破每公斤108元 標準果採收前搶訂一空 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcXl2ek84bnVfdkFuT0tma2ZzSlo5NjNiVEVTR3k4RmZfWlZDd3BQalk3R2Y3QUFVRF8yS3hkblNvNndFMzdkTFkyYVZGSzFCWFR3eW5tNlVKZGEyWERRaDh6NTDSAWpBVV95cUxPREpFLUxiWEhybFJNLWVUTFByS010NXRHYkJ4Q0VROXR4TDBheFlMcUJWUHpFTThKZEkwYVhVb3M5bXFfWW9Bc2hzX2lOUEpPT1l1WEZZYWpBNzdEclJ3RUVxWXRjWUlJM2xR?oc=5",
-        "source": "自由時報",
-        "date": "2026-09-20",
-        "tag": "market"
-      },
-      {
-        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-08-27",
+        "title": "新北市文旦柚評鑑揭曉 八里區李春益獲特等獎與甜柚王 - 政府消息新聞 - PChome Online 新聞 - news.pchome.com.tw",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWdvTkY1TTN0SWNfaVhXQ3l2aEc4V082M1d5azFxemxQMlJyUkRWYmhYZTVjQkJIWUM0UmgtenNOREpOejB0VXVQS3Z2T24yUXhSTW5BUm9fajMwaVVVQzQ3Ml8wWC1jci0tZmw0SE9Hbkg0LVFFbDk5c1ZjUUhSTk1aQ1FxYkttYUJv?oc=5",
+        "source": "news.pchome.com.tw",
+        "date": "2026-09-10",
         "tag": "market"
       }
     ],
@@ -138,9 +138,9 @@
     ],
     "高麗菜": [
       {
-        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - sjtv.com.tw",
+        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 信吉衛視+",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSbG4xRVR1OFR6bVFjUld6ZjVGMmw0WDgtUDBpU0NCUnhLcFJ5SUo1TjBnenV2Zko2Nnl1NzNNbUJQSU5qRXpxYTd6TURudUdz?oc=5",
-        "source": "sjtv.com.tw",
+        "source": "信吉衛視+",
         "date": "2026-09-06",
         "tag": "policy"
       },
