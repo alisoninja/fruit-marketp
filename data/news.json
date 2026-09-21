@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:59:47.004Z",
+  "updatedAt": "2026-09-21T07:44:04.074Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -18,10 +18,10 @@
         "tag": "price"
       },
       {
-        "title": "立陶宛超市驚見「台灣芒果水餃」 農業部：台灣農會早就有「芒果麵」 | CTWANT - today.line.me",
+        "title": "立陶宛超市驚見「台灣芒果水餃」 農業部：台灣農會早就有「芒果麵」 | CTWANT - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IZm9CUEdqcGtsMFJDNDh5SnNULUluazJBc0dZMHJJaEI5WlBGS3MtYVNuNkMxTnlVcElPZF9MTVI1M3dxbFFobURMQ08xUnpKUDF0b1J3?oc=5",
-        "source": "today.line.me",
-        "date": "2026-09-13",
+        "source": "LINE TODAY",
+        "date": "2026-09-12",
         "tag": "policy"
       }
     ],
@@ -34,9 +34,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游",
+        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - newsmarket.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "上下游",
+        "source": "newsmarket.com.tw",
         "date": "2026-09-09",
         "tag": "market"
       }
@@ -67,18 +67,18 @@
         "tag": "price"
       },
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "自由財經",
+        "source": "ec.ltn.com.tw",
         "date": "2026-08-30",
         "tag": "market"
       }
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -87,6 +87,13 @@
     "西瓜": [],
     "柳橙": [],
     "文旦": [
+      {
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
+        "source": "三立新聞",
+        "date": "2026-09-21",
+        "tag": "market"
+      },
       {
         "title": "文旦產地價衝破每公斤108元 標準果採收前搶訂一空 - news.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcXl2ek84bnVfdkFuT0tma2ZzSlo5NjNiVEVTR3k4RmZfWlZDd3BQalk3R2Y3QUFVRF8yS3hkblNvNndFMzdkTFkyYVZGSzFCWFR3eW5tNlVKZGEyWERRaDh6NTDSAWpBVV95cUxPREpFLUxiWEhybFJNLWVUTFByS010NXRHYkJ4Q0VROXR4TDBheFlMcUJWUHpFTThKZEkwYVhVb3M5bXFfWW9Bc2hzX2lOUEpPT1l1WEZZYWpBNzdEclJ3RUVxWXRjWUlJM2xR?oc=5",
@@ -100,13 +107,6 @@
         "source": "經濟日報",
         "date": "2026-08-26",
         "tag": "policy"
-      },
-      {
-        "title": "台灣業者談大陸市場 落地要資源也要路徑 - 中國評論新聞",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yeTBkVXBTajE1YUlMeW1wLWV6cW5LcF9mQWR6d29seVVKYU1kZHhXYnpNZkhFc1h6T0psVnRfWVFtLXN0b0t0Z3FaR2NnbUt6a2Q3dk5oRFlXbXU4cEI0?oc=5",
-        "source": "中國評論新聞",
-        "date": "2026-09-10",
-        "tag": "market"
       },
       {
         "title": "新北市文旦柚評鑑揭曉 八里區李春益獲特等獎與甜柚王 - 政府消息新聞 - PChome Online 新聞 - PChome Online 新聞",
@@ -159,9 +159,9 @@
         "tag": "weather"
       },
       {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-08-26",
         "tag": "policy"
       }
