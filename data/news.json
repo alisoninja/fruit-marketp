@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:14:22.099Z",
+  "updatedAt": "2026-09-25T03:08:22.788Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -53,9 +53,9 @@
         "tag": "price"
       },
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "ec.ltn.com.tw",
+        "source": "自由財經",
         "date": "2026-08-30",
         "tag": "market"
       }
@@ -73,13 +73,6 @@
     "西瓜": [],
     "柳橙": [],
     "文旦": [
-      {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 娛樂星聞",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3MlNaQzNETGw3OGYwMUZiU0l4cTg1bmtWTkRFZ0hndEg5MGZqVXkzOW9US2ZnUFNhd0YxR2tvald2ZGlWMU5uOTFR0gFMQVVfeXFMTjZNa080SGM0cV80RWZhZlJHMFRSVVQwbENjU2FJRFF5Y3F6Y3ZzZGQzaGF4OEJGMkNmOVFaV09hbUJWbFJsVGp4V3ZxbQ?oc=5",
-        "source": "娛樂星聞",
-        "date": "2026-09-21",
-        "tag": "market"
-      },
       {
         "title": "文旦產地價衝破每公斤108元 標準果採收前搶訂一空 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcXl2ek84bnVfdkFuT0tma2ZzSlo5NjNiVEVTR3k4RmZfWlZDd3BQalk3R2Y3QUFVRF8yS3hkblNvNndFMzdkTFkyYVZGSzFCWFR3eW5tNlVKZGEyWERRaDh6NTDSAWpBVV95cUxPREpFLUxiWEhybFJNLWVUTFByS010NXRHYkJ4Q0VROXR4TDBheFlMcUJWUHpFTThKZEkwYVhVb3M5bXFfWW9Bc2hzX2lOUEpPT1l1WEZZYWpBNzdEclJ3RUVxWXRjWUlJM2xR?oc=5",
@@ -100,6 +93,13 @@
         "source": "Yahoo新聞",
         "date": "2026-08-26",
         "tag": "policy"
+      },
+      {
+        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - today.line.me",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
+        "source": "today.line.me",
+        "date": "2026-08-27",
+        "tag": "market"
       }
     ],
     "釋迦": [],
