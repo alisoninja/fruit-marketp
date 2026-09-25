@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:48:50.281Z",
+  "updatedAt": "2026-09-25T17:54:19.641Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -81,13 +81,6 @@
         "tag": "market"
       },
       {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
-        "source": "三立新聞",
-        "date": "2026-09-21",
-        "tag": "market"
-      },
-      {
         "title": "中國擬增台灣文旦准入果園　農業部：尚未接獲通知 - 經濟日報",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTXRNM1R5SUVrVjdjTl94U0FoYnpJRWNySU5mMkhVMGtXeTZORmEySmZvbUszd2JaVTc3aGpTLVBjVEN5RGhLLUVYWUpYMjZNVkZqVXd5Y2F1UdIBX0FVX3lxTE1FcmJzdHBrSXpTS0M5YmNaT0UxbmlkaWRmTFVOX0FIREpfbExucXYzSEdKRl9KME9IVjBkVjI5VWx5dmJ2QWdudFdtUHl2UGZUel9IdUhRMjJxcnUxUHZZ?oc=5",
         "source": "經濟日報",
@@ -95,10 +88,17 @@
         "tag": "policy"
       },
       {
-        "title": "花蓮文旦大突圍！外銷量近倍增 從全台1200店一路賣向海外 | 觀傳媒 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQm9xN1dad2pDdU9tZDB0S1B0eEdmaDBmaEZ2YTV4RzBZYnp5M3h2WnpLWXBLZEwtX21IWlhzOEZyVEJLTlBJeGx5X3UxM0duWG9CTWx3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-08-27",
+        "title": "陸新增台灣文旦柚註冊名單 陸委會：包裝成「中秋大禮包」統戰宣傳 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OGMtVEdCMGVuVVdRRHhMQndXM3RlLWVlRmVqMVlucGFyNWpWRmZkaE1YRXpjR1E5MjhkRE4zdklQZy1vcDg3RWE3dEFBcjY3TVVUVG5pVlBHd9IBX0FVX3lxTE1jem1OWnd0MzRtYkZsV3ZiZU1nb0Q3SUFpd09KVUxtdEZwQnBMSERyS3luNlVMZXk3WGdWZ3hBYUtJb2FJWjJQbWFCUEoxMXdRck1fLVR4S0hHbWltR25B?oc=5",
+        "source": "經濟日報",
+        "date": "2026-08-26",
+        "tag": "market"
+      },
+      {
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
+        "source": "三立新聞網SETN.com",
+        "date": "2026-09-21",
         "tag": "market"
       }
     ],
