@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:50:04.283Z",
+  "updatedAt": "2026-09-25T00:14:22.099Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -53,9 +53,9 @@
         "tag": "price"
       },
       {
-        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - 自由財經",
+        "title": "大崩盤！中國麝香葡萄產地價1公斤不到7元 - ec.ltn.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dHZSMng0YWtyMGNxQlp4aGppVV8wbFRETEFyZHVkZGVHQkZCREt4ZHV4eE5yX2FfdlZIYW5haFhzcjZ3YkN6RkcybWRhZGpwc29iUUtXbkQxSUt5dHdF?oc=5",
-        "source": "自由財經",
+        "source": "ec.ltn.com.tw",
         "date": "2026-08-30",
         "tag": "market"
       }
@@ -115,9 +115,9 @@
     ],
     "檸檬": [
       {
-        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - tfc-taiwan.org.tw",
+        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkJsd0hCd1J5VktUZHhFV09fMUNhbnVRUjFsYzhCcGlYQUdma1U1akZpSmhqYXJjUWFRa2JfVWlza0FzX3JBNk5zclJZNWc1NjFuOU13eGZsaHQ2c0VTLV9kejNSclk1V0FNSU5vRzlHc0R0ME5VMkQ5c2xTNFBsZ005RUh3dTdmVTFMN2VXemU?oc=5",
-        "source": "tfc-taiwan.org.tw",
+        "source": "台灣事實查核中心",
         "date": "2026-09-11",
         "tag": "market"
       }
@@ -138,17 +138,17 @@
         "tag": "weather"
       },
       {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-08-26",
-        "tag": "policy"
-      },
-      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
         "source": "5168實價登錄比價王",
         "date": "2026-09-08",
+        "tag": "policy"
+      },
+      {
+        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
+        "source": "TVBS新聞網",
+        "date": "2026-08-26",
         "tag": "policy"
       }
     ],
