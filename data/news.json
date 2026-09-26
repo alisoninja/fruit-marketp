@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:50:54.417Z",
+  "updatedAt": "2026-09-26T00:17:06.056Z",
   "news": {
     "鳳梨": [],
     "芒果": [
@@ -74,6 +74,13 @@
     "柳橙": [],
     "文旦": [
       {
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
+        "source": "三立新聞網SETN.com",
+        "date": "2026-09-21",
+        "tag": "market"
+      },
+      {
         "title": "文旦產地價衝破每公斤108元 標準果採收前搶訂一空 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQcXl2ek84bnVfdkFuT0tma2ZzSlo5NjNiVEVTR3k4RmZfWlZDd3BQalk3R2Y3QUFVRF8yS3hkblNvNndFMzdkTFkyYVZGSzFCWFR3eW5tNlVKZGEyWERRaDh6NTDSAWpBVV95cUxPREpFLUxiWEhybFJNLWVUTFByS010NXRHYkJ4Q0VROXR4TDBheFlMcUJWUHpFTThKZEkwYVhVb3M5bXFfWW9Bc2hzX2lOUEpPT1l1WEZZYWpBNzdEclJ3RUVxWXRjWUlJM2xR?oc=5",
         "source": "自由時報",
@@ -81,24 +88,17 @@
         "tag": "market"
       },
       {
-        "title": "中國公告花蓮文旦柚包裝場及果園註冊可輸入大陸… 農業部回應了 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wdWYxa0c0X0dlSXk2TDR4aU5jOUNjMmticGRMVFI5d3BqWEZnS01MTlMzUHBISEg5aDV5a2J1cDFuSG43YXd2ek9SMUMzYlplUEFlYXA3T0xlUdIBX0FVX3lxTFBvamR6dFFBREtKOV9FV0QwVVNQZkxqSlc0cDMzYVRFeS1SaWhELVQ2UkZSeWs4ZWVjNWR6dkREbGxJeGVlUldNZlBWcjN5c2NNY29USW1xMVBfazl4S1Yw?oc=5",
+        "title": "憂甲醛白菜進口 農業部：需更多進口蔬菜樣本才能鑑定 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbnZZZmlXY2JtSlpIaDVob2g1RHU2eDZiS0VLakNwbHJ2T1loYTFFRElEdmhWTHRoekZNVEE4N3RFZ2FYRUROb1pIT2tNVWh1eU1PaUlZWUd2Z9IBX0FVX3lxTE00WWFRbEdSREhBR1ZrTzJmZlZuOHNmZWVMajFmVDV6Sk1ORlRqeWR4ajBMelJOdGxxWV9tWXN6MDdzcHAwbDFXZHZWcFBKOVV5TW50ZzNtZDQ5N193dW5r?oc=5",
         "source": "經濟日報",
-        "date": "2026-08-26",
+        "date": "2026-08-28",
         "tag": "policy"
       },
       {
-        "title": "陸新增台灣文旦柚註冊名單 陸委會：包裝成「中秋大禮包」統戰宣傳 - 經濟日報",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OGMtVEdCMGVuVVdRRHhMQndXM3RlLWVlRmVqMVlucGFyNWpWRmZkaE1YRXpjR1E5MjhkRE4zdklQZy1vcDg3RWE3dEFBcjY3TVVUVG5pVlBHd9IBX0FVX3lxTE1jem1OWnd0MzRtYkZsV3ZiZU1nb0Q3SUFpd09KVUxtdEZwQnBMSERyS3luNlVMZXk3WGdWZ3hBYUtJb2FJWjJQbWFCUEoxMXdRck1fLVR4S0hHbWltR25B?oc=5",
+        "title": "「甲醛大白菜」風波後廣州批發價跌2成 當地已啟動排查 - 經濟日報",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeDZTLWNzNnB6Wm5aYS01Wm42SkM1Skc4SUJxZWJKNGMyY3pBQ0ItTzhRTUs5d3pfSGlIQWFvWFlFa2t1RXA0SU1Zc2tGM2hBWE1vLW9hMjNQZ9IBX0FVX3lxTE5HQnE5b1EzaG5HX3JsX0FhaEhHc3dYT19xOE9YbjNZY1BqWkExWk5nM3pabWlKZkc3TzFmUzhFTENKcHhyUTZrYjdmTmoxQWRSemp4VXNiRWJoSXpWTE5z?oc=5",
         "source": "經濟日報",
-        "date": "2026-08-26",
-        "tag": "market"
-      },
-      {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
-        "source": "三立新聞網SETN.com",
-        "date": "2026-09-21",
+        "date": "2026-08-27",
         "tag": "market"
       }
     ],
@@ -123,24 +123,10 @@
         "tag": "policy"
       },
       {
-        "title": "豪雨炸南台中元檔期需求增菜價續漲 農糧署：兩週內應可回穩 - rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01Q0JmNjNjdXF5dm5HUjVCZXNNMXc1RmZIc3ItRHJvRDkxYi1UTmFLNFdxcWc5RVpCbEtaTjN6U1FGcVVQTjFCajdNeHNMZkthdUpjVy04dw?oc=5",
-        "source": "rti.org.tw",
-        "date": "2026-08-26",
-        "tag": "weather"
-      },
-      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
         "source": "5168實價登錄比價王",
         "date": "2026-09-08",
-        "tag": "policy"
-      },
-      {
-        "title": "中國甲醛白菜有流入台灣嗎？慎防越南「洗產地」，食藥署曝進口規範 - TVBS新聞網",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DTnNCcGNkODlJbi1LclNnX1ZWcW94dVNiWkVROWxsWGJPdVFPTWs5NTlPQTVxMTRFdXhmVDVkcFprVmtQdXFvOGJNeUdsZW9Q?oc=5",
-        "source": "TVBS新聞網",
-        "date": "2026-08-26",
         "tag": "policy"
       }
     ],
