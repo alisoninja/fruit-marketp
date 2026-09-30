@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:42:05.469Z",
+  "updatedAt": "2026-09-30T18:15:38.589Z",
   "news": {
     "鳳梨": [
       {
@@ -12,9 +12,9 @@
     ],
     "芒果": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "公視新聞網PNN",
+        "source": "news.pts.org.tw",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -28,9 +28,9 @@
     ],
     "荔枝": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "公視新聞網PNN",
+        "source": "news.pts.org.tw",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -43,6 +43,13 @@
       }
     ],
     "香蕉": [
+      {
+        "title": "從蕉園到操場！農業部、農糧署攜手華江高中推食農教育 17種香蕉打造戶外教室 - 睿傳媒 Rightmedia",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRG01OGlHTjNHakhtQnoyMElBd09aNndqOUl1cnBGTFpleHNCR212NC1TY0lLeUxTU3JmR09FUk5JQnFsZ1dEY2RhdmN3R3A1blF6Ui1Scw?oc=5",
+        "source": "睿傳媒 Rightmedia",
+        "date": "2026-09-30",
+        "tag": "policy"
+      },
       {
         "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
@@ -63,9 +70,9 @@
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -106,7 +113,15 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [],
+    "番石榴": [
+      {
+        "title": "（有影片）／第二屆彰化津翠芭樂評選登場 溪州曾虹蓁奪冠 - Life 生活網",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTnZkaWZmYmU2OG5Vc3dwTjNVdXRCdzZtenVvRnFMblBnNk5CYU1CbG1HeWxMU05lLVFQU3Zfb0YwTlQtaU80YS12RWctbl9tSkVObTdXM19ob1BTbEhkRU1HLWlZZ25vUlFUMkw4U3ZCNEdVRGR1ajhrc3VCbEFSdU5XV2N6bG9KT2E5aV8zYzYxYXRvTUNhS1JBZ2c5RFNxVlpUWktrNksweGlQZkRoM2Q0Rm9JVkpPdjlwNG9QN1dpVExrODNFQU80WkdGWEs2Smh1VkowQW9DYzA4OWNpSEZGR2IwWC0za3IzcmpzZTl1Si14UnJuRzJNektYUW9EOGxDWm9hX1JhRmRqeWFaOVBGYzUzcVNGQkZDOWhRSzlkUElJUVB3MWhPNHA2aUJKc2k4dW8zVkxPN3FtT0x0VFFLZF9oYUM5V2gxX2FZWGdxN2d4M09qMm1sRFdPUQ?oc=5",
+        "source": "Life 生活網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "檸檬": [
       {
         "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
@@ -155,9 +170,9 @@
     "苦瓜": [],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "news.tvbs.com.tw",
+        "source": "TVBS新聞網",
         "date": "2026-09-03",
         "tag": "weather"
       }
