@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:48:13.384Z",
+  "updatedAt": "2026-10-01T14:35:06.329Z",
   "news": {
     "鳳梨": [
       {
@@ -35,18 +35,18 @@
         "tag": "market"
       },
       {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - newsmarket.com.tw",
+        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "newsmarket.com.tw",
+        "source": "上下游新聞",
         "date": "2026-09-09",
         "tag": "market"
       }
     ],
     "香蕉": [
       {
-        "title": "從蕉園到操場！農業部、農糧署攜手華江高中推食農教育 17種香蕉打造戶外教室 - right-media.news",
+        "title": "從蕉園到操場！農業部、農糧署攜手華江高中推食農教育 17種香蕉打造戶外教室 - 睿傳媒 Rightmedia",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRG01OGlHTjNHakhtQnoyMElBd09aNndqOUl1cnBGTFpleHNCR212NC1TY0lLeUxTU3JmR09FUk5JQnFsZ1dEY2RhdmN3R3A1blF6Ui1Scw?oc=5",
-        "source": "right-media.news",
+        "source": "睿傳媒 Rightmedia",
         "date": "2026-09-30",
         "tag": "policy"
       },
@@ -70,14 +70,22 @@
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
     ],
-    "草莓": [],
+    "草莓": [
+      {
+        "title": "寒流致遲發性受損 草莓批發價每公斤飆破400元 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RVm9TcmhPMnc5eXJKNkpqcVFBSjM1TDNISjQxczBMVS0yc0FKYlZZWC1jUDg3SU5oVlF0SVlub1oyZFVJMDRHbnU4Q2hpWEk?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "weather"
+      }
+    ],
     "西瓜": [],
     "柳橙": [],
     "文旦": [
@@ -89,18 +97,18 @@
         "tag": "market"
       },
       {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」 農糧署揭原因 - Yahoo新聞",
-        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQMTVKWk9fdnFiZS1VRko5N1U3ak9wWDhFeWRvdTFsV2ptaTY4bFJ4cFJtXzZxM1lISjg2Nkg0cndRTVBoLUpjRkhFbEIyYjh3MFREUmIyZS1RWXFIQXdCYXVXTWdCYjRobjhZaU1wVTBjOS1hSGFiOEtrcV9OdUZiS1BpaEE3Q2ZnYUJobGxCanJRUUpjM19sQ2ZsODdMTHVaNEFWeFdCNlNaa055LU1kMUw5WF9jR2JaVXNWU0xhQkpXSkhUVk1KVnJ2N2Q5ME5maUxTY3lGeDBVUHBFdDVnc0NfWlBwanBHYmhKNFpDazZzZTJjLXBlOWRHWVY3Q3N3ZnRKOWxucWV5STVhZ1lCemMtY01pazNIUDB6eXR1U2xyTXJNWUJuZ1BRcFNtZ1BFeHdGZ1NLdlJEc1labWVSR0hJd0dPYmdoZWFKUGtoRkk4dnJXR3JMaGJidTQxb3Zna2s2RUh1bUFsSm56bFBiQ2NhMFg5R0tkbERJOGJXVUNSdktBQXhBeHRSazFJZUtRLW8tbEJraXYwY0ItcGRCdQ?oc=5",
-        "source": "Yahoo新聞",
-        "date": "2026-09-20",
-        "tag": "market"
-      },
-      {
-        "title": "文旦、柚子差在哪？農業部揭「真正關係」 加碼教3招挑出多汁果肉 | 鏡新聞 - LINE TODAY",
+        "title": "文旦、柚子差在哪？農業部揭「真正關係」 加碼教3招挑出多汁果肉 | 鏡新聞 - today.line.me",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VY2xDVDFtTDBORjR5ekR2RU1VcmJ3WENyeGxqQTBlQ19WTkJMZ1hBU3E0VXhqNXFPRHJ6T0RjQnVaZnVveTUwVElVVFFPb3lOVGg4NFN3?oc=5",
-        "source": "LINE TODAY",
+        "source": "today.line.me",
         "date": "2026-09-24",
         "tag": "policy"
+      },
+      {
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
+        "source": "三立新聞網SETN.com",
+        "date": "2026-09-21",
+        "tag": "market"
       },
       {
         "title": "台灣業者談大陸市場 落地要資源也要路徑 - 中國評論新聞",
@@ -160,10 +168,10 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KZUtza0NjMWM0QWJwdEZqWWNiV2ZCb2U2YldGcG9fV1ZNSkFicXdkd1pGM0N5RXVyYzJSMi1SWlM4T1p3eGc5emRmTEttOGpzYjdNXzByRQ?oc=5",
-        "source": "rti.org.tw",
-        "date": "2026-09-07",
+        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
+        "source": "5168實價登錄比價王",
+        "date": "2026-09-08",
         "tag": "policy"
       }
     ],
@@ -177,9 +185,9 @@
     "苦瓜": [],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
