@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:33:46.899Z",
+  "updatedAt": "2026-10-01T01:00:01.082Z",
   "news": {
     "鳳梨": [
       {
@@ -44,18 +44,18 @@
     ],
     "香蕉": [
       {
-        "title": "從蕉園到操場！農業部、農糧署攜手華江高中推食農教育 17種香蕉打造戶外教室 - 睿傳媒 Rightmedia",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRG01OGlHTjNHakhtQnoyMElBd09aNndqOUl1cnBGTFpleHNCR212NC1TY0lLeUxTU3JmR09FUk5JQnFsZ1dEY2RhdmN3R3A1blF6Ui1Scw?oc=5",
-        "source": "睿傳媒 Rightmedia",
-        "date": "2026-09-30",
-        "tag": "policy"
-      },
-      {
         "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
         "source": "Storm.mg",
         "date": "2026-09-18",
         "tag": "price"
+      },
+      {
+        "title": "從蕉園到操場！農業部、農糧署攜手華江高中推食農教育 17種香蕉打造戶外教室 - 睿傳媒 Rightmedia",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRG01OGlHTjNHakhtQnoyMElBd09aNndqOUl1cnBGTFpleHNCR212NC1TY0lLeUxTU3JmR09FUk5JQnFsZ1dEY2RhdmN3R3A1blF6Ui1Scw?oc=5",
+        "source": "睿傳媒 Rightmedia",
+        "date": "2026-09-30",
+        "tag": "policy"
       }
     ],
     "木瓜": [],
