@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T03:51:10.854Z",
+  "updatedAt": "2026-10-01T08:26:32.666Z",
   "news": {
     "鳳梨": [
       {
@@ -12,9 +12,9 @@
     ],
     "芒果": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "news.pts.org.tw",
+        "source": "公視新聞網PNN",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -28,9 +28,9 @@
     ],
     "荔枝": [
       {
-        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - news.pts.org.tw",
+        "title": "台灣芒果、荔枝成功進軍歐洲 首批6.5噸登法國最大批發市場 - 公視新聞網PNN",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUzIxQk5teXdIV3ZYdFFRUV9OOW1lN1E2aHFTMlRTOUNzT2loTTF3bHBwOWpOcFUzSHNreG5FMkZJSUpGUDltN09LdVk5NTA?oc=5",
-        "source": "news.pts.org.tw",
+        "source": "公視新聞網PNN",
         "date": "2026-09-14",
         "tag": "market"
       },
@@ -89,11 +89,18 @@
         "tag": "market"
       },
       {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
-        "source": "三立新聞網SETN.com",
-        "date": "2026-09-21",
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」 農糧署揭原因 - tw.news.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQMTVKWk9fdnFiZS1VRko5N1U3ak9wWDhFeWRvdTFsV2ptaTY4bFJ4cFJtXzZxM1lISjg2Nkg0cndRTVBoLUpjRkhFbEIyYjh3MFREUmIyZS1RWXFIQXdCYXVXTWdCYjRobjhZaU1wVTBjOS1hSGFiOEtrcV9OdUZiS1BpaEE3Q2ZnYUJobGxCanJRUUpjM19sQ2ZsODdMTHVaNEFWeFdCNlNaa055LU1kMUw5WF9jR2JaVXNWU0xhQkpXSkhUVk1KVnJ2N2Q5ME5maUxTY3lGeDBVUHBFdDVnc0NfWlBwanBHYmhKNFpDazZzZTJjLXBlOWRHWVY3Q3N3ZnRKOWxucWV5STVhZ1lCemMtY01pazNIUDB6eXR1U2xyTXJNWUJuZ1BRcFNtZ1BFeHdGZ1NLdlJEc1labWVSR0hJd0dPYmdoZWFKUGtoRkk4dnJXR3JMaGJidTQxb3Zna2s2RUh1bUFsSm56bFBiQ2NhMFg5R0tkbERJOGJXVUNSdktBQXhBeHRSazFJZUtRLW8tbEJraXYwY0ItcGRCdQ?oc=5",
+        "source": "tw.news.yahoo.com",
+        "date": "2026-09-20",
         "tag": "market"
+      },
+      {
+        "title": "文旦、柚子差在哪？農業部揭「真正關係」 加碼教3招挑出多汁果肉 | 鏡新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VY2xDVDFtTDBORjR5ekR2RU1VcmJ3WENyeGxqQTBlQ19WTkJMZ1hBU3E0VXhqNXFPRHJ6T0RjQnVaZnVveTUwVElVVFFPb3lOVGg4NFN3?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-09-24",
+        "tag": "policy"
       },
       {
         "title": "台灣業者談大陸市場 落地要資源也要路徑 - 中國評論新聞",
@@ -124,9 +131,9 @@
     ],
     "檸檬": [
       {
-        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
+        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - tfc-taiwan.org.tw",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkJsd0hCd1J5VktUZHhFV09fMUNhbnVRUjFsYzhCcGlYQUdma1U1akZpSmhqYXJjUWFRa2JfVWlza0FzX3JBNk5zclJZNWc1NjFuOU13eGZsaHQ2c0VTLV9kejNSclk1V0FNSU5vRzlHc0R0ME5VMkQ5c2xTNFBsZ005RUh3dTdmVTFMN2VXemU?oc=5",
-        "source": "台灣事實查核中心",
+        "source": "tfc-taiwan.org.tw",
         "date": "2026-09-11",
         "tag": "market"
       }
@@ -140,9 +147,9 @@
         "tag": "policy"
       },
       {
-        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - news.houseprice.tw",
+        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
-        "source": "news.houseprice.tw",
+        "source": "5168實價登錄比價王",
         "date": "2026-09-08",
         "tag": "policy"
       }
@@ -153,10 +160,10 @@
     "菠菜": [],
     "青花菜": [
       {
-        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - news.houseprice.tw",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
-        "source": "news.houseprice.tw",
-        "date": "2026-09-08",
+        "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KZUtza0NjMWM0QWJwdEZqWWNiV2ZCb2U2YldGcG9fV1ZNSkFicXdkd1pGM0N5RXVyYzJSMi1SWlM4T1p3eGc5emRmTEttOGpzYjdNXzByRQ?oc=5",
+        "source": "rti.org.tw",
+        "date": "2026-09-07",
         "tag": "policy"
       }
     ],
