@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T12:25:26.321Z",
+  "updatedAt": "2026-10-03T17:04:05.641Z",
   "news": {
     "鳳梨": [
       {
@@ -38,13 +38,6 @@
         "source": "Storm.mg",
         "date": "2026-09-18",
         "tag": "price"
-      },
-      {
-        "title": "立陶宛驚見「台灣芒果水餃」！農業部曝台灣早有「芒果麵」：意外超級搭 | 太報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRcEU5dFZQdVBaYVYtT1NmU0d3TUpwX3dKRF9FamdDRlFPb250d081M1B3Z2xqNWxvS0FZQjl6VXFPSlgwZ1E2X1hmYjdUaVZ5aHJ4T1p3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-09-13",
-        "tag": "policy"
       }
     ],
     "荔枝": [
@@ -112,9 +105,9 @@
         "tag": "market"
       },
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -191,18 +184,18 @@
     ],
     "高麗菜": [
       {
+        "title": "颱風影響菜價漲幅有感 冬瓜批發價翻倍至40元 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vVGQ5RjN1TFluNlNEVUpHdERERjI3S3BoWlhWd3ZQV1JzMEdtSksySnRoTDFZSW95aW1OTWNpY3hObHltLUlmVHZvTDBTQkk?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "weather"
+      },
+      {
         "title": "中秋將至 農業部蔬菜日供量增36％╱連假疏運 高鐵台鐵加開336班次 - 自由時報",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQndSXzk5dWxZQWJlVE1wbml1VGpXUUFpOFhyZ3RsSW5GZ0lSSm9SS2htUmNBNUFvX3hZYW9qaUZ1emp3azh4VERqQnY1VW5xeFNYR2dJZVZ2UFnSAWBBVV95cUxPcUR2UEdXOVFsVE55ZWZUby1uSnRNbmNEbGFLSm0xTG8wUGdiVTV3SkNESk9yWG1TWjhmbVM1aDVnUE9nUDVndzFmRk5hWmdzZGllS2hrZ3E2NlpFX2JkMmo?oc=5",
         "source": "自由時報",
         "date": "2026-09-18",
         "tag": "policy"
-      },
-      {
-        "title": "豪雨復耕不及菜價仍高 農糧署超市推平價高麗菜 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkc3ZReERZUURkUjc5RFA5MUoyY1VZdFl3TEVRajl2X3U5M2tPM3NYMDRHcERRZUp3Nm5zT1JrcE9TVXhQWDJqOFJ3NGlNTUk?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "weather"
       },
       {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
@@ -220,6 +213,13 @@
       }
     ],
     "番茄": [
+      {
+        "title": "颱風影響菜價漲幅有感 冬瓜批發價翻倍至40元 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vVGQ5RjN1TFluNlNEVUpHdERERjI3S3BoWlhWd3ZQV1JzMEdtSksySnRoTDFZSW95aW1OTWNpY3hObHltLUlmVHZvTDBTQkk?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "weather"
+      },
       {
         "title": "智慧農漁週 工研院亮相小番茄採摘與場域保全機器人助攻智慧農業精準升級 | 勁報 - LINE TODAY",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11b1ZEYlBmLUlYb1JUb2NEcTVsSTdCNzZma2JvaHhESVJoTGFOM0dLWVRobVd6TllnNjExMDI5enZCajM2SGtwNVdOLVlkdnFHQ3laRE5R?oc=5",
@@ -247,12 +247,20 @@
     "大蒜": [],
     "玉米": [],
     "南瓜": [],
-    "苦瓜": [],
+    "苦瓜": [
+      {
+        "title": "颱風影響菜價漲幅有感 冬瓜批發價翻倍至40元 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vVGQ5RjN1TFluNlNEVUpHdERERjI3S3BoWlhWd3ZQV1JzMEdtSksySnRoTDFZSW95aW1OTWNpY3hObHltLUlmVHZvTDBTQkk?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "weather"
+      }
+    ],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
