@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:25:28.804Z",
+  "updatedAt": "2026-10-03T00:57:06.567Z",
   "news": {
     "鳳梨": [
       {
@@ -7,6 +7,13 @@
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fbHBPNHZNWHBQVXdGclNLa3FRa1RUZURWaHRfcWFkbWx0UnFPak4zYzJ5aDFOdnpyajZBM195OS1xZUV5aDBLWkZ3bV9sXzg1MkxfUUpZZ2JLSlMzemxtNDZ0ek9ybEU?oc=5",
         "source": "中國評論新聞",
         "date": "2026-09-30",
+        "tag": "market"
+      },
+      {
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
         "tag": "market"
       },
       {
@@ -54,6 +61,13 @@
         "source": "上下游新聞",
         "date": "2026-09-09",
         "tag": "market"
+      },
+      {
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "market"
       }
     ],
     "香蕉": [
@@ -80,13 +94,27 @@
         "source": "Storm.mg",
         "date": "2026-09-18",
         "tag": "price"
+      },
+      {
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "market"
       }
     ],
     "蓮霧": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "market"
+      },
+      {
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
@@ -111,9 +139,9 @@
         "tag": "market"
       },
       {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞",
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
-        "source": "三立新聞",
+        "source": "三立新聞網SETN.com",
         "date": "2026-09-21",
         "tag": "market"
       }
@@ -134,13 +162,29 @@
         "tag": "weather"
       }
     ],
-    "龍眼": [],
-    "番石榴": [],
+    "龍眼": [
+      {
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "market"
+      }
+    ],
+    "番石榴": [
+      {
+        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "market"
+      }
+    ],
     "檸檬": [
       {
-        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - tfc-taiwan.org.tw",
+        "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkJsd0hCd1J5VktUZHhFV09fMUNhbnVRUjFsYzhCcGlYQUdma1U1akZpSmhqYXJjUWFRa2JfVWlza0FzX3JBNk5zclJZNWc1NjFuOU13eGZsaHQ2c0VTLV9kejNSclk1V0FNSU5vRzlHc0R0ME5VMkQ5c2xTNFBsZ005RUh3dTdmVTFMN2VXemU?oc=5",
-        "source": "tfc-taiwan.org.tw",
+        "source": "台灣事實查核中心",
         "date": "2026-09-11",
         "tag": "market"
       }
@@ -206,9 +250,9 @@
     "苦瓜": [],
     "蔥": [
       {
-        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - TVBS新聞網",
+        "title": "影音／豪雨狂炸南台灣農損逾2.3億！葉菜類慘況曝 菜價飆漲3成 - news.tvbs.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yTWpMSVNpcU5rTEM2WERXM3B0MEl4SzhnNnpRQS1vakl2ZGhZV0VRaDExelRpeE43ZXo3Q08wUWFTWlRlbUo2TWFFMnNNdw?oc=5",
-        "source": "TVBS新聞網",
+        "source": "news.tvbs.com.tw",
         "date": "2026-09-03",
         "tag": "weather"
       }
