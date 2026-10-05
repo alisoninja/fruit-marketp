@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T08:30:13.904Z",
+  "updatedAt": "2026-10-05T11:14:49.410Z",
   "news": {
     "鳳梨": [
       {
@@ -63,9 +63,9 @@
         "tag": "market"
       },
       {
-        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - 上下游新聞",
+        "title": "台灣紅毛丹快速崛起，年產量突破百噸，肉厚多汁甜度高，前景看好，亦有挑戰需突破 - newsmarket.com.tw",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeVowZWozcEVlOEEtc0hLTnJncGJMNHNUS3UzVF81WlNfMVdLc2VVX2hOT19hMFVlRjJ1bGZFdmI2WlVJYW5vekYzczFDX3pPYjZYcA?oc=5",
-        "source": "上下游新聞",
+        "source": "newsmarket.com.tw",
         "date": "2026-09-09",
         "tag": "market"
       },
@@ -119,15 +119,7 @@
         "tag": "market"
       }
     ],
-    "草莓": [
-      {
-        "title": "寒流致遲發性受損 草莓批發價每公斤飆破400元 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RVm9TcmhPMnc5eXJKNkpqcVFBSjM1TDNISjQxczBMVS0yc0FKYlZZWC1jUDg3SU5oVlF0SVlub1oyZFVJMDRHbnU4Q2hpWEk?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "weather"
-      }
-    ],
+    "草莓": [],
     "西瓜": [],
     "柳橙": [],
     "文旦": [
