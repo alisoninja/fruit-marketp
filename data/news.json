@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:15:27.252Z",
+  "updatedAt": "2026-10-07T10:54:39.403Z",
   "news": {
     "鳳梨": [
       {
@@ -8,13 +8,6 @@
         "source": "中國評論新聞",
         "date": "2026-09-30",
         "tag": "market"
-      },
-      {
-        "title": "關廟金鑽鳳梨產季延緩供不應求 價格較同期平均翻漲近5成 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zMmRYMVNNclNGV0N2eFdaX05NemJDOGg0U0VlZk4zOWw2YWU3OHhWdzJOVTVIa0NUQklEUFdjYlFwOEhxeXRqODIybVFJdkU?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "price"
       }
     ],
     "芒果": [
@@ -105,7 +98,15 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [],
+    "番石榴": [
+      {
+        "title": "（有影片）／第二屆彰化津翠芭樂評選登場 溪州曾虹蓁奪冠 - Life 生活網",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTnZkaWZmYmU2OG5Vc3dwTjNVdXRCdzZtenVvRnFMblBnNk5CYU1CbG1HeWxMU05lLVFQU3Zfb0YwTlQtaU80YS12RWctbl9tSkVObTdXM19ob1BTbEhkRU1HLWlZZ25vUlFUMkw4U3ZCNEdVRGR1ajhrc3VCbEFSdU5XV2N6bG9KT2E5aV8zYzYxYXRvTUNhS1JBZ2c5RFNxVlpUWktrNksweGlQZkRoM2Q0Rm9JVkpPdjlwNG9QN1dpVExrODNFQU80WkdGWEs2Smh1VkowQW9DYzA4OWNpSEZGR2IwWC0za3IzcmpzZTl1Si14UnJuRzJNektYUW9EOGxDWm9hX1JhRmRqeWFaOVBGYzUzcVNGQkZDOWhRSzlkUElJUVB3MWhPNHA2aUJKc2k4dW8zVkxPN3FtT0x0VFFLZF9oYUM5V2gxX2FZWGdxN2d4M09qMm1sRFdPUQ?oc=5",
+        "source": "Life 生活網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "檸檬": [
       {
         "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
