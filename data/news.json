@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:08:30.416Z",
+  "updatedAt": "2026-10-07T03:58:14.443Z",
   "news": {
     "鳳梨": [
       {
@@ -7,13 +7,6 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqRTJ6NnRBNWdJeVZqRGVQNEpSTEF0X2VRNVVMQ0wzejFuZG9HVnAybTNGTlRfckdTN05IRVNTVFEzTkZOOVp5aVRQMzZBNFVndmVVXzhwTEZwR0hEbXNScW5ZQjliTUNwOE1HNk9Lcw?oc=5",
         "source": "中國評論新聞",
         "date": "2026-09-30",
-        "tag": "market"
-      },
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
         "tag": "market"
       },
       {
@@ -54,13 +47,6 @@
         "source": "上下游新聞",
         "date": "2026-09-09",
         "tag": "market"
-      },
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "market"
       }
     ],
     "香蕉": [
@@ -87,13 +73,6 @@
         "source": "Storm.mg",
         "date": "2026-09-18",
         "tag": "price"
-      },
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "market"
       }
     ],
     "蓮霧": [
@@ -133,15 +112,7 @@
         "tag": "market"
       }
     ],
-    "龍眼": [
-      {
-        "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhQ2tWc1JIdUFqakdhV1ZrYkUzZUdZNWprWFlqUVZBNDVQdnlZbWdRSjRlRV9ia3FtcmNhdGRqVlR4bkxJcnR6TnZBa3dOemc?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "market"
-      }
-    ],
+    "龍眼": [],
     "番石榴": [
       {
         "title": "從庶民水果變奢侈品 台灣荔枝為何連年減產、售價翻倍？【圖解】 - 你的公共電視",
