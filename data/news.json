@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:31:33.594Z",
+  "updatedAt": "2026-10-08T11:12:05.792Z",
   "news": {
     "鳳梨": [
       {
@@ -91,15 +91,7 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [
-      {
-        "title": "（有影片）／第二屆彰化津翠芭樂評選登場 溪州曾虹蓁奪冠 - Life 生活網",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTnZkaWZmYmU2OG5Vc3dwTjNVdXRCdzZtenVvRnFMblBnNk5CYU1CbG1HeWxMU05lLVFQU3Zfb0YwTlQtaU80YS12RWctbl9tSkVObTdXM19ob1BTbEhkRU1HLWlZZ25vUlFUMkw4U3ZCNEdVRGR1ajhrc3VCbEFSdU5XV2N6bG9KT2E5aV8zYzYxYXRvTUNhS1JBZ2c5RFNxVlpUWktrNksweGlQZkRoM2Q0Rm9JVkpPdjlwNG9QN1dpVExrODNFQU80WkdGWEs2Smh1VkowQW9DYzA4OWNpSEZGR2IwWC0za3IzcmpzZTl1Si14UnJuRzJNektYUW9EOGxDWm9hX1JhRmRqeWFaOVBGYzUzcVNGQkZDOWhRSzlkUElJUVB3MWhPNHA2aUJKc2k4dW8zVkxPN3FtT0x0VFFLZF9oYUM5V2gxX2FZWGdxN2d4M09qMm1sRFdPUQ?oc=5",
-        "source": "Life 生活網",
-        "date": "2026-09-30",
-        "tag": "market"
-      }
-    ],
+    "番石榴": [],
     "檸檬": [
       {
         "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
@@ -125,18 +117,18 @@
         "tag": "policy"
       },
       {
-        "title": "颱風未到菜價先漲2成 芫荽漲破5成 - 你的公共電視",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwejhXUEJ2dmtRbVQ1VW4wdjR1a2FTQ3RTdnl2aHBJR0NmZjJDUENpZmIxUnZ4ZGpxVGlubnBQbmhQWENyTFVwNUZfaTQ1YXM?oc=5",
-        "source": "你的公共電視",
-        "date": "2026-09-14",
-        "tag": "weather"
-      },
-      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
         "source": "5168實價登錄比價王",
         "date": "2026-09-08",
         "tag": "policy"
+      },
+      {
+        "title": "泰國洪水推高葉菜批發價：芥藍升至2.6倍、春武里雞蛋缺貨 - 索引新聞",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLc1d1ZnU0QUJRLXdXUnZCV2VTRXAyNFdXa091bE1XUUV4a0w4WTFONDIwcExoMllzTVpVcWRzQ1ZucFVBZ2dBT2x5QThJcDM2ZjNaeWVQQjVmU2lpREFZV1RvOEJUMzktc0VHS0Z5c19xRXRNWkE?oc=5",
+        "source": "索引新聞",
+        "date": "2026-10-03",
+        "tag": "market"
       }
     ],
     "番茄": [],
