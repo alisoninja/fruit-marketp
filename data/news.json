@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:12:11.302Z",
+  "updatedAt": "2026-10-08T08:31:33.594Z",
   "news": {
     "鳳梨": [
       {
@@ -44,13 +44,6 @@
     ],
     "香蕉": [
       {
-        "title": "抬青蕉、拚體能！華江高中把香蕉搬進體育課 - 報新聞",
-        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOZkt0OTFXaDR1cDBHcVZUQVBWcGFzd2xfWjdPa3FyejAyaUgyVTh0RzZ4cU1vMHJKcXJoWnJsczUxVHFoTnpSejN2SURUdERHcXpxWWFSLVNzd3BSaDRFMFpGVFBNTUYzSzJHSTJKZzdnSlV6VDNxWGpCUXRNMEV4ajhPSHVvU2lfSFNsX2pQaHhXVllPU0o0aHBpVGRDVlk3NlExTnlGa3dBc2c4SHlsWnhKUjJxeEFNSno2MWRwdldXS2M3aTlubzNrSUNjdTZ4YlJGcDJ0YlZfTFJvOElXRl8yVDdkZEZlbGdQUEpPVWNRV3pFdW4xWTFCbUVPdGlRaHhuNW1uUmlOZW9fRjRLU3o0TWw2MGpHSzhTdTItRlZBdzJVQVdNck5td3ZtamhpTG5EOFkwQjFRSDd2NEJreXBRRDN2MEtPeXMyMlhOZw?oc=5",
-        "source": "報新聞",
-        "date": "2026-09-30",
-        "tag": "market"
-      },
-      {
         "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
         "source": "Storm.mg",
@@ -81,9 +74,9 @@
         "tag": "market"
       },
       {
-        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
-        "source": "三立新聞網SETN.com",
+        "source": "三立新聞",
         "date": "2026-09-21",
         "tag": "market"
       }
@@ -98,7 +91,15 @@
       }
     ],
     "龍眼": [],
-    "番石榴": [],
+    "番石榴": [
+      {
+        "title": "（有影片）／第二屆彰化津翠芭樂評選登場 溪州曾虹蓁奪冠 - Life 生活網",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPTnZkaWZmYmU2OG5Vc3dwTjNVdXRCdzZtenVvRnFMblBnNk5CYU1CbG1HeWxMU05lLVFQU3Zfb0YwTlQtaU80YS12RWctbl9tSkVObTdXM19ob1BTbEhkRU1HLWlZZ25vUlFUMkw4U3ZCNEdVRGR1ajhrc3VCbEFSdU5XV2N6bG9KT2E5aV8zYzYxYXRvTUNhS1JBZ2c5RFNxVlpUWktrNksweGlQZkRoM2Q0Rm9JVkpPdjlwNG9QN1dpVExrODNFQU80WkdGWEs2Smh1VkowQW9DYzA4OWNpSEZGR2IwWC0za3IzcmpzZTl1Si14UnJuRzJNektYUW9EOGxDWm9hX1JhRmRqeWFaOVBGYzUzcVNGQkZDOWhRSzlkUElJUVB3MWhPNHA2aUJKc2k4dW8zVkxPN3FtT0x0VFFLZF9oYUM5V2gxX2FZWGdxN2d4M09qMm1sRFdPUQ?oc=5",
+        "source": "Life 生活網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "檸檬": [
       {
         "title": "網傳「菜市場5種泡藥水蔬菜」影片，並非台灣農產現況 - 台灣事實查核中心",
@@ -124,18 +125,18 @@
         "tag": "policy"
       },
       {
+        "title": "颱風未到菜價先漲2成 芫荽漲破5成 - 你的公共電視",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwejhXUEJ2dmtRbVQ1VW4wdjR1a2FTQ3RTdnl2aHBJR0NmZjJDUENpZmIxUnZ4ZGpxVGlubnBQbmhQWENyTFVwNUZfaTQ1YXM?oc=5",
+        "source": "你的公共電視",
+        "date": "2026-09-14",
+        "tag": "weather"
+      },
+      {
         "title": "短期葉菜產能降至6成、豬價上揚 農業部加強中秋調配 - 5168實價登錄比價王",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44cWdyRzJHby1VZ2d6cnZZVEg0SHhBWVYwRXNEU3N1X1piVkRmQm9fQjJnV3JzeHZBSmd3X05GRElHSS16c0V3Tw?oc=5",
         "source": "5168實價登錄比價王",
         "date": "2026-09-08",
         "tag": "policy"
-      },
-      {
-        "title": "泰國洪水推高葉菜批發價：芥藍升至2.6倍、春武里雞蛋缺貨 - 索引新聞",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLc1d1ZnU0QUJRLXdXUnZCV2VTRXAyNFdXa091bE1XUUV4a0w4WTFONDIwcExoMllzTVpVcWRzQ1ZucFVBZ2dBT2x5QThJcDM2ZjNaeWVQQjVmU2lpREFZV1RvOEJUMzktc0VHS0Z5c19xRXRNWkE?oc=5",
-        "source": "索引新聞",
-        "date": "2026-10-03",
-        "tag": "market"
       }
     ],
     "番茄": [],
