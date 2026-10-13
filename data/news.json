@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:59:54.871Z",
+  "updatedAt": "2026-10-13T19:49:22.393Z",
   "news": {
     "鳳梨": [
       {
@@ -101,7 +101,15 @@
         "tag": "market"
       }
     ],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "極端氣候打亂種植時序平地番茄產量青黃不接售價破百元| 聯合新聞網 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQY1hsekNLZVVjWkFrdkR3d3VERU5QcURNYmpuOVlGTW5lS2ZQMGdHT3F2NFNpei0zYjdBQjcyTndReU9IZ2hYRnlvRmV1TjdoemRZaU5n?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-10-13",
+        "tag": "weather"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
