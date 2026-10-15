@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:05:03.425Z",
+  "updatedAt": "2026-10-15T08:55:33.467Z",
   "news": {
     "鳳梨": [
       {
@@ -15,6 +15,13 @@
         "source": "LINE TODAY",
         "date": "2026-10-14",
         "tag": "policy"
+      },
+      {
+        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
+        "source": "台灣中評網",
+        "date": "2026-09-30",
+        "tag": "market"
       }
     ],
     "芒果": [
@@ -73,7 +80,15 @@
         "tag": "market"
       }
     ],
-    "釋迦": [],
+    "釋迦": [
+      {
+        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
+        "source": "台灣中評網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
