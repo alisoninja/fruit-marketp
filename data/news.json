@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:27:21.343Z",
+  "updatedAt": "2026-10-17T00:11:17.482Z",
   "news": {
     "鳳梨": [
       {
@@ -52,13 +52,6 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "北市批發市場9月蔬果抽驗1,045件 85件農藥殘留不合格 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdjhwNHBDYWdKbENLbDZIVXZIVDBxT2NoVTBGdWVHVVcyZzV1R1c5eURGZWwwbGhHZDNaeVVRRGpQQU9ULWtBSkkzVTFZb1UyLXc?oc=5",
-        "source": "蕃新聞",
-        "date": "2026-10-16",
-        "tag": "policy"
-      },
-      {
         "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
         "source": "台灣中評網",
@@ -71,6 +64,13 @@
         "source": "三立新聞",
         "date": "2026-09-21",
         "tag": "market"
+      },
+      {
+        "title": "北市批發市場9月蔬果抽驗1,045件 85件農藥殘留不合格 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdjhwNHBDYWdKbENLbDZIVXZIVDBxT2NoVTBGdWVHVVcyZzV1R1c5eURGZWwwbGhHZDNaeVVRRGpQQU9ULWtBSkkzVTFZb1UyLXc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-10-16",
+        "tag": "policy"
       },
       {
         "title": "中秋東部多雲 賞月要碰運氣／下週日受熱低壓影響 東部、恆春半島轉雨 | 自由電子報 - LINE TODAY",
