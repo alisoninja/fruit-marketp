@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:54:13.612Z",
+  "updatedAt": "2026-10-19T02:58:44.097Z",
   "news": {
     "鳳梨": [
       {
@@ -17,25 +17,9 @@
         "tag": "market"
       }
     ],
-    "芒果": [
-      {
-        "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
-        "source": "風傳媒",
-        "date": "2026-09-18",
-        "tag": "price"
-      }
-    ],
+    "芒果": [],
     "荔枝": [],
-    "香蕉": [
-      {
-        "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
-        "source": "風傳媒",
-        "date": "2026-09-18",
-        "tag": "price"
-      }
-    ],
+    "香蕉": [],
     "木瓜": [],
     "葡萄": [
       {
@@ -43,13 +27,6 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xdXRhZnJFRnVLSld0SFZSMWFfMHB2Rmh1dXVUUmsyMDQwY1lHVF9PcXIzMzZ2QmNLc1ZRTUg1dHFtQVY2QlQxYnNSUDZlNHZ1Ym5PMHAtSktjZlZWak4w0gFkQVVfeXFMT2VaVXlwaUpUR3hTZ3lVbF9nMUJzWFhXVmswRzBHMWtGWGdNdGpUb3VCUkk1X1NXOTdYeG9kb0d5dVlZSXUxRDdSbDBtVlFaZEN5dXF0TW5DNTNVX25qWGxxMnF3MQ?oc=5",
         "source": "自由財經",
         "date": "2026-10-09",
-        "tag": "price"
-      },
-      {
-        "title": "不是香蕉芒果，1水果大降價！產地價格暴跌68.6%，台灣商家曝：「這時間」 買最便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0dFV2WC12OUJBTmkybEIzN2loN2RhdndRS1g1UHhxbzN2Ulc0ODdRdUlvYzFUbFBSaGtuNmlVUzJIQ3pKMVk2SmpVcng4OFZ1?oc=5",
-        "source": "風傳媒",
-        "date": "2026-09-18",
         "tag": "price"
       }
     ],
@@ -108,13 +85,6 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "台灣1青菜價格要崩盤了？「農民狂種587萬株亮紅燈」，農糧署估：「這時候」 買最便宜 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUjQ0ZlRhSm0wWHVJRTB2dGRQcFdrWEViUExPd1JWM1pDbWRGNkgzQ0JjdTJUekFZaDlQOUp0YkNpTWItNXhQaVh4eW9tZncx?oc=5",
-        "source": "風傳媒",
-        "date": "2026-10-06",
-        "tag": "price"
-      },
-      {
         "title": "越南芹菜進口飆35倍疑「洗產地」！農業部出招：買高解析衛星跨海查產能 - 知新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGVjU4MmhIQmJBUEdoY2NJc3FYVGhaTVg4dHFqcm9TRU01M1B2ckM1T0luUXEzQThRMXBnQjM1VzFIWTBkTUExRVFyTEJvRnUyd3djaEhMb1UzUDI5aHlPeVpYeUpwZkdkNDlpRE1KSQ?oc=5",
         "source": "知新聞",
@@ -122,11 +92,11 @@
         "tag": "policy"
       },
       {
-        "title": "中秋將至 農業部蔬菜日供量增36％╱連假疏運 高鐵台鐵加開336班次 - 自由時報",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQndSXzk5dWxZQWJlVE1wbml1VGpXUUFpOFhyZ3RsSW5GZ0lSSm9SS2htUmNBNUFvX3hZYW9qaUZ1emp3azh4VERqQnY1VW5xeFNYR2dJZVZ2UFnSAWBBVV95cUxPcUR2UEdXOVFsVE55ZWZUby1uSnRNbmNEbGFLSm0xTG8wUGdiVTV3SkNESk9yWG1TWjhmbVM1aDVnUE9nUDVndzFmRk5hWmdzZGllS2hrZ3E2NlpFX2JkMmo?oc=5",
-        "source": "自由時報",
-        "date": "2026-09-18",
-        "tag": "policy"
+        "title": "台灣1青菜價格要崩盤了？「農民狂種587萬株亮紅燈」，農糧署估：「這時候」 買最便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUjQ0ZlRhSm0wWHVJRTB2dGRQcFdrWEViUExPd1JWM1pDbWRGNkgzQ0JjdTJUekFZaDlQOUp0YkNpTWItNXhQaVh4eW9tZncx?oc=5",
+        "source": "風傳媒",
+        "date": "2026-10-06",
+        "tag": "price"
       },
       {
         "title": "泰國洪水推高葉菜批發價：芥藍升至2.6倍、春武里雞蛋缺貨 - 索引新聞",
