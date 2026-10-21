@@ -1,23 +1,107 @@
 {
-  "updatedAt": "2026-10-21T09:14:51.400Z",
+  "updatedAt": "2026-10-21T12:52:28.507Z",
   "news": {
-    "鳳梨": [],
+    "鳳梨": [
+      {
+        "title": "台灣鳳梨銷美 專家：距離遙遠 恐無競爭力 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VldaSVgzQnFZbm1LWWlBWE83RTZuSDFVbFc0RlZsUk9IZmRraXhjUTBGLUF0djZ1LXFEcDVKd1IwLUJ3LUpmYjFubVJRRjJU0gFWQVVfeXFMUFNSbTVBVDNTS0puX1ZwbXJ3NUhLTUFrOWg3VHVDdEk3ZE1tcEI3TFkzdkJCX0x5aU9pSVR4eUFRYUFXdFk4aEZtTXZSZnJaeGhZVjV2ZWc?oc=5",
+        "source": "UDN",
+        "date": "2026-10-14",
+        "tag": "market"
+      },
+      {
+        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
+        "source": "台灣中評網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "芒果": [],
     "荔枝": [],
     "香蕉": [],
     "木瓜": [],
-    "葡萄": [],
-    "蓮霧": [],
+    "葡萄": [
+      {
+        "title": "韓國麝香葡萄價格3年雪崩近9成 台灣爆出甜甜價了？ - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xdXRhZnJFRnVLSld0SFZSMWFfMHB2Rmh1dXVUUmsyMDQwY1lHVF9PcXIzMzZ2QmNLc1ZRTUg1dHFtQVY2QlQxYnNSUDZlNHZ1Ym5PMHAtSktjZlZWak4w0gFkQVVfeXFMT2VaVXlwaUpUR3hTZ3lVbF9nMUJzWFhXVmswRzBHMWtGWGdNdGpUb3VCUkk1X1NXOTdYeG9kb0d5dVlZSXUxRDdSbDBtVlFaZEN5dXF0TW5DNTNVX25qWGxxMnF3MQ?oc=5",
+        "source": "自由財經",
+        "date": "2026-10-09",
+        "tag": "price"
+      }
+    ],
+    "蓮霧": [
+      {
+        "title": "福和為臺灣鮮果找到新客群 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrYno5R1E4WlVWR1FqenlNbDlEdHZTQWNBQzlNMmxRWEZKZkNrbHhjeHhoc0NISTZhczlkcEtnYmJFcTFjMnJNc2hDYVgzTjdiNnhwdGZn?oc=5",
+        "source": "農傳媒",
+        "date": "2026-10-15",
+        "tag": "market"
+      }
+    ],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
-    "文旦": [],
-    "釋迦": [],
+    "文旦": [
+      {
+        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
+        "source": "台灣中評網",
+        "date": "2026-09-30",
+        "tag": "market"
+      },
+      {
+        "title": "中秋柚子減產每公斤破108元！產地價與批發價「竟差5倍」　農糧署揭原因 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QQ0NqdVFmQ3VMRDZKQWhrMUNRN1RxUEtPV19OQmY2YUpZalNTYm4wY0FtTkxuajhxa2ExZ1RLeVJURzJ4Tzl1etIBTEFVX3lxTE42TWtPNEhjNHFfNEVmYWZSRzBUUlVUMGxDY1NhSURReWNxemN2c2RkM2hheDhCRjJDZjlRWldPYW1CVmxSbFRqeFd2cW0?oc=5",
+        "source": "三立新聞網SETN.com",
+        "date": "2026-09-21",
+        "tag": "market"
+      }
+    ],
+    "釋迦": [
+      {
+        "title": "台東鳳梨釋迦進軍韓國 - 更生新聞網",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVazRXVXAzWkFEVmZYTGRsMDR3NFF0OFROaEo4N3FWQXVlM2V5NllBc1kzVHlkcDFoRkRGOW4xaW5nM1gxaU9KOGZn?oc=5",
+        "source": "更生新聞網",
+        "date": "2026-10-02",
+        "tag": "market"
+      },
+      {
+        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
+        "source": "台灣中評網",
+        "date": "2026-09-30",
+        "tag": "market"
+      }
+    ],
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
-    "高麗菜": [],
-    "番茄": [],
+    "高麗菜": [
+      {
+        "title": "台灣1青菜價格要崩盤了？「農民狂種587萬株亮紅燈」，農糧署估：「這時候」 買最便宜 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUjQ0ZlRhSm0wWHVJRTB2dGRQcFdrWEViUExPd1JWM1pDbWRGNkgzQ0JjdTJUekFZaDlQOUp0YkNpTWItNXhQaVh4eW9tZncx?oc=5",
+        "source": "風傳媒",
+        "date": "2026-10-06",
+        "tag": "price"
+      },
+      {
+        "title": "泰國洪水推高葉菜批發價：芥藍升至2.6倍、春武里雞蛋缺貨 - 索引新聞",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLc1d1ZnU0QUJRLXdXUnZCV2VTRXAyNFdXa091bE1XUUV4a0w4WTFONDIwcExoMllzTVpVcWRzQ1ZucFVBZ2dBT2x5QThJcDM2ZjNaeWVQQjVmU2lpREFZV1RvOEJUMzktc0VHS0Z5c19xRXRNWkE?oc=5",
+        "source": "索引新聞",
+        "date": "2026-10-03",
+        "tag": "market"
+      }
+    ],
+    "番茄": [
+      {
+        "title": "極端氣候打亂「番茄時鐘」！平地番茄11月中旬才量產 現在每公斤批發價破百 - 倡議家",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sWkY0S1lncVJDUURaOXdFclhrWTlpSW9LMnR1eVBkeUFHUERZS3EydjZMYkdpWTVCeS1yWXlmZjNJZXFtMkdocGZtc1QyRjZmTDM1SGpSQk45alNicDln0gFkQVVfeXFMTzFoTzhzTGsydHZYWGtKeEZWc01hU25YYWJWcDJUQ2luX1h0eXVQZUVsX2dCVW91SkZNVnI3QWxGUHN2MXd0QWt0WkgxT00zVmtSbThSS0h1dG9zR2o4Q09QMVJNNg?oc=5",
+        "source": "倡議家",
+        "date": "2026-10-14",
+        "tag": "weather"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
