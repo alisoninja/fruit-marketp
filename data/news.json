@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T00:25:14.062Z",
+  "updatedAt": "2026-10-22T02:59:56.518Z",
   "news": {
     "鳳梨": [
       {
@@ -44,11 +44,18 @@
     "柳橙": [],
     "文旦": [
       {
-        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
-        "source": "台灣中評網",
+        "title": "千余箱文旦柚入滬 鳳梨釋迦有望接棒 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclJWc2RnTk9IdXdMZG44bUgxNWwwRkMxc0ktYlpYQ2pxR1dzMFJ1UkpBblpUS3lEeGJXanRBZEwxeUpIUDBYc3NiaFBhN3pMbmRDWjN1ekhlNGZmUzJUOEZpRUxBYVo0NjVkUUVZUDdvektGU3ZRS2t2dEs4V0owWVVqOFJJV0E3alZfdGVpb0k?oc=5",
+        "source": "中國評論新聞",
         "date": "2026-09-30",
         "tag": "market"
+      },
+      {
+        "title": "北市批發市場9月蔬果抽驗1,045件 85件農藥殘留不合格 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdjhwNHBDYWdKbENLbDZIVXZIVDBxT2NoVTBGdWVHVVcyZzV1R1c5eURGZWwwbGhHZDNaeVVRRGpQQU9ULWtBSkkzVTFZb1UyLXc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-10-16",
+        "tag": "policy"
       }
     ],
     "釋迦": [
