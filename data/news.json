@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:44:11.715Z",
+  "updatedAt": "2026-10-23T00:14:51.408Z",
   "news": {
     "鳳梨": [
       {
@@ -14,6 +14,13 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclJWc2RnTk9IdXdMZG44bUgxNWwwRkMxc0ktYlpYQ2pxR1dzMFJ1UkpBblpUS3lEeGJXanRBZEwxeUpIUDBYc3NiaFBhN3pMbmRDWjN1ekhlNGZmUzJUOEZpRUxBYVo0NjVkUUVZUDdvektGU3ZRS2t2dEs4V0owWVVqOFJJV0E3alZfdGVpb0k?oc=5",
         "source": "中國評論新聞",
         "date": "2026-09-30",
+        "tag": "market"
+      },
+      {
+        "title": "開拓市場…我生鮮鳳梨 明年有望銷美 - UDN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRmpBS2pxVG4xbHZEYVVpN21IV01NUWt5Mm9jUG92X0JhcHBySHEwYTQ2RktsSGtnLTNCdmpMSE5LZjB2M0kxSnUyNEozSlBi0gFWQVVfeXFMTWhFa1JHR1JnSThqTlgtT3g0eWFscjEtVmowVm1fUVJPdElfbm5yUEROZnVYVHNLLWlNaXZVNFRXNzZOdlhBaml3SWxJWWZQeUJ0VF9Qc1E?oc=5",
+        "source": "UDN",
+        "date": "2026-10-14",
         "tag": "market"
       }
     ],
