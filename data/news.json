@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T12:22:50.789Z",
+  "updatedAt": "2026-10-25T16:55:49.384Z",
   "news": {
     "鳳梨": [
       {
@@ -10,9 +10,9 @@
         "tag": "market"
       },
       {
-        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
-        "source": "台灣中評網",
+        "title": "千余箱文旦柚入滬 鳳梨釋迦有望接棒 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclJWc2RnTk9IdXdMZG44bUgxNWwwRkMxc0ktYlpYQ2pxR1dzMFJ1UkpBblpUS3lEeGJXanRBZEwxeUpIUDBYc3NiaFBhN3pMbmRDWjN1ekhlNGZmUzJUOEZpRUxBYVo0NjVkUUVZUDdvektGU3ZRS2t2dEs4V0owWVVqOFJJV0E3alZfdGVpb0k?oc=5",
+        "source": "中國評論新聞",
         "date": "2026-09-30",
         "tag": "market"
       }
@@ -71,18 +71,18 @@
         "tag": "price"
       },
       {
-        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
-        "source": "工商時報",
-        "date": "2026-10-25",
-        "tag": "weather"
-      },
-      {
         "title": "泰國洪水推高葉菜批發價：芥藍升至2.6倍、春武里雞蛋缺貨 - 索引新聞",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLc1d1ZnU0QUJRLXdXUnZCV2VTRXAyNFdXa091bE1XUUV4a0w4WTFONDIwcExoMllzTVpVcWRzQ1ZucFVBZ2dBT2x5QThJcDM2ZjNaeWVQQjVmU2lpREFZV1RvOEJUMzktc0VHS0Z5c19xRXRNWkE?oc=5",
         "source": "索引新聞",
         "date": "2026-10-03",
         "tag": "market"
+      },
+      {
+        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
+        "source": "工商時報",
+        "date": "2026-10-25",
+        "tag": "weather"
       }
     ],
     "番茄": [
