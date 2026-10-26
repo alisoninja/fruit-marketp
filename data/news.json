@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T02:51:46.232Z",
+  "updatedAt": "2026-10-26T07:28:31.380Z",
   "news": {
     "鳳梨": [
       {
-        "title": "台灣鳳梨銷美 專家：距離遙遠 恐無競爭力 - udn",
+        "title": "台灣鳳梨銷美 專家：距離遙遠 恐無競爭力 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VldaSVgzQnFZbm1LWWlBWE83RTZuSDFVbFc0RlZsUk9IZmRraXhjUTBGLUF0djZ1LXFEcDVKd1IwLUJ3LUpmYjFubVJRRjJU0gFWQVVfeXFMUFNSbTVBVDNTS0puX1ZwbXJ3NUhLTUFrOWg3VHVDdEk3ZE1tcEI3TFkzdkJCX0x5aU9pSVR4eUFRYUFXdFk4aEZtTXZSZnJaeGhZVjV2ZWc?oc=5",
-        "source": "udn",
+        "source": "UDN",
         "date": "2026-10-15",
         "tag": "market"
       },
@@ -57,6 +57,13 @@
     "檸檬": [],
     "高麗菜": [
       {
+        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
+        "source": "工商時報",
+        "date": "2026-10-25",
+        "tag": "weather"
+      },
+      {
         "title": "台灣1青菜價格要崩盤了？「農民狂種587萬株亮紅燈」，農糧署估：「這時候」 買最便宜 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUjQ0ZlRhSm0wWHVJRTB2dGRQcFdrWEViUExPd1JWM1pDbWRGNkgzQ0JjdTJUekFZaDlQOUp0YkNpTWItNXhQaVh4eW9tZncx?oc=5",
         "source": "風傳媒",
@@ -69,13 +76,6 @@
         "source": "索引新聞",
         "date": "2026-10-03",
         "tag": "market"
-      },
-      {
-        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
-        "source": "工商時報",
-        "date": "2026-10-25",
-        "tag": "weather"
       }
     ],
     "番茄": [
