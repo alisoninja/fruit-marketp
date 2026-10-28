@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T20:25:27.415Z",
+  "updatedAt": "2026-10-28T00:49:14.484Z",
   "news": {
     "鳳梨": [
       {
@@ -30,15 +30,23 @@
         "tag": "price"
       }
     ],
-    "蓮霧": [],
+    "蓮霧": [
+      {
+        "title": "福和為臺灣鮮果找到新客群 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrYno5R1E4WlVWR1FqenlNbDlEdHZTQWNBQzlNMmxRWEZKZkNrbHhjeHhoc0NISTZhczlkcEtnYmJFcTFjMnJNc2hDYVgzTjdiNnhwdGZn?oc=5",
+        "source": "農傳媒",
+        "date": "2026-10-15",
+        "tag": "market"
+      }
+    ],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
     "文旦": [
       {
-        "title": "千余箱文旦柚入滬鳳梨釋迦有望接棒 - 台灣中評網",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaFVxY2VsbU1UZWVOV3ltYmlxQ0JrekNEemxwc0pXUlFMVFpYdUd5RnF6LVhxUFhsSmFYVlpGckNLOWM4VEZiOWo3MktuN2NsZjZMeWx5eURkUzJzRVpMV2xtRG5weWxVN3ZSemFSeW0wbGFkQWR6UjRtVHRLTkU?oc=5",
-        "source": "台灣中評網",
+        "title": "千余箱文旦柚入滬 鳳梨釋迦有望接棒 - 中國評論新聞",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOclJWc2RnTk9IdXdMZG44bUgxNWwwRkMxc0ktYlpYQ2pxR1dzMFJ1UkpBblpUS3lEeGJXanRBZEwxeUpIUDBYc3NiaFBhN3pMbmRDWjN1ekhlNGZmUzJUOEZpRUxBYVo0NjVkUUVZUDdvektGU3ZRS2t2dEs4V0owWVVqOFJJV0E3alZfdGVpb0k?oc=5",
+        "source": "中國評論新聞",
         "date": "2026-09-30",
         "tag": "market"
       },
