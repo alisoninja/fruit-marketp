@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T10:28:45.403Z",
+  "updatedAt": "2026-10-31T13:33:12.023Z",
   "news": {
     "鳳梨": [
       {
@@ -72,7 +72,15 @@
       }
     ],
     "花椰菜": [],
-    "地瓜": [],
+    "地瓜": [
+      {
+        "title": "彰化農產嘉年華11/1登場 當季水果試吃、批發價8折優惠 | 台灣好新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RDZrWG1fVmxLZjNFdjljRzdIUXI2UHk4dDBObUIyUFFfU2hLcnQ4bWhaMlVycXotZ2wxWHNNMWxKWUFXbmgyRzNZTHJqaFNZdm1vNzNn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-10-28",
+        "tag": "market"
+      }
+    ],
     "菠菜": [],
     "青花菜": [],
     "茄子": [],
