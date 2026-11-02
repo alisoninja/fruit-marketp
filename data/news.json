@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:14:57.917Z",
+  "updatedAt": "2026-11-02T17:07:18.899Z",
   "news": {
     "鳳梨": [
       {
@@ -21,6 +21,13 @@
         "source": "台灣好新聞",
         "date": "2026-10-28",
         "tag": "market"
+      },
+      {
+        "title": "從高價水果變賠錢貨！韓麝香葡萄價格剩1/3 | NOWNEWS今日新聞 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNN1U3ZXhYZHllZVVORXhmZ0NXVGFHQmJfVjJmazlpLTJUMmt2ME1lTjlKdndwTjRTenVtS25TRWJ5UTMxeG9VZVRFLVdNYjkxblZaVEZrcXlnZkFjbkZBVkNBUEZ4Rmp2aF9pRGVMYUg?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-10-28",
+        "tag": "price"
       },
       {
         "title": "韓國麝香葡萄價格3年雪崩近9成 台灣爆出甜甜價了？ - 自由財經",
@@ -92,9 +99,9 @@
     "南瓜": [],
     "苦瓜": [
       {
-        "title": "農漁業慘　鰻魚價崩7成、蘭園2hr蒸發千萬 - 鏡週刊Mirror Media",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ld3d2RVhFWUtCdElpVWFHek9JSGV4ZmZQTktxTE9zcnhuRlFWOTZ4TS1LUWZValZjNjA0Ty00aXRVcnQ4NEZXLVhFekIxQ2x3Ti1LUHNyVDdrelFjUC1raVVn0gFiQVVfeXFMTkt3d3ZFWEVZS0J0SWlVYUd6T0lIZXhmZlBOS3FMT3NyeG5GUVY5NnhNLUtRZlVqVmM2MDRPLTRpdFVydDg0RlctWEV6QjFDbHdOLUtQc3JUN2t6UWNQLWtpVWc?oc=5",
-        "source": "鏡週刊Mirror Media",
+        "title": "台灣農漁業遭夾殺！鰻魚價崩7成、蘭園2小時蒸發千萬　農民揭殘酷困境 - 三立新聞網SETN.com",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMM2N0MEphY19fajlVZ2s5TTM4alVtZlJfQ2k1Y19DTVp3ekVMbHo2ZXIzRG85QzNId3NWcHpueERvcXdNeGxselo5TmjSAV9BVV95cUxPZmRLQUNCSkdIci1NMUxTcktzN3pGZUpxdDRpemd5YWVmbHJRVFZ1ZXdnV1BQbjlkZkFpQzdGdWhoc0xmMDJMVTNabnExSGs3NlUza2xKNDY2SEZyYjFPZw?oc=5",
+        "source": "三立新聞網SETN.com",
         "date": "2026-11-02",
         "tag": "market"
       }
