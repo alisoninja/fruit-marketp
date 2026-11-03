@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T03:10:35.868Z",
+  "updatedAt": "2026-11-03T05:04:49.517Z",
   "news": {
     "鳳梨": [
       {
-        "title": "台灣鳳梨銷美 專家：距離遙遠 恐無競爭力 - udn",
+        "title": "台灣鳳梨銷美 專家：距離遙遠 恐無競爭力 - UDN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VldaSVgzQnFZbm1LWWlBWE83RTZuSDFVbFc0RlZsUk9IZmRraXhjUTBGLUF0djZ1LXFEcDVKd1IwLUJ3LUpmYjFubVJRRjJU0gFWQVVfeXFMUFNSbTVBVDNTS0puX1ZwbXJ3NUhLTUFrOWg3VHVDdEk3ZE1tcEI3TFkzdkJCX0x5aU9pSVR4eUFRYUFXdFk4aEZtTXZSZnJaeGhZVjV2ZWc?oc=5",
-        "source": "udn",
+        "source": "UDN",
         "date": "2026-10-15",
         "tag": "market"
       }
@@ -34,7 +34,15 @@
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
-    "文旦": [],
+    "文旦": [
+      {
+        "title": "麻豆農會率農民赴日進行文旦產業參訪 學習成功經驗並宣揚在地農業 - Yahoo新聞",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQNGNUcmtFYXZ6ZUpMMXl1XzNEN3htYllZTkpBUzhOcXdIRmR0SXhTMmRFc3l4S1BoeXA0cF9VQU1Wa1ZIYzlnU0ozZENFcGJqdUNBeGpTN2EzX2E5VVY3VUtTMWdqbVRFZXZFTzBJUkNBVmNYeGVOZEdsaWFMMUJlSDNNUzRDSVVlR0pKRzFUS3ZVdFFLX01wWjg4WHR0MDNHVHBCNHFfVWpLaERCbEtuMVFkcVZ3eXgxa2E0UWxyM2dUVzA0azdSemVVZXpZd09DVEdLSjVTY3AzSE9xeUU0MEZFVTF5ZzhsWkxBZjhYSl9JVl9OMlRabzVZa0Nsci1XMUtVTHA4YUdBcWJnb1ZFQ0lYZkhOQXM5MHBJajNOQ2c4bDhrTEM0REpkVnBDRHhJVG9fN01TaTY4TGdFU2tDRTZlOFBDNXczR1Bxd2xRMEtOWGJubTBWV0NHaTBmYnQ3bmlXXzNLa09hcnFiWEY0VWx0WTRGeTlWU20tUGtsNTBvNGlKT2pnZlZNSV8xQU9DeF9aNE5YS3BkZHlBOUZUbXV5YWkwaU9zRkpZZ2x6bkxtZnVTMnVTVFRWN0Y?oc=5",
+        "source": "Yahoo新聞",
+        "date": "2026-10-07",
+        "tag": "market"
+      }
+    ],
     "釋迦": [],
     "龍眼": [],
     "番石榴": [],
@@ -53,6 +61,13 @@
         "source": "風傳媒",
         "date": "2026-10-06",
         "tag": "price"
+      },
+      {
+        "title": "薔琵颱風農損破2.2億！雲林最慘 9縣市納現金救助 | Newtalk - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAteVFJZWdNRU5YV3hfMUhGSWtOdWJ5bEhVMm5fQ19wXzVYakg3WVlrZVNYVGJwTlkyZUFtRF9Rak9nLTRic1V0QUZTSWNpYkNrdVhnUENn?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-10-27",
+        "tag": "weather"
       }
     ],
     "番茄": [
