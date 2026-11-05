@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:56:27.015Z",
+  "updatedAt": "2026-11-05T15:31:57.023Z",
   "news": {
     "鳳梨": [
       {
@@ -70,18 +70,18 @@
         "tag": "weather"
       },
       {
-        "title": "薔琵颱風農損破2.2億！雲林最慘9縣市納現金救助| 生活 - Newtalk新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZENDb0RuVm5jeTlVM05BdXNodGxtQ0lLY282XzVXVGpuVHFlU3JyVUFsWmcwclJrQ1hkYktJSUN1WV83eThYMlAwYmgzcWhsRjJsRkdEanNHTms?oc=5",
-        "source": "Newtalk新聞",
-        "date": "2026-10-27",
-        "tag": "weather"
-      },
-      {
         "title": "台灣1青菜價格要崩盤了？「農民狂種587萬株亮紅燈」，農糧署估：「這時候」 買最便宜 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RUjQ0ZlRhSm0wWHVJRTB2dGRQcFdrWEViUExPd1JWM1pDbWRGNkgzQ0JjdTJUekFZaDlQOUp0YkNpTWItNXhQaVh4eW9tZncx?oc=5",
         "source": "風傳媒",
         "date": "2026-10-06",
         "tag": "price"
+      },
+      {
+        "title": "薔琵颱風農損破2.2億！雲林最慘9縣市納現金救助| 生活 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZENDb0RuVm5jeTlVM05BdXNodGxtQ0lLY282XzVXVGpuVHFlU3JyVUFsWmcwclJrQ1hkYktJSUN1WV83eThYMlAwYmgzcWhsRjJsRkdEanNHTms?oc=5",
+        "source": "Newtalk新聞",
+        "date": "2026-10-27",
+        "tag": "weather"
       }
     ],
     "番茄": [
