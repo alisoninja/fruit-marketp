@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:04:16.613Z",
+  "updatedAt": "2026-11-05T09:03:58.991Z",
   "news": {
     "鳳梨": [
       {
@@ -101,7 +101,15 @@
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
-    "大蒜": [],
+    "大蒜": [
+      {
+        "title": "颱風天蔬菜量增批發價跌14%(中國時報A4)-大蒜主題館 - 農業知識入口網",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55dklFc2pTQnJVYVM0UE9fVE1FdWtobjB5ajhYbVQycmU4Z3lZWUxzSngtVE1ITV9QNEh2Qk1Rb0pBSllwNVRZODlIalJOdkR2am9WSktnYm5YM3hVQUlzUFNJcw?oc=5",
+        "source": "農業知識入口網",
+        "date": "2026-11-03",
+        "tag": "weather"
+      }
+    ],
     "玉米": [],
     "南瓜": [],
     "苦瓜": [
