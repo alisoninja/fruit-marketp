@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:30:03.639Z",
+  "updatedAt": "2026-11-07T08:28:31.315Z",
   "news": {
     "鳳梨": [
       {
@@ -71,7 +71,15 @@
     "茄子": [],
     "黃瓜": [],
     "蘿蔔": [],
-    "洋蔥": [],
+    "洋蔥": [
+      {
+        "title": "紐約洋蔥與馬鈴薯價格持穩—美國農業部MyMarketNews 2026年11月5日報告 - 新聞與統計 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVNkaDlMbm9LdWJ0TlJDLUtfY0c0SzBabmdKUzBaVExIc2IySlpRVlpDNFFjMThDNE42WndLQXdHVFBxZ0RXeU5Cc2lmYjYwbk1PLUZ0T0Zza2s0cFJTRldybHJhVjdiTTU0aHJJczJfTUs4NXlYNUdxVHF5a0ZiS1lZTlc3X1BwaVNuZEJaX3QzN3praVdUTDNCajg4UUtrS3B3LUxyR2tHYjZuNkN4OElYTjc2bXpsc2N2eTZUOA?oc=5",
+        "source": "IndexBox",
+        "date": "2026-11-05",
+        "tag": "policy"
+      }
+    ],
     "大蒜": [
       {
         "title": "颱風天蔬菜量增批發價跌14%(中國時報A4)-大蒜主題館 - 農業知識入口網",
