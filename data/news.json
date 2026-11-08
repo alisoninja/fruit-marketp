@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T14:28:57.411Z",
+  "updatedAt": "2026-11-08T18:28:57.119Z",
   "news": {
     "鳳梨": [
       {
@@ -21,13 +21,6 @@
         "source": "台灣好新聞",
         "date": "2026-10-28",
         "tag": "market"
-      },
-      {
-        "title": "從高價水果變賠錢貨！韓麝香葡萄價格剩1/3 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcTNvQ05nMnNVRlNRMWdHaVpRYVNqT3dFUzZhdE9seDJaZnBFZmhjRzdoZThCZEJPbFlGX3FaUnVITUQzb0hkMktvMl9Lazltd21KVEp3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-10-28",
-        "tag": "price"
       },
       {
         "title": "韓國麝香葡萄價格3年雪崩近9成 台灣爆出甜甜價了？ - 自由財經",
@@ -52,6 +45,13 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZVVyUjdpNDAycWUtbnpvUmFXS3RMV2hOb1pYVEMwZTJRRnZwOWNKVU4yekRVX2c5UnlaYklxY0Z4QVFoQVJ2V2dQa1hINDB2NWdNRG9zeERGMVFDaVdXYkdvVXpNakdPdk53?oc=5",
         "source": "翻爆",
         "date": "2026-10-25",
+        "tag": "weather"
+      },
+      {
+        "title": "薔琵颱風農損破2.2億！雲林最慘9縣市納現金救助| 生活 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZENDb0RuVm5jeTlVM05BdXNodGxtQ0lLY282XzVXVGpuVHFlU3JyVUFsWmcwclJrQ1hkYktJSUN1WV83eThYMlAwYmgzcWhsRjJsRkdEanNHTms?oc=5",
+        "source": "Newtalk新聞",
+        "date": "2026-10-27",
         "tag": "weather"
       }
     ],
