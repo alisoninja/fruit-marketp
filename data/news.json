@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:06:35.040Z",
+  "updatedAt": "2026-11-10T03:55:38.978Z",
   "news": {
     "鳳梨": [
       {
@@ -10,22 +10,14 @@
         "tag": "market"
       }
     ],
-    "芒果": [
-      {
-        "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - 風傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
-        "source": "風傳媒",
-        "date": "2026-11-09",
-        "tag": "market"
-      }
-    ],
+    "芒果": [],
     "荔枝": [],
     "香蕉": [
       {
         "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - 風傳媒",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
         "source": "風傳媒",
-        "date": "2026-11-09",
+        "date": "2026-11-10",
         "tag": "market"
       }
     ],
@@ -49,6 +41,13 @@
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [
+      {
+        "title": "全聯一顆高麗菜不到百元！阿伯秒抱2顆　真實口感兩派吵翻 - 三立新聞",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5NdlM0VkMyanZJRXU0N0hOSFNqTDdkTW9QNkZ1R1MwSk1KNk80WFRnNjJqQ1ZGdmJ1RGJsTVJEZ1oydHpNa1pWbtIBTEFVX3lxTE9mUDdjOWxrMkM5SDk4aklYYkI1RFRpcGY1aUZfQUUzdHZpLXJFWHNpTXN6bnhMWDhmVDNPSDY2LTJ0NmtEcVZiSEE4NXM?oc=5",
+        "source": "三立新聞",
+        "date": "2026-10-29",
+        "tag": "market"
+      },
       {
         "title": "薔琵颱風後高麗菜價漲逾1倍 菜販曝最便宜時機 - 翻爆",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZVVyUjdpNDAycWUtbnpvUmFXS3RMV2hOb1pYVEMwZTJRRnZwOWNKVU4yekRVX2c5UnlaYklxY0Z4QVFoQVJ2V2dQa1hINDB2NWdNRG9zeERGMVFDaVdXYkdvVXpNakdPdk53?oc=5",
