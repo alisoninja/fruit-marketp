@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:22:52.400Z",
+  "updatedAt": "2026-11-11T08:57:26.033Z",
   "news": {
     "鳳梨": [
       {
@@ -36,9 +36,24 @@
         "source": "台灣好新聞",
         "date": "2026-10-28",
         "tag": "market"
+      },
+      {
+        "title": "高級水果變成夢魘！麝香葡萄價格崩跌67％ 農民陷債務深淵 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2VjgtLUozeFdXd2tXSVNFRzMyZEdwb1k2bVE4bjZvdTEzczJ5QkVXTU42UzhBX0tPbjBnMVJ3X3dfdXJpbF9EaDN4dmdnV0VGMkdidFRmX1o3Mk13Y3Y00gFkQVVfeXFMTzZzTFRKTG9UVGhUXzg4MUZFREludmktaXljeGMxMnYtVEpVR3ZURkJWaW5uR0lpUDNrMHZYMl9VMXlRcDY1ZEZRNVBHM2w4U1VUTFM2RGZRS3dBS0hCYW5sX0wyMg?oc=5",
+        "source": "自由財經",
+        "date": "2026-10-28",
+        "tag": "price"
       }
     ],
-    "蓮霧": [],
+    "蓮霧": [
+      {
+        "title": "福和為臺灣鮮果找到新客群 - 農傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrYno5R1E4WlVWR1FqenlNbDlEdHZTQWNBQzlNMmxRWEZKZkNrbHhjeHhoc0NISTZhczlkcEtnYmJFcTFjMnJNc2hDYVgzTjdiNnhwdGZn?oc=5",
+        "source": "農傳媒",
+        "date": "2026-10-15",
+        "tag": "market"
+      }
+    ],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
