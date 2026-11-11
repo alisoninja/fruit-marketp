@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:14:05.963Z",
+  "updatedAt": "2026-11-11T20:03:54.046Z",
   "news": {
     "鳳梨": [
       {
@@ -18,13 +18,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
         "source": "風傳媒",
         "date": "2026-11-10",
-        "tag": "market"
-      },
-      {
-        "title": "深植臺灣農產品牌印象！臺灣香蕉供應日本學童營養午餐邁入第8年 | 勁報 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yWGxPRm1jUnhOV3JMTXFRX0RGV3M3d1lhMlhBSjNWUkVaVVNBQlV3dXp2WDdyZHJjcFJ4Q3lQYTVGQUFMUUZKMDZoS1hFbklkZ2FVc09B?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-11-06",
         "tag": "market"
       },
       {
@@ -71,9 +64,9 @@
     "檸檬": [],
     "高麗菜": [
       {
-        "title": "薔琵颱風後高麗菜價漲逾1倍 菜販曝最便宜時機 - 翻爆",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZVVyUjdpNDAycWUtbnpvUmFXS3RMV2hOb1pYVEMwZTJRRnZwOWNKVU4yekRVX2c5UnlaYklxY0Z4QVFoQVJ2V2dQa1hINDB2NWdNRG9zeERGMVFDaVdXYkdvVXpNakdPdk53?oc=5",
-        "source": "翻爆",
+        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
+        "source": "工商時報",
         "date": "2026-10-25",
         "tag": "weather"
       }
@@ -95,15 +88,7 @@
     "黃瓜": [],
     "蘿蔔": [],
     "洋蔥": [],
-    "大蒜": [
-      {
-        "title": "颱風天蔬菜量增批發價跌14%(中國時報A4)-大蒜主題館 - 農業知識入口網",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55dklFc2pTQnJVYVM0UE9fVE1FdWtobjB5ajhYbVQycmU4Z3lZWUxzSngtVE1ITV9QNEh2Qk1Rb0pBSllwNVRZODlIalJOdkR2am9WSktnYm5YM3hVQUlzUFNJcw?oc=5",
-        "source": "農業知識入口網",
-        "date": "2026-11-03",
-        "tag": "weather"
-      }
-    ],
+    "大蒜": [],
     "玉米": [],
     "南瓜": [],
     "苦瓜": [
