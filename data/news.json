@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T09:20:17.735Z",
+  "updatedAt": "2026-11-13T11:57:39.000Z",
   "news": {
     "鳳梨": [
       {
@@ -80,7 +80,15 @@
     "茄子": [],
     "黃瓜": [],
     "蘿蔔": [],
-    "洋蔥": [],
+    "洋蔥": [
+      {
+        "title": "紐約洋蔥與馬鈴薯價格持穩—美國農業部MyMarketNews 2026年11月5日報告 - 新聞與統計 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaVNkaDlMbm9LdWJ0TlJDLUtfY0c0SzBabmdKUzBaVExIc2IySlpRVlpDNFFjMThDNE42WndLQXdHVFBxZ0RXeU5Cc2lmYjYwbk1PLUZ0T0Zza2s0cFJTRldybHJhVjdiTTU0aHJJczJfTUs4NXlYNUdxVHF5a0ZiS1lZTlc3X1BwaVNuZEJaX3QzN3praVdUTDNCajg4UUtrS3B3LUxyR2tHYjZuNkN4OElYTjc2bXpsc2N2eTZUOA?oc=5",
+        "source": "IndexBox",
+        "date": "2026-11-05",
+        "tag": "policy"
+      }
+    ],
     "大蒜": [],
     "玉米": [],
     "南瓜": [],
