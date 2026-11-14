@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T22:01:08.423Z",
+  "updatedAt": "2026-11-14T02:06:26.263Z",
   "news": {
     "鳳梨": [
       {
@@ -29,17 +29,16 @@
         "source": "台灣好新聞",
         "date": "2026-10-28",
         "tag": "market"
-      }
-    ],
-    "蓮霧": [
+      },
       {
-        "title": "福和為臺灣鮮果找到新客群 - 農傳媒",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrYno5R1E4WlVWR1FqenlNbDlEdHZTQWNBQzlNMmxRWEZKZkNrbHhjeHhoc0NISTZhczlkcEtnYmJFcTFjMnJNc2hDYVgzTjdiNnhwdGZn?oc=5",
-        "source": "農傳媒",
-        "date": "2026-10-15",
-        "tag": "market"
+        "title": "高級水果變成夢魘！麝香葡萄價格崩跌67％ 農民陷債務深淵 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2VjgtLUozeFdXd2tXSVNFRzMyZEdwb1k2bVE4bjZvdTEzczJ5QkVXTU42UzhBX0tPbjBnMVJ3X3dfdXJpbF9EaDN4dmdnV0VGMkdidFRmX1o3Mk13Y3Y00gFkQVVfeXFMTzZzTFRKTG9UVGhUXzg4MUZFREludmktaXljeGMxMnYtVEpVR3ZURkJWaW5uR0lpUDNrMHZYMl9VMXlRcDY1ZEZRNVBHM2w4U1VUTFM2RGZRS3dBS0hCYW5sX0wyMg?oc=5",
+        "source": "自由財經",
+        "date": "2026-10-28",
+        "tag": "price"
       }
     ],
+    "蓮霧": [],
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
@@ -55,17 +54,16 @@
         "source": "工商時報",
         "date": "2026-10-25",
         "tag": "weather"
-      }
-    ],
-    "番茄": [
+      },
       {
-        "title": "極端氣候打亂「番茄時鐘」！平地番茄11月中旬才量產 現在每公斤批發價破百 - 倡議家",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sWkY0S1lncVJDUURaOXdFclhrWTlpSW9LMnR1eVBkeUFHUERZS3EydjZMYkdpWTVCeS1yWXlmZjNJZXFtMkdocGZtc1QyRjZmTDM1SGpSQk45alNicDln0gFkQVVfeXFMTzFoTzhzTGsydHZYWGtKeEZWc01hU25YYWJWcDJUQ2luX1h0eXVQZUVsX2dCVW91SkZNVnI3QWxGUHN2MXd0QWt0WkgxT00zVmtSbThSS0h1dG9zR2o4Q09QMVJNNg?oc=5",
-        "source": "倡議家",
-        "date": "2026-10-14",
+        "title": "薔琵颱風農損破2.2億！雲林最慘9縣市納現金救助| 生活 - Newtalk新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KZENDb0RuVm5jeTlVM05BdXNodGxtQ0lLY282XzVXVGpuVHFlU3JyVUFsWmcwclJrQ1hkYktJSUN1WV83eThYMlAwYmgzcWhsRjJsRkdEanNHTms?oc=5",
+        "source": "Newtalk新聞",
+        "date": "2026-10-27",
         "tag": "weather"
       }
     ],
+    "番茄": [],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
