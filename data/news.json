@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-11-16T22:52:59.739Z",
+  "updatedAt": "2026-11-17T00:05:12.947Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
     "荔枝": [],
-    "香蕉": [],
+    "香蕉": [
+      {
+        "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
+        "source": "風傳媒",
+        "date": "2026-11-10",
+        "tag": "market"
+      }
+    ],
     "木瓜": [],
     "葡萄": [],
     "蓮霧": [],
@@ -16,15 +24,7 @@
     "龍眼": [],
     "番石榴": [],
     "檸檬": [],
-    "高麗菜": [
-      {
-        "title": "薔琵颱風後高麗菜價漲逾1倍菜販曝最便宜時機- 生活 - 工商時報",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UN3RsMDdHNGxGVTJKRUE3MlBpUWRsTUgwZXIybkFUU2ZLdmlFYVdnTHZuZ2ZUcjY3bkN3dXN2c2FCLXQ1R2ZMZndwdkVyUGw5M2p5djZrMlFWOHROZUZr?oc=5",
-        "source": "工商時報",
-        "date": "2026-10-25",
-        "tag": "weather"
-      }
-    ],
+    "高麗菜": [],
     "番茄": [],
     "花椰菜": [],
     "地瓜": [],
