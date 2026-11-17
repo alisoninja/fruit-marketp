@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T00:05:12.947Z",
+  "updatedAt": "2026-11-17T04:29:01.479Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
@@ -14,7 +14,22 @@
       }
     ],
     "木瓜": [],
-    "葡萄": [],
+    "葡萄": [
+      {
+        "title": "彰化農產嘉年華11/1登場 當季水果試吃、批發價8折優惠 - 台灣好新聞",
+        "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPb2RqVkNyTTZMTGlnNnpjTHdBczZCRWNjdG5ZSkZPOFBRNWZUZU1fR2wzZG5aTksxY1hmVjlpbmJEd3FRVkxURU5qODR3dF9EdEpYcUxxM2xkUzdZN192RE1xLWRMYV9KM2R5LWJmY3N1SVJkN2dlZDB5ODhINzJmLVp1dC1CNHNEWUJqNEVtMlJIajBmdUtBMklBSlYwcmJiTkJ4MzF2SzdWcFR1RjRqNHk2Y1I5VThRclJLWDRvNHBWN1JLSHUtOUtxcmh5OU5MSHlLZE9sZnhKV0s0U3hZNGRKSXBQYXZNQnJmdW40by1YOWdhcU1OWmRiNGJPSmN3ZnVaaXdCOVVjUzZfcWE0QmhuQzk1MEFjZ3NLYXBvaERWYlFHakdwQ1YzUkk1YUVDSFlRMktLNmdXMFJudllSZ1pRUTBybi1OTms3ODdaaDhXdTc2YXpLam5ZXzBfWXloU25yREUtRzZ5VkpOcGxMczJscTFCZG5wTTlycmoxSkdka2lVQWc?oc=5",
+        "source": "台灣好新聞",
+        "date": "2026-10-28",
+        "tag": "market"
+      },
+      {
+        "title": "高級水果變成夢魘！麝香葡萄價格崩跌67％ 農民陷債務深淵 - 自由財經",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2VjgtLUozeFdXd2tXSVNFRzMyZEdwb1k2bVE4bjZvdTEzczJ5QkVXTU42UzhBX0tPbjBnMVJ3X3dfdXJpbF9EaDN4dmdnV0VGMkdidFRmX1o3Mk13Y3Y00gFkQVVfeXFMTzZzTFRKTG9UVGhUXzg4MUZFREludmktaXljeGMxMnYtVEpVR3ZURkJWaW5uR0lpUDNrMHZYMl9VMXlRcDY1ZEZRNVBHM2w4U1VUTFM2RGZRS3dBS0hCYW5sX0wyMg?oc=5",
+        "source": "自由財經",
+        "date": "2026-10-28",
+        "tag": "price"
+      }
+    ],
     "蓮霧": [],
     "草莓": [],
     "西瓜": [],
