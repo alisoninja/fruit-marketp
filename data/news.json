@@ -1,10 +1,18 @@
 {
-  "updatedAt": "2026-11-23T02:16:33.228Z",
+  "updatedAt": "2026-11-23T05:41:52.179Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
     "荔枝": [],
-    "香蕉": [],
+    "香蕉": [
+      {
+        "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - 風傳媒",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
+        "source": "風傳媒",
+        "date": "2026-11-10",
+        "tag": "market"
+      }
+    ],
     "木瓜": [
       {
         "title": "買木瓜別只看大小 農業部教3招挑選技巧 還沒成熟別放冰箱 - UDN",
@@ -28,13 +36,6 @@
         "source": "LINE TODAY",
         "date": "2026-11-18",
         "tag": "market"
-      },
-      {
-        "title": "從高價水果變賠錢貨！韓麝香葡萄價格剩1/3 | NOWNEWS今日新聞 - LINE TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pcTNvQ05nMnNVRlNRMWdHaVpRYVNqT3dFUzZhdE9seDJaZnBFZmhjRzdoZThCZEJPbFlGX3FaUnVITUQzb0hkMktvMl9Lazltd21KVEp3?oc=5",
-        "source": "LINE TODAY",
-        "date": "2026-10-28",
-        "tag": "price"
       }
     ],
     "蓮霧": [],
