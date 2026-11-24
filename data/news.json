@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:23:15.448Z",
+  "updatedAt": "2026-11-24T12:21:10.369Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
@@ -48,7 +48,22 @@
         "tag": "weather"
       }
     ],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "桃市府力挺楊梅特色農業 黑柿番茄年產35公噸、青農跨域創新 - 台灣好新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQWHdCQXFwR29LNkxaSEFfR2xqdFVmRVZYa0tORUNWWjRjeS0yTjVadW94YXZsMUV5bUlqU3RxcmcyT2NaOUNuUDdNaVBuaEVQSmZIS0c0LVNiekN1SXU4RTB6VnNYdVVjM045MjRYenNsLUlkdm52WnIwREtZQjFDRVc3aFE4RXIwUkZ2bGVSOUx4TnJBWmZzR2tSMk9VSWFBQzFXQWpsQTd3emd5SjJtM1hwak52TGNwbEEzaldLUTV0Yl9HYXJVTC1hY2xhRXNvX0xRajRyU1VpNHJYdW4tMmg5Yklfa3kwalNaRHZxV2xSMnRkeE5qbmJuVldYSHZFYzF6blltZ2p0cjJOSVRUT1IzamUxengtX2lOcjZaQ3BzLV9KUWVMU1NXSmRSeUM5MWhsY0RqUUI5OFNpSjVsamdCQWw0M3BrOWZWOXh6ZWdjbkNEd0xORjlSVFVwV29IbFlseGYtWVR1UXdPWFpYYjdvODFCUzFqQTBicnp3TmJmVDJId19MOWxpeFg?oc=5",
+        "source": "台灣好新聞",
+        "date": "2026-11-24",
+        "tag": "market"
+      },
+      {
+        "title": "桃園楊梅黑柿番茄迎產季農業局邀民眾品嚐在地好滋味| 桃園電子報 - LINE TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SdnFyYk9aYXc5bEJGR2lsZ3dabmJ4UTdBV1hUYjVTX3dRVFZfZGxNd1RJS1BWTmtfdXBDdUUtZW80STdYbFlLUHlTMDZIUnA5NUxkTVNB?oc=5",
+        "source": "LINE TODAY",
+        "date": "2026-11-24",
+        "tag": "market"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
