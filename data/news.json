@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:26:43.382Z",
+  "updatedAt": "2026-11-25T04:57:35.381Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
@@ -41,7 +41,15 @@
     "草莓": [],
     "西瓜": [],
     "柳橙": [],
-    "文旦": [],
+    "文旦": [
+      {
+        "title": "花蓮伴手禮新秀！《文旦復興》以瑞穗文旦打造青柚燒、柚見花蓮薯 - 群眾觀點",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xazBQTGJYQlRBc0ZaMXA4cEZCWXNmbUNOTzVpYUhnSkNHTG9EYmpBRWJxQ1VvU1lWMUtOb2tvRHlTWFJmSlN0ZA?oc=5",
+        "source": "群眾觀點",
+        "date": "2026-11-25",
+        "tag": "market"
+      }
+    ],
     "釋迦": [],
     "龍眼": [],
     "番石榴": [],
@@ -56,9 +64,9 @@
         "tag": "market"
       },
       {
-        "title": "桃市府力挺楊梅特色農業 黑柿番茄年產35公噸、青農跨域創新 - 蕃新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR3ZOcE5uRVZIV00zQUpwQzBWVEpFZTBsVlUzcV82N2UwN25rYW85bzAybTd0aXBEQ2dBYjBFQ1VnUGlrMWdSLTF4d1Yxd0lKdWc?oc=5",
-        "source": "蕃新聞",
+        "title": "桃市府力挺楊梅特色農業 黑柿番茄年產35公噸、青農跨域創新 - 台灣好新聞",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQWHdCQXFwR29LNkxaSEFfR2xqdFVmRVZYa0tORUNWWjRjeS0yTjVadW94YXZsMUV5bUlqU3RxcmcyT2NaOUNuUDdNaVBuaEVQSmZIS0c0LVNiekN1SXU4RTB6VnNYdVVjM045MjRYenNsLUlkdm52WnIwREtZQjFDRVc3aFE4RXIwUkZ2bGVSOUx4TnJBWmZzR2tSMk9VSWFBQzFXQWpsQTd3emd5SjJtM1hwak52TGNwbEEzaldLUTV0Yl9HYXJVTC1hY2xhRXNvX0xRajRyU1VpNHJYdW4tMmg5Yklfa3kwalNaRHZxV2xSMnRkeE5qbmJuVldYSHZFYzF6blltZ2p0cjJOSVRUT1IzamUxengtX2lOcjZaQ3BzLV9KUWVMU1NXSmRSeUM5MWhsY0RqUUI5OFNpSjVsamdCQWw0M3BrOWZWOXh6ZWdjbkNEd0xORjlSVFVwV29IbFlseGYtWVR1UXdPWFpYYjdvODFCUzFqQTBicnp3TmJmVDJId19MOWxpeFg?oc=5",
+        "source": "台灣好新聞",
         "date": "2026-11-24",
         "tag": "market"
       }
