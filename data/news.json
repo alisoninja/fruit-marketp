@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T13:52:24.604Z",
+  "updatedAt": "2026-11-26T17:46:16.501Z",
   "news": {
     "鳳梨": [],
     "芒果": [],
     "荔枝": [],
     "香蕉": [
       {
-        "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - 風傳媒",
+        "title": "台灣種最多的果樹不是芒果香蕉！3.6萬公頃全是「這1種」， 答案很多人想不到 - Storm.mg",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SRFVVSzN4a0NhQkZoLVJXUk5FWWpJVzN4VnF1UFVWZDBFUFJJaEFhZHZBZng5aVdkNnpiOW9QT3BqTENXZDFoZHVjamVyRUp5?oc=5",
-        "source": "風傳媒",
+        "source": "Storm.mg",
         "date": "2026-11-10",
         "tag": "market"
       }
@@ -55,7 +55,22 @@
     "番石榴": [],
     "檸檬": [],
     "高麗菜": [],
-    "番茄": [],
+    "番茄": [
+      {
+        "title": "桃市府力挺楊梅特色農業 黑柿番茄年產35公噸、青農跨域創新 - 蕃新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xR3ZOcE5uRVZIV00zQUpwQzBWVEpFZTBsVlUzcV82N2UwN25rYW85bzAybTd0aXBEQ2dBYjBFQ1VnUGlrMWdSLTF4d1Yxd0lKdWc?oc=5",
+        "source": "蕃新聞",
+        "date": "2026-11-24",
+        "tag": "market"
+      },
+      {
+        "title": "楊梅黑柿番茄推廣活動 持續智慧農業及各項農業輔導提升產業價值 - LIFE 生活網",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNbDlyV21pS0VNZy1KQ3ROY1l4SVZ5Y2dINk1sdWtLTnRKZ1loTllqVmhXRTdISzdQd0ItVkVUR01fbExHNl9GNW1BQzFXbHhta0pVZEhDa2lrTUd0dDI4MVl6bmgxVnV1eVhnanhzUTBFYnBid3NDeHRjZDFjTTlwMktHbHMyNklVcVM3R3N1b3ZVdjU1RWRVaGp6cnQxVVppSWEzWVJmaWtxUEJtTTM5cUdYVDlnWnM1aW81NWFEeF8zRWtoNEJpTFN0WjV3UHdIWGVCM1BUZkhJZEg4TmNWamo3Vy1oOGc2U0VJQXZFbldoTnpKSGlzTUg3YU1MdTZnWElNbEgtZVJ3WGI1SWN6cUo0Ry1MMTVOTExsMFdtdlRqUUhtaDZaSzQxUVpaMFJRVW5yZEt6N0hFdS0wNDBrenl3Y2swc0owVjEtUDVVVFVETEkxUmNTX1hSWnd5SXhpTy1JMjdwVGw1MHVydno0UkxsVWFqZkhWOEdHSDd6VUxlR0ROa3hHXzZiYm5PUWhrcWdwOUhoOUpOMHZjLU8zRWpMWi0?oc=5",
+        "source": "LIFE 生活網",
+        "date": "2026-11-24",
+        "tag": "market"
+      }
+    ],
     "花椰菜": [],
     "地瓜": [],
     "菠菜": [],
